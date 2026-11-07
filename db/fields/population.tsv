@@ -1,0 +1,9 @@
+table	field	english	chinese	reason
+DIM_PopPoliticalStatus	StatusName	Candidate Population		
+DIM_PopPoliticalStatus	StatusName	Client State		
+DIM_PopPoliticalStatus	StatusName	Conquered		
+DIM_PopPoliticalStatus	StatusName	Imperial Population		
+DIM_PopPoliticalStatus	StatusName	Occupied		
+DIM_PopPoliticalStatus	StatusName	Slave Colony		
+DIM_PopPoliticalStatus	StatusName	Subjugated		
+DIM_PopPoliticalStatus	StatusName	Vanquished		

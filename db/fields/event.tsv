@@ -1,0 +1,249 @@
+table	field	english	chinese	reason
+DIM_EventType	Description	  Message Continued		
+DIM_EventType	Description	Accessibility Increase		
+DIM_EventType	Description	Acid Burn		
+DIM_EventType	Description	Acid Damage 		
+DIM_EventType	Description	Admin Command Update		
+DIM_EventType	Description	Administrator Experience		
+DIM_EventType	Description	Aether Gate Detected		
+DIM_EventType	Description	Alien Communication		
+DIM_EventType	Description	Alien Salvage		
+DIM_EventType	Description	All Minerals Exhausted		
+DIM_EventType	Description	Allied Contact Update		
+DIM_EventType	Description	Allied Contact Update - AC		
+DIM_EventType	Description	AMM Point Defence		
+DIM_EventType	Description	Ancient Construct		
+DIM_EventType	Description	Artifacts Recovered		
+DIM_EventType	Description	Attack vs GUC Summary		
+DIM_EventType	Description	Attacked By AA Fire		
+DIM_EventType	Description	Attacked By Energy Weapons		
+DIM_EventType	Description	Attacked By Missiles		
+DIM_EventType	Description	Attacked by STO		
+DIM_EventType	Description	Boarding Attempt		
+DIM_EventType	Description	Boarding Combat		
+DIM_EventType	Description	Boarding Damage 		
+DIM_EventType	Description	Boarding Underway		
+DIM_EventType	Description	Bombardment Summary		
+DIM_EventType	Description	Breakthrough Achieved		
+DIM_EventType	Description	Breathable Atmosphere		
+DIM_EventType	Description	Chance To Hit		
+DIM_EventType	Description	Change to Dominant Terrain		
+DIM_EventType	Description	Civilian Activity		
+DIM_EventType	Description	Civilian Construction		
+DIM_EventType	Description	Civilian Contact		
+DIM_EventType	Description	Civilian Contact Update		
+DIM_EventType	Description	Civilian Mining Colony		
+DIM_EventType	Description	Civilian Ship Scrapped		
+DIM_EventType	Description	Collaterall Damage		
+DIM_EventType	Description	Command Assignment		
+DIM_EventType	Description	Commander Experience		
+DIM_EventType	Description	Commander Health		
+DIM_EventType	Description	Commander Promoted		
+DIM_EventType	Description	Commander Restored		
+DIM_EventType	Description	Commander Unassigned		
+DIM_EventType	Description	Commander Update		
+DIM_EventType	Description	Communication		
+DIM_EventType	Description	Components Scrapped		
+DIM_EventType	Description	Conditional Order		
+DIM_EventType	Description	Conversion Halted		
+DIM_EventType	Description	Crew Escape		
+DIM_EventType	Description	Crew Grade Increase		
+DIM_EventType	Description	Crew Losses		
+DIM_EventType	Description	Crew Morale Falling		
+DIM_EventType	Description	Damage Control		
+DIM_EventType	Description	Damage Report		
+DIM_EventType	Description	Damage Summary		
+DIM_EventType	Description	Deployment Time Exceeded		
+DIM_EventType	Description	Diplomacy		
+DIM_EventType	Description	Element Loss Summary		
+DIM_EventType	Description	Element vs GUC Report		
+DIM_EventType	Description	Empire in Debt		
+DIM_EventType	Description	Energy Point Defence		
+DIM_EventType	Description	Exceptional New Officer		
+DIM_EventType	Description	Factory Restored		
+DIM_EventType	Description	Fighter Combat - Energy		
+DIM_EventType	Description	Fighter Combat - Missile		
+DIM_EventType	Description	Fighter Point Defence		
+DIM_EventType	Description	Fire Delay		
+DIM_EventType	Description	Fleet Message		
+DIM_EventType	Description	Fleet PD Summary		
+DIM_EventType	Description	Fleet Transfer		
+DIM_EventType	Description	Formation Attack Summary		
+DIM_EventType	Description	Formation Loss Summary		
+DIM_EventType	Description	Formation Training Task		
+DIM_EventType	Description	Friendly Contact Update		
+DIM_EventType	Description	Friendly Contact Update - AC		
+DIM_EventType	Description	Fuel Exhausted		
+DIM_EventType	Description	Fuel Shortage		
+DIM_EventType	Description	Game Saved		
+DIM_EventType	Description	Gas Removed		
+DIM_EventType	Description	Geo Survey Complete		
+DIM_EventType	Description	Geological Survey Data		
+DIM_EventType	Description	GPD Contact Lost		
+DIM_EventType	Description	Ground Attack Summary		
+DIM_EventType	Description	Ground Combat Intelligence		
+DIM_EventType	Description	Ground Combat Update		
+DIM_EventType	Description	Ground Defence Summary		
+DIM_EventType	Description	Ground Support Reassigned		
+DIM_EventType	Description	Ground Survey Potential		
+DIM_EventType	Description	Ground Unit Unloaded		
+DIM_EventType	Description	Ground Units Scrapped		
+DIM_EventType	Description	GUC vs GUC Summary		
+DIM_EventType	Description	Harvester Capacity		
+DIM_EventType	Description	Hostile Contact Update		
+DIM_EventType	Description	Ice Sheet Frozen		
+DIM_EventType	Description	Ice Sheet Melted		
+DIM_EventType	Description	Illegal Order		
+DIM_EventType	Description	Inactive Lab		
+DIM_EventType	Description	Incomplete Salvage		
+DIM_EventType	Description	Incorrect Ordnance		
+DIM_EventType	Description	Increment Adjustment		
+DIM_EventType	Description	Installation Scrapped		
+DIM_EventType	Description	Installations Salvaged		
+DIM_EventType	Description	Insufficient Fuel		
+DIM_EventType	Description	Insufficient JGC		
+DIM_EventType	Description	Insufficient Population		
+DIM_EventType	Description	Intact Ship Salvaged		
+DIM_EventType	Description	Intelligence Update		
+DIM_EventType	Description	Interrogation Update		
+DIM_EventType	Description	Invalid Unload System		
+DIM_EventType	Description	Jump Gate Underway		
+DIM_EventType	Description	Jump Point Detected		
+DIM_EventType	Description	Life Pod Expired		
+DIM_EventType	Description	Life Support Failure		
+DIM_EventType	Description	Lifepods Launched		
+DIM_EventType	Description	Light Naval Construction		
+DIM_EventType	Description	Low Fuel		
+DIM_EventType	Description	Maintenance Failure		
+DIM_EventType	Description	Maintenance Problem		
+DIM_EventType	Description	Maximum Fleet Training		
+DIM_EventType	Description	Medal Awarded		
+DIM_EventType	Description	Mine Restored		
+DIM_EventType	Description	Mineral Exhausted		
+DIM_EventType	Description	Mineral Packet Contact		
+DIM_EventType	Description	Mineral Shortage		
+DIM_EventType	Description	Minerals Located		
+DIM_EventType	Description	Mining Colony Update		
+DIM_EventType	Description	Missile Launch		
+DIM_EventType	Description	Missile Self-destruct		
+DIM_EventType	Description	Missile vs Ship		
+DIM_EventType	Description	Missiles Lost		
+DIM_EventType	Description	Morale Increase		
+DIM_EventType	Description	Neutral Contact Update		
+DIM_EventType	Description	Neutral Contact Update - AC		
+DIM_EventType	Description	New Administrator		
+DIM_EventType	Description	New Alien Class		
+DIM_EventType	Description	New Alien Ground Unit		
+DIM_EventType	Description	New Alien Population		
+DIM_EventType	Description	New Alien Race		
+DIM_EventType	Description	New Allied Alien Ship		
+DIM_EventType	Description	New Allied Contact		
+DIM_EventType	Description	New Combat Contact		
+DIM_EventType	Description	New Friendly Alien Ship		
+DIM_EventType	Description	New Friendly Contact		
+DIM_EventType	Description	New Ground Force Officer		
+DIM_EventType	Description	New Hostile Alien Ship		
+DIM_EventType	Description	New Hostile Contact		
+DIM_EventType	Description	New Mineral Deposit		
+DIM_EventType	Description	New Naval Officer		
+DIM_EventType	Description	New Neutral Alien Ship		
+DIM_EventType	Description	New Neutral Contact		
+DIM_EventType	Description	New Scientist		
+DIM_EventType	Description	New Shipping Line		
+DIM_EventType	Description	New System Discovered		
+DIM_EventType	Description	New Wreck Detected		
+DIM_EventType	Description	No Event Type		
+DIM_EventType	Description	No Freighter Overhaul		
+DIM_EventType	Description	No Missile Assigned		
+DIM_EventType	Description	No Replacements Required		
+DIM_EventType	Description	No Spare Parts		
+DIM_EventType	Description	Orbital Support Reassigned		
+DIM_EventType	Description	Orbital Support Summary		
+DIM_EventType	Description	Orbital vs GUC Summary		
+DIM_EventType	Description	Orders Assigned		
+DIM_EventType	Description	Orders Completed		
+DIM_EventType	Description	Orders Not Possible		
+DIM_EventType	Description	Out of Ammo		
+DIM_EventType	Description	Outstanding New Officer		
+DIM_EventType	Description	Overallocation of Labs		
+DIM_EventType	Description	Overhaul Clock Reduced		
+DIM_EventType	Description	Overhaul Complete		
+DIM_EventType	Description	Overkill		
+DIM_EventType	Description	Pickup Failed		
+DIM_EventType	Description	Planet Destroyed		
+DIM_EventType	Description	Planet Looted		
+DIM_EventType	Description	Pop Status Change		
+DIM_EventType	Description	Population PD Summary		
+DIM_EventType	Description	POWs Rescued		
+DIM_EventType	Description	Probe Out of Fuel		
+DIM_EventType	Description	Production		
+DIM_EventType	Description	Production Started		
+DIM_EventType	Description	Promising New Officer		
+DIM_EventType	Description	Ramming Attempt		
+DIM_EventType	Description	Recovery Failure		
+DIM_EventType	Description	Reparations		
+DIM_EventType	Description	Replacement Unit Disbanded		
+DIM_EventType	Description	Research Completed		
+DIM_EventType	Description	Research Started		
+DIM_EventType	Description	Retirement		
+DIM_EventType	Description	Ruins Exploited		
+DIM_EventType	Description	Ruins Located		
+DIM_EventType	Description	Scientist Experience		
+DIM_EventType	Description	Search and Rescue		
+DIM_EventType	Description	Secondary Explosion		
+DIM_EventType	Description	Senior Officer Required		
+DIM_EventType	Description	Shield Deactivation		
+DIM_EventType	Description	Shield Recharge		
+DIM_EventType	Description	Ship Combat - Energy		
+DIM_EventType	Description	Ship Combat - Missile		
+DIM_EventType	Description	Ship Construction		
+DIM_EventType	Description	Ship Destroyed		
+DIM_EventType	Description	Ship Overcrowded		
+DIM_EventType	Description	Ship Rammed		
+DIM_EventType	Description	Ship Refit		
+DIM_EventType	Description	Ship Repair		
+DIM_EventType	Description	Ship Scrapped		
+DIM_EventType	Description	Ship Surrender		
+DIM_EventType	Description	Ship vs GUC Report		
+DIM_EventType	Description	Shipyard Modified		
+DIM_EventType	Description	Shipyard Task Abandoned		
+DIM_EventType	Description	Shore Leave Complete		
+DIM_EventType	Description	STO Combat		
+DIM_EventType	Description	STO Point Defence		
+DIM_EventType	Description	Stockpile Warning		
+DIM_EventType	Description	Successful Espionage		
+DIM_EventType	Description	Successful Ramming Attack		
+DIM_EventType	Description	Successful Repair		
+DIM_EventType	Description	System Damaged		
+DIM_EventType	Description	System Destroyed		
+DIM_EventType	Description	System Intact		
+DIM_EventType	Description	System Surveyed		
+DIM_EventType	Description	Target Hit		
+DIM_EventType	Description	Target Lost		
+DIM_EventType	Description	Target Missed		
+DIM_EventType	Description	Target Out of Range		
+DIM_EventType	Description	Targeting		
+DIM_EventType	Description	Targeting Problem		
+DIM_EventType	Description	Team Skill		
+DIM_EventType	Description	Tech Data Learned		
+DIM_EventType	Description	Tech Data Scanned		
+DIM_EventType	Description	Tech Downloaded		
+DIM_EventType	Description	Terraforming Report		
+DIM_EventType	Description	Test Data		
+DIM_EventType	Description	Thermal Contact Lost		
+DIM_EventType	Description	Time Check		
+DIM_EventType	Description	Tractor(s) Released		
+DIM_EventType	Description	Training not Possible		
+DIM_EventType	Description	Training Task Abandoned		
+DIM_EventType	Description	Transit Delay		
+DIM_EventType	Description	Transit Failure		
+DIM_EventType	Description	Unassigned Experience		
+DIM_EventType	Description	Unit Trained		
+DIM_EventType	Description	Unrest Decreasing		
+DIM_EventType	Description	Unrest Increasing		
+DIM_EventType	Description	Weapon Recharging		
+DIM_EventType	Description	Weapon Reloading		
+DIM_EventType	Description	Wreck Components		
+DIM_EventType	Description	Wreck Contact		
+DIM_EventType	Description	Wreck Salvaged		
+DIM_EventType	Description	Xenoarchaeology Research		

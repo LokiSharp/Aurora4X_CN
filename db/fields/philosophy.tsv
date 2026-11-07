@@ -1,0 +1,160 @@
+table	field	english	chinese	reason
+DIM_DesignPhilosophyTechProgression	Description	Ancient Logistics		
+DIM_DesignPhilosophyTechProgression	Description	Armour Biphase		
+DIM_DesignPhilosophyTechProgression	Description	Armour Bonded Superdense		
+DIM_DesignPhilosophyTechProgression	Description	Armour Ceramic		
+DIM_DesignPhilosophyTechProgression	Description	Armour Coherent Superdense		
+DIM_DesignPhilosophyTechProgression	Description	Armour Collapsium		
+DIM_DesignPhilosophyTechProgression	Description	Armour Composite		
+DIM_DesignPhilosophyTechProgression	Description	Armour Compressed		
+DIM_DesignPhilosophyTechProgression	Description	Armour Crystalline Composite		
+DIM_DesignPhilosophyTechProgression	Description	Armour HDD		
+DIM_DesignPhilosophyTechProgression	Description	Armour Laminate		
+DIM_DesignPhilosophyTechProgression	Description	Armour Superdense		
+DIM_DesignPhilosophyTechProgression	Description	Base Logistics		
+DIM_DesignPhilosophyTechProgression	Description	Base Logistics No Ordnance		
+DIM_DesignPhilosophyTechProgression	Description	Base Modules		
+DIM_DesignPhilosophyTechProgression	Description	Beam Weapon 12cm		
+DIM_DesignPhilosophyTechProgression	Description	Beam Weapon 15cm		
+DIM_DesignPhilosophyTechProgression	Description	Beam Weapon 20cm		
+DIM_DesignPhilosophyTechProgression	Description	Beam Weapon 25cm		
+DIM_DesignPhilosophyTechProgression	Description	Beam Weapon 30cm		
+DIM_DesignPhilosophyTechProgression	Description	Beam Weapon 35cm		
+DIM_DesignPhilosophyTechProgression	Description	Beam Weapon 40cm		
+DIM_DesignPhilosophyTechProgression	Description	Beam Weapon 50cm		
+DIM_DesignPhilosophyTechProgression	Description	Beam Weapon 60cm		
+DIM_DesignPhilosophyTechProgression	Description	Beam Weapon 70cm		
+DIM_DesignPhilosophyTechProgression	Description	Beam Weapon 80cm		
+DIM_DesignPhilosophyTechProgression	Description	Cloaking Theory		
+DIM_DesignPhilosophyTechProgression	Description	Decoy Missiles		
+DIM_DesignPhilosophyTechProgression	Description	Electronic Warfare 1		
+DIM_DesignPhilosophyTechProgression	Description	Electronic Warfare 2		
+DIM_DesignPhilosophyTechProgression	Description	Electronic Warfare 3		
+DIM_DesignPhilosophyTechProgression	Description	Electronic Warfare 4		
+DIM_DesignPhilosophyTechProgression	Description	Electronic Warfare 5		
+DIM_DesignPhilosophyTechProgression	Description	Electronic Warfare 6		
+DIM_DesignPhilosophyTechProgression	Description	Electronic Warfare 7		
+DIM_DesignPhilosophyTechProgression	Description	Electronic Warfare 8		
+DIM_DesignPhilosophyTechProgression	Description	Electronic Warfare 9		
+DIM_DesignPhilosophyTechProgression	Description	Engines Anti-matter 1		
+DIM_DesignPhilosophyTechProgression	Description	Engines Anti-matter 2		
+DIM_DesignPhilosophyTechProgression	Description	Engines Anti-matter 3		
+DIM_DesignPhilosophyTechProgression	Description	Engines Anti-matter 4		
+DIM_DesignPhilosophyTechProgression	Description	Engines Fusion 3		
+DIM_DesignPhilosophyTechProgression	Description	Engines ICF		
+DIM_DesignPhilosophyTechProgression	Description	Engines Ion		
+DIM_DesignPhilosophyTechProgression	Description	Engines MCF		
+DIM_DesignPhilosophyTechProgression	Description	Engines MPD		
+DIM_DesignPhilosophyTechProgression	Description	Engines Photonic		
+DIM_DesignPhilosophyTechProgression	Description	Engines Pulse		
+DIM_DesignPhilosophyTechProgression	Description	Fighter Production		
+DIM_DesignPhilosophyTechProgression	Description	Fuel Consumption		
+DIM_DesignPhilosophyTechProgression	Description	Gauss Turret 2		
+DIM_DesignPhilosophyTechProgression	Description	Gauss Turret 3		
+DIM_DesignPhilosophyTechProgression	Description	Gauss Turret 4		
+DIM_DesignPhilosophyTechProgression	Description	Gauss Turret 5		
+DIM_DesignPhilosophyTechProgression	Description	Gauss Turret 6		
+DIM_DesignPhilosophyTechProgression	Description	Gauss Turret 8		
+DIM_DesignPhilosophyTechProgression	Description	Genome Sequence Research		
+DIM_DesignPhilosophyTechProgression	Description	Ground Combat - Eldar		
+DIM_DesignPhilosophyTechProgression	Description	Ground Combat - Eldar 2		
+DIM_DesignPhilosophyTechProgression	Description	Ground Combat - Heavy		
+DIM_DesignPhilosophyTechProgression	Description	Ground Combat - Medium		
+DIM_DesignPhilosophyTechProgression	Description	Ground Combat - Super-Heavy		
+DIM_DesignPhilosophyTechProgression	Description	Ground Combat - Swarm		
+DIM_DesignPhilosophyTechProgression	Description	Ground Combat - Ultra-Heavy		
+DIM_DesignPhilosophyTechProgression	Description	Ground Combat Utility		
+DIM_DesignPhilosophyTechProgression	Description	Ground-based Planetary Defence		
+DIM_DesignPhilosophyTechProgression	Description	Improved Nuclear Pulse		
+DIM_DesignPhilosophyTechProgression	Description	Improved Thermal		
+DIM_DesignPhilosophyTechProgression	Description	Industry 12		
+DIM_DesignPhilosophyTechProgression	Description	Industry 14		
+DIM_DesignPhilosophyTechProgression	Description	Industry 16		
+DIM_DesignPhilosophyTechProgression	Description	Industry 20		
+DIM_DesignPhilosophyTechProgression	Description	Industry Fighter 14		
+DIM_DesignPhilosophyTechProgression	Description	Industry Fighter 16		
+DIM_DesignPhilosophyTechProgression	Description	Industry Fighter 20		
+DIM_DesignPhilosophyTechProgression	Description	Industry Missile 12		
+DIM_DesignPhilosophyTechProgression	Description	Industry Missile 14		
+DIM_DesignPhilosophyTechProgression	Description	Industry Missile 16		
+DIM_DesignPhilosophyTechProgression	Description	Industry Missile 20		
+DIM_DesignPhilosophyTechProgression	Description	Infantry Advanced Genetic Enhancement		
+DIM_DesignPhilosophyTechProgression	Description	Infantry Basic Genetic Enhancement		
+DIM_DesignPhilosophyTechProgression	Description	Infantry Improved Genetic Enhancement		
+DIM_DesignPhilosophyTechProgression	Description	Invader Logistics		
+DIM_DesignPhilosophyTechProgression	Description	Jump Drives		
+DIM_DesignPhilosophyTechProgression	Description	Jump Drives 2		
+DIM_DesignPhilosophyTechProgression	Description	Jump Drives 3		
+DIM_DesignPhilosophyTechProgression	Description	Jump Drives 4		
+DIM_DesignPhilosophyTechProgression	Description	Jump Drives 5		
+DIM_DesignPhilosophyTechProgression	Description	Jump Point Theory		
+DIM_DesignPhilosophyTechProgression	Description	Logistics 100		
+DIM_DesignPhilosophyTechProgression	Description	Logistics 100 No Ordnance		
+DIM_DesignPhilosophyTechProgression	Description	Logistics 48		
+DIM_DesignPhilosophyTechProgression	Description	Logistics 48 No Ordnance		
+DIM_DesignPhilosophyTechProgression	Description	Logistics 64		
+DIM_DesignPhilosophyTechProgression	Description	Logistics 64 No Ordnance		
+DIM_DesignPhilosophyTechProgression	Description	Logistics 80		
+DIM_DesignPhilosophyTechProgression	Description	Logistics 80 No Ordnance		
+DIM_DesignPhilosophyTechProgression	Description	Max Power Mod 1.25		
+DIM_DesignPhilosophyTechProgression	Description	Max Power Mod 1.5		
+DIM_DesignPhilosophyTechProgression	Description	Missile ECM - 1		
+DIM_DesignPhilosophyTechProgression	Description	Missile ECM - 10		
+DIM_DesignPhilosophyTechProgression	Description	Missile ECM - 2		
+DIM_DesignPhilosophyTechProgression	Description	Missile ECM - 3		
+DIM_DesignPhilosophyTechProgression	Description	Missile ECM - 4		
+DIM_DesignPhilosophyTechProgression	Description	Missile ECM - 5		
+DIM_DesignPhilosophyTechProgression	Description	Missile ECM - 6		
+DIM_DesignPhilosophyTechProgression	Description	Missile ECM - 7		
+DIM_DesignPhilosophyTechProgression	Description	Missile ECM - 8		
+DIM_DesignPhilosophyTechProgression	Description	Missile ECM - 9		
+DIM_DesignPhilosophyTechProgression	Description	Missiles WH10		
+DIM_DesignPhilosophyTechProgression	Description	Missiles WH12		
+DIM_DesignPhilosophyTechProgression	Description	Missiles WH16		
+DIM_DesignPhilosophyTechProgression	Description	Missiles WH20		
+DIM_DesignPhilosophyTechProgression	Description	Missiles WH24		
+DIM_DesignPhilosophyTechProgression	Description	Missiles WH3		
+DIM_DesignPhilosophyTechProgression	Description	Missiles WH30		
+DIM_DesignPhilosophyTechProgression	Description	Missiles WH4		
+DIM_DesignPhilosophyTechProgression	Description	Missiles WH5		
+DIM_DesignPhilosophyTechProgression	Description	Missiles WH6		
+DIM_DesignPhilosophyTechProgression	Description	Missiles WH8		
+DIM_DesignPhilosophyTechProgression	Description	Precursor Logistics		
+DIM_DesignPhilosophyTechProgression	Description	Salvage Bay		
+DIM_DesignPhilosophyTechProgression	Description	Salvage Bay 2		
+DIM_DesignPhilosophyTechProgression	Description	Salvage Bay 3		
+DIM_DesignPhilosophyTechProgression	Description	Sensors A100		
+DIM_DesignPhilosophyTechProgression	Description	Sensors A12		
+DIM_DesignPhilosophyTechProgression	Description	Sensors A135		
+DIM_DesignPhilosophyTechProgression	Description	Sensors A16		
+DIM_DesignPhilosophyTechProgression	Description	Sensors A21		
+DIM_DesignPhilosophyTechProgression	Description	Sensors A28		
+DIM_DesignPhilosophyTechProgression	Description	Sensors A36		
+DIM_DesignPhilosophyTechProgression	Description	Sensors A48		
+DIM_DesignPhilosophyTechProgression	Description	Sensors A60		
+DIM_DesignPhilosophyTechProgression	Description	Sensors A80		
+DIM_DesignPhilosophyTechProgression	Description	Shields - Beta		
+DIM_DesignPhilosophyTechProgression	Description	Shields - Delta		
+DIM_DesignPhilosophyTechProgression	Description	Shields - Epsilon		
+DIM_DesignPhilosophyTechProgression	Description	Shields - Gamma		
+DIM_DesignPhilosophyTechProgression	Description	Shields - Omega		
+DIM_DesignPhilosophyTechProgression	Description	Shields - Omicron		
+DIM_DesignPhilosophyTechProgression	Description	Shields - Psi		
+DIM_DesignPhilosophyTechProgression	Description	Shields - Sigma		
+DIM_DesignPhilosophyTechProgression	Description	Shields - Tau		
+DIM_DesignPhilosophyTechProgression	Description	Shields - Theta		
+DIM_DesignPhilosophyTechProgression	Description	Shields - Xi		
+DIM_DesignPhilosophyTechProgression	Description	Stabilisation Module		
+DIM_DesignPhilosophyTechProgression	Description	Stealth #1		
+DIM_DesignPhilosophyTechProgression	Description	Stealth #2		
+DIM_DesignPhilosophyTechProgression	Description	Stealth #3		
+DIM_DesignPhilosophyTechProgression	Description	Stealth #4		
+DIM_DesignPhilosophyTechProgression	Description	Stealth #5		
+DIM_DesignPhilosophyTechProgression	Description	Stealth #6		
+DIM_DesignPhilosophyTechProgression	Description	Survey 1		
+DIM_DesignPhilosophyTechProgression	Description	Survey 2		
+DIM_DesignPhilosophyTechProgression	Description	Survey 3		
+DIM_DesignPhilosophyTechProgression	Description	Swarm Jump Drives		
+DIM_DesignPhilosophyTechProgression	Description	Swarm Logistics		
+DIM_DesignPhilosophyTechProgression	Description	Troop Transport Boarding Bay		
+DIM_DesignPhilosophyTechProgression	Description	Troop Transport Drop Bay		

@@ -1,0 +1,18 @@
+table	field	english	chinese	reason
+DIM_TradeGoods	Description	Ancient Artifacts		
+DIM_TradeGoods	Description	Chemicals		
+DIM_TradeGoods	Description	Civilian Transport		
+DIM_TradeGoods	Description	Construction Materials		
+DIM_TradeGoods	Description	Consumer Electronics		
+DIM_TradeGoods	Description	Entertainment Products		
+DIM_TradeGoods	Description	Furs		
+DIM_TradeGoods	Description	Infrastructure		
+DIM_TradeGoods	Description	Luxury Food		
+DIM_TradeGoods	Description	Machinery		
+DIM_TradeGoods	Description	Pharmaceuticals		
+DIM_TradeGoods	Description	Plastics		
+DIM_TradeGoods	Description	Precious Metals		
+DIM_TradeGoods	Description	Recreational Drugs		
+DIM_TradeGoods	Description	Spices		
+DIM_TradeGoods	Description	Textiles		
+DIM_TradeGoods	Description	Wines		

@@ -1,0 +1,246 @@
+table	field	english	chinese	reason
+DIM_OperationalGroup	Description	Ancient Habitat Group		
+DIM_OperationalGroup	Description	Ancient Harvester Group		
+DIM_OperationalGroup	Description	Ancient Large Habitat Group		
+DIM_OperationalGroup	Description	Ancient Maintenance Bases		
+DIM_OperationalGroup	Description	Ancient Mining Group		
+DIM_OperationalGroup	Description	Ancient Terraform Group		
+DIM_OperationalGroup	Description	Beam Fighter Squadron		
+DIM_OperationalGroup	Description	Beam-Armed Geological Survey		
+DIM_OperationalGroup	Description	Beam-Armed Gravitational Survey		
+DIM_OperationalGroup	Description	Beam-Armed Scout		
+DIM_OperationalGroup	Description	Beam-only Battle Fleet		
+DIM_OperationalGroup	Description	Beam-only Battle Fleet - Jump		
+DIM_OperationalGroup	Description	Beam-only Battle Squadron		
+DIM_OperationalGroup	Description	Beam-Only DD Squadron		
+DIM_OperationalGroup	Description	Beam-Only DD Squadron - Jump		
+DIM_OperationalGroup	Description	Carrier Battle Group - Energy		
+DIM_OperationalGroup	Description	Carrier Battle Group - Missile		
+DIM_OperationalGroup	Description	Carrier Group - Energy		
+DIM_OperationalGroup	Description	Carrier Group - MIssile		
+DIM_OperationalGroup	Description	Civilian		
+DIM_OperationalGroup	Description	Collier		
+DIM_OperationalGroup	Description	Diplomatic Ship		
+DIM_OperationalGroup	Description	Dreadnought Battle Fleet		
+DIM_OperationalGroup	Description	Dreadnought Squadron		
+DIM_OperationalGroup	Description	Eldar Salvage		
+DIM_OperationalGroup	Description	Eldar Troop Transport		
+DIM_OperationalGroup	Description	FAC Flotilla		
+DIM_OperationalGroup	Description	FAC Hunter Squadron		
+DIM_OperationalGroup	Description	FAC Hunter Squadron - Jump		
+DIM_OperationalGroup	Description	Geological Survey		
+DIM_OperationalGroup	Description	Gravitational Survey		
+DIM_OperationalGroup	Description	Harvester Group		
+DIM_OperationalGroup	Description	Harvester Group  Beam Escort		
+DIM_OperationalGroup	Description	Harvester Group - Large Escort		
+DIM_OperationalGroup	Description	Invader Attack Squadron		
+DIM_OperationalGroup	Description	Invader Battle Fleet		
+DIM_OperationalGroup	Description	Invader Battle Squadron		
+DIM_OperationalGroup	Description	Invader Large Battle Fleet		
+DIM_OperationalGroup	Description	Invader Scout		
+DIM_OperationalGroup	Description	Jump Point Defence		
+DIM_OperationalGroup	Description	Jump Point Defence - Beam Only		
+DIM_OperationalGroup	Description	Jump Point Defence - Dreadnought		
+DIM_OperationalGroup	Description	Jump Point Defence - Small		
+DIM_OperationalGroup	Description	Large Hive Fleet		
+DIM_OperationalGroup	Description	Lone Dreadnought		
+DIM_OperationalGroup	Description	Lone Raider		
+DIM_OperationalGroup	Description	Medium Hive Fleet		
+DIM_OperationalGroup	Description	Missile Battle Fleet		
+DIM_OperationalGroup	Description	Missile Battle Fleet - Jump		
+DIM_OperationalGroup	Description	Missile Battle Squadron		
+DIM_OperationalGroup	Description	Missile Fighter Squadron		
+DIM_OperationalGroup	Description	Orbital Defences		
+DIM_OperationalGroup	Description	Orbital Defences - Beam Only		
+DIM_OperationalGroup	Description	Orbital Miner Group		
+DIM_OperationalGroup	Description	Orbital Miner Group - Beam Escort		
+DIM_OperationalGroup	Description	Orbital Miner Group - Large Escort		
+DIM_OperationalGroup	Description	Orbital Missile Base		
+DIM_OperationalGroup	Description	Precursor Harvester Group		
+DIM_OperationalGroup	Description	Raider Squadron		
+DIM_OperationalGroup	Description	Raiding Group		
+DIM_OperationalGroup	Description	Ramming Force		
+DIM_OperationalGroup	Description	Reinforcement Group		
+DIM_OperationalGroup	Description	Salvage Ship		
+DIM_OperationalGroup	Description	Salvage Squadron		
+DIM_OperationalGroup	Description	Salvage Squadron - Beam Escort		
+DIM_OperationalGroup	Description	Scout		
+DIM_OperationalGroup	Description	Slave Transport		
+DIM_OperationalGroup	Description	Small Hive Fleet		
+DIM_OperationalGroup	Description	Stabilisation Ship		
+DIM_OperationalGroup	Description	Stabilisation Squadron		
+DIM_OperationalGroup	Description	Stabilisation Squadron - Beam Escort		
+DIM_OperationalGroup	Description	Star Swarm Scout Squadron		
+DIM_OperationalGroup	Description	StarSwarmCapturedShip		
+DIM_OperationalGroup	Description	Swarm Assault Squadron		
+DIM_OperationalGroup	Description	Swarm Attack Squadron		
+DIM_OperationalGroup	Description	Swarm Boarding Fleet		
+DIM_OperationalGroup	Description	Swarm Cruiser Squadron		
+DIM_OperationalGroup	Description	Swarm Extraction Squadron		
+DIM_OperationalGroup	Description	Swarm Geological Survey		
+DIM_OperationalGroup	Description	Swarm Gravitational Survey		
+DIM_OperationalGroup	Description	Swarm Salvage Squadron		
+DIM_OperationalGroup	Description	Tanker		
+DIM_OperationalGroup	Description	Terraformer Group		
+DIM_OperationalGroup	Description	Terraformer Group - Beam Escort		
+DIM_OperationalGroup	Description	Terraformer Group - Large Escort		
+DIM_OperationalGroup	Description	Troop Transport Group		
+DIM_OperationalGroup	Description	Troop Transport Group - Beam Escort		
+DIM_OperationalGroup	Description	Troop Transport Group - Beam Escort - Jump		
+DIM_OperationalGroup	Description	Troop Transport Group - Jump		
+DIM_OperationalGroup	Description	Troop Transport Group - Large Escort		
+DIM_OperationalGroup	Description	Very Large Hive Fleet		
+DIM_OperationalGroupElement	Description	2x Beam Defence Base		
+DIM_OperationalGroupElement	Description	Ancient Maintenance Bases		
+DIM_OperationalGroupElement	Description	Armed Geosurvey		
+DIM_OperationalGroupElement	Description	Armed Gravsurvey		
+DIM_OperationalGroupElement	Description	Armed Scout		
+DIM_OperationalGroupElement	Description	Assault Transport		
+DIM_OperationalGroupElement	Description	Asteroid Miner		
+DIM_OperationalGroupElement	Description	Beam BC		
+DIM_OperationalGroupElement	Description	Beam BCJ		
+DIM_OperationalGroupElement	Description	Beam CA		
+DIM_OperationalGroupElement	Description	Beam CLE		
+DIM_OperationalGroupElement	Description	Beam DD		
+DIM_OperationalGroupElement	Description	Beam DD - Jump		
+DIM_OperationalGroupElement	Description	Beam DE		
+DIM_OperationalGroupElement	Description	Beam Defence Base		
+DIM_OperationalGroupElement	Description	Beam Jump CA		
+DIM_OperationalGroupElement	Description	BioAcid FAC		
+DIM_OperationalGroupElement	Description	Boarding FAC		
+DIM_OperationalGroupElement	Description	Carrier - Energy		
+DIM_OperationalGroupElement	Description	Carrier - Missile		
+DIM_OperationalGroupElement	Description	Commercial Jump Tender		
+DIM_OperationalGroupElement	Description	Construction Ship		
+DIM_OperationalGroupElement	Description	Diplomatic Ship		
+DIM_OperationalGroupElement	Description	DN Fleet		
+DIM_OperationalGroupElement	Description	DN JP Defence		
+DIM_OperationalGroupElement	Description	DN Squadron		
+DIM_OperationalGroupElement	Description	Eldar Escort		
+DIM_OperationalGroupElement	Description	Eldar Troop Transport		
+DIM_OperationalGroupElement	Description	Escort		
+DIM_OperationalGroupElement	Description	FAC Flotilla		
+DIM_OperationalGroupElement	Description	FAC Killer DD		
+DIM_OperationalGroupElement	Description	Fighter Killer DD		
+DIM_OperationalGroupElement	Description	Geosurvey		
+DIM_OperationalGroupElement	Description	Gravsurvey		
+DIM_OperationalGroupElement	Description	Harvest Station Group		
+DIM_OperationalGroupElement	Description	Harvester		
+DIM_OperationalGroupElement	Description	Invader Scout		
+DIM_OperationalGroupElement	Description	Large Escort		
+DIM_OperationalGroupElement	Description	Large Hive Ship		
+DIM_OperationalGroupElement	Description	Large Orbital Habitat Group		
+DIM_OperationalGroupElement	Description	Large Raider		
+DIM_OperationalGroupElement	Description	Lone DN		
+DIM_OperationalGroupElement	Description	Medium Hive Ship		
+DIM_OperationalGroupElement	Description	Microwave FAC		
+DIM_OperationalGroupElement	Description	Military Jump Tender		
+DIM_OperationalGroupElement	Description	Military Tanker		
+DIM_OperationalGroupElement	Description	Military tanker		
+DIM_OperationalGroupElement	Description	Mining Station Group		
+DIM_OperationalGroupElement	Description	Missile Base		
+DIM_OperationalGroupElement	Description	Missile BC		
+DIM_OperationalGroupElement	Description	Missile CLE		
+DIM_OperationalGroupElement	Description	Missile DD		
+DIM_OperationalGroupElement	Description	Missile Defence Base		
+DIM_OperationalGroupElement	Description	Orbital Habitat Group		
+DIM_OperationalGroupElement	Description	Raider		
+DIM_OperationalGroupElement	Description	Salvager		
+DIM_OperationalGroupElement	Description	Scout		
+DIM_OperationalGroupElement	Description	Slave Transport		
+DIM_OperationalGroupElement	Description	Small Hive Ship		
+DIM_OperationalGroupElement	Description	Swarm BioAcid FAC		
+DIM_OperationalGroupElement	Description	Swarm Cruiser		
+DIM_OperationalGroupElement	Description	Swarm Extraction Ship		
+DIM_OperationalGroupElement	Description	Swarm Geosurvey		
+DIM_OperationalGroupElement	Description	Swarm Gravsurvey		
+DIM_OperationalGroupElement	Description	Swarm Jump FAC		
+DIM_OperationalGroupElement	Description	Swarm Microwave FAC		
+DIM_OperationalGroupElement	Description	Swarm Salvage Ship		
+DIM_OperationalGroupElement	Description	Tanker		
+DIM_OperationalGroupElement	Description	Terraform Station Group		
+DIM_OperationalGroupElement	Description	Terraformer		
+DIM_OperationalGroupElement	Description	Troop Transport		
+DIM_OperationalGroupElement	Description	Very Large Hive Ship		
+DIM_OperationalGroupProgression	Description	Ancient Habitat Group		
+DIM_OperationalGroupProgression	Description	Ancient Harvester Group		
+DIM_OperationalGroupProgression	Description	Ancient Large Habitat Group		
+DIM_OperationalGroupProgression	Description	Ancient Maintenance Bases		
+DIM_OperationalGroupProgression	Description	Ancient Mining Group		
+DIM_OperationalGroupProgression	Description	Ancient Terraform Group		
+DIM_OperationalGroupProgression	Description	Attack Squadron		
+DIM_OperationalGroupProgression	Description	Battle Fleet		
+DIM_OperationalGroupProgression	Description	Battle Squadron		
+DIM_OperationalGroupProgression	Description	Beam Battle Fleet		
+DIM_OperationalGroupProgression	Description	Beam Battle Fleet Jump		
+DIM_OperationalGroupProgression	Description	Beam Orbital Defences		
+DIM_OperationalGroupProgression	Description	Beam-Armed Scout		
+DIM_OperationalGroupProgression	Description	Beam-only Battle Fleet		
+DIM_OperationalGroupProgression	Description	Beam-only Battle Squadron		
+DIM_OperationalGroupProgression	Description	Beam-Only DD Squadron		
+DIM_OperationalGroupProgression	Description	Beam-only DD squadron		
+DIM_OperationalGroupProgression	Description	Beam-only DD squadron - Jump		
+DIM_OperationalGroupProgression	Description	Diplomatic Ship		
+DIM_OperationalGroupProgression	Description	Dreadnought Battle Fleet		
+DIM_OperationalGroupProgression	Description	Dreadnought Squadron		
+DIM_OperationalGroupProgression	Description	FAC Flotilla		
+DIM_OperationalGroupProgression	Description	FAC Hunter Squadron		
+DIM_OperationalGroupProgression	Description	FAC Hunter Squadron - Jump		
+DIM_OperationalGroupProgression	Description	Geological Survey		
+DIM_OperationalGroupProgression	Description	Grav survey		
+DIM_OperationalGroupProgression	Description	Gravitational Survey		
+DIM_OperationalGroupProgression	Description	Harvester Group		
+DIM_OperationalGroupProgression	Description	Harvester Group - Beam Escort		
+DIM_OperationalGroupProgression	Description	Harvester Group - Large Escort		
+DIM_OperationalGroupProgression	Description	Invader Large Battle Fleet		
+DIM_OperationalGroupProgression	Description	Invader Scout		
+DIM_OperationalGroupProgression	Description	Jump Point Defence		
+DIM_OperationalGroupProgression	Description	Jump Point Defence - Beam Only		
+DIM_OperationalGroupProgression	Description	Jump Point Defence - Dreadnought		
+DIM_OperationalGroupProgression	Description	Jump Point Defence - Small		
+DIM_OperationalGroupProgression	Description	Large Hive Fleet		
+DIM_OperationalGroupProgression	Description	Lone Dreadnought		
+DIM_OperationalGroupProgression	Description	Lone Raider		
+DIM_OperationalGroupProgression	Description	Medium Hive Fleet		
+DIM_OperationalGroupProgression	Description	Missile Battle Fleet		
+DIM_OperationalGroupProgression	Description	Missile Battle Fleet - Jump		
+DIM_OperationalGroupProgression	Description	Missile Battle Squadron		
+DIM_OperationalGroupProgression	Description	Orbital Defences		
+DIM_OperationalGroupProgression	Description	Orbital Defences - Beam Only		
+DIM_OperationalGroupProgression	Description	Orbital Miner Group		
+DIM_OperationalGroupProgression	Description	Orbital Miner Group - Large Escort		
+DIM_OperationalGroupProgression	Description	Orbital Missile Base		
+DIM_OperationalGroupProgression	Description	Precursor Harvester Group		
+DIM_OperationalGroupProgression	Description	Raider Squadron		
+DIM_OperationalGroupProgression	Description	Raiding Group		
+DIM_OperationalGroupProgression	Description	Salvage Group		
+DIM_OperationalGroupProgression	Description	Salvage Ship		
+DIM_OperationalGroupProgression	Description	Salvage Squadron		
+DIM_OperationalGroupProgression	Description	Salvage Squadron - Beam Escort		
+DIM_OperationalGroupProgression	Description	Scout		
+DIM_OperationalGroupProgression	Description	Slave Transport		
+DIM_OperationalGroupProgression	Description	Small Hive Fleet		
+DIM_OperationalGroupProgression	Description	Stabilisation Ship		
+DIM_OperationalGroupProgression	Description	Stabilisation Squadron		
+DIM_OperationalGroupProgression	Description	Stabilisation Squadron - Beam Escort		
+DIM_OperationalGroupProgression	Description	Stabilisation Squadron - Beam Only		
+DIM_OperationalGroupProgression	Description	Star Swarm Cruiser Squadron		
+DIM_OperationalGroupProgression	Description	Star Swarm Salvage Squadron		
+DIM_OperationalGroupProgression	Description	Star Swarm Scout Squadron		
+DIM_OperationalGroupProgression	Description	Str Swarm Extraction Squadron		
+DIM_OperationalGroupProgression	Description	Swarm Assault Squadron		
+DIM_OperationalGroupProgression	Description	Swarm Attack Squadron		
+DIM_OperationalGroupProgression	Description	Swarm Boarding Fleet		
+DIM_OperationalGroupProgression	Description	Swarm Geosurvey		
+DIM_OperationalGroupProgression	Description	Swarm Gravsurvey		
+DIM_OperationalGroupProgression	Description	Tanker		
+DIM_OperationalGroupProgression	Description	Terraformer Group		
+DIM_OperationalGroupProgression	Description	Terraformer Group - Beam Escort		
+DIM_OperationalGroupProgression	Description	Terraformer Group - Large Escort		
+DIM_OperationalGroupProgression	Description	Troop Transport		
+DIM_OperationalGroupProgression	Description	Troop Transport Group		
+DIM_OperationalGroupProgression	Description	Troop Transport Group - Beam Escort		
+DIM_OperationalGroupProgression	Description	Troop Transport Group - Beam Escort - Jump		
+DIM_OperationalGroupProgression	Description	Troop Transport Group - Jump		
+DIM_OperationalGroupProgression	Description	Troop Transport Group - Large Escort		
+DIM_OperationalGroupProgression	Description	Very Large Hive Fleet		

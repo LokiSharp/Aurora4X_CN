@@ -1,0 +1,133 @@
+table	field	file	distinct	decision	reason
+DIM_AssignmentTypeFilter	Description	fields/commander.tsv	15	translate	
+DIM_AutomatedClassDesign	DefaultClassName	fields/design.tsv	85	translate	
+DIM_AutomatedGroundTemplateDesign	Name	fields/ground.tsv	21	translate	
+DIM_AutomatedGroundTemplateElements	ClassName	fields/ground.tsv	45	translate	
+DIM_ClassSummaryType	Description	fields/class-summary.tsv	9	translate	
+DIM_CommanderBonusType	Description	fields/commander.tsv	34	translate	
+DIM_CommanderNameTheme	Description	fields/naming.tsv	79	translate	
+DIM_ComponentType	RatingDescription	fields/component.tsv	45	translate	
+DIM_ComponentType	TypeDescription	fields/component.tsv	58	translate	
+DIM_Condition	Description	fields/condition.tsv	13	translate	
+DIM_DesignPhilosophyTechProgression	Description	fields/philosophy.tsv	159	translate	
+DIM_EmpireTitles	Title	fields/title.tsv	47	translate	
+DIM_EventType	Description	fields/event.tsv	248	translate	
+DIM_Gases	Name	fields/gas.tsv	28	translate	
+DIM_GroundComponentType	ComponentName	fields/ground.tsv	30	translate	
+DIM_GroundUnitArmour	Name	fields/ground.tsv	11	translate	
+DIM_GroundUnitBaseType	Name	fields/ground.tsv	7	translate	
+DIM_GroundUnitCapability	CapabilityName	fields/ground.tsv	13	translate	
+DIM_MedalCondition	Description	fields/commander.tsv	72	translate	
+DIM_MineralDataType	Description	fields/mineral.tsv	22	translate	
+DIM_MoveAction	Description	fields/order.tsv	117	translate	
+DIM_NamingThemeTypes	Description	fields/naming.tsv	627	translate	
+DIM_NavalAdminCommandType	Description	fields/naval-admin.tsv	7	translate	
+DIM_OperationalGroup	Description	fields/operations.tsv	91	translate	
+DIM_OperationalGroupElement	Description	fields/operations.tsv	72	translate	
+DIM_OperationalGroupProgression	Description	fields/operations.tsv	82	translate	
+DIM_PlanetaryInstallation	Name	fields/installation.tsv	39	translate	
+DIM_PlanetaryInstallation	WorkerDesciption	fields/installation.tsv	19	translate	
+DIM_PlanetaryTerrain	Name	fields/terrain.tsv	76	translate	
+DIM_PopPoliticalStatus	StatusName	fields/population.tsv	8	translate	
+DIM_RankThemeTypes	ThemeName	fields/rank.tsv	78	translate	
+DIM_RankThemes	GFRankName	fields/rank.tsv	378	translate	
+DIM_RankThemes	RankName	fields/rank.tsv	411	translate	
+DIM_ResearchCategories	Name	fields/research.tsv	33	translate	
+DIM_ResearchCategories	NoteField	fields/research.tsv	5	translate	
+DIM_ResearchCategories	RadioText	fields/research.tsv	1	translate	
+DIM_ResearchField	FieldName	fields/research.tsv	10	translate	
+DIM_Ruin	Description	fields/ruin.tsv	10	translate	
+DIM_SetAtmosphere	Description	fields/atmosphere.tsv	14	translate	
+DIM_StandingOrders	Description	fields/order.tsv	48	translate	
+DIM_TechType	Description	fields/tech.tsv	218	translate	
+DIM_TradeGoods	Description	fields/trade.tsv	17	translate	
+DIM_TraitGroup	Description	fields/trait.tsv	6	translate	
+DIM_TraitsList	Name	fields/trait.tsv	148	translate	
+DIM_WealthUse	Description	fields/wealth.tsv	54	translate	
+FCT_GroundUnitClass	ClassName	fields/ground.tsv	31	translate	
+FCT_GroundUnitFormationTemplate	Name	fields/ground.tsv	13	translate	
+FCT_HullDescription	Description	fields/hull.tsv	319	translate	
+FCT_Race	RankAdministrator	fields/rank.tsv	1	translate	
+FCT_Race	RankScientist	fields/rank.tsv	1	translate	
+FCT_Ranks	RankName	fields/rank.tsv	41	translate	
+FCT_ShipComponentTemplate	ComponentName	fields/component.tsv	7	translate	
+FCT_ShipDesignComponents	Name	fields/component.tsv	402	translate	
+FCT_TechSystem	ComponentName	fields/component.tsv	16	translate	
+FCT_TechSystem	Name	fields/tech.tsv	1453	translate	
+FCT_TechSystem	TechDescription	fields/tech.tsv	407	translate	
+GovType	GovName	fields/government.tsv	38	translate	
+MissileSeries	SeriesName	fields/design.tsv	1	translate	
+DIM_AutomatedClassDesign	DesignID			keep	
+DIM_AutomatedClassDesign	HullClass			keep	
+DIM_AutomatedClassDesign	Notes			keep	
+DIM_AutomatedClassDesign	ShippingLineName			keep	
+DIM_CommanderBonusType	BonusAbbrev			keep	
+DIM_CommanderNameTheme	NameOneAddition			keep	
+DIM_CommanderNames	Name			keep	
+DIM_CompanyNames	CompanySuffix			keep	
+DIM_Constellation	Constellation			keep	
+DIM_DesignPhilosophyTechProgression	Notes			keep	
+DIM_Gases	Notes			keep	
+DIM_Gases	Symbol			keep	
+DIM_GroundComponentType	Abbreviation			keep	
+DIM_GroundUnitBaseType	Abbreviation			keep	
+DIM_KnownSystems	ConstellationName			keep	
+DIM_KnownSystems	Name			keep	
+DIM_KnownSystems	PrimaryName			keep	
+DIM_KnownSystems_Old	Name			keep	
+DIM_LineNames	LineNames			keep	
+DIM_MiningNames	MiningName			keep	
+DIM_NamingTheme	Name			keep	
+DIM_NavalAdminCommandType	Abbrev			keep	
+DIM_PlanetaryInstallation	Abbreviation			keep	
+DIM_PlanetaryTerrain	Abbreviation			keep	
+DIM_RankThemes	GroundRankAbbrev			keep	
+DIM_RankThemes	NavalRankAbbrev			keep	
+DIM_ResearchField	Abbreviation			keep	
+DIM_ResearchField	ShortName			keep	
+DIM_ShipyardCompanies	Suffix			keep	
+DIM_SolSystemBodies	Name			keep	
+DIM_SolSystemBodies	PlanetIcon			keep	
+DIM_StandingOrders	SystemCheck			keep	
+DIM_StellarType	SizeText			keep	
+DIM_StellarType	SpectralClass			keep	
+DIM_SystemAge	SpectralClass			keep	
+FCT_Commander	Name			keep	
+FCT_CommanderHistory	HistoryText			keep	
+FCT_Fleet	FleetName			keep	
+FCT_FleetHistory	Description			keep	
+FCT_Game	GameName			keep	
+FCT_GameLog	MessageText			keep	
+FCT_GroundUnitFormation	Abbreviation			keep	
+FCT_GroundUnitFormation	Name			keep	
+FCT_GroundUnitFormationTemplate	Abbreviation			keep	
+FCT_HullDescription	HullAbbr			keep	
+FCT_MissileType	Name			keep	
+FCT_NavalAdminCommand	AdminCommandName			keep	
+FCT_Population	PopName			keep	
+FCT_Race	FlagPic			keep	
+FCT_Race	HullPic			keep	
+FCT_Race	RaceName			keep	
+FCT_Race	RaceTitle			keep	
+FCT_Race	SpaceStationPic			keep	
+FCT_RaceSysSurvey	Name			keep	
+FCT_Ranks	RankAbbrev			keep	
+FCT_RuinRace	FlagPic			keep	
+FCT_RuinRace	Name			keep	
+FCT_RuinRace	RacePic			keep	
+FCT_RuinRace	Title			keep	
+FCT_Ship	ShipName			keep	
+FCT_Ship	ShipNotes			keep	
+FCT_ShipClass	ClassName			keep	
+FCT_ShipHistory	Description			keep	
+FCT_ShippingLines	LineName			keep	
+FCT_ShippingLines	ShortName			keep	
+FCT_Shipyard	ShipyardName			keep	
+FCT_Species	RacePic			keep	
+FCT_Species	SpeciesName			keep	
+FCT_SystemBody	Name			keep	
+FCT_SystemBody	PlanetIcon			keep	
+FCT_SystemBodyName	Name			keep	
+FCT_WindowPosition	WindowName			keep	
+FGNicknames	Nickname			keep	
+PhoneticNames	PhoneticName			keep	

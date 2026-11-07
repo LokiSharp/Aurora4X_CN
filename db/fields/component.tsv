@@ -1,0 +1,529 @@
+table	field	english	chinese	reason
+DIM_ComponentType	TypeDescription	Active		
+DIM_ComponentType	TypeDescription	Armour		
+DIM_ComponentType	TypeDescription	BioEnergy Storage		
+DIM_ComponentType	TypeDescription	CIWS		
+DIM_ComponentType	TypeDescription	Cloaking Device		
+DIM_ComponentType	TypeDescription	Command and Control		
+DIM_ComponentType	TypeDescription	Crew Quarters		
+DIM_ComponentType	TypeDescription	Damage Control - Commercial		
+DIM_ComponentType	TypeDescription	Damage Control - Military		
+DIM_ComponentType	TypeDescription	Decoy Missile Launcher		
+DIM_ComponentType	TypeDescription	Diplomacy Module		
+DIM_ComponentType	TypeDescription	Direct Fire Control		
+DIM_ComponentType	TypeDescription	Electronic Warfare Systems		
+DIM_ComponentType	TypeDescription	Engine		
+DIM_ComponentType	TypeDescription	Engineering		
+DIM_ComponentType	TypeDescription	Fuel Storage		
+DIM_ComponentType	TypeDescription	Gauss Cannon		
+DIM_ComponentType	TypeDescription	High Power Microwave		
+DIM_ComponentType	TypeDescription	Jump Drive		
+DIM_ComponentType	TypeDescription	Jump Point Stabilisation		
+DIM_ComponentType	TypeDescription	Laser		
+DIM_ComponentType	TypeDescription	Magazine		
+DIM_ComponentType	TypeDescription	Maintenance Module		
+DIM_ComponentType	TypeDescription	Maintenance Storage		
+DIM_ComponentType	TypeDescription	Meson Cannon		
+DIM_ComponentType	TypeDescription	Miscellaneous Component		
+DIM_ComponentType	TypeDescription	Missile Engine		
+DIM_ComponentType	TypeDescription	Missile Fire Control		
+DIM_ComponentType	TypeDescription	Missile Launcher		
+DIM_ComponentType	TypeDescription	Mobile Repair Bay		
+DIM_ComponentType	TypeDescription	Orbital Mining Module		
+DIM_ComponentType	TypeDescription	Ordnance Factory Module		
+DIM_ComponentType	TypeDescription	Particle Beam		
+DIM_ComponentType	TypeDescription	Passive - ELINT		
+DIM_ComponentType	TypeDescription	Passive - EM		
+DIM_ComponentType	TypeDescription	Passive - Thermal		
+DIM_ComponentType	TypeDescription	Plasma Carronade		
+DIM_ComponentType	TypeDescription	Railgun		
+DIM_ComponentType	TypeDescription	Reactor		
+DIM_ComponentType	TypeDescription	Recreational Module		
+DIM_ComponentType	TypeDescription	Salvage Module		
+DIM_ComponentType	TypeDescription	Shields		
+DIM_ComponentType	TypeDescription	Sorium Harvester		
+DIM_ComponentType	TypeDescription	Survey - Geological		
+DIM_ComponentType	TypeDescription	Survey - Gravitational		
+DIM_ComponentType	TypeDescription	Terraforming Module		
+DIM_ComponentType	TypeDescription	Tractor Beam		
+DIM_ComponentType	TypeDescription	Transfer - Cargo / MSP		
+DIM_ComponentType	TypeDescription	Transfer - Fuel		
+DIM_ComponentType	TypeDescription	Transfer - Ordnance		
+DIM_ComponentType	TypeDescription	Transfer - Ordnance Hub		
+DIM_ComponentType	TypeDescription	Transport - Ark Module		
+DIM_ComponentType	TypeDescription	Transport - Cargo		
+DIM_ComponentType	TypeDescription	Transport - Colonist		
+DIM_ComponentType	TypeDescription	Transport - Commercial Hangar		
+DIM_ComponentType	TypeDescription	Transport - Military Hangar		
+DIM_ComponentType	TypeDescription	Transport - Passenger		
+DIM_ComponentType	TypeDescription	Transport - Troops		
+DIM_ComponentType	RatingDescription	50% Acc. Distance		
+DIM_ComponentType	RatingDescription	Armour Strength		
+DIM_ComponentType	RatingDescription	Base Damage Output		
+DIM_ComponentType	RatingDescription	Base Mining Rate		
+DIM_ComponentType	RatingDescription	Base Ordnance Factory Rate		
+DIM_ComponentType	RatingDescription	Base Terraform Rate		
+DIM_ComponentType	RatingDescription	Capacity		
+DIM_ComponentType	RatingDescription	Capacity of Yard		
+DIM_ComponentType	RatingDescription	Cargo Capacity		
+DIM_ComponentType	RatingDescription	Cargo Load Speed Modifier		
+DIM_ComponentType	RatingDescription	Chance of Repair		
+DIM_ComponentType	RatingDescription	Colonist Capacity		
+DIM_ComponentType	RatingDescription	Command Control		
+DIM_ComponentType	RatingDescription	Construction Time (d)		
+DIM_ComponentType	RatingDescription	Crew Recreation		
+DIM_ComponentType	RatingDescription	Damage		
+DIM_ComponentType	RatingDescription	Decrease in hostile sensor range		
+DIM_ComponentType	RatingDescription	Diplomacy Modifier		
+DIM_ComponentType	RatingDescription	ELINT Rating		
+DIM_ComponentType	RatingDescription	Energy Capacity		
+DIM_ComponentType	RatingDescription	Engine Power		
+DIM_ComponentType	RatingDescription	Failure Rate		
+DIM_ComponentType	RatingDescription	Grav Survey Points		
+DIM_ComponentType	RatingDescription	Hangar Space		
+DIM_ComponentType	RatingDescription	Laser Damage		
+DIM_ComponentType	RatingDescription	Life Support		
+DIM_ComponentType	RatingDescription	Litres of Fuel		
+DIM_ComponentType	RatingDescription	Maint Storage		
+DIM_ComponentType	RatingDescription	Max Decoy Size		
+DIM_ComponentType	RatingDescription	Max Missile Size		
+DIM_ComponentType	RatingDescription	Max Ship Size		
+DIM_ComponentType	RatingDescription	NA		
+DIM_ComponentType	RatingDescription	Ordnance Storage		
+DIM_ComponentType	RatingDescription	Ordnance Transfer		
+DIM_ComponentType	RatingDescription	Passenger Capacity		
+DIM_ComponentType	RatingDescription	Power Produced		
+DIM_ComponentType	RatingDescription	Range		
+DIM_ComponentType	RatingDescription	Rate of Fire		
+DIM_ComponentType	RatingDescription	Refuelling Speed		
+DIM_ComponentType	RatingDescription	SB Survey Points		
+DIM_ComponentType	RatingDescription	Sensor Strength		
+DIM_ComponentType	RatingDescription	Shield Strength		
+DIM_ComponentType	RatingDescription	Size of Component		
+DIM_ComponentType	RatingDescription	Worker Capacity		
+DIM_ComponentType	RatingDescription	Wreck Size per Day		
+FCT_ShipDesignComponents	Name	10cm C1.5 Infrared Laser		
+FCT_ShipDesignComponents	Name	10cm C3 Infrared Laser		
+FCT_ShipDesignComponents	Name	10cm C3 Soft X-ray Laser		
+FCT_ShipDesignComponents	Name	10cm C3 Ultraviolet Laser		
+FCT_ShipDesignComponents	Name	10cm Railgun V10/C1.6875/S3		
+FCT_ShipDesignComponents	Name	10cm Railgun V10/C3		
+FCT_ShipDesignComponents	Name	10cm Railgun V30/C0.75/S2		
+FCT_ShipDesignComponents	Name	10cm Railgun V30/C1.5		
+FCT_ShipDesignComponents	Name	10cm Railgun V60/C3		
+FCT_ShipDesignComponents	Name	15.0cm C2 Plasma Carronade		
+FCT_ShipDesignComponents	Name	15.0cm C3 Plasma Carronade		
+FCT_ShipDesignComponents	Name	20cm C3.5 Ultraviolet Laser		
+FCT_ShipDesignComponents	Name	25.00cm C4 Ultraviolet Laser		
+FCT_ShipDesignComponents	Name	30cm C6 Soft X-ray Laser		
+FCT_ShipDesignComponents	Name	40cm C6 Plasma Carronade		
+FCT_ShipDesignComponents	Name	45.0cm C6 Soft X-ray Laser		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS1-R1		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS10-R1		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS113-R120		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS127-R114		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS13-R114		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS132-R114		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS134-R120		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS14-R1		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS14-R120		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS15-R1		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS162-R114		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS165-R120		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS2-R1		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS20-R5		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS21-R96		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS227-R120		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS229-R114		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS24-R114		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS24-R120		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS26-R1		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS26-R5		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS27-R1		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS3-R1		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS30-R114		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS31-R120		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS31-R20		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS37-R96		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS42-R20		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS46-R5		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS53-R114		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS53-R96		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS54-R114		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS54-R120		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS55-R120		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS6-R1		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS65-R96		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS74-R20		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS75-R114		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS77-R120		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS9-R1		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS9-R96		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS90-R96		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS92-R114		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS93-R114		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS94-R120		
+FCT_ShipDesignComponents	Name	Active Search Sensor AS95-R120		
+FCT_ShipDesignComponents	Name	Advanced Damage Control		
+FCT_ShipDesignComponents	Name	Advanced Geological Sensors		
+FCT_ShipDesignComponents	Name	Advanced Gravitational Sensors		
+FCT_ShipDesignComponents	Name	Ark Module		
+FCT_ShipDesignComponents	Name	Auxiliary Control		
+FCT_ShipDesignComponents	Name	BioEnergy Storage		
+FCT_ShipDesignComponents	Name	BioEnergy Storage - Large		
+FCT_ShipDesignComponents	Name	BioEnergy Storage - Very Large		
+FCT_ShipDesignComponents	Name	Biphase Carbide Armour		
+FCT_ShipDesignComponents	Name	Boat Bay		
+FCT_ShipDesignComponents	Name	Boat Bay - Small		
+FCT_ShipDesignComponents	Name	Bonded Superdense Armour		
+FCT_ShipDesignComponents	Name	Bridge		
+FCT_ShipDesignComponents	Name	Capacity 1474 Magazine: Exp 2%  HTK10		
+FCT_ShipDesignComponents	Name	Capacity 1873 Magazine: Exp 1%  HTK11		
+FCT_ShipDesignComponents	Name	Capacity 1962 Magazine: Exp 1%  HTK12		
+FCT_ShipDesignComponents	Name	Capacity 2251 Magazine: Exp 1%  HTK13		
+FCT_ShipDesignComponents	Name	Capacity 2829 Magazine: Exp 1%  HTK14		
+FCT_ShipDesignComponents	Name	Capacity 31 Magazine: Exp 11%  HTK1		
+FCT_ShipDesignComponents	Name	Capacity 34 Magazine: Exp 5%  HTK2		
+FCT_ShipDesignComponents	Name	Capacity 3773 Magazine: Exp 1%  HTK16		
+FCT_ShipDesignComponents	Name	Capacity 4693 Magazine: Exp 0%  HTK18		
+FCT_ShipDesignComponents	Name	Capacity 48 Magazine: Exp 9%  HTK1		
+FCT_ShipDesignComponents	Name	Capacity 483 Magazine: Exp 3%  HTK6		
+FCT_ShipDesignComponents	Name	Capacity 51 Magazine: Exp 4%  HTK2		
+FCT_ShipDesignComponents	Name	Capacity 597 Magazine: Exp 1%  HTK7		
+FCT_ShipDesignComponents	Name	Cargo Hold - Large		
+FCT_ShipDesignComponents	Name	Cargo Hold - Shuttle		
+FCT_ShipDesignComponents	Name	Cargo Hold - Small		
+FCT_ShipDesignComponents	Name	Cargo Hold - Standard		
+FCT_ShipDesignComponents	Name	Cargo Hold - Tiny		
+FCT_ShipDesignComponents	Name	Cargo Shuttle Bay		
+FCT_ShipDesignComponents	Name	Ceramic Composite Armour		
+FCT_ShipDesignComponents	Name	CIWS-120		
+FCT_ShipDesignComponents	Name	CIWS-160		
+FCT_ShipDesignComponents	Name	CIWS-200		
+FCT_ShipDesignComponents	Name	CIWS-250		
+FCT_ShipDesignComponents	Name	Cloaking Device: HS228-90.0%		
+FCT_ShipDesignComponents	Name	Cloaking Device: HS456-90.0%		
+FCT_ShipDesignComponents	Name	Cloaking Device: HS684-90.0%		
+FCT_ShipDesignComponents	Name	Coherent Superdense Armour		
+FCT_ShipDesignComponents	Name	Collapsium Armour		
+FCT_ShipDesignComponents	Name	Combat Information Centre		
+FCT_ShipDesignComponents	Name	Commercial Damage Control		
+FCT_ShipDesignComponents	Name	Commercial Hangar Deck		
+FCT_ShipDesignComponents	Name	Commercial Inertial Fusion Drive  EP312.5		
+FCT_ShipDesignComponents	Name	Commercial Inertial Fusion Drive  EP637.50		
+FCT_ShipDesignComponents	Name	Commercial Ion Drive  EP156.25		
+FCT_ShipDesignComponents	Name	Commercial Magazine - Capacity 100		
+FCT_ShipDesignComponents	Name	Commercial Magazine - Capacity 500		
+FCT_ShipDesignComponents	Name	Commercial Magneto-plasma Drive  EP320.0		
+FCT_ShipDesignComponents	Name	Commercial Nuclear Pulse Engine  EP128.0		
+FCT_ShipDesignComponents	Name	Commercial Solid Core AM Drive  EP640.0		
+FCT_ShipDesignComponents	Name	Composite Armour		
+FCT_ShipDesignComponents	Name	Compressed Carbon Armour		
+FCT_ShipDesignComponents	Name	Conventional Advanced Composite Armour		
+FCT_ShipDesignComponents	Name	Conventional Composite Armour		
+FCT_ShipDesignComponents	Name	Conventional Geological Survey Sensors		
+FCT_ShipDesignComponents	Name	Conventional Steel Armour		
+FCT_ShipDesignComponents	Name	Crew Quarters		
+FCT_ShipDesignComponents	Name	Crew Quarters - Fighter		
+FCT_ShipDesignComponents	Name	Crew Quarters - Small		
+FCT_ShipDesignComponents	Name	Crew Quarters - Tiny		
+FCT_ShipDesignComponents	Name	Cryogenic Transport		
+FCT_ShipDesignComponents	Name	Cryogenic Transport - Conventional		
+FCT_ShipDesignComponents	Name	Cryogenic Transport - Emergency		
+FCT_ShipDesignComponents	Name	Cryogenic Transport - Large		
+FCT_ShipDesignComponents	Name	Cryogenic Transport - Small		
+FCT_ShipDesignComponents	Name	Crystalline Composite Armour		
+FCT_ShipDesignComponents	Name	Damage Control		
+FCT_ShipDesignComponents	Name	Diplomacy Module		
+FCT_ShipDesignComponents	Name	Direct Fire Control R128-TS4760		
+FCT_ShipDesignComponents	Name	Direct Fire Control R160-TS5700		
+FCT_ShipDesignComponents	Name	Direct Fire Control R192-TS12375		
+FCT_ShipDesignComponents	Name	Direct Fire Control R192-TS12688		
+FCT_ShipDesignComponents	Name	Direct Fire Control R192-TS2730		
+FCT_ShipDesignComponents	Name	Direct Fire Control R256-TS4760		
+FCT_ShipDesignComponents	Name	Direct Fire Control R320-TS5700		
+FCT_ShipDesignComponents	Name	Direct Fire Control R36-TS6400 (SW)		
+FCT_ShipDesignComponents	Name	Direct Fire Control R384-TS12375		
+FCT_ShipDesignComponents	Name	Direct Fire Control R384-TS12688		
+FCT_ShipDesignComponents	Name	Direct Fire Control R48-TS12000		
+FCT_ShipDesignComponents	Name	Direct Fire Control R48-TS12500 (SW)		
+FCT_ShipDesignComponents	Name	Direct Fire Control R60-TS16000 (SW)		
+FCT_ShipDesignComponents	Name	Direct Fire Control R64-TS16000		
+FCT_ShipDesignComponents	Name	Direct Fire Control R72-TS25000 (SW)		
+FCT_ShipDesignComponents	Name	Direct Fire Control R80-TS20000		
+FCT_ShipDesignComponents	Name	Direct Fire Control R96-TS25000		
+FCT_ShipDesignComponents	Name	Direct Fire Control R96-TS2730		
+FCT_ShipDesignComponents	Name	Duranium Armour		
+FCT_ShipDesignComponents	Name	Electronic Intelligence and Analysis Module - Strength 11		
+FCT_ShipDesignComponents	Name	Electronic Intelligence and Analysis Module - Strength 14		
+FCT_ShipDesignComponents	Name	Electronic Intelligence and Analysis Module - Strength 5		
+FCT_ShipDesignComponents	Name	Electronic Intelligence and Analysis Module - Strength 6		
+FCT_ShipDesignComponents	Name	Electronic Intelligence and Analysis Module - Strength 8		
+FCT_ShipDesignComponents	Name	EM Sensor EM1-14		
+FCT_ShipDesignComponents	Name	EM Sensor EM1-6		
+FCT_ShipDesignComponents	Name	EM Sensor EM1-8		
+FCT_ShipDesignComponents	Name	EM Sensor EM2-12		
+FCT_ShipDesignComponents	Name	EM Sensor EM2-16		
+FCT_ShipDesignComponents	Name	EM Sensor EM2-28		
+FCT_ShipDesignComponents	Name	EM Sensor EM3-18		
+FCT_ShipDesignComponents	Name	EM Sensor EM3-24		
+FCT_ShipDesignComponents	Name	EM Sensor EM3-42		
+FCT_ShipDesignComponents	Name	EM Sensor EM6-36		
+FCT_ShipDesignComponents	Name	EM Sensor EM6-48		
+FCT_ShipDesignComponents	Name	EM Sensor EM6-84		
+FCT_ShipDesignComponents	Name	Engineering Spaces		
+FCT_ShipDesignComponents	Name	Engineering Spaces - Fighter		
+FCT_ShipDesignComponents	Name	Engineering Spaces - Small		
+FCT_ShipDesignComponents	Name	Engineering Spaces - Tiny		
+FCT_ShipDesignComponents	Name	Fire Control Jammer 1		
+FCT_ShipDesignComponents	Name	Fire Control Jammer 10		
+FCT_ShipDesignComponents	Name	Fire Control Jammer 2		
+FCT_ShipDesignComponents	Name	Fire Control Jammer 3		
+FCT_ShipDesignComponents	Name	Fire Control Jammer 4		
+FCT_ShipDesignComponents	Name	Fire Control Jammer 5		
+FCT_ShipDesignComponents	Name	Fire Control Jammer 6		
+FCT_ShipDesignComponents	Name	Fire Control Jammer 7		
+FCT_ShipDesignComponents	Name	Fire Control Jammer 8		
+FCT_ShipDesignComponents	Name	Fire Control Jammer 9		
+FCT_ShipDesignComponents	Name	Flag Bridge		
+FCT_ShipDesignComponents	Name	Fuel Storage - Fighter		
+FCT_ShipDesignComponents	Name	Fuel Storage - Large		
+FCT_ShipDesignComponents	Name	Fuel Storage - Minimal		
+FCT_ShipDesignComponents	Name	Fuel Storage - Small		
+FCT_ShipDesignComponents	Name	Fuel Storage - Standard		
+FCT_ShipDesignComponents	Name	Fuel Storage - Tiny		
+FCT_ShipDesignComponents	Name	Fuel Storage - Ultra Large		
+FCT_ShipDesignComponents	Name	Fuel Storage - Very Large		
+FCT_ShipDesignComponents	Name	Gauss Cannon R100-100		
+FCT_ShipDesignComponents	Name	Gauss Cannon R200-100		
+FCT_ShipDesignComponents	Name	Gauss Cannon R400-100		
+FCT_ShipDesignComponents	Name	Geological Survey Sensors		
+FCT_ShipDesignComponents	Name	Gravitational Survey Sensors		
+FCT_ShipDesignComponents	Name	Hangar Deck		
+FCT_ShipDesignComponents	Name	High Density Duranium Armour		
+FCT_ShipDesignComponents	Name	Improved Damage Control		
+FCT_ShipDesignComponents	Name	Improved Geological Sensors		
+FCT_ShipDesignComponents	Name	Improved Gravitational Sensors		
+FCT_ShipDesignComponents	Name	Inertial Confinement Fusion Reactor R77		
+FCT_ShipDesignComponents	Name	Inertial Fusion Drive  EP1772.25		
+FCT_ShipDesignComponents	Name	Inertial Fusion Drive  EP225.00		
+FCT_ShipDesignComponents	Name	Inertial Fusion Drive  EP250		
+FCT_ShipDesignComponents	Name	Ion Drive  EP125.0		
+FCT_ShipDesignComponents	Name	Ion Drive  EP446.25		
+FCT_ShipDesignComponents	Name	Ion Drive  EP540.75		
+FCT_ShipDesignComponents	Name	Ion Drive  EP87.50		
+FCT_ShipDesignComponents	Name	J13950(6-500) Military Jump Drive		
+FCT_ShipDesignComponents	Name	J27900(6-500) Military Jump Drive		
+FCT_ShipDesignComponents	Name	J41850(6-500) Military Jump Drive		
+FCT_ShipDesignComponents	Name	J6000(6-500) Military Jump Drive		
+FCT_ShipDesignComponents	Name	J83700(6-500) Military Jump Drive		
+FCT_ShipDesignComponents	Name	Jump Point Stabilisation Module - 120		
+FCT_ShipDesignComponents	Name	Jump Point Stabilisation Module - 150		
+FCT_ShipDesignComponents	Name	Jump Point Stabilisation Module - 180		
+FCT_ShipDesignComponents	Name	Jump Point Stabilisation Module - 20		
+FCT_ShipDesignComponents	Name	Jump Point Stabilisation Module - 30		
+FCT_ShipDesignComponents	Name	Jump Point Stabilisation Module - 45		
+FCT_ShipDesignComponents	Name	Jump Point Stabilisation Module - 60		
+FCT_ShipDesignComponents	Name	Jump Point Stabilisation Module - 90		
+FCT_ShipDesignComponents	Name	Laminate Composite Armour		
+FCT_ShipDesignComponents	Name	Magnetic Mirror Fusion Reactor R10		
+FCT_ShipDesignComponents	Name	Magnetic Mirror Fusion Reactor R16		
+FCT_ShipDesignComponents	Name	Magnetic Mirror Fusion Reactor R19		
+FCT_ShipDesignComponents	Name	Magneto-plasma Drive  EP13.54		
+FCT_ShipDesignComponents	Name	Magneto-plasma Drive  EP156.00		
+FCT_ShipDesignComponents	Name	Magneto-plasma Drive  EP160		
+FCT_ShipDesignComponents	Name	Magneto-plasma Drive  EP20.30		
+FCT_ShipDesignComponents	Name	Magneto-plasma Drive  EP3.86		
+FCT_ShipDesignComponents	Name	Magneto-plasma Drive  EP447.20		
+FCT_ShipDesignComponents	Name	Magneto-plasma Drive  EP688		
+FCT_ShipDesignComponents	Name	Main Engineering		
+FCT_ShipDesignComponents	Name	Maintenance Module		
+FCT_ShipDesignComponents	Name	Maintenance Storage Bay - Fighter		
+FCT_ShipDesignComponents	Name	Maintenance Storage Bay - Large		
+FCT_ShipDesignComponents	Name	Maintenance Storage Bay - Small		
+FCT_ShipDesignComponents	Name	Maintenance Storage Bay - Standard		
+FCT_ShipDesignComponents	Name	Maintenance Storage Bay - Tiny		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC11-R1		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC153-R114		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC155-R120		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC17-R1		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC18-R1		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC19-R96		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC23-R5		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC27-R114		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC28-R120		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC30-R1		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC30-R5		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC31-R1		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC31-R96		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC36-R20		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC43-R114		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC44-R120		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC48-R114		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC49-R120		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC49-R20		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC54-R5		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC62-R96		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC76-R114		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC77-R120		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC85-R20		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC87-R114		
+FCT_ShipDesignComponents	Name	Missile Fire Control FC89-R120		
+FCT_ShipDesignComponents	Name	Missile Jammer 1		
+FCT_ShipDesignComponents	Name	Missile Jammer 10		
+FCT_ShipDesignComponents	Name	Missile Jammer 2		
+FCT_ShipDesignComponents	Name	Missile Jammer 3		
+FCT_ShipDesignComponents	Name	Missile Jammer 4		
+FCT_ShipDesignComponents	Name	Missile Jammer 5		
+FCT_ShipDesignComponents	Name	Missile Jammer 6		
+FCT_ShipDesignComponents	Name	Missile Jammer 7		
+FCT_ShipDesignComponents	Name	Missile Jammer 8		
+FCT_ShipDesignComponents	Name	Missile Jammer 9		
+FCT_ShipDesignComponents	Name	Mobile Repair Bay		
+FCT_ShipDesignComponents	Name	Nuclear Pulse Engine  EP1.15		
+FCT_ShipDesignComponents	Name	Nuclear Pulse Engine  EP115.20		
+FCT_ShipDesignComponents	Name	Nuclear Pulse Engine  EP192		
+FCT_ShipDesignComponents	Name	Nuclear Pulse Engine  EP46.4		
+FCT_ShipDesignComponents	Name	Nuclear Pulse Engine  EP6.22		
+FCT_ShipDesignComponents	Name	Nuclear Pulse Engine  EP6.91		
+FCT_ShipDesignComponents	Name	Nuclear Pulse Engine  EP80		
+FCT_ShipDesignComponents	Name	Orbital Mining Module		
+FCT_ShipDesignComponents	Name	Ordnance Factory Module		
+FCT_ShipDesignComponents	Name	Ordnance Transfer Hub		
+FCT_ShipDesignComponents	Name	Ordnance Transfer System: 100 MSP per Hour		
+FCT_ShipDesignComponents	Name	Ordnance Transfer System: 128 MSP per Hour		
+FCT_ShipDesignComponents	Name	Ordnance Transfer System: 160 MSP per Hour		
+FCT_ShipDesignComponents	Name	Ordnance Transfer System: 200 MSP per Hour		
+FCT_ShipDesignComponents	Name	Ordnance Transfer System: 256 MSP per Hour		
+FCT_ShipDesignComponents	Name	Ordnance Transfer System: 320 MSP per Hour		
+FCT_ShipDesignComponents	Name	Ordnance Transfer System: 40 MSP per Hour		
+FCT_ShipDesignComponents	Name	Ordnance Transfer System: 400 MSP per Hour		
+FCT_ShipDesignComponents	Name	Ordnance Transfer System: 48 MSP per Hour		
+FCT_ShipDesignComponents	Name	Ordnance Transfer System: 64 MSP per Hour		
+FCT_ShipDesignComponents	Name	Ordnance Transfer System: 80 MSP per Hour		
+FCT_ShipDesignComponents	Name	Particle Beam-2		
+FCT_ShipDesignComponents	Name	Particle Beam-4		
+FCT_ShipDesignComponents	Name	Particle Lance-18		
+FCT_ShipDesignComponents	Name	Passenger Accomodation		
+FCT_ShipDesignComponents	Name	Passenger Accomodation - Small		
+FCT_ShipDesignComponents	Name	Pebble Bed Reactor R0		
+FCT_ShipDesignComponents	Name	Pebble Bed Reactor R22		
+FCT_ShipDesignComponents	Name	Phased Geological Sensors		
+FCT_ShipDesignComponents	Name	Phased Gravitational Sensors		
+FCT_ShipDesignComponents	Name	Primary Flight Control		
+FCT_ShipDesignComponents	Name	R15/C1.5 High Power Microwave		
+FCT_ShipDesignComponents	Name	R15/C1.5 Meson Cannon		
+FCT_ShipDesignComponents	Name	R15/C3 High Power Microwave		
+FCT_ShipDesignComponents	Name	R15/C3 Meson Cannon		
+FCT_ShipDesignComponents	Name	Recreational Module		
+FCT_ShipDesignComponents	Name	Refuelling System: 135,000 LPH		
+FCT_ShipDesignComponents	Name	Refuelling System: 20,000 LPH		
+FCT_ShipDesignComponents	Name	Refuelling System: 200,000 LPH		
+FCT_ShipDesignComponents	Name	Refuelling System: 30,000 LPH		
+FCT_ShipDesignComponents	Name	Refuelling System: 300,000 LPH		
+FCT_ShipDesignComponents	Name	Refuelling System: 40,000 LPH		
+FCT_ShipDesignComponents	Name	Refuelling System: 450,000 LPH		
+FCT_ShipDesignComponents	Name	Refuelling System: 60,000 LPH		
+FCT_ShipDesignComponents	Name	Refuelling System: 600,000 LPH		
+FCT_ShipDesignComponents	Name	Refuelling System: 90,000 LPH		
+FCT_ShipDesignComponents	Name	Refuelling System: 900,000 LPH		
+FCT_ShipDesignComponents	Name	Salvage Module 1000		
+FCT_ShipDesignComponents	Name	Salvage Module 1350		
+FCT_ShipDesignComponents	Name	Salvage Module 1800		
+FCT_ShipDesignComponents	Name	Salvage Module 2500		
+FCT_ShipDesignComponents	Name	Salvage Module 500		
+FCT_ShipDesignComponents	Name	Salvage Module 750		
+FCT_ShipDesignComponents	Name	Science Department		
+FCT_ShipDesignComponents	Name	Sensor Jammer 1		
+FCT_ShipDesignComponents	Name	Sensor Jammer 10		
+FCT_ShipDesignComponents	Name	Sensor Jammer 2		
+FCT_ShipDesignComponents	Name	Sensor Jammer 3		
+FCT_ShipDesignComponents	Name	Sensor Jammer 4		
+FCT_ShipDesignComponents	Name	Sensor Jammer 5		
+FCT_ShipDesignComponents	Name	Sensor Jammer 6		
+FCT_ShipDesignComponents	Name	Sensor Jammer 7		
+FCT_ShipDesignComponents	Name	Sensor Jammer 8		
+FCT_ShipDesignComponents	Name	Sensor Jammer 9		
+FCT_ShipDesignComponents	Name	Size 1 Missile Launcher		
+FCT_ShipDesignComponents	Name	Size 17 Decoy Launcher		
+FCT_ShipDesignComponents	Name	Size 18 Decoy Launcher		
+FCT_ShipDesignComponents	Name	Size 21 Decoy Launcher		
+FCT_ShipDesignComponents	Name	Size 22 Decoy Launcher		
+FCT_ShipDesignComponents	Name	Size 27 Decoy Launcher		
+FCT_ShipDesignComponents	Name	Size 9 Box Launcher		
+FCT_ShipDesignComponents	Name	Size 9 Missile Launcher (30.0% Reduction)		
+FCT_ShipDesignComponents	Name	Small Craft Refuelling System: 15,000 LPH		
+FCT_ShipDesignComponents	Name	Small Jump Point Stabilisation Module		
+FCT_ShipDesignComponents	Name	Solid Core AM Drive  EP1872.00		
+FCT_ShipDesignComponents	Name	Solid Core AM Drive  EP2695.68		
+FCT_ShipDesignComponents	Name	Solid Core AM Drive  EP280.00		
+FCT_ShipDesignComponents	Name	Solid Core AM Drive  EP320		
+FCT_ShipDesignComponents	Name	Solid-core Anti-matter Power Plant R0		
+FCT_ShipDesignComponents	Name	Solid-core Anti-matter Power Plant R54		
+FCT_ShipDesignComponents	Name	Solid-core Anti-matter Power Plant R67		
+FCT_ShipDesignComponents	Name	Solid-core Anti-matter Power Plant R8		
+FCT_ShipDesignComponents	Name	Sorium Harvester		
+FCT_ShipDesignComponents	Name	Stellarator Fusion Reactor R12		
+FCT_ShipDesignComponents	Name	Stellarator Fusion Reactor R19		
+FCT_ShipDesignComponents	Name	Stellarator Fusion Reactor R199		
+FCT_ShipDesignComponents	Name	Stellarator Fusion Reactor R25		
+FCT_ShipDesignComponents	Name	Stellarator Fusion Reactor R32		
+FCT_ShipDesignComponents	Name	Stellarator Fusion Reactor R49		
+FCT_ShipDesignComponents	Name	Structural Shell		
+FCT_ShipDesignComponents	Name	Superdense Armour		
+FCT_ShipDesignComponents	Name	Swarm Extraction Module		
+FCT_ShipDesignComponents	Name	Szász P128.0 Civilian Drive		
+FCT_ShipDesignComponents	Name	Terraforming Module		
+FCT_ShipDesignComponents	Name	Thermal Sensor TH1-14		
+FCT_ShipDesignComponents	Name	Thermal Sensor TH1-6		
+FCT_ShipDesignComponents	Name	Thermal Sensor TH1-8		
+FCT_ShipDesignComponents	Name	Thermal Sensor TH2-12		
+FCT_ShipDesignComponents	Name	Thermal Sensor TH2-16		
+FCT_ShipDesignComponents	Name	Thermal Sensor TH2-28		
+FCT_ShipDesignComponents	Name	Thermal Sensor TH3-18		
+FCT_ShipDesignComponents	Name	Thermal Sensor TH3-24		
+FCT_ShipDesignComponents	Name	Thermal Sensor TH3-42		
+FCT_ShipDesignComponents	Name	Thermal Sensor TH6-36		
+FCT_ShipDesignComponents	Name	Thermal Sensor TH6-48		
+FCT_ShipDesignComponents	Name	Thermal Sensor TH6-84		
+FCT_ShipDesignComponents	Name	Theta S229 / R536 Shields		
+FCT_ShipDesignComponents	Name	Tractor Beam		
+FCT_ShipDesignComponents	Name	Troop Transport Bay - Conventional		
+FCT_ShipDesignComponents	Name	Troop Transport Bay - Large		
+FCT_ShipDesignComponents	Name	Troop Transport Bay - Small		
+FCT_ShipDesignComponents	Name	Troop Transport Bay - Standard		
+FCT_ShipDesignComponents	Name	Troop Transport Bay - Very Large		
+FCT_ShipDesignComponents	Name	Troop Transport Bay - Very Small		
+FCT_ShipDesignComponents	Name	Troop Transport Boarding Bay - Small		
+FCT_ShipDesignComponents	Name	Troop Transport Boarding Bay - Standard		
+FCT_ShipDesignComponents	Name	Troop Transport Boarding Bay - Very Small		
+FCT_ShipDesignComponents	Name	Troop Transport Drop Bay - Large		
+FCT_ShipDesignComponents	Name	Troop Transport Drop Bay - Small		
+FCT_ShipDesignComponents	Name	Troop Transport Drop Bay - Standard		
+FCT_ShipDesignComponents	Name	Troop Transport Drop Bay - Very Large		
+FCT_ShipDesignComponents	Name	Troop Transport Drop Bay - Very Small		
+FCT_ShipDesignComponents	Name	Twin Gauss Cannon R200-100 Turret		
+FCT_ShipDesignComponents	Name	Twin Gauss Cannon R400-100 Turret		
+FCT_ShipComponentTemplate	ComponentName	MK I Commercial Active Augur Array		
+FCT_ShipComponentTemplate	ComponentName	MK I Electromagnetic Augur Array		
+FCT_ShipComponentTemplate	ComponentName	MK I Electromagnetic Augur Array 		
+FCT_ShipComponentTemplate	ComponentName	MK I Thermal Augur Array		
+FCT_ShipComponentTemplate	ComponentName	MK I Thermal Augur Array 		
+FCT_ShipComponentTemplate	ComponentName	Ravenor Drive Systems RDS-400-C		
+FCT_ShipComponentTemplate	ComponentName	RC-780 Commercial Jump Drive		
+FCT_TechSystem	ComponentName	Beam Core AM Drive		
+FCT_TechSystem	ComponentName	Conventional Engine		
+FCT_TechSystem	ComponentName	Gas Core AM Drive		
+FCT_TechSystem	ComponentName	Inertial Fusion Drive		
+FCT_TechSystem	ComponentName	Ion Drive		
+FCT_TechSystem	ComponentName	Magnetic Fusion Drive		
+FCT_TechSystem	ComponentName	Magneto-plasma Drive		
+FCT_TechSystem	ComponentName	none		
+FCT_TechSystem	ComponentName	Nuclear Gas-Core Engine		
+FCT_TechSystem	ComponentName	Nuclear Pulse Engine		
+FCT_TechSystem	ComponentName	Nuclear Radioisotope Engine		
+FCT_TechSystem	ComponentName	Nuclear Thermal Engine		
+FCT_TechSystem	ComponentName	Photonic Drive		
+FCT_TechSystem	ComponentName	Plasma Core AM Drive		
+FCT_TechSystem	ComponentName	Quantum Singularity Drive		
+FCT_TechSystem	ComponentName	Solid Core AM Drive		

@@ -1,0 +1,14 @@
+table	field	english	chinese	reason
+DIM_Condition	Description	Deployment Exceeded		
+DIM_Condition	Description	Fuel: 10% or Less		
+DIM_Condition	Description	Fuel: 100%		
+DIM_Condition	Description	Fuel: 20% or Less		
+DIM_Condition	Description	Fuel: 30% or Less		
+DIM_Condition	Description	Fuel: 40% or Less		
+DIM_Condition	Description	Fuel: 50% or Less		
+DIM_Condition	Description	Hostile Active Ship Contact in System		
+DIM_Condition	Description	MSP: 10% or Less		
+DIM_Condition	Description	MSP: 20% or Less		
+DIM_Condition	Description	MSP: 30% or Less		
+DIM_Condition	Description	No Condition		
+DIM_Condition	Description	Speed: Less than 100%		

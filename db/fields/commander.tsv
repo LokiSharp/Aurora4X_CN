@@ -1,0 +1,122 @@
+table	field	english	chinese	reason
+DIM_CommanderBonusType	Description	Carrier Operations		
+DIM_CommanderBonusType	Description	Colony Administration		
+DIM_CommanderBonusType	Description	Communications		
+DIM_CommanderBonusType	Description	Crew Training		
+DIM_CommanderBonusType	Description	Decontamination		
+DIM_CommanderBonusType	Description	Diplomacy		
+DIM_CommanderBonusType	Description	Engineering		
+DIM_CommanderBonusType	Description	Fleet Training		
+DIM_CommanderBonusType	Description	Ground Combat Anti-Aircraft		
+DIM_CommanderBonusType	Description	Ground Combat Artillery		
+DIM_CommanderBonusType	Description	Ground Combat Defence		
+DIM_CommanderBonusType	Description	Ground Combat Logistics		
+DIM_CommanderBonusType	Description	Ground Combat Manoeuvre		
+DIM_CommanderBonusType	Description	Ground Combat Occupation		
+DIM_CommanderBonusType	Description	Ground Combat Offence		
+DIM_CommanderBonusType	Description	Ground Combat Training		
+DIM_CommanderBonusType	Description	Ground Construction		
+DIM_CommanderBonusType	Description	Ground Support		
+DIM_CommanderBonusType	Description	Intelligence		
+DIM_CommanderBonusType	Description	Light Tactical		
+DIM_CommanderBonusType	Description	Logistics		
+DIM_CommanderBonusType	Description	Mining		
+DIM_CommanderBonusType	Description	Political Reliability		
+DIM_CommanderBonusType	Description	Population Growth		
+DIM_CommanderBonusType	Description	Production		
+DIM_CommanderBonusType	Description	Reaction		
+DIM_CommanderBonusType	Description	Research		
+DIM_CommanderBonusType	Description	Research Admin		
+DIM_CommanderBonusType	Description	Shipbuilding		
+DIM_CommanderBonusType	Description	Survey		
+DIM_CommanderBonusType	Description	Tactical		
+DIM_CommanderBonusType	Description	Terraforming		
+DIM_CommanderBonusType	Description	Wealth Creation		
+DIM_CommanderBonusType	Description	Xenoarchaeology		
+DIM_MedalCondition	Description	Ancient Construct Discovered		
+DIM_MedalCondition	Description	Capture Hostile Ship in Boarding Combat		
+DIM_MedalCondition	Description	Capture Three Hostile Ships in Boarding Combat		
+DIM_MedalCondition	Description	Completed Five Research Projects		
+DIM_MedalCondition	Description	Completed Research Project		
+DIM_MedalCondition	Description	Destroy 1,000,000 tons of Commercial Shipping		
+DIM_MedalCondition	Description	Destroy 10,000 tons of Hostile Ground Forces		
+DIM_MedalCondition	Description	Destroy 10,000 tons of Military Shipping		
+DIM_MedalCondition	Description	Destroy 100 Hostile Missiles		
+DIM_MedalCondition	Description	Destroy 100,000 tons of Commercial Shipping		
+DIM_MedalCondition	Description	Destroy 100,000 tons of Hostile Ground Forces		
+DIM_MedalCondition	Description	Destroy 100,000 tons of Military Shipping		
+DIM_MedalCondition	Description	Destroy 1000 Hostile Missiles		
+DIM_MedalCondition	Description	Destroy 1000 tons of Hostile Ground Forces		
+DIM_MedalCondition	Description	Destroy 2,500,000 tons of Commercial Shipping		
+DIM_MedalCondition	Description	Destroy 25 Hostile Missiles		
+DIM_MedalCondition	Description	Destroy 25,000 tons of Hostile Ground Forces		
+DIM_MedalCondition	Description	Destroy 25,000 tons of Military Shipping		
+DIM_MedalCondition	Description	Destroy 250 Hostile Missiles		
+DIM_MedalCondition	Description	Destroy 250,000 tons of Commercial Shipping		
+DIM_MedalCondition	Description	Destroy 250,000 tons of Military Shipping		
+DIM_MedalCondition	Description	Destroy 2500 Hostile Missiles		
+DIM_MedalCondition	Description	Destroy 2500 tons of Hostile Ground Forces		
+DIM_MedalCondition	Description	Destroy 50,000 tons of Military Shipping		
+DIM_MedalCondition	Description	Destroy 500 Hostile Missiles		
+DIM_MedalCondition	Description	Destroy 500,000 tons of Commercial Shipping		
+DIM_MedalCondition	Description	Destroy 5000 tons of Hostile Ground Forces		
+DIM_MedalCondition	Description	Destroy Hostile Ground Unit		
+DIM_MedalCondition	Description	Destroy Hostile Ship		
+DIM_MedalCondition	Description	Discover 10 Jump Points		
+DIM_MedalCondition	Description	Discover 10 New Star Systems		
+DIM_MedalCondition	Description	Discover 100 Jump Points		
+DIM_MedalCondition	Description	Discover 100 New Star Systems		
+DIM_MedalCondition	Description	Discover 100 System Bodies With Minerals		
+DIM_MedalCondition	Description	Discover 1000 System Bodies With Minerals		
+DIM_MedalCondition	Description	Discover 25 Jump Points		
+DIM_MedalCondition	Description	Discover 25 New Star Systems		
+DIM_MedalCondition	Description	Discover 250 System Bodies With Minerals		
+DIM_MedalCondition	Description	Discover 50 System Bodies With Minerals		
+DIM_MedalCondition	Description	Discover Alien Ruins		
+DIM_MedalCondition	Description	Discover New Star System		
+DIM_MedalCondition	Description	Discover Ten Alien Ruins		
+DIM_MedalCondition	Description	Discover Three Alien Ruins		
+DIM_MedalCondition	Description	Generate 10,000 Research Points		
+DIM_MedalCondition	Description	Generate 100,000 Research Points		
+DIM_MedalCondition	Description	Generate 25,000 Research Points		
+DIM_MedalCondition	Description	Generate 250,000 Research Points		
+DIM_MedalCondition	Description	Habitable World Discovered		
+DIM_MedalCondition	Description	Participate in Combat Drop - Formation		
+DIM_MedalCondition	Description	Participate in Combat Drop - Transport		
+DIM_MedalCondition	Description	Participate in Five Combat Drops - Formation		
+DIM_MedalCondition	Description	Participate in Five Combat Drops - Transport		
+DIM_MedalCondition	Description	Recover 10 Abandoned Installations		
+DIM_MedalCondition	Description	Recover 100 Abandoned Installations		
+DIM_MedalCondition	Description	Recover 25 Abandoned Installations		
+DIM_MedalCondition	Description	Recover 250 Abandoned Installations		
+DIM_MedalCondition	Description	Salvage 100,000 tons (Commercial / 10)		
+DIM_MedalCondition	Description	Salvage 25,000 tons (Commercial / 10)		
+DIM_MedalCondition	Description	Salvage 250,000 tons (Commercial / 10)		
+DIM_MedalCondition	Description	Stabilise 1 Jump Point or Lagrange Point		
+DIM_MedalCondition	Description	Stabilise 10 Jump Points or Lagrange Points		
+DIM_MedalCondition	Description	Stabilise 25 Jump Points or Lagrange Points		
+DIM_MedalCondition	Description	Stabilise 3 Jump Points or Lagrange Points		
+DIM_MedalCondition	Description	Suffer Armour Damage		
+DIM_MedalCondition	Description	Suffer Internal Damage		
+DIM_MedalCondition	Description	Survive Ship Destruction		
+DIM_MedalCondition	Description	Ten Ancient Constructs Discovered		
+DIM_MedalCondition	Description	Ten Years of Service		
+DIM_MedalCondition	Description	Thirty Years of Service		
+DIM_MedalCondition	Description	Three Ancient Constructs Discovered		
+DIM_MedalCondition	Description	Three Habitable Worlds Discovered		
+DIM_MedalCondition	Description	Twenty Years of Service		
+DIM_AssignmentTypeFilter	Description	Academy Commandant		
+DIM_AssignmentTypeFilter	Description	Chief Engineer		
+DIM_AssignmentTypeFilter	Description	Commander, Air Group		
+DIM_AssignmentTypeFilter	Description	Commercial Ships		
+DIM_AssignmentTypeFilter	Description	Executive Officer - Commercial		
+DIM_AssignmentTypeFilter	Description	Executive Officer - Military		
+DIM_AssignmentTypeFilter	Description	Fighters and Small Craft		
+DIM_AssignmentTypeFilter	Description	Ground Forces		
+DIM_AssignmentTypeFilter	Description	Military Ships		
+DIM_AssignmentTypeFilter	Description	Naval Admin Commands		
+DIM_AssignmentTypeFilter	Description	Populations		
+DIM_AssignmentTypeFilter	Description	Science Officer		
+DIM_AssignmentTypeFilter	Description	Sectors		
+DIM_AssignmentTypeFilter	Description	Tactical Officer		
+DIM_AssignmentTypeFilter	Description	Warships		

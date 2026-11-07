@@ -1,0 +1,11 @@
+table	field	english	chinese	reason
+DIM_Ruin	Description	Deserted Intact Cities		
+DIM_Ruin	Description	Deserted Intact City		
+DIM_Ruin	Description	Deserted Intact Colony		
+DIM_Ruin	Description	Destroyed Outpost		
+DIM_Ruin	Description	Partially Intact City		
+DIM_Ruin	Description	Partially Intact Colony		
+DIM_Ruin	Description	Ruined City		
+DIM_Ruin	Description	Ruined Colony		
+DIM_Ruin	Description	Ruined Outpost		
+DIM_Ruin	Description	Ruined Settlement		

@@ -1,0 +1,166 @@
+table	field	english	chinese	reason
+DIM_MoveAction	Description	Absorb		
+DIM_MoveAction	Description	Activate Shields		
+DIM_MoveAction	Description	Activate Transponder - All		
+DIM_MoveAction	Description	Activate Transponder - Friendly		
+DIM_MoveAction	Description	Active Sensors Off		
+DIM_MoveAction	Description	Active Sensors On		
+DIM_MoveAction	Description	Add Replacement Crew		
+DIM_MoveAction	Description	Attempt Boarding Action		
+DIM_MoveAction	Description	Attempt Boarding Action All Formations		
+DIM_MoveAction	Description	Attempt to Ram		
+DIM_MoveAction	Description	Begin Overhaul (rewind clock)		
+DIM_MoveAction	Description	Create Fleet Waypoint		
+DIM_MoveAction	Description	Deactivate Shields		
+DIM_MoveAction	Description	Deactivate Transponder		
+DIM_MoveAction	Description	Deploy Escorts		
+DIM_MoveAction	Description	Detach Colliers		
+DIM_MoveAction	Description	Detach Non-Survey Ships		
+DIM_MoveAction	Description	Detach Supply Ships		
+DIM_MoveAction	Description	Detach Tankers		
+DIM_MoveAction	Description	Divide Fleet into Single Ships		
+DIM_MoveAction	Description	Drop Off Commander		
+DIM_MoveAction	Description	Extended Orbit		
+DIM_MoveAction	Description	Follow		
+DIM_MoveAction	Description	Geological Survey		
+DIM_MoveAction	Description	Gravitational Survey		
+DIM_MoveAction	Description	Intra-system Jump		
+DIM_MoveAction	Description	Join & Refuel Target Fleet		
+DIM_MoveAction	Description	Join & Refuel Target Sub-Fleet		
+DIM_MoveAction	Description	Join & Resupply Target Fleet		
+DIM_MoveAction	Description	Join & Resupply Target Sub-Fleet		
+DIM_MoveAction	Description	Join and Add Ordnance to Fleet		
+DIM_MoveAction	Description	Join and Add Ordnance to Sub-Fleet		
+DIM_MoveAction	Description	Join and Remove Ordnance from Fleet		
+DIM_MoveAction	Description	Join and Remove Ordnance from Sub-Fleet		
+DIM_MoveAction	Description	Join and Replace Ordnance in Fleet		
+DIM_MoveAction	Description	Join and Replace Ordnance in Sub-Fleet		
+DIM_MoveAction	Description	Join as Sub-Fleet		
+DIM_MoveAction	Description	Join Fleet		
+DIM_MoveAction	Description	Join Fleet and Begin Overhaul		
+DIM_MoveAction	Description	Join Sub-Fleet		
+DIM_MoveAction	Description	Join, Refuel and Resupply Target Fleet		
+DIM_MoveAction	Description	Join, Refuel, Resupply, Add Ordnance to Target Fleet		
+DIM_MoveAction	Description	Land and Join Specified Squadron		
+DIM_MoveAction	Description	Land on Assigned Mothership / Squadron		
+DIM_MoveAction	Description	Land on Assigned Mothership as Sub-Fleet		
+DIM_MoveAction	Description	Land on Specified Mothership (+ Assign)		
+DIM_MoveAction	Description	Land on Specified Mothership (No Assign)		
+DIM_MoveAction	Description	Land on Specified Mothership as Squadron		
+DIM_MoveAction	Description	Launch Ready Ordnance		
+DIM_MoveAction	Description	Load All Minerals		
+DIM_MoveAction	Description	Load All Minerals Until Full		
+DIM_MoveAction	Description	Load All Ship Components		
+DIM_MoveAction	Description	Load Assigned Ground Templates		
+DIM_MoveAction	Description	Load Colonists		
+DIM_MoveAction	Description	Load from Ordnance Transfer Hub		
+DIM_MoveAction	Description	Load Ground Unit		
+DIM_MoveAction	Description	Load Ground Unit from Stationary Fleet		
+DIM_MoveAction	Description	Load Installation		
+DIM_MoveAction	Description	Load Mineral Type		
+DIM_MoveAction	Description	Load Mineral when X available		
+DIM_MoveAction	Description	Load Ordnance from Colony		
+DIM_MoveAction	Description	Load Ship Component		
+DIM_MoveAction	Description	Load Trade Goods		
+DIM_MoveAction	Description	Load/Unload Minerals to Reserve Level		
+DIM_MoveAction	Description	Move to Location		
+DIM_MoveAction	Description	Orbital Drop All Ground Units		
+DIM_MoveAction	Description	Orbital Drop Ground Unit		
+DIM_MoveAction	Description	Provide Orbital Bombardment Support		
+DIM_MoveAction	Description	Refuel and Resupply from Colony		
+DIM_MoveAction	Description	Refuel from Colony		
+DIM_MoveAction	Description	Refuel from own Tankers		
+DIM_MoveAction	Description	Refuel from Stationary Tankers		
+DIM_MoveAction	Description	Refuel Stationary Fleet		
+DIM_MoveAction	Description	Refuel Stationary Fleet to Minimum		
+DIM_MoveAction	Description	Refuel to Minimum from Stationary Tankers		
+DIM_MoveAction	Description	Refuel, Resupply, Load Ordnance from Colony		
+DIM_MoveAction	Description	Release Tractored Ships		
+DIM_MoveAction	Description	Release Tractored Shipyards		
+DIM_MoveAction	Description	Replace At Ordnance Transfer Hub		
+DIM_MoveAction	Description	Replace Ordnance at Colony		
+DIM_MoveAction	Description	Rescue Survivors		
+DIM_MoveAction	Description	Resupply from Colony		
+DIM_MoveAction	Description	Resupply from own Supply Ships		
+DIM_MoveAction	Description	Resupply from Stationary Supply Ship		
+DIM_MoveAction	Description	Resupply Stationary Fleet		
+DIM_MoveAction	Description	Salvage		
+DIM_MoveAction	Description	Salvage Installations		
+DIM_MoveAction	Description	Salvage Intact Ship		
+DIM_MoveAction	Description	Send Message		
+DIM_MoveAction	Description	Squadron Transit		
+DIM_MoveAction	Description	Squadron Transit by Sub-Fleet		
+DIM_MoveAction	Description	Stabilise Jump Point		
+DIM_MoveAction	Description	Stabilise Lagrange Point		
+DIM_MoveAction	Description	Standard Transit		
+DIM_MoveAction	Description	Tractor Any Ship in Fleet		
+DIM_MoveAction	Description	Tractor Inactive Shipyard		
+DIM_MoveAction	Description	Tractor Specified Ship		
+DIM_MoveAction	Description	Transfer All Installations		
+DIM_MoveAction	Description	Transfer All Minerals		
+DIM_MoveAction	Description	Transfer Fuel to Colony		
+DIM_MoveAction	Description	Transfer Installation		
+DIM_MoveAction	Description	Transfer Maint Supplies to Colony		
+DIM_MoveAction	Description	Transfer Prisoners to Ship		
+DIM_MoveAction	Description	Transit and Divide Fleet		
+DIM_MoveAction	Description	Unload All Ground Units from Transport Bay		
+DIM_MoveAction	Description	Unload All Installations		
+DIM_MoveAction	Description	Unload All Minerals		
+DIM_MoveAction	Description	Unload All Ship Components		
+DIM_MoveAction	Description	Unload Colonists		
+DIM_MoveAction	Description	Unload Ground Unit		
+DIM_MoveAction	Description	Unload Installation		
+DIM_MoveAction	Description	Unload Mineral Type		
+DIM_MoveAction	Description	Unload Ordnance to Colony		
+DIM_MoveAction	Description	Unload Prisoners		
+DIM_MoveAction	Description	Unload Ship Component		
+DIM_MoveAction	Description	Unload to Ordnance Transfer Hub		
+DIM_MoveAction	Description	Unload Trade Goods		
+DIM_StandingOrders	Description	IA: Activate Shields		
+DIM_StandingOrders	Description	IA: Active Sensors On		
+DIM_StandingOrders	Description	IA: Clear Order List		
+DIM_StandingOrders	Description	IA: Deactivate Shields		
+DIM_StandingOrders	Description	IA: Maximum Speed		
+DIM_StandingOrders	Description	LD: AM from Population		
+DIM_StandingOrders	Description	LD: Civilian Contract		
+DIM_StandingOrders	Description	LD: Colonists		
+DIM_StandingOrders	Description	LD: Colonists at Capital		
+DIM_StandingOrders	Description	LD: Passengers		
+DIM_StandingOrders	Description	LG: Overhaul at Colony		
+DIM_StandingOrders	Description	LG: Refuel at Colony		
+DIM_StandingOrders	Description	LG: Refuel from Tanker		
+DIM_StandingOrders	Description	LG: Replenish at Colony		
+DIM_StandingOrders	Description	LG: Replenish from Ship		
+DIM_StandingOrders	Description	LG: Replenish Overhaul		
+DIM_StandingOrders	Description	LG: Resupply at Colony		
+DIM_StandingOrders	Description	LG: Transfer Fuel and Return		
+DIM_StandingOrders	Description	LG: Transfer Fuel To Colony		
+DIM_StandingOrders	Description	MV: Assigned Mothership		
+DIM_StandingOrders	Description	MV: Entry Jump Point		
+DIM_StandingOrders	Description	MV: Fleet Waypoint		
+DIM_StandingOrders	Description	MV: Geosurvey System		
+DIM_StandingOrders	Description	MV: Gravsurvey System		
+DIM_StandingOrders	Description	MV: Operational Group		
+DIM_StandingOrders	Description	MV: Point of Interest		
+DIM_StandingOrders	Description	MV: Rendezvous Point		
+DIM_StandingOrders	Description	MV: Rescue Lifepod		
+DIM_StandingOrders	Description	MV: Salvage Wreck		
+DIM_StandingOrders	Description	MV: Sorium Gas Giant		
+DIM_StandingOrders	Description	MV: Sorium GG 10m Pop		
+DIM_StandingOrders	Description	MV: Stabilise JP		
+DIM_StandingOrders	Description	MV: Terraform Colony		
+DIM_StandingOrders	Description	MV: Trade Location		
+DIM_StandingOrders	Description	None		
+DIM_StandingOrders	Description	SV: Asteroid		
+DIM_StandingOrders	Description	SV: Body		
+DIM_StandingOrders	Description	SV: Five System Bodies 		
+DIM_StandingOrders	Description	SV: Moon		
+DIM_StandingOrders	Description	SV: Planet		
+DIM_StandingOrders	Description	SV: Planet or Moon		
+DIM_StandingOrders	Description	SV: Survey Location		
+DIM_StandingOrders	Description	SV: Thirty System Bodies		
+DIM_StandingOrders	Description	SV: Three Locations		
+DIM_StandingOrders	Description	SV: Three SB/Locations		
+DIM_StandingOrders	Description	UL: AM at AM Colony		
+DIM_StandingOrders	Description	UL: Colonists		
+DIM_StandingOrders	Description	UL: Passengers		

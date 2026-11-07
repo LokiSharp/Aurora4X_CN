@@ -1,0 +1,8 @@
+table	field	english	chinese	reason
+DIM_NavalAdminCommandType	Description	General		
+DIM_NavalAdminCommandType	Description	Industrial		
+DIM_NavalAdminCommandType	Description	Logistics		
+DIM_NavalAdminCommandType	Description	Naval		
+DIM_NavalAdminCommandType	Description	Patrol		
+DIM_NavalAdminCommandType	Description	Survey		
+DIM_NavalAdminCommandType	Description	Training		

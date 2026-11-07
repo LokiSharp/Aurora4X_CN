@@ -1,0 +1,10 @@
+table	field	english	chinese	reason
+DIM_ClassSummaryType	Description	Combat - Beam		
+DIM_ClassSummaryType	Description	Combat - Missile		
+DIM_ClassSummaryType	Description	Defence		
+DIM_ClassSummaryType	Description	Essential Systems		
+DIM_ClassSummaryType	Description	Other		
+DIM_ClassSummaryType	Description	Production		
+DIM_ClassSummaryType	Description	Propulsion		
+DIM_ClassSummaryType	Description	Sensor Systems		
+DIM_ClassSummaryType	Description	Transport and Logistics		

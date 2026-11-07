@@ -1,0 +1,2079 @@
+table	field	english	chinese	reason
+DIM_TechType	Description	Active Jammer		
+DIM_TechType	Description	Active Sensor Strength		
+DIM_TechType	Description	Active Sensor Type		
+DIM_TechType	Description	Active Terminal Guidance		
+DIM_TechType	Description	Advanced Carronade		
+DIM_TechType	Description	Advanced Laser		
+DIM_TechType	Description	Advanced Particle Beam		
+DIM_TechType	Description	Advanced Railgun		
+DIM_TechType	Description	Aether Gate Detection		
+DIM_TechType	Description	Aether Gate Prevention		
+DIM_TechType	Description	Alien Autopsy		
+DIM_TechType	Description	Anti-Air Weapon		
+DIM_TechType	Description	Anti-Infantry Weapon		
+DIM_TechType	Description	Anti-Vehicle Weapon		
+DIM_TechType	Description	Armour		
+DIM_TechType	Description	Asteroid Mining Module		
+DIM_TechType	Description	Autocannon Weapon		
+DIM_TechType	Description	Background TNC Knowledge		
+DIM_TechType	Description	Base Gravity		
+DIM_TechType	Description	Base Oxygen Level		
+DIM_TechType	Description	Base Temperature		
+DIM_TechType	Description	BioEnergyStorage		
+DIM_TechType	Description	Bombardment Weapon		
+DIM_TechType	Description	Box Launcher Explosion Chance		
+DIM_TechType	Description	Capacitor Recharge Rate		
+DIM_TechType	Description	Cargo Hold		
+DIM_TechType	Description	Cargo Shuttle Capability		
+DIM_TechType	Description	Carronade Calibre		
+DIM_TechType	Description	Cloaking Device Size		
+DIM_TechType	Description	Cloaking Efficiency		
+DIM_TechType	Description	Cloaking Sensor Reduction		
+DIM_TechType	Description	Cloaking Theory		
+DIM_TechType	Description	Colonization Cost Reduction		
+DIM_TechType	Description	Command and Control		
+DIM_TechType	Description	Commercial Damage Control		
+DIM_TechType	Description	Commercial Hangar		
+DIM_TechType	Description	Commercial Magazine		
+DIM_TechType	Description	Crew Quarter Design		
+DIM_TechType	Description	Crew Quarters		
+DIM_TechType	Description	Cryogenic Transport		
+DIM_TechType	Description	Damage Control		
+DIM_TechType	Description	Decontamination Equipment		
+DIM_TechType	Description	Decoy Launcher Display Size		
+DIM_TechType	Description	Decoy Missiles		
+DIM_TechType	Description	Diplomacy Module		
+DIM_TechType	Description	ECCM		
+DIM_TechType	Description	Electronic Warfare		
+DIM_TechType	Description	ELINT		
+DIM_TechType	Description	EM Sensor Sensitivity		
+DIM_TechType	Description	Energy Weapon Mount		
+DIM_TechType	Description	Engine Display Power Modifier		
+DIM_TechType	Description	Engine Display Size		
+DIM_TechType	Description	Engine Technology		
+DIM_TechType	Description	Engineering		
+DIM_TechType	Description	Enhanced Radiation Warhead		
+DIM_TechType	Description	Excavation Technology		
+DIM_TechType	Description	Fighter Pod Bay		
+DIM_TechType	Description	Fighter Pod Bay Size		
+DIM_TechType	Description	Fighter Pod Capability		
+DIM_TechType	Description	Fire Control Distance Rating		
+DIM_TechType	Description	Fire Control Jammer		
+DIM_TechType	Description	Fire Control Size vs Range		
+DIM_TechType	Description	Fire Control Size vs Tracking Speed		
+DIM_TechType	Description	Fire Control Speed Rating		
+DIM_TechType	Description	Forward Fire Direction		
+DIM_TechType	Description	Fuel Consumption		
+DIM_TechType	Description	Fuel Storage		
+DIM_TechType	Description	Gauss Cannon Rate of Fire		
+DIM_TechType	Description	Gauss Cannon Size vs Accuracy		
+DIM_TechType	Description	Gauss Cannon Velocity		
+DIM_TechType	Description	Genetic Conversion Rate		
+DIM_TechType	Description	Genetic Enhancements		
+DIM_TechType	Description	Genetics		
+DIM_TechType	Description	Geo Survey Sensors		
+DIM_TechType	Description	Grav Survey Sensors		
+DIM_TechType	Description	Ground Construction		
+DIM_TechType	Description	Ground Force Logistics		
+DIM_TechType	Description	Ground Formation Construction Rate		
+DIM_TechType	Description	Ground Geological Survey		
+DIM_TechType	Description	Ground Headquarters		
+DIM_TechType	Description	Ground Unit		
+DIM_TechType	Description	Ground Unit Base Type		
+DIM_TechType	Description	Ground Unit Capability		
+DIM_TechType	Description	Ground Unit Class		
+DIM_TechType	Description	Ground Unit Strength		
+DIM_TechType	Description	Ground Xenoarchaeological Survey		
+DIM_TechType	Description	Hangar Deck		
+DIM_TechType	Description	Hardening		
+DIM_TechType	Description	Hyper Drive Efficiency		
+DIM_TechType	Description	Improved Construction Rate		
+DIM_TechType	Description	Improved Fighter Production		
+DIM_TechType	Description	Improved Fuel Production		
+DIM_TechType	Description	Improved Mining Production		
+DIM_TechType	Description	Improved Ordnance Production		
+DIM_TechType	Description	Improved Planetary Sensor Strength		
+DIM_TechType	Description	Improved Research Rate		
+DIM_TechType	Description	Improved Shipbuilding Rate		
+DIM_TechType	Description	Infantry Armour Type		
+DIM_TechType	Description	Jump Drive Efficiency		
+DIM_TechType	Description	Jump Drive Type		
+DIM_TechType	Description	Jump Engine Size		
+DIM_TechType	Description	Jump Gate Construction Module		
+DIM_TechType	Description	Jump Point Theory		
+DIM_TechType	Description	Laser Focal Size		
+DIM_TechType	Description	Laser Warhead Damage Efficiency		
+DIM_TechType	Description	Laser Warhead Focus		
+DIM_TechType	Description	Laser Wavelength		
+DIM_TechType	Description	Magazine		
+DIM_TechType	Description	Magazine Ejection System		
+DIM_TechType	Description	Magazine Feed System Efficiency		
+DIM_TechType	Description	Magazine HTK		
+DIM_TechType	Description	Magazine Size		
+DIM_TechType	Description	Maintenance Capacity Per Facility		
+DIM_TechType	Description	Maintenance Module		
+DIM_TechType	Description	Maintenance Storage		
+DIM_TechType	Description	Max Engine Thrust Modifier		
+DIM_TechType	Description	Max Jump Squadron Size		
+DIM_TechType	Description	Max Squadron Jump Radius		
+DIM_TechType	Description	Max Tracking Time Bonus		
+DIM_TechType	Description	Maximum Engine Size		
+DIM_TechType	Description	Maximum Orbital Mining Diameter		
+DIM_TechType	Description	Maximum Particle Beam Range		
+DIM_TechType	Description	Maximum Shield Generator Size		
+DIM_TechType	Description	Meson Armour Retardation		
+DIM_TechType	Description	Meson Focal Size		
+DIM_TechType	Description	Meson Focusing		
+DIM_TechType	Description	Microwave Focal Size		
+DIM_TechType	Description	Microwave Focusing		
+DIM_TechType	Description	Min Engine Thrust Modifier		
+DIM_TechType	Description	Minimum Cloak Size		
+DIM_TechType	Description	Minimum Jump Engine Size		
+DIM_TechType	Description	Miscellaneous Components		
+DIM_TechType	Description	Missile ECM		
+DIM_TechType	Description	Missile Engine Display Power Modifier		
+DIM_TechType	Description	Missile Engine Display Size		
+DIM_TechType	Description	Missile Jammer		
+DIM_TechType	Description	Missile Launcher Display Size		
+DIM_TechType	Description	Missile Launcher Reload Rate		
+DIM_TechType	Description	Missile Launcher Size		
+DIM_TechType	Description	Missile Retargeting		
+DIM_TechType	Description	Missile Warhead Strength		
+DIM_TechType	Description	Mobile Repair Bay		
+DIM_TechType	Description	MSP Production Rate		
+DIM_TechType	Description	Multiple Warheads		
+DIM_TechType	Description	New Species		
+DIM_TechType	Description	Ordnance Factory Module		
+DIM_TechType	Description	Ordnance Transfer Hub		
+DIM_TechType	Description	Ordnance Transfer System		
+DIM_TechType	Description	Particle Beam Strength		
+DIM_TechType	Description	Particle Lance		
+DIM_TechType	Description	Passenger Accomodation		
+DIM_TechType	Description	Platform Type		
+DIM_TechType	Description	Power Plant Size		
+DIM_TechType	Description	Power Plant Technology		
+DIM_TechType	Description	Power vs Efficiency		
+DIM_TechType	Description	Race-Designed Laser		
+DIM_TechType	Description	Racial Wealth Creation		
+DIM_TechType	Description	Railgun Shots		
+DIM_TechType	Description	Railgun Type		
+DIM_TechType	Description	Railgun Velocity		
+DIM_TechType	Description	RD Active		
+DIM_TechType	Description	RD Carronade		
+DIM_TechType	Description	RD CIWS		
+DIM_TechType	Description	RD Cloak		
+DIM_TechType	Description	RD Decoy Missile Launcher		
+DIM_TechType	Description	RD Direct-Fire Control		
+DIM_TechType	Description	RD EM		
+DIM_TechType	Description	RD Energy Turret		
+DIM_TechType	Description	RD Engine		
+DIM_TechType	Description	RD Fighter Pod Bay		
+DIM_TechType	Description	RD Gauss Cannon		
+DIM_TechType	Description	RD HPM		
+DIM_TechType	Description	RD Jump Drive		
+DIM_TechType	Description	RD Kinetic Turret		
+DIM_TechType	Description	RD Meson Cannon		
+DIM_TechType	Description	RD Missile		
+DIM_TechType	Description	RD Missile Fire Control		
+DIM_TechType	Description	RD Missile Launcher		
+DIM_TechType	Description	RD Particle Beam		
+DIM_TechType	Description	RD Passive		
+DIM_TechType	Description	RD Railgun		
+DIM_TechType	Description	RD Reactor		
+DIM_TechType	Description	RD Shields		
+DIM_TechType	Description	RD Species		
+DIM_TechType	Description	Recreational Centre		
+DIM_TechType	Description	Reduced Size Lasers		
+DIM_TechType	Description	Reduced Size Launchers		
+DIM_TechType	Description	Refuelling System		
+DIM_TechType	Description	Salvage Module		
+DIM_TechType	Description	Sector Command		
+DIM_TechType	Description	Sensor Band Type		
+DIM_TechType	Description	Sensor Resolution		
+DIM_TechType	Description	Sensor Size		
+DIM_TechType	Description	Shield Generator Size		
+DIM_TechType	Description	Shield Regeneration Rate		
+DIM_TechType	Description	Shield Type		
+DIM_TechType	Description	Ship Type Limitations		
+DIM_TechType	Description	Shipyard Operations		
+DIM_TechType	Description	Single Weapon Fire Control		
+DIM_TechType	Description	Small Refuelling System		
+DIM_TechType	Description	Sorium Harvester		
+DIM_TechType	Description	Static Armour Type		
+DIM_TechType	Description	STS Tractor Beam		
+DIM_TechType	Description	Surface-To-Orbit Weapon		
+DIM_TechType	Description	Swarm Ground Weapons		
+DIM_TechType	Description	Temperature Range		
+DIM_TechType	Description	Terraforming Module		
+DIM_TechType	Description	Terraforming Rate		
+DIM_TechType	Description	Thermal Reduction		
+DIM_TechType	Description	Thermal Sensor Sensitivity		
+DIM_TechType	Description	Troop Transport - Boarding Equipped		
+DIM_TechType	Description	Troop Transport Bay		
+DIM_TechType	Description	Troop Transport Bay - Drop Ship Equipped		
+DIM_TechType	Description	Turret Rotation Gear		
+DIM_TechType	Description	Underway Replenishment		
+DIM_TechType	Description	Vehicle Armour Type		
+DIM_TechType	Description	Worker Hab		
+DIM_TechType	Description	X-Ray Laser Warhead		
+FCT_TechSystem	Name	100cm Carronade		
+FCT_TechSystem	Name	10cm Advanced Laser Focal Size		
+FCT_TechSystem	Name	10cm Advanced Railgun		
+FCT_TechSystem	Name	10cm C1.5 Infrared Laser		
+FCT_TechSystem	Name	10cm C3 Infrared Laser		
+FCT_TechSystem	Name	10cm C3 Soft X-ray Laser		
+FCT_TechSystem	Name	10cm C3 Ultraviolet Laser		
+FCT_TechSystem	Name	10cm Laser Focal Size		
+FCT_TechSystem	Name	10cm Meson Focal Size (40% AR)		
+FCT_TechSystem	Name	10cm Microwave Focal Size		
+FCT_TechSystem	Name	10cm Railgun		
+FCT_TechSystem	Name	10cm Railgun V10/C1.6875/S3		
+FCT_TechSystem	Name	10cm Railgun V10/C3		
+FCT_TechSystem	Name	10cm Railgun V30/C0.75/S2		
+FCT_TechSystem	Name	10cm Railgun V30/C1.5		
+FCT_TechSystem	Name	10cm Railgun V60/C3		
+FCT_TechSystem	Name	12cm Advanced Laser Focal Size		
+FCT_TechSystem	Name	12cm Advanced Railgun		
+FCT_TechSystem	Name	12cm Laser Focal Size		
+FCT_TechSystem	Name	12cm Meson Focal Size (32% AR)		
+FCT_TechSystem	Name	12cm Microwave Focal Size		
+FCT_TechSystem	Name	12cm Railgun		
+FCT_TechSystem	Name	15.0cm C2 Plasma Carronade		
+FCT_TechSystem	Name	15.0cm C3 Plasma Carronade		
+FCT_TechSystem	Name	15cm Advanced Carronade		
+FCT_TechSystem	Name	15cm Advanced Laser Focal Size		
+FCT_TechSystem	Name	15cm Advanced Railgun		
+FCT_TechSystem	Name	15cm Carronade		
+FCT_TechSystem	Name	15cm Laser Focal Size		
+FCT_TechSystem	Name	15cm Meson Focal Size (25% AR)		
+FCT_TechSystem	Name	15cm Microwave Focal Size		
+FCT_TechSystem	Name	15cm Railgun		
+FCT_TechSystem	Name	20cm Advanced Carronade		
+FCT_TechSystem	Name	20cm Advanced Laser Focal Size		
+FCT_TechSystem	Name	20cm Advanced Railgun		
+FCT_TechSystem	Name	20cm C3.5 Ultraviolet Laser		
+FCT_TechSystem	Name	20cm Carronade		
+FCT_TechSystem	Name	20cm Laser Focal Size		
+FCT_TechSystem	Name	20cm Meson Focal Size (20% AR)		
+FCT_TechSystem	Name	20cm Microwave Focal Size		
+FCT_TechSystem	Name	20cm Railgun		
+FCT_TechSystem	Name	25.00cm C4 Ultraviolet Laser		
+FCT_TechSystem	Name	25cm Advanced Carronade		
+FCT_TechSystem	Name	25cm Advanced Laser Focal Size		
+FCT_TechSystem	Name	25cm Advanced Railgun		
+FCT_TechSystem	Name	25cm Carronade		
+FCT_TechSystem	Name	25cm Laser Focal Size		
+FCT_TechSystem	Name	25cm Meson Focal Size (16% AR)		
+FCT_TechSystem	Name	25cm Microwave Focal Size		
+FCT_TechSystem	Name	25cm Railgun		
+FCT_TechSystem	Name	30cm Advanced Carronade		
+FCT_TechSystem	Name	30cm Advanced Laser Focal Size		
+FCT_TechSystem	Name	30cm Advanced Railgun		
+FCT_TechSystem	Name	30cm C6 Soft X-ray Laser		
+FCT_TechSystem	Name	30cm Carronade		
+FCT_TechSystem	Name	30cm Laser Focal Size		
+FCT_TechSystem	Name	30cm Meson Focal Size (12.5% AR)		
+FCT_TechSystem	Name	30cm Microwave Focal Size		
+FCT_TechSystem	Name	30cm Railgun		
+FCT_TechSystem	Name	35cm Advanced Carronade		
+FCT_TechSystem	Name	35cm Advanced Laser Focal Size		
+FCT_TechSystem	Name	35cm Advanced Railgun		
+FCT_TechSystem	Name	35cm Carronade		
+FCT_TechSystem	Name	35cm Laser Focal Size		
+FCT_TechSystem	Name	35cm Meson Focal Size (10% AR)		
+FCT_TechSystem	Name	35cm Microwave Focal Size		
+FCT_TechSystem	Name	35cm Railgun		
+FCT_TechSystem	Name	40cm Advanced Carronade		
+FCT_TechSystem	Name	40cm Advanced Laser Focal Size		
+FCT_TechSystem	Name	40cm Advanced Railgun		
+FCT_TechSystem	Name	40cm C6 Plasma Carronade		
+FCT_TechSystem	Name	40cm Carronade		
+FCT_TechSystem	Name	40cm Laser Focal Size		
+FCT_TechSystem	Name	40cm Meson Focal Size (8% AR)		
+FCT_TechSystem	Name	40cm Microwave Focal Size		
+FCT_TechSystem	Name	40cm Railgun		
+FCT_TechSystem	Name	45.0cm C6 Soft X-ray Laser		
+FCT_TechSystem	Name	45cm Advanced Railgun		
+FCT_TechSystem	Name	45cm Railgun		
+FCT_TechSystem	Name	50cm Advanced Carronade		
+FCT_TechSystem	Name	50cm Advanced Laser Focal Size		
+FCT_TechSystem	Name	50cm Advanced Railgun		
+FCT_TechSystem	Name	50cm Carronade		
+FCT_TechSystem	Name	50cm Laser Focal Size		
+FCT_TechSystem	Name	50cm Meson Focal Size (6.4% AR)		
+FCT_TechSystem	Name	50cm Microwave Focal Size		
+FCT_TechSystem	Name	50cm Railgun		
+FCT_TechSystem	Name	60cm Advanced Carronade		
+FCT_TechSystem	Name	60cm Advanced Laser Focal Size		
+FCT_TechSystem	Name	60cm Carronade		
+FCT_TechSystem	Name	60cm Laser Focal Size		
+FCT_TechSystem	Name	60cm Meson Focal Size (5%)		
+FCT_TechSystem	Name	60cm Microwave Focal Size		
+FCT_TechSystem	Name	70cm Advanced Carronade		
+FCT_TechSystem	Name	70cm Advanced Laser Focal Size		
+FCT_TechSystem	Name	70cm Carronade		
+FCT_TechSystem	Name	70cm Laser Focal Size		
+FCT_TechSystem	Name	70cm Meson Focal Size (4%)		
+FCT_TechSystem	Name	70cm Microwave Focal Size		
+FCT_TechSystem	Name	80cm Advanced Carronade		
+FCT_TechSystem	Name	80cm Advanced Laser Focal Size		
+FCT_TechSystem	Name	80cm Carronade		
+FCT_TechSystem	Name	80cm Laser Focal Size		
+FCT_TechSystem	Name	80cm Meson Focal Size (3.2%)		
+FCT_TechSystem	Name	80cm Microwave Focal Size		
+FCT_TechSystem	Name	Active Grav Sensor Strength 10		
+FCT_TechSystem	Name	Active Grav Sensor Strength 100		
+FCT_TechSystem	Name	Active Grav Sensor Strength 12		
+FCT_TechSystem	Name	Active Grav Sensor Strength 135		
+FCT_TechSystem	Name	Active Grav Sensor Strength 16		
+FCT_TechSystem	Name	Active Grav Sensor Strength 180		
+FCT_TechSystem	Name	Active Grav Sensor Strength 21		
+FCT_TechSystem	Name	Active Grav Sensor Strength 28		
+FCT_TechSystem	Name	Active Grav Sensor Strength 36		
+FCT_TechSystem	Name	Active Grav Sensor Strength 48		
+FCT_TechSystem	Name	Active Grav Sensor Strength 60		
+FCT_TechSystem	Name	Active Grav Sensor Strength 80		
+FCT_TechSystem	Name	Active Search Sensor AS1-R1		
+FCT_TechSystem	Name	Active Search Sensor AS10-R1		
+FCT_TechSystem	Name	Active Search Sensor AS113-R120		
+FCT_TechSystem	Name	Active Search Sensor AS127-R114		
+FCT_TechSystem	Name	Active Search Sensor AS13-R114		
+FCT_TechSystem	Name	Active Search Sensor AS132-R114		
+FCT_TechSystem	Name	Active Search Sensor AS134-R120		
+FCT_TechSystem	Name	Active Search Sensor AS14-R1		
+FCT_TechSystem	Name	Active Search Sensor AS14-R120		
+FCT_TechSystem	Name	Active Search Sensor AS15-R1		
+FCT_TechSystem	Name	Active Search Sensor AS162-R114		
+FCT_TechSystem	Name	Active Search Sensor AS165-R120		
+FCT_TechSystem	Name	Active Search Sensor AS2-R1		
+FCT_TechSystem	Name	Active Search Sensor AS20-R5		
+FCT_TechSystem	Name	Active Search Sensor AS21-R96		
+FCT_TechSystem	Name	Active Search Sensor AS227-R120		
+FCT_TechSystem	Name	Active Search Sensor AS229-R114		
+FCT_TechSystem	Name	Active Search Sensor AS24-R114		
+FCT_TechSystem	Name	Active Search Sensor AS24-R120		
+FCT_TechSystem	Name	Active Search Sensor AS26-R1		
+FCT_TechSystem	Name	Active Search Sensor AS26-R5		
+FCT_TechSystem	Name	Active Search Sensor AS27-R1		
+FCT_TechSystem	Name	Active Search Sensor AS3-R1		
+FCT_TechSystem	Name	Active Search Sensor AS30-R114		
+FCT_TechSystem	Name	Active Search Sensor AS31-R120		
+FCT_TechSystem	Name	Active Search Sensor AS31-R20		
+FCT_TechSystem	Name	Active Search Sensor AS37-R96		
+FCT_TechSystem	Name	Active Search Sensor AS42-R20		
+FCT_TechSystem	Name	Active Search Sensor AS46-R5		
+FCT_TechSystem	Name	Active Search Sensor AS53-R114		
+FCT_TechSystem	Name	Active Search Sensor AS53-R96		
+FCT_TechSystem	Name	Active Search Sensor AS54-R114		
+FCT_TechSystem	Name	Active Search Sensor AS54-R120		
+FCT_TechSystem	Name	Active Search Sensor AS55-R120		
+FCT_TechSystem	Name	Active Search Sensor AS6-R1		
+FCT_TechSystem	Name	Active Search Sensor AS65-R96		
+FCT_TechSystem	Name	Active Search Sensor AS74-R20		
+FCT_TechSystem	Name	Active Search Sensor AS75-R114		
+FCT_TechSystem	Name	Active Search Sensor AS77-R120		
+FCT_TechSystem	Name	Active Search Sensor AS9-R1		
+FCT_TechSystem	Name	Active Search Sensor AS9-R96		
+FCT_TechSystem	Name	Active Search Sensor AS90-R96		
+FCT_TechSystem	Name	Active Search Sensor AS92-R114		
+FCT_TechSystem	Name	Active Search Sensor AS93-R114		
+FCT_TechSystem	Name	Active Search Sensor AS94-R120		
+FCT_TechSystem	Name	Active Search Sensor AS95-R120		
+FCT_TechSystem	Name	Active Terminal Guidance +15%		
+FCT_TechSystem	Name	Active Terminal Guidance +20%		
+FCT_TechSystem	Name	Active Terminal Guidance +25%		
+FCT_TechSystem	Name	Active Terminal Guidance +32%		
+FCT_TechSystem	Name	Active Terminal Guidance +40%		
+FCT_TechSystem	Name	Active Terminal Guidance +50%		
+FCT_TechSystem	Name	Active Terminal Guidance +60%		
+FCT_TechSystem	Name	Active Terminal Guidance 0%		
+FCT_TechSystem	Name	Advanced Antimatter Warhead: Strength: 24 x MSP		
+FCT_TechSystem	Name	Advanced Cargo Shuttles		
+FCT_TechSystem	Name	Advanced Damage Control		
+FCT_TechSystem	Name	Advanced Geological Sensors		
+FCT_TechSystem	Name	Advanced Gravitational Sensors		
+FCT_TechSystem	Name	Advanced Particle Beam Warhead 11		
+FCT_TechSystem	Name	Advanced Particle Beam Warhead 15		
+FCT_TechSystem	Name	Advanced Particle Beam Warhead 20		
+FCT_TechSystem	Name	Advanced Particle Beam Warhead 25		
+FCT_TechSystem	Name	Advanced Particle Beam Warhead 3		
+FCT_TechSystem	Name	Advanced Particle Beam Warhead 32		
+FCT_TechSystem	Name	Advanced Particle Beam Warhead 4		
+FCT_TechSystem	Name	Advanced Particle Beam Warhead 45		
+FCT_TechSystem	Name	Advanced Particle Beam Warhead 5		
+FCT_TechSystem	Name	Advanced Particle Beam Warhead 64		
+FCT_TechSystem	Name	Advanced Particle Beam Warhead 8		
+FCT_TechSystem	Name	Aether Gate Detection		
+FCT_TechSystem	Name	Aether Gate Prevention		
+FCT_TechSystem	Name	Alpha Shields		
+FCT_TechSystem	Name	Anti Air Team		
+FCT_TechSystem	Name	Anti Tank Team		
+FCT_TechSystem	Name	Antimatter Catalysed Cobalt Warhead: Strength: 16 x MSP		
+FCT_TechSystem	Name	Antimatter Warhead: Strength: 20 x MSP		
+FCT_TechSystem	Name	Ark Module		
+FCT_TechSystem	Name	Arrow Anti-Ship Missile		
+FCT_TechSystem	Name	Arrow Infantry Support Tank		
+FCT_TechSystem	Name	Auxiliary Control		
+FCT_TechSystem	Name	Ballista  Towed Artillery		
+FCT_TechSystem	Name	Ballista Ship Decoy		
+FCT_TechSystem	Name	Base Jump Drive Efficiency 10		
+FCT_TechSystem	Name	Base Jump Drive Efficiency 12		
+FCT_TechSystem	Name	Base Jump Drive Efficiency 15		
+FCT_TechSystem	Name	Base Jump Drive Efficiency 18		
+FCT_TechSystem	Name	Base Jump Drive Efficiency 21		
+FCT_TechSystem	Name	Base Jump Drive Efficiency 25		
+FCT_TechSystem	Name	Base Jump Drive Efficiency 4		
+FCT_TechSystem	Name	Base Jump Drive Efficiency 5		
+FCT_TechSystem	Name	Base Jump Drive Efficiency 6		
+FCT_TechSystem	Name	Base Jump Drive Efficiency 8		
+FCT_TechSystem	Name	Bayonet Ship Decoy		
+FCT_TechSystem	Name	Beam Core Anti-matter Drive		
+FCT_TechSystem	Name	Beam Core Anti-matter Power Plant		
+FCT_TechSystem	Name	Beta Shields		
+FCT_TechSystem	Name	BioEnergy Storage		
+FCT_TechSystem	Name	BioEnergy Storage - Large		
+FCT_TechSystem	Name	BioEnergy Storage - Very Large		
+FCT_TechSystem	Name	Biphase Carbide Armour		
+FCT_TechSystem	Name	Boarding Combat Capability		
+FCT_TechSystem	Name	Bonded Superdense Armour		
+FCT_TechSystem	Name	Box Launcher 0.15 Size / 100x (No internal reload)		
+FCT_TechSystem	Name	Box Launcher Explosion Chance - 10%		
+FCT_TechSystem	Name	Box Launcher Explosion Chance - 100%		
+FCT_TechSystem	Name	Box Launcher Explosion Chance - 15%		
+FCT_TechSystem	Name	Box Launcher Explosion Chance - 25%		
+FCT_TechSystem	Name	Box Launcher Explosion Chance - 35%		
+FCT_TechSystem	Name	Box Launcher Explosion Chance - 5%		
+FCT_TechSystem	Name	Box Launcher Explosion Chance - 50%		
+FCT_TechSystem	Name	Box Launcher Explosion Chance - 7%		
+FCT_TechSystem	Name	Box Launcher Explosion Chance - 70%		
+FCT_TechSystem	Name	Bridge		
+FCT_TechSystem	Name	Broadband Sensor		
+FCT_TechSystem	Name	Capacitor Recharge Rate 1		
+FCT_TechSystem	Name	Capacitor Recharge Rate 1.25		
+FCT_TechSystem	Name	Capacitor Recharge Rate 1.5		
+FCT_TechSystem	Name	Capacitor Recharge Rate 1.75		
+FCT_TechSystem	Name	Capacitor Recharge Rate 10		
+FCT_TechSystem	Name	Capacitor Recharge Rate 11		
+FCT_TechSystem	Name	Capacitor Recharge Rate 12		
+FCT_TechSystem	Name	Capacitor Recharge Rate 13		
+FCT_TechSystem	Name	Capacitor Recharge Rate 14		
+FCT_TechSystem	Name	Capacitor Recharge Rate 15		
+FCT_TechSystem	Name	Capacitor Recharge Rate 16		
+FCT_TechSystem	Name	Capacitor Recharge Rate 2		
+FCT_TechSystem	Name	Capacitor Recharge Rate 2.25		
+FCT_TechSystem	Name	Capacitor Recharge Rate 2.5		
+FCT_TechSystem	Name	Capacitor Recharge Rate 2.75		
+FCT_TechSystem	Name	Capacitor Recharge Rate 20		
+FCT_TechSystem	Name	Capacitor Recharge Rate 25		
+FCT_TechSystem	Name	Capacitor Recharge Rate 3		
+FCT_TechSystem	Name	Capacitor Recharge Rate 3.25		
+FCT_TechSystem	Name	Capacitor Recharge Rate 3.5		
+FCT_TechSystem	Name	Capacitor Recharge Rate 3.75		
+FCT_TechSystem	Name	Capacitor Recharge Rate 4		
+FCT_TechSystem	Name	Capacitor Recharge Rate 4.5		
+FCT_TechSystem	Name	Capacitor Recharge Rate 5		
+FCT_TechSystem	Name	Capacitor Recharge Rate 5.5		
+FCT_TechSystem	Name	Capacitor Recharge Rate 6		
+FCT_TechSystem	Name	Capacitor Recharge Rate 7		
+FCT_TechSystem	Name	Capacitor Recharge Rate 8		
+FCT_TechSystem	Name	Capacitor Recharge Rate 9		
+FCT_TechSystem	Name	Capacity 1474 Magazine: Exp 2%  HTK10		
+FCT_TechSystem	Name	Capacity 1873 Magazine: Exp 1%  HTK11		
+FCT_TechSystem	Name	Capacity 1962 Magazine: Exp 1%  HTK12		
+FCT_TechSystem	Name	Capacity 2251 Magazine: Exp 1%  HTK13		
+FCT_TechSystem	Name	Capacity 2829 Magazine: Exp 1%  HTK14		
+FCT_TechSystem	Name	Capacity 31 Magazine: Exp 11%  HTK1		
+FCT_TechSystem	Name	Capacity 34 Magazine: Exp 5%  HTK2		
+FCT_TechSystem	Name	Capacity 3773 Magazine: Exp 1%  HTK16		
+FCT_TechSystem	Name	Capacity 4693 Magazine: Exp 0%  HTK18		
+FCT_TechSystem	Name	Capacity 48 Magazine: Exp 9%  HTK1		
+FCT_TechSystem	Name	Capacity 483 Magazine: Exp 3%  HTK6		
+FCT_TechSystem	Name	Capacity 51 Magazine: Exp 4%  HTK2		
+FCT_TechSystem	Name	Capacity 597 Magazine: Exp 1%  HTK7		
+FCT_TechSystem	Name	Cargo Hold - Large		
+FCT_TechSystem	Name	Cargo Hold - Shuttle		
+FCT_TechSystem	Name	Cargo Hold - Small		
+FCT_TechSystem	Name	Cargo Hold - Standard		
+FCT_TechSystem	Name	Cargo Hold - Tiny		
+FCT_TechSystem	Name	Centurion		
+FCT_TechSystem	Name	Ceramic Composite Armour		
+FCT_TechSystem	Name	CIWS-120		
+FCT_TechSystem	Name	CIWS-160		
+FCT_TechSystem	Name	CIWS-200		
+FCT_TechSystem	Name	CIWS-250		
+FCT_TechSystem	Name	Cloak Sensor Reduction 75%		
+FCT_TechSystem	Name	Cloak Sensor Reduction 80%		
+FCT_TechSystem	Name	Cloak Sensor Reduction 85%		
+FCT_TechSystem	Name	Cloak Sensor Reduction 90%		
+FCT_TechSystem	Name	Cloak Sensor Reduction 93%		
+FCT_TechSystem	Name	Cloak Sensor Reduction 95%		
+FCT_TechSystem	Name	Cloak Sensor Reduction 97%		
+FCT_TechSystem	Name	Cloak Sensor Reduction 98%		
+FCT_TechSystem	Name	Cloak Sensor Reduction 99%		
+FCT_TechSystem	Name	Cloak Sensor Reduction 99.5%		
+FCT_TechSystem	Name	Cloaking Device: HS228-90.0%		
+FCT_TechSystem	Name	Cloaking Device: HS456-90.0%		
+FCT_TechSystem	Name	Cloaking Device: HS684-90.0%		
+FCT_TechSystem	Name	Cloaking Efficiency 10		
+FCT_TechSystem	Name	Cloaking Efficiency 12		
+FCT_TechSystem	Name	Cloaking Efficiency 15		
+FCT_TechSystem	Name	Cloaking Efficiency 3		
+FCT_TechSystem	Name	Cloaking Efficiency 4		
+FCT_TechSystem	Name	Cloaking Efficiency 5		
+FCT_TechSystem	Name	Cloaking Efficiency 6		
+FCT_TechSystem	Name	Cloaking Efficiency 8		
+FCT_TechSystem	Name	Cloaking Theory		
+FCT_TechSystem	Name	Cobalt Warhead: Strength: 10 x MSP		
+FCT_TechSystem	Name	Coherent Superdense Armour		
+FCT_TechSystem	Name	Collapsium Armour		
+FCT_TechSystem	Name	Colonization Cost Reduction 10%		
+FCT_TechSystem	Name	Colonization Cost Reduction 15%		
+FCT_TechSystem	Name	Colonization Cost Reduction 20%		
+FCT_TechSystem	Name	Colonization Cost Reduction 25%		
+FCT_TechSystem	Name	Colonization Cost Reduction 30%		
+FCT_TechSystem	Name	Colonization Cost Reduction 35%		
+FCT_TechSystem	Name	Colonization Cost Reduction 40%		
+FCT_TechSystem	Name	Colonization Cost Reduction 5%		
+FCT_TechSystem	Name	Colonization Cost Reduction 50%		
+FCT_TechSystem	Name	Combat Information Centre		
+FCT_TechSystem	Name	Commercial Damage Control		
+FCT_TechSystem	Name	Commercial Hangar Deck		
+FCT_TechSystem	Name	Commercial Inertial Fusion Drive  EP312.5		
+FCT_TechSystem	Name	Commercial Inertial Fusion Drive  EP637.50		
+FCT_TechSystem	Name	Commercial Ion Drive  EP156.25		
+FCT_TechSystem	Name	Commercial Jump Drive		
+FCT_TechSystem	Name	Commercial Magazine - Capacity 100		
+FCT_TechSystem	Name	Commercial Magazine - Capacity 500		
+FCT_TechSystem	Name	Commercial Magneto-plasma Drive  EP320.0		
+FCT_TechSystem	Name	Commercial Nuclear Pulse Engine  EP128.0		
+FCT_TechSystem	Name	Commercial Solid Core AM Drive  EP640.0		
+FCT_TechSystem	Name	Composite Armour		
+FCT_TechSystem	Name	Compressed Carbon Armour		
+FCT_TechSystem	Name	Construction Equipment		
+FCT_TechSystem	Name	Construction Rate 12 BP		
+FCT_TechSystem	Name	Construction Rate 14 BP		
+FCT_TechSystem	Name	Construction Rate 16 BP		
+FCT_TechSystem	Name	Construction Rate 20 BP		
+FCT_TechSystem	Name	Construction Rate 25 BP		
+FCT_TechSystem	Name	Construction Rate 30 BP		
+FCT_TechSystem	Name	Construction Rate 36 BP		
+FCT_TechSystem	Name	Construction Rate 42 BP		
+FCT_TechSystem	Name	Construction Rate 50 BP		
+FCT_TechSystem	Name	Construction Rate 60 BP		
+FCT_TechSystem	Name	Construction Rate 70 BP		
+FCT_TechSystem	Name	Construction Vehicle		
+FCT_TechSystem	Name	Construction Vehicles		
+FCT_TechSystem	Name	Conventional Active Sensor Strength 2		
+FCT_TechSystem	Name	Conventional Advanced Composite Armour		
+FCT_TechSystem	Name	Conventional Cargo Shuttles:		
+FCT_TechSystem	Name	Conventional Composite Armour		
+FCT_TechSystem	Name	Conventional Engine		
+FCT_TechSystem	Name	Conventional Geological Survey Sensors		
+FCT_TechSystem	Name	Conventional ICBM		
+FCT_TechSystem	Name	Conventional Reactor		
+FCT_TechSystem	Name	Conventional Steel Armour		
+FCT_TechSystem	Name	Crew Quarters		
+FCT_TechSystem	Name	Crew Quarters - Fighter		
+FCT_TechSystem	Name	Crew Quarters - Small		
+FCT_TechSystem	Name	Crew Quarters - Tiny		
+FCT_TechSystem	Name	Crew Quarters Design - 10% HS Reduction		
+FCT_TechSystem	Name	Crew Quarters Design - 20% HS Reduction		
+FCT_TechSystem	Name	Crew Quarters Design - 30% HS Reduction		
+FCT_TechSystem	Name	Crew Quarters Design - 40% HS Reduction		
+FCT_TechSystem	Name	Crew Quarters Design - 50% HS Reduction		
+FCT_TechSystem	Name	Crew Quarters Design - 60% HS Reduction		
+FCT_TechSystem	Name	Crew Quarters Design - 68% HS Reduction		
+FCT_TechSystem	Name	Crew Quarters Design - 75% HS Reduction		
+FCT_TechSystem	Name	Crew Quarters Design - Standard		
+FCT_TechSystem	Name	Crew-Served Anti-Personnel Weapon: AP 1 DAM 1 SHOTS 6		
+FCT_TechSystem	Name	Cryogenic Transport		
+FCT_TechSystem	Name	Cryogenic Transport - Conventional		
+FCT_TechSystem	Name	Cryogenic Transport - Emergency		
+FCT_TechSystem	Name	Cryogenic Transport - Large		
+FCT_TechSystem	Name	Cryogenic Transport - Small		
+FCT_TechSystem	Name	Crystalline Composite Armour		
+FCT_TechSystem	Name	Dagger  STO		
+FCT_TechSystem	Name	Dagger Anti-Ship Missile		
+FCT_TechSystem	Name	Damage Control		
+FCT_TechSystem	Name	Dart Anti-Ship Missile		
+FCT_TechSystem	Name	Dart Medium Tank		
+FCT_TechSystem	Name	Decontamination Equipment		
+FCT_TechSystem	Name	Decoy Missiles		
+FCT_TechSystem	Name	Decurion Support Mech		
+FCT_TechSystem	Name	Delta Shields		
+FCT_TechSystem	Name	Desert Warfare Capability		
+FCT_TechSystem	Name	Diplomacy Module		
+FCT_TechSystem	Name	Direct Fire Control R128-TS4760		
+FCT_TechSystem	Name	Direct Fire Control R160-TS5700		
+FCT_TechSystem	Name	Direct Fire Control R192-TS12375		
+FCT_TechSystem	Name	Direct Fire Control R192-TS12688		
+FCT_TechSystem	Name	Direct Fire Control R192-TS2730		
+FCT_TechSystem	Name	Direct Fire Control R256-TS4760		
+FCT_TechSystem	Name	Direct Fire Control R320-TS5700		
+FCT_TechSystem	Name	Direct Fire Control R36-TS6400 (SW)		
+FCT_TechSystem	Name	Direct Fire Control R384-TS12375		
+FCT_TechSystem	Name	Direct Fire Control R384-TS12688		
+FCT_TechSystem	Name	Direct Fire Control R48-TS12000		
+FCT_TechSystem	Name	Direct Fire Control R48-TS12500 (SW)		
+FCT_TechSystem	Name	Direct Fire Control R60-TS16000 (SW)		
+FCT_TechSystem	Name	Direct Fire Control R64-TS16000		
+FCT_TechSystem	Name	Direct Fire Control R72-TS25000 (SW)		
+FCT_TechSystem	Name	Direct Fire Control R80-TS20000		
+FCT_TechSystem	Name	Direct Fire Control R96-TS25000		
+FCT_TechSystem	Name	Direct Fire Control R96-TS2730		
+FCT_TechSystem	Name	Duranium Armour		
+FCT_TechSystem	Name	Electronic Counter-countermeasures - 0		
+FCT_TechSystem	Name	Electronic Counter-countermeasures - 1		
+FCT_TechSystem	Name	Electronic Counter-countermeasures - 10		
+FCT_TechSystem	Name	Electronic Counter-countermeasures - 2		
+FCT_TechSystem	Name	Electronic Counter-countermeasures - 3		
+FCT_TechSystem	Name	Electronic Counter-countermeasures - 4		
+FCT_TechSystem	Name	Electronic Counter-countermeasures - 5		
+FCT_TechSystem	Name	Electronic Counter-countermeasures - 6		
+FCT_TechSystem	Name	Electronic Counter-countermeasures - 7		
+FCT_TechSystem	Name	Electronic Counter-countermeasures - 8		
+FCT_TechSystem	Name	Electronic Counter-countermeasures - 9		
+FCT_TechSystem	Name	Electronic Hardening Level 0		
+FCT_TechSystem	Name	Electronic Hardening Level 1		
+FCT_TechSystem	Name	Electronic Hardening Level 2		
+FCT_TechSystem	Name	Electronic Hardening Level 3		
+FCT_TechSystem	Name	Electronic Hardening Level 4		
+FCT_TechSystem	Name	Electronic Hardening Level 5		
+FCT_TechSystem	Name	Electronic Hardening Level 6		
+FCT_TechSystem	Name	Electronic Intelligence and Analysis Module - Strength 11		
+FCT_TechSystem	Name	Electronic Intelligence and Analysis Module - Strength 14		
+FCT_TechSystem	Name	Electronic Intelligence and Analysis Module - Strength 5		
+FCT_TechSystem	Name	Electronic Intelligence and Analysis Module - Strength 6		
+FCT_TechSystem	Name	Electronic Intelligence and Analysis Module - Strength 8		
+FCT_TechSystem	Name	Electronic Warfare		
+FCT_TechSystem	Name	Elite Infantry		
+FCT_TechSystem	Name	EM Sensor EM1-14		
+FCT_TechSystem	Name	EM Sensor EM1-6		
+FCT_TechSystem	Name	EM Sensor EM1-8		
+FCT_TechSystem	Name	EM Sensor EM2-12		
+FCT_TechSystem	Name	EM Sensor EM2-16		
+FCT_TechSystem	Name	EM Sensor EM2-28		
+FCT_TechSystem	Name	EM Sensor EM3-18		
+FCT_TechSystem	Name	EM Sensor EM3-24		
+FCT_TechSystem	Name	EM Sensor EM3-42		
+FCT_TechSystem	Name	EM Sensor EM6-36		
+FCT_TechSystem	Name	EM Sensor EM6-48		
+FCT_TechSystem	Name	EM Sensor EM6-84		
+FCT_TechSystem	Name	EM Sensor Sensitivity 11		
+FCT_TechSystem	Name	EM Sensor Sensitivity 14		
+FCT_TechSystem	Name	EM Sensor Sensitivity 18		
+FCT_TechSystem	Name	EM Sensor Sensitivity 24		
+FCT_TechSystem	Name	EM Sensor Sensitivity 32		
+FCT_TechSystem	Name	EM Sensor Sensitivity 40		
+FCT_TechSystem	Name	EM Sensor Sensitivity 5		
+FCT_TechSystem	Name	EM Sensor Sensitivity 50		
+FCT_TechSystem	Name	EM Sensor Sensitivity 6		
+FCT_TechSystem	Name	EM Sensor Sensitivity 60		
+FCT_TechSystem	Name	EM Sensor Sensitivity 75		
+FCT_TechSystem	Name	EM Sensor Sensitivity 8		
+FCT_TechSystem	Name	Engineering Section		
+FCT_TechSystem	Name	Engineering Section - Fighter		
+FCT_TechSystem	Name	Engineering Section - Small		
+FCT_TechSystem	Name	Engineering Section - Tiny		
+FCT_TechSystem	Name	Enhanced Radiation Warhead (20% Yield, 5x Rad)		
+FCT_TechSystem	Name	Enhanced Radiation Warhead (25% Yield, 4x Rad)		
+FCT_TechSystem	Name	Enhanced Radiation Warhead (33% Yield, 3x Rad)		
+FCT_TechSystem	Name	Enhanced Radiation Warhead (50% Yield, 2x Rad)		
+FCT_TechSystem	Name	Epsilon Shields		
+FCT_TechSystem	Name	Extreme Pressure Capability		
+FCT_TechSystem	Name	Extreme Temperature Capability		
+FCT_TechSystem	Name	Extreme X-ray Laser		
+FCT_TechSystem	Name	Far Gamma Ray Laser		
+FCT_TechSystem	Name	Far Ultraviolet Laser		
+FCT_TechSystem	Name	Far X-Ray Laser		
+FCT_TechSystem	Name	Fighter Maintenance Storage		
+FCT_TechSystem	Name	Fighter Only		
+FCT_TechSystem	Name	Fighter Production Rate 12 BP		
+FCT_TechSystem	Name	Fighter Production Rate 14 BP		
+FCT_TechSystem	Name	Fighter Production Rate 16 BP		
+FCT_TechSystem	Name	Fighter Production Rate 20 BP		
+FCT_TechSystem	Name	Fighter Production Rate 25 BP		
+FCT_TechSystem	Name	Fighter Production Rate 30 BP		
+FCT_TechSystem	Name	Fighter Production Rate 35 BP		
+FCT_TechSystem	Name	Fighter Production Rate 40 BP		
+FCT_TechSystem	Name	Fighter Production Rate 50 BP		
+FCT_TechSystem	Name	Fighter Production Rate 60 BP		
+FCT_TechSystem	Name	Fighter Production Rate 70 BP		
+FCT_TechSystem	Name	Fire Control 0.25x Size 0.25x Range		
+FCT_TechSystem	Name	Fire Control 0.2x Size 0.2x Range		
+FCT_TechSystem	Name	Fire Control 0.3x Size 0.3x Range		
+FCT_TechSystem	Name	Fire Control 0.4x Size 0.4x Range		
+FCT_TechSystem	Name	Fire Control 0.5x Size 0.5x Range		
+FCT_TechSystem	Name	Fire Control 0.5x Size 0.5x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 0.6x Size 0.6x Range		
+FCT_TechSystem	Name	Fire Control 0.75x Size 0.75x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 0.7x Size 0.7x Range		
+FCT_TechSystem	Name	Fire Control 0.8x Size 0.8x Range		
+FCT_TechSystem	Name	Fire Control 0.9x Size 0.9x Range		
+FCT_TechSystem	Name	Fire Control 1.05x Size 1.05x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 1.15x Size 1.15x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 1.1x Size 1.1x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 1.25x Size 1.25x Range		
+FCT_TechSystem	Name	Fire Control 1.25x Size 1.25x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 1.2x Size 1.2x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 1.35x Size 1.35x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 1.3x Size 1.3x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 1.45x Size 1.45x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 1.4x Size 1.4x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 1.5x Size 1.5x Range		
+FCT_TechSystem	Name	Fire Control 1.5x Size 1.5x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 1.6x Size 1.6x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 1.75x Size 1.75x Range		
+FCT_TechSystem	Name	Fire Control 1.7x Size 1.7x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 1.8x Size 1.8x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 1.9x Size 1.9x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 2.1x Size 2.1x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 2.25x Size 2.25x Range		
+FCT_TechSystem	Name	Fire Control 2.2x Size 2.2x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 2.3x Size 2.3x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 2.4x Size 2.4x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 2.5x Size 2.5x Range		
+FCT_TechSystem	Name	Fire Control 2.5x Size 2.5x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 2.6x Size 2.6x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 2.75x Size 2.75x Range		
+FCT_TechSystem	Name	Fire Control 2.7x Size 2.7x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 2.8x Size 2.8x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 2.9x Size 2.9x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 2x Size 2x Range		
+FCT_TechSystem	Name	Fire Control 2x Size 2x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 3.1x Size 3.1x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 3.2x Size 3.2x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 3.3x Size 3.3x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 3.4x Size 3.4x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 3.5x Size 3.5x Range		
+FCT_TechSystem	Name	Fire Control 3.5x Size 3.5x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 3.6x Size 3.6x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 3.7x Size 3.7x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 3.8x Size 3.8x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 3.9x Size 3.9x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 3x Size 3x Range		
+FCT_TechSystem	Name	Fire Control 3x Size 3x Tracking Speed		
+FCT_TechSystem	Name	Fire Control 4x Size 4x Range		
+FCT_TechSystem	Name	Fire Control 4x Size 4x Tracking Speed		
+FCT_TechSystem	Name	Fire Control Jammer 1		
+FCT_TechSystem	Name	Fire Control Jammer 10		
+FCT_TechSystem	Name	Fire Control Jammer 2		
+FCT_TechSystem	Name	Fire Control Jammer 3		
+FCT_TechSystem	Name	Fire Control Jammer 4		
+FCT_TechSystem	Name	Fire Control Jammer 5		
+FCT_TechSystem	Name	Fire Control Jammer 6		
+FCT_TechSystem	Name	Fire Control Jammer 7		
+FCT_TechSystem	Name	Fire Control Jammer 8		
+FCT_TechSystem	Name	Fire Control Jammer 9		
+FCT_TechSystem	Name	Fire Control Range 120,000 km		
+FCT_TechSystem	Name	Fire Control Range 150,000 km		
+FCT_TechSystem	Name	Fire Control Range 20,000 km		
+FCT_TechSystem	Name	Fire Control Range 200,000 km		
+FCT_TechSystem	Name	Fire Control Range 250,000 km		
+FCT_TechSystem	Name	Fire Control Range 300,000 km		
+FCT_TechSystem	Name	Fire Control Range 32,000 km		
+FCT_TechSystem	Name	Fire Control Range 350,000 km		
+FCT_TechSystem	Name	Fire Control Range 48,000 km		
+FCT_TechSystem	Name	Fire Control Range 64,000 km		
+FCT_TechSystem	Name	Fire Control Range 80,000 km		
+FCT_TechSystem	Name	Fire Control Range 96,000 km		
+FCT_TechSystem	Name	Fire Control Speed Rating 10,000 km/s		
+FCT_TechSystem	Name	Fire Control Speed Rating 12,500 km/s		
+FCT_TechSystem	Name	Fire Control Speed Rating 1250 km/s		
+FCT_TechSystem	Name	Fire Control Speed Rating 15,000 km/s		
+FCT_TechSystem	Name	Fire Control Speed Rating 20,000 km/s		
+FCT_TechSystem	Name	Fire Control Speed Rating 2000 km/s		
+FCT_TechSystem	Name	Fire Control Speed Rating 25,000 km/s		
+FCT_TechSystem	Name	Fire Control Speed Rating 3000 km/s		
+FCT_TechSystem	Name	Fire Control Speed Rating 4000 km/s		
+FCT_TechSystem	Name	Fire Control Speed Rating 5000 km/s		
+FCT_TechSystem	Name	Fire Control Speed Rating 6250 km/s		
+FCT_TechSystem	Name	Fire Control Speed Rating 8000 km/s		
+FCT_TechSystem	Name	Flag Bridge		
+FCT_TechSystem	Name	Forward Fire Direction		
+FCT_TechSystem	Name	Fuel Consumption: 0.1 Litres per Engine Power Hour		
+FCT_TechSystem	Name	Fuel Consumption: 0.125 Litres per Engine Power Hour		
+FCT_TechSystem	Name	Fuel Consumption: 0.16 Litres per Engine Power Hour		
+FCT_TechSystem	Name	Fuel Consumption: 0.2 Litres per Engine Power Hour		
+FCT_TechSystem	Name	Fuel Consumption: 0.25 Litres per Engine Power Hour		
+FCT_TechSystem	Name	Fuel Consumption: 0.3 Litres per Engine Power Hour		
+FCT_TechSystem	Name	Fuel Consumption: 0.4 Litres per Engine Power Hour		
+FCT_TechSystem	Name	Fuel Consumption: 0.5 Litres per Engine Power Hour		
+FCT_TechSystem	Name	Fuel Consumption: 0.6 Litres per Engine Power Hour		
+FCT_TechSystem	Name	Fuel Consumption: 0.7 Litres per Engine Power Hour		
+FCT_TechSystem	Name	Fuel Consumption: 0.8 Litres per Engine Power Hour		
+FCT_TechSystem	Name	Fuel Consumption: 0.9 Litres per Engine Power Hour		
+FCT_TechSystem	Name	Fuel Consumption: 1 Litre per Engine Power Hour		
+FCT_TechSystem	Name	Fuel Production 100,000 Litres		
+FCT_TechSystem	Name	Fuel Production 120,000 Litres		
+FCT_TechSystem	Name	Fuel Production 144,000 Litres		
+FCT_TechSystem	Name	Fuel Production 168,000 Litres		
+FCT_TechSystem	Name	Fuel Production 200,000 Litres		
+FCT_TechSystem	Name	Fuel Production 240,000 Litres		
+FCT_TechSystem	Name	Fuel Production 280,000 Litres		
+FCT_TechSystem	Name	Fuel Production 48,000 Litres		
+FCT_TechSystem	Name	Fuel Production 56,000 Litres		
+FCT_TechSystem	Name	Fuel Production 64,000 Litres		
+FCT_TechSystem	Name	Fuel Production 80,000 Litres		
+FCT_TechSystem	Name	Fuel Storage		
+FCT_TechSystem	Name	Fuel Storage - Fighter		
+FCT_TechSystem	Name	Fuel Storage - Large		
+FCT_TechSystem	Name	Fuel Storage - Minimal		
+FCT_TechSystem	Name	Fuel Storage - Small		
+FCT_TechSystem	Name	Fuel Storage - Tiny		
+FCT_TechSystem	Name	Fuel Storage - Ultra Large		
+FCT_TechSystem	Name	Fuel Storage - Very Large		
+FCT_TechSystem	Name	Fusion-boosted Fission Warhead: Strength: 5 x MSP		
+FCT_TechSystem	Name	Gamma Ray Laser		
+FCT_TechSystem	Name	Gamma Shields		
+FCT_TechSystem	Name	Gas Core Anti-matter Drive		
+FCT_TechSystem	Name	Gas-core Anti-matter Power Plant		
+FCT_TechSystem	Name	Gaseous Fission Reactor		
+FCT_TechSystem	Name	Gauss Cannon Launch Velocity 10,000		
+FCT_TechSystem	Name	Gauss Cannon Launch Velocity 20,000		
+FCT_TechSystem	Name	Gauss Cannon Launch Velocity 30,000		
+FCT_TechSystem	Name	Gauss Cannon Launch Velocity 40,000		
+FCT_TechSystem	Name	Gauss Cannon Launch Velocity 50,000		
+FCT_TechSystem	Name	Gauss Cannon Launch Velocity 60,000		
+FCT_TechSystem	Name	Gauss Cannon R100-100		
+FCT_TechSystem	Name	Gauss Cannon R200-100		
+FCT_TechSystem	Name	Gauss Cannon R400-100		
+FCT_TechSystem	Name	Gauss Cannon Rate of Fire 2		
+FCT_TechSystem	Name	Gauss Cannon Rate of Fire 3		
+FCT_TechSystem	Name	Gauss Cannon Rate of Fire 4		
+FCT_TechSystem	Name	Gauss Cannon Rate of Fire 5		
+FCT_TechSystem	Name	Gauss Cannon Rate of Fire 6		
+FCT_TechSystem	Name	Gauss Cannon Rate of Fire 8		
+FCT_TechSystem	Name	Gauss Cannon Size vs Accuracy 0.5HS and 8%		
+FCT_TechSystem	Name	Gauss Cannon Size vs Accuracy 0.6HS and 10%		
+FCT_TechSystem	Name	Gauss Cannon Size vs Accuracy 0.75HS and 12.5%		
+FCT_TechSystem	Name	Gauss Cannon Size vs Accuracy 1.5HS and 25%		
+FCT_TechSystem	Name	Gauss Cannon Size vs Accuracy 1HS and 17%		
+FCT_TechSystem	Name	Gauss Cannon Size vs Accuracy 2HS and 33%		
+FCT_TechSystem	Name	Gauss Cannon Size vs Accuracy 3HS and 50%		
+FCT_TechSystem	Name	Gauss Cannon Size vs Accuracy 4HS and 67%		
+FCT_TechSystem	Name	Gauss Cannon Size vs Accuracy 5HS and 85%		
+FCT_TechSystem	Name	Gauss Cannon Size vs Accuracy 6HS and 100%		
+FCT_TechSystem	Name	Genetic Conversion Rate 1.25m		
+FCT_TechSystem	Name	Genetic Conversion Rate 1.6m		
+FCT_TechSystem	Name	Genetic Conversion Rate 1m		
+FCT_TechSystem	Name	Genetic Conversion Rate 2.5m		
+FCT_TechSystem	Name	Genetic Conversion Rate 2m		
+FCT_TechSystem	Name	Genetic Conversion Rate 3.2m		
+FCT_TechSystem	Name	Genetic Conversion Rate 4m		
+FCT_TechSystem	Name	Genetic Conversion Rate 500k		
+FCT_TechSystem	Name	Genetic Conversion Rate 5m		
+FCT_TechSystem	Name	Genetic Conversion Rate 640k		
+FCT_TechSystem	Name	Genetic Conversion Rate 800k		
+FCT_TechSystem	Name	Genome Sequence Research		
+FCT_TechSystem	Name	Genome Sequence: Base Gravity +10%		
+FCT_TechSystem	Name	Genome Sequence: Base Gravity +20%		
+FCT_TechSystem	Name	Genome Sequence: Base Gravity +30%		
+FCT_TechSystem	Name	Genome Sequence: Base Gravity +40%		
+FCT_TechSystem	Name	Genome Sequence: Base Gravity +50%		
+FCT_TechSystem	Name	Genome Sequence: Base Gravity +60%		
+FCT_TechSystem	Name	Genome Sequence: Base Gravity -15%		
+FCT_TechSystem	Name	Genome Sequence: Base Gravity -30%		
+FCT_TechSystem	Name	Genome Sequence: Base Gravity -45%		
+FCT_TechSystem	Name	Genome Sequence: Base Gravity -60%		
+FCT_TechSystem	Name	Genome Sequence: Base Gravity -75%		
+FCT_TechSystem	Name	Genome Sequence: Base Gravity -90%		
+FCT_TechSystem	Name	Genome Sequence: Base Oxygen Level +120%		
+FCT_TechSystem	Name	Genome Sequence: Base Oxygen Level +150%		
+FCT_TechSystem	Name	Genome Sequence: Base Oxygen Level +20%		
+FCT_TechSystem	Name	Genome Sequence: Base Oxygen Level +40%		
+FCT_TechSystem	Name	Genome Sequence: Base Oxygen Level +60%		
+FCT_TechSystem	Name	Genome Sequence: Base Oxygen Level +90%		
+FCT_TechSystem	Name	Genome Sequence: Base Oxygen Level -10%		
+FCT_TechSystem	Name	Genome Sequence: Base Oxygen Level -20%		
+FCT_TechSystem	Name	Genome Sequence: Base Oxygen Level -30%		
+FCT_TechSystem	Name	Genome Sequence: Base Oxygen Level -45%		
+FCT_TechSystem	Name	Genome Sequence: Base Oxygen Level -60%		
+FCT_TechSystem	Name	Genome Sequence: Base Oxygen Level -75%		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature +12.5C		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature +20C		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature +30C		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature +45C		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature +65C		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature +8C		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature +90C		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature -12.5C		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature -20C		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature -30C		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature -45C		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature -65C		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature -8C		
+FCT_TechSystem	Name	Genome Sequence: Base Temperature -90C		
+FCT_TechSystem	Name	Genome Sequence: Normal Base Temperature		
+FCT_TechSystem	Name	Genome Sequence: Normal Gravity		
+FCT_TechSystem	Name	Genome Sequence: Normal Oxygen Level		
+FCT_TechSystem	Name	Genome Sequence: Normal Temperature Range		
+FCT_TechSystem	Name	Genome Sequence: Temperature Range +12.5 degrees		
+FCT_TechSystem	Name	Genome Sequence: Temperature Range +20 degrees		
+FCT_TechSystem	Name	Genome Sequence: Temperature Range +3 degrees		
+FCT_TechSystem	Name	Genome Sequence: Temperature Range +30 degrees		
+FCT_TechSystem	Name	Genome Sequence: Temperature Range +45 degrees		
+FCT_TechSystem	Name	Genome Sequence: Temperature Range +5 degrees		
+FCT_TechSystem	Name	Genome Sequence: Temperature Range +8 degrees		
+FCT_TechSystem	Name	Geological Survey Sensors		
+FCT_TechSystem	Name	GeoSurvey		
+FCT_TechSystem	Name	Geosurvey Equipment		
+FCT_TechSystem	Name	Gravatonic Warhead: Strength: 30 x MSP		
+FCT_TechSystem	Name	Gravitational Survey Sensors		
+FCT_TechSystem	Name	Ground Force Logistics Module		
+FCT_TechSystem	Name	Ground Force Logistics Module - Small		
+FCT_TechSystem	Name	Ground Forces Headquarters		
+FCT_TechSystem	Name	Ground Formation Construction Rate - 1000		
+FCT_TechSystem	Name	Ground Formation Construction Rate - 1250		
+FCT_TechSystem	Name	Ground Formation Construction Rate - 1600		
+FCT_TechSystem	Name	Ground Formation Construction Rate - 2000		
+FCT_TechSystem	Name	Ground Formation Construction Rate - 250		
+FCT_TechSystem	Name	Ground Formation Construction Rate - 320		
+FCT_TechSystem	Name	Ground Formation Construction Rate - 400		
+FCT_TechSystem	Name	Ground Formation Construction Rate - 500		
+FCT_TechSystem	Name	Ground Formation Construction Rate - 625		
+FCT_TechSystem	Name	Ground Formation Construction Rate - 800		
+FCT_TechSystem	Name	Ground Unit Base Type - Heavy Vehicle		
+FCT_TechSystem	Name	Ground Unit Base Type - Infantry		
+FCT_TechSystem	Name	Ground Unit Base Type - Light Vehicle		
+FCT_TechSystem	Name	Ground Unit Base Type - Static		
+FCT_TechSystem	Name	Ground Unit Base Type - Super-Heavy Vehicle		
+FCT_TechSystem	Name	Ground Unit Base Type - Ultra-Heavy Vehicle		
+FCT_TechSystem	Name	Ground Unit Base Type - Vehicle		
+FCT_TechSystem	Name	Gun-Type Fission Warhead: Strength: 2 x MSP		
+FCT_TechSystem	Name	Hangar Deck		
+FCT_TechSystem	Name	Hangar Deck - Small		
+FCT_TechSystem	Name	Hangar Deck - Tiny		
+FCT_TechSystem	Name	Heavy Anti-Air Weapons: AP 3, DAM 6 SHOT 1		
+FCT_TechSystem	Name	Heavy Anti-Vehicle Weapon: AP 6 DAM 6 SHOT 1		
+FCT_TechSystem	Name	Heavy Autocannon: AP 5 DAM 2 SHOT 3		
+FCT_TechSystem	Name	Heavy Bombardment Weapon: AP 2, DAM 6, SHOTS 3		
+FCT_TechSystem	Name	Heavy Crew-Served Anti-Personnel: AP 1.5 DAM 1 SHOTS 6		
+FCT_TechSystem	Name	Heavy Infantry		
+FCT_TechSystem	Name	Heavy Powered Infantry Armour - ARM 2		
+FCT_TechSystem	Name	Heavy Static Armour- ARM 3		
+FCT_TechSystem	Name	Heavy Vehicle Armour - ARM 6		
+FCT_TechSystem	Name	High Density Duranium Armour		
+FCT_TechSystem	Name	High Gravity Capability		
+FCT_TechSystem	Name	ICBM Launch Control		
+FCT_TechSystem	Name	Implosion Fission Warhead: Strength: 3 x MSP		
+FCT_TechSystem	Name	Improved Cargo Shuttles		
+FCT_TechSystem	Name	Improved Command and Control		
+FCT_TechSystem	Name	Improved Damage Control		
+FCT_TechSystem	Name	Improved Geological Sensors		
+FCT_TechSystem	Name	Improved Gravitational Sensors		
+FCT_TechSystem	Name	Improved Personal Weapon: AP 1.25 DAM 1.25 SHOTS 1		
+FCT_TechSystem	Name	Inertial Confinement Fusion Drive		
+FCT_TechSystem	Name	Inertial Confinement Fusion Reactor		
+FCT_TechSystem	Name	Inertial Confinement Fusion Reactor R77		
+FCT_TechSystem	Name	Inertial Fusion Drive  EP1772.25		
+FCT_TechSystem	Name	Inertial Fusion Drive  EP225.00		
+FCT_TechSystem	Name	Inertial Fusion Drive  EP250		
+FCT_TechSystem	Name	Infantry		
+FCT_TechSystem	Name	Infantry Advanced Genetic Enhancement		
+FCT_TechSystem	Name	Infantry Basic Genetic Enhancement		
+FCT_TechSystem	Name	Infantry Brigade HQ		
+FCT_TechSystem	Name	Infantry HQ		
+FCT_TechSystem	Name	Infantry Improved Genetic Enhancement		
+FCT_TechSystem	Name	Infrared Laser		
+FCT_TechSystem	Name	Ion Drive		
+FCT_TechSystem	Name	Ion Drive  EP125.0		
+FCT_TechSystem	Name	Ion Drive  EP446.25		
+FCT_TechSystem	Name	Ion Drive  EP540.75		
+FCT_TechSystem	Name	Ion Drive  EP87.50		
+FCT_TechSystem	Name	J13950(6-500) Military Jump Drive		
+FCT_TechSystem	Name	J27900(6-500) Military Jump Drive		
+FCT_TechSystem	Name	J41850(6-500) Military Jump Drive		
+FCT_TechSystem	Name	J6000(6-500) Military Jump Drive		
+FCT_TechSystem	Name	J83700(6-500) Military Jump Drive		
+FCT_TechSystem	Name	Jump Point Stabilisation Module 120		
+FCT_TechSystem	Name	Jump Point Stabilisation Module 150		
+FCT_TechSystem	Name	Jump Point Stabilisation Module 180		
+FCT_TechSystem	Name	Jump Point Stabilisation Module 20		
+FCT_TechSystem	Name	Jump Point Stabilisation Module 30		
+FCT_TechSystem	Name	Jump Point Stabilisation Module 45		
+FCT_TechSystem	Name	Jump Point Stabilisation Module 60		
+FCT_TechSystem	Name	Jump Point Stabilisation Module 90		
+FCT_TechSystem	Name	Jump Point Theory		
+FCT_TechSystem	Name	Jungle Warfare Capability		
+FCT_TechSystem	Name	Knife  Mobile Artillery		
+FCT_TechSystem	Name	Knife Anti-Ship Missile		
+FCT_TechSystem	Name	Kukri Ship Decoy		
+FCT_TechSystem	Name	Laminate Composite Armour		
+FCT_TechSystem	Name	Lance  Tank HQ		
+FCT_TechSystem	Name	Lance Ship Decoy		
+FCT_TechSystem	Name	Large Maintenance Storage		
+FCT_TechSystem	Name	Laser Warhead Damage Efficiency 20%		
+FCT_TechSystem	Name	Laser Warhead Damage Efficiency 25%		
+FCT_TechSystem	Name	Laser Warhead Damage Efficiency 32%		
+FCT_TechSystem	Name	Laser Warhead Damage Efficiency 40%		
+FCT_TechSystem	Name	Laser Warhead Damage Efficiency 48%		
+FCT_TechSystem	Name	Laser Warhead Damage Efficiency 60%		
+FCT_TechSystem	Name	Laser Warhead Damage Efficiency 75%		
+FCT_TechSystem	Name	Laser Warhead Damage Efficiency 90%		
+FCT_TechSystem	Name	Laser Warhead Focus - 10K		
+FCT_TechSystem	Name	Laser Warhead Focus - 20K		
+FCT_TechSystem	Name	Laser Warhead Focus - 30K		
+FCT_TechSystem	Name	Laser Warhead Focus - 40K		
+FCT_TechSystem	Name	Laser Warhead Focus - 50K		
+FCT_TechSystem	Name	Laser Warhead Focus - 60K		
+FCT_TechSystem	Name	Laser Warhead Focus - 70K		
+FCT_TechSystem	Name	Laser Warhead Focus - 80K		
+FCT_TechSystem	Name	Levitated-Pit Implosion Warhead: Strength: 4 x MSP		
+FCT_TechSystem	Name	Light Anti-Air Weapons: AP 1 DAM 2, SHOT 1		
+FCT_TechSystem	Name	Light Anti-Vehicle Weapon: AP 2 DAM 6 SHOT 1		
+FCT_TechSystem	Name	Light Autocannon: AP 2 DAM 2 SHOT 3		
+FCT_TechSystem	Name	Light Bombardment Weapon: AP 1, DAM 2, SHOTS 3		
+FCT_TechSystem	Name	Light Infantry Armour- ARM 1		
+FCT_TechSystem	Name	Light Personal Weapon: AP 0.5 DAM 0.5 SHOTS 1		
+FCT_TechSystem	Name	Light Static Armour - ARM 1		
+FCT_TechSystem	Name	Light Vehicle Armour - ARM 2		
+FCT_TechSystem	Name	Long Range Bombardment Weapon: AP 1.5, DAM 4, SHOTS 3		
+FCT_TechSystem	Name	Low Gravity Capability		
+FCT_TechSystem	Name	Magazine Feed System Efficiency - 75%		
+FCT_TechSystem	Name	Magazine Feed System Efficiency - 80%		
+FCT_TechSystem	Name	Magazine Feed System Efficiency - 85%		
+FCT_TechSystem	Name	Magazine Feed System Efficiency - 90%		
+FCT_TechSystem	Name	Magazine Feed System Efficiency - 92%		
+FCT_TechSystem	Name	Magazine Feed System Efficiency - 94%		
+FCT_TechSystem	Name	Magazine Feed System Efficiency - 96%		
+FCT_TechSystem	Name	Magazine Feed System Efficiency - 98%		
+FCT_TechSystem	Name	Magazine Feed System Efficiency - 99%		
+FCT_TechSystem	Name	Magazine Neutralization System - 70% Chance		
+FCT_TechSystem	Name	Magazine Neutralization System - 80% Chance		
+FCT_TechSystem	Name	Magazine Neutralization System - 85% Chance		
+FCT_TechSystem	Name	Magazine Neutralization System - 90% Chance		
+FCT_TechSystem	Name	Magazine Neutralization System - 93% Chance		
+FCT_TechSystem	Name	Magazine Neutralization System - 95% Chance		
+FCT_TechSystem	Name	Magazine Neutralization System - 97% Chance		
+FCT_TechSystem	Name	Magazine Neutralization System - 98% Chance		
+FCT_TechSystem	Name	Magazine Neutralization System - 99% Chance		
+FCT_TechSystem	Name	Magnetic Confinement Fusion Drive		
+FCT_TechSystem	Name	Magnetic Mirror Fusion Reactor		
+FCT_TechSystem	Name	Magnetic Mirror Fusion Reactor R10		
+FCT_TechSystem	Name	Magnetic Mirror Fusion Reactor R16		
+FCT_TechSystem	Name	Magnetic Mirror Fusion Reactor R19		
+FCT_TechSystem	Name	Magneto-plasma Drive		
+FCT_TechSystem	Name	Magneto-plasma Drive  EP13.54		
+FCT_TechSystem	Name	Magneto-plasma Drive  EP156.00		
+FCT_TechSystem	Name	Magneto-plasma Drive  EP160		
+FCT_TechSystem	Name	Magneto-plasma Drive  EP20.30		
+FCT_TechSystem	Name	Magneto-plasma Drive  EP3.86		
+FCT_TechSystem	Name	Magneto-plasma Drive  EP447.20		
+FCT_TechSystem	Name	Magneto-plasma Drive  EP688		
+FCT_TechSystem	Name	Main Engineering		
+FCT_TechSystem	Name	Maintenance Module		
+FCT_TechSystem	Name	Maintenance Production Rate 100 MSP		
+FCT_TechSystem	Name	Maintenance Production Rate 20 MSP		
+FCT_TechSystem	Name	Maintenance Production Rate 24 MSP		
+FCT_TechSystem	Name	Maintenance Production Rate 30 MSP		
+FCT_TechSystem	Name	Maintenance Production Rate 36 MSP		
+FCT_TechSystem	Name	Maintenance Production Rate 42 MSP		
+FCT_TechSystem	Name	Maintenance Production Rate 50 MSP		
+FCT_TechSystem	Name	Maintenance Production Rate 60 MSP		
+FCT_TechSystem	Name	Maintenance Production Rate 72 MSP		
+FCT_TechSystem	Name	Maintenance Production Rate 85 MSP		
+FCT_TechSystem	Name	Maintenance Storage		
+FCT_TechSystem	Name	Maintenance Support per Facility: 1000 Tons		
+FCT_TechSystem	Name	Maintenance Support per Facility: 1250 Tons		
+FCT_TechSystem	Name	Maintenance Support per Facility: 1600 Tons		
+FCT_TechSystem	Name	Maintenance Support per Facility: 2000 Tons		
+FCT_TechSystem	Name	Maintenance Support per Facility: 2500 Tons		
+FCT_TechSystem	Name	Maintenance Support per Facility: 3200 Tons		
+FCT_TechSystem	Name	Maintenance Support per Facility: 4000 Tons		
+FCT_TechSystem	Name	Maintenance Support per Facility: 5000 Tons		
+FCT_TechSystem	Name	Maintenance Support per Facility: 6250 Tons		
+FCT_TechSystem	Name	Max Jump Squadron Size - 10 (Cost x 2.25)		
+FCT_TechSystem	Name	Max Jump Squadron Size - 11 (Cost x 2.5)		
+FCT_TechSystem	Name	Max Jump Squadron Size - 12 (Cost x 3)		
+FCT_TechSystem	Name	Max Jump Squadron Size - 3 (Cost x 1.0)		
+FCT_TechSystem	Name	Max Jump Squadron Size - 4 (Cost x 1.1)		
+FCT_TechSystem	Name	Max Jump Squadron Size - 5 (Cost x 1.2)		
+FCT_TechSystem	Name	Max Jump Squadron Size - 6 (Cost x 1.3)		
+FCT_TechSystem	Name	Max Jump Squadron Size - 7 (Cost x 1.5)		
+FCT_TechSystem	Name	Max Jump Squadron Size - 8 (Cost x 1.75)		
+FCT_TechSystem	Name	Max Jump Squadron Size - 9 (Cost x 2)		
+FCT_TechSystem	Name	Max Squadron Jump Radius - 1000k (Cost x 1.75)		
+FCT_TechSystem	Name	Max Squadron Jump Radius - 100k (Cost x 1.1)		
+FCT_TechSystem	Name	Max Squadron Jump Radius - 1500k (Cost x 2)		
+FCT_TechSystem	Name	Max Squadron Jump Radius - 2000k (Cost x 2.25)		
+FCT_TechSystem	Name	Max Squadron Jump Radius - 2500k (Cost x 2.5)		
+FCT_TechSystem	Name	Max Squadron Jump Radius - 250k (Cost x 1.2)		
+FCT_TechSystem	Name	Max Squadron Jump Radius - 3000k (Cost x 3)		
+FCT_TechSystem	Name	Max Squadron Jump Radius - 4000k (Cost x 3.6)		
+FCT_TechSystem	Name	Max Squadron Jump Radius - 500k (Cost x 1.3)		
+FCT_TechSystem	Name	Max Squadron Jump Radius - 50k (Cost x 1.0)		
+FCT_TechSystem	Name	Max Squadron Jump Radius - 750k (Cost x 1.5)		
+FCT_TechSystem	Name	Max Tracking Time for Bonus vs Missiles: 0 Seconds		
+FCT_TechSystem	Name	Max Tracking Time for Bonus vs Missiles: 120 Seconds (24%)		
+FCT_TechSystem	Name	Max Tracking Time for Bonus vs Missiles: 160 Seconds (32%)		
+FCT_TechSystem	Name	Max Tracking Time for Bonus vs Missiles: 200 Seconds (40%)		
+FCT_TechSystem	Name	Max Tracking Time for Bonus vs Missiles: 250 Seconds (50%)		
+FCT_TechSystem	Name	Max Tracking Time for Bonus vs Missiles: 30 Seconds (6%)		
+FCT_TechSystem	Name	Max Tracking Time for Bonus vs Missiles: 320 Seconds (64%)		
+FCT_TechSystem	Name	Max Tracking Time for Bonus vs Missiles: 400 Seconds (80%)		
+FCT_TechSystem	Name	Max Tracking Time for Bonus vs Missiles: 45 Seconds (9%)		
+FCT_TechSystem	Name	Max Tracking Time for Bonus vs Missiles: 60 Seconds (12%)		
+FCT_TechSystem	Name	Max Tracking Time for Bonus vs Missiles: 80 Seconds (16%)		
+FCT_TechSystem	Name	Maximum Engine Power Modifier x1		
+FCT_TechSystem	Name	Maximum Engine Power Modifier x1.25		
+FCT_TechSystem	Name	Maximum Engine Power Modifier x1.5		
+FCT_TechSystem	Name	Maximum Engine Power Modifier x1.75		
+FCT_TechSystem	Name	Maximum Engine Power Modifier x2		
+FCT_TechSystem	Name	Maximum Engine Power Modifier x2.5		
+FCT_TechSystem	Name	Maximum Engine Power Modifier x3		
+FCT_TechSystem	Name	Maximum Engine Size - 100		
+FCT_TechSystem	Name	Maximum Engine Size - 160		
+FCT_TechSystem	Name	Maximum Engine Size - 25		
+FCT_TechSystem	Name	Maximum Engine Size - 250		
+FCT_TechSystem	Name	Maximum Engine Size - 40		
+FCT_TechSystem	Name	Maximum Engine Size - 400		
+FCT_TechSystem	Name	Maximum Engine Size - 60		
+FCT_TechSystem	Name	Maximum Orbital Mining Diameter 100 km		
+FCT_TechSystem	Name	Maximum Orbital Mining Diameter 125 km		
+FCT_TechSystem	Name	Maximum Orbital Mining Diameter 160 km		
+FCT_TechSystem	Name	Maximum Orbital Mining Diameter 200 km		
+FCT_TechSystem	Name	Maximum Orbital Mining Diameter 250 km		
+FCT_TechSystem	Name	Maximum Orbital Mining Diameter 320 km		
+FCT_TechSystem	Name	Maximum Orbital Mining Diameter 400 km		
+FCT_TechSystem	Name	Maximum Orbital Mining Diameter 500 km		
+FCT_TechSystem	Name	Maximum Shield Generator Size - 10		
+FCT_TechSystem	Name	Maximum Shield Generator Size - 12		
+FCT_TechSystem	Name	Maximum Shield Generator Size - 15		
+FCT_TechSystem	Name	Maximum Shield Generator Size - 20		
+FCT_TechSystem	Name	Maximum Shield Generator Size - 25		
+FCT_TechSystem	Name	Maximum Shield Generator Size - 32		
+FCT_TechSystem	Name	Maximum Shield Generator Size - 40		
+FCT_TechSystem	Name	Maximum Shield Generator Size - 50		
+FCT_TechSystem	Name	Medium Anti-Air Weapons: AP 2, DAM 4 SHOT 1		
+FCT_TechSystem	Name	Medium Anti-Vehicle Weapon: AP 4 DAM 4 SHOT 1		
+FCT_TechSystem	Name	Medium Autocannon: AP 3 DAM 2 SHOT 3		
+FCT_TechSystem	Name	Medium Bombardment Weapon: AP 1.5, DAM 4, SHOTS 3		
+FCT_TechSystem	Name	Medium Static Armour - ARM 2		
+FCT_TechSystem	Name	Medium Vehicle Armour - ARM 4		
+FCT_TechSystem	Name	Meson Focusing Technology 1		
+FCT_TechSystem	Name	Meson Focusing Technology 10		
+FCT_TechSystem	Name	Meson Focusing Technology 11		
+FCT_TechSystem	Name	Meson Focusing Technology 12		
+FCT_TechSystem	Name	Meson Focusing Technology 2		
+FCT_TechSystem	Name	Meson Focusing Technology 3		
+FCT_TechSystem	Name	Meson Focusing Technology 4		
+FCT_TechSystem	Name	Meson Focusing Technology 5		
+FCT_TechSystem	Name	Meson Focusing Technology 6		
+FCT_TechSystem	Name	Meson Focusing Technology 7		
+FCT_TechSystem	Name	Meson Focusing Technology 8		
+FCT_TechSystem	Name	Meson Focusing Technology 9		
+FCT_TechSystem	Name	Microwave Focusing Technology 1		
+FCT_TechSystem	Name	Microwave Focusing Technology 10		
+FCT_TechSystem	Name	Microwave Focusing Technology 11		
+FCT_TechSystem	Name	Microwave Focusing Technology 12		
+FCT_TechSystem	Name	Microwave Focusing Technology 2		
+FCT_TechSystem	Name	Microwave Focusing Technology 3		
+FCT_TechSystem	Name	Microwave Focusing Technology 4		
+FCT_TechSystem	Name	Microwave Focusing Technology 5		
+FCT_TechSystem	Name	Microwave Focusing Technology 6		
+FCT_TechSystem	Name	Microwave Focusing Technology 7		
+FCT_TechSystem	Name	Microwave Focusing Technology 8		
+FCT_TechSystem	Name	Microwave Focusing Technology 9		
+FCT_TechSystem	Name	Military Jump Drive		
+FCT_TechSystem	Name	Minimal Vehicle Armour - ARM 1		
+FCT_TechSystem	Name	Minimum Cloak Size 10		
+FCT_TechSystem	Name	Minimum Cloak Size 12		
+FCT_TechSystem	Name	Minimum Cloak Size 15		
+FCT_TechSystem	Name	Minimum Cloak Size 2		
+FCT_TechSystem	Name	Minimum Cloak Size 20		
+FCT_TechSystem	Name	Minimum Cloak Size 25		
+FCT_TechSystem	Name	Minimum Cloak Size 3		
+FCT_TechSystem	Name	Minimum Cloak Size 4		
+FCT_TechSystem	Name	Minimum Cloak Size 6		
+FCT_TechSystem	Name	Minimum Cloak Size 8		
+FCT_TechSystem	Name	Minimum Engine Power Modifier x0.1		
+FCT_TechSystem	Name	Minimum Engine Power Modifier x0.15		
+FCT_TechSystem	Name	Minimum Engine Power Modifier x0.2		
+FCT_TechSystem	Name	Minimum Engine Power Modifier x0.25		
+FCT_TechSystem	Name	Minimum Engine Power Modifier x0.3		
+FCT_TechSystem	Name	Minimum Engine Power Modifier x0.4		
+FCT_TechSystem	Name	Minimum Engine Power Modifier x0.5		
+FCT_TechSystem	Name	Mining Production 12 tons		
+FCT_TechSystem	Name	Mining Production 14 tons		
+FCT_TechSystem	Name	Mining Production 16 tons		
+FCT_TechSystem	Name	Mining Production 20 tons		
+FCT_TechSystem	Name	Mining Production 25 tons		
+FCT_TechSystem	Name	Mining Production 30 tons		
+FCT_TechSystem	Name	Mining Production 36 tons		
+FCT_TechSystem	Name	Mining Production 42 tons		
+FCT_TechSystem	Name	Mining Production 50 tons		
+FCT_TechSystem	Name	Mining Production 60 tons		
+FCT_TechSystem	Name	Mining Production 70 tons		
+FCT_TechSystem	Name	Missile ECM-0		
+FCT_TechSystem	Name	Missile ECM-1		
+FCT_TechSystem	Name	Missile ECM-10		
+FCT_TechSystem	Name	Missile ECM-2		
+FCT_TechSystem	Name	Missile ECM-3		
+FCT_TechSystem	Name	Missile ECM-4		
+FCT_TechSystem	Name	Missile ECM-5		
+FCT_TechSystem	Name	Missile ECM-6		
+FCT_TechSystem	Name	Missile ECM-7		
+FCT_TechSystem	Name	Missile ECM-8		
+FCT_TechSystem	Name	Missile ECM-9		
+FCT_TechSystem	Name	Missile Fire Control		
+FCT_TechSystem	Name	Missile Fire Control FC11-R1		
+FCT_TechSystem	Name	Missile Fire Control FC153-R114		
+FCT_TechSystem	Name	Missile Fire Control FC155-R120		
+FCT_TechSystem	Name	Missile Fire Control FC17-R1		
+FCT_TechSystem	Name	Missile Fire Control FC18-R1		
+FCT_TechSystem	Name	Missile Fire Control FC19-R96		
+FCT_TechSystem	Name	Missile Fire Control FC23-R5		
+FCT_TechSystem	Name	Missile Fire Control FC27-R114		
+FCT_TechSystem	Name	Missile Fire Control FC28-R120		
+FCT_TechSystem	Name	Missile Fire Control FC30-R1		
+FCT_TechSystem	Name	Missile Fire Control FC30-R5		
+FCT_TechSystem	Name	Missile Fire Control FC31-R1		
+FCT_TechSystem	Name	Missile Fire Control FC31-R96		
+FCT_TechSystem	Name	Missile Fire Control FC36-R20		
+FCT_TechSystem	Name	Missile Fire Control FC43-R114		
+FCT_TechSystem	Name	Missile Fire Control FC44-R120		
+FCT_TechSystem	Name	Missile Fire Control FC48-R114		
+FCT_TechSystem	Name	Missile Fire Control FC49-R120		
+FCT_TechSystem	Name	Missile Fire Control FC49-R20		
+FCT_TechSystem	Name	Missile Fire Control FC54-R5		
+FCT_TechSystem	Name	Missile Fire Control FC62-R96		
+FCT_TechSystem	Name	Missile Fire Control FC76-R114		
+FCT_TechSystem	Name	Missile Fire Control FC77-R120		
+FCT_TechSystem	Name	Missile Fire Control FC85-R20		
+FCT_TechSystem	Name	Missile Fire Control FC87-R114		
+FCT_TechSystem	Name	Missile Fire Control FC89-R120		
+FCT_TechSystem	Name	Missile Jammer 1		
+FCT_TechSystem	Name	Missile Jammer 10		
+FCT_TechSystem	Name	Missile Jammer 2		
+FCT_TechSystem	Name	Missile Jammer 3		
+FCT_TechSystem	Name	Missile Jammer 4		
+FCT_TechSystem	Name	Missile Jammer 5		
+FCT_TechSystem	Name	Missile Jammer 6		
+FCT_TechSystem	Name	Missile Jammer 7		
+FCT_TechSystem	Name	Missile Jammer 8		
+FCT_TechSystem	Name	Missile Jammer 9		
+FCT_TechSystem	Name	Missile Launcher Reload Rate 1		
+FCT_TechSystem	Name	Missile Launcher Reload Rate 10		
+FCT_TechSystem	Name	Missile Launcher Reload Rate 11		
+FCT_TechSystem	Name	Missile Launcher Reload Rate 12		
+FCT_TechSystem	Name	Missile Launcher Reload Rate 2		
+FCT_TechSystem	Name	Missile Launcher Reload Rate 3		
+FCT_TechSystem	Name	Missile Launcher Reload Rate 4		
+FCT_TechSystem	Name	Missile Launcher Reload Rate 5		
+FCT_TechSystem	Name	Missile Launcher Reload Rate 6		
+FCT_TechSystem	Name	Missile Launcher Reload Rate 7		
+FCT_TechSystem	Name	Missile Launcher Reload Rate 8		
+FCT_TechSystem	Name	Missile Launcher Reload Rate 9		
+FCT_TechSystem	Name	Missile Launcher Size 1		
+FCT_TechSystem	Name	Missile Launcher Size 10		
+FCT_TechSystem	Name	Missile Launcher Size 11		
+FCT_TechSystem	Name	Missile Launcher Size 12		
+FCT_TechSystem	Name	Missile Launcher Size 14		
+FCT_TechSystem	Name	Missile Launcher Size 16		
+FCT_TechSystem	Name	Missile Launcher Size 18		
+FCT_TechSystem	Name	Missile Launcher Size 2		
+FCT_TechSystem	Name	Missile Launcher Size 20		
+FCT_TechSystem	Name	Missile Launcher Size 24		
+FCT_TechSystem	Name	Missile Launcher Size 3		
+FCT_TechSystem	Name	Missile Launcher Size 4		
+FCT_TechSystem	Name	Missile Launcher Size 5		
+FCT_TechSystem	Name	Missile Launcher Size 6		
+FCT_TechSystem	Name	Missile Launcher Size 7		
+FCT_TechSystem	Name	Missile Launcher Size 8		
+FCT_TechSystem	Name	Missile Launcher Size 9		
+FCT_TechSystem	Name	Missile Retargeting Capability		
+FCT_TechSystem	Name	Mobile Repair Bay		
+FCT_TechSystem	Name	Mountain Warfare Capability		
+FCT_TechSystem	Name	Multi-Weapon Fire Control		
+FCT_TechSystem	Name	Multiple Warheads		
+FCT_TechSystem	Name	Near Gamma Ray Laser		
+FCT_TechSystem	Name	Near Ultraviolet Laser		
+FCT_TechSystem	Name	No Capability		
+FCT_TechSystem	Name	No Hyper Drive Capability		
+FCT_TechSystem	Name	No Lance Technology		
+FCT_TechSystem	Name	No Missile Retargeting		
+FCT_TechSystem	Name	No Power Plant Boost		
+FCT_TechSystem	Name	No Restrictions		
+FCT_TechSystem	Name	Normal Shipyard Operations		
+FCT_TechSystem	Name	Normal Size Normal Range		
+FCT_TechSystem	Name	Normal Size Normal Speed		
+FCT_TechSystem	Name	Nuclear Gas-Core Engine		
+FCT_TechSystem	Name	Nuclear Pulse Engine		
+FCT_TechSystem	Name	Nuclear Pulse Engine  EP1.15		
+FCT_TechSystem	Name	Nuclear Pulse Engine  EP115.20		
+FCT_TechSystem	Name	Nuclear Pulse Engine  EP192		
+FCT_TechSystem	Name	Nuclear Pulse Engine  EP46.4		
+FCT_TechSystem	Name	Nuclear Pulse Engine  EP6.22		
+FCT_TechSystem	Name	Nuclear Pulse Engine  EP6.91		
+FCT_TechSystem	Name	Nuclear Pulse Engine  EP80		
+FCT_TechSystem	Name	Nuclear Radioisotope Engine		
+FCT_TechSystem	Name	Nuclear Thermal Engine		
+FCT_TechSystem	Name	Omega Shields		
+FCT_TechSystem	Name	Omicron Shields		
+FCT_TechSystem	Name	Orbital Mining Module		
+FCT_TechSystem	Name	Ordnance Factory Module		
+FCT_TechSystem	Name	Ordnance Production 10 BP		
+FCT_TechSystem	Name	Ordnance Production 12 BP		
+FCT_TechSystem	Name	Ordnance Production 14 BP		
+FCT_TechSystem	Name	Ordnance Production 16 BP		
+FCT_TechSystem	Name	Ordnance Production 20 BP		
+FCT_TechSystem	Name	Ordnance Production 25 BP		
+FCT_TechSystem	Name	Ordnance Production 30 BP		
+FCT_TechSystem	Name	Ordnance Production 35 BP		
+FCT_TechSystem	Name	Ordnance Production 40 BP		
+FCT_TechSystem	Name	Ordnance Production 50 BP		
+FCT_TechSystem	Name	Ordnance Production 60 BP		
+FCT_TechSystem	Name	Ordnance Production 70 BP		
+FCT_TechSystem	Name	Ordnance Transfer Hub		
+FCT_TechSystem	Name	Ordnance Transfer System: 100 MSP per Hour		
+FCT_TechSystem	Name	Ordnance Transfer System: 128 MSP per Hour		
+FCT_TechSystem	Name	Ordnance Transfer System: 160 MSP per Hour		
+FCT_TechSystem	Name	Ordnance Transfer System: 200 MSP per Hour		
+FCT_TechSystem	Name	Ordnance Transfer System: 256 MSP per Hour		
+FCT_TechSystem	Name	Ordnance Transfer System: 320 MSP per Hour		
+FCT_TechSystem	Name	Ordnance Transfer System: 40 MSP per Hour		
+FCT_TechSystem	Name	Ordnance Transfer System: 400 MSP per Hour		
+FCT_TechSystem	Name	Ordnance Transfer System: 48 MSP per Hour		
+FCT_TechSystem	Name	Ordnance Transfer System: 64 MSP per Hour		
+FCT_TechSystem	Name	Ordnance Transfer System: 80 MSP per Hour		
+FCT_TechSystem	Name	Particle Beam Range 1,000,000 km		
+FCT_TechSystem	Name	Particle Beam Range 1,200,000 km		
+FCT_TechSystem	Name	Particle Beam Range 100,000 km		
+FCT_TechSystem	Name	Particle Beam Range 150,000 km		
+FCT_TechSystem	Name	Particle Beam Range 200,000 km		
+FCT_TechSystem	Name	Particle Beam Range 240,000 km		
+FCT_TechSystem	Name	Particle Beam Range 320,000 km		
+FCT_TechSystem	Name	Particle Beam Range 400,000 km		
+FCT_TechSystem	Name	Particle Beam Range 500,000 km		
+FCT_TechSystem	Name	Particle Beam Range 60,000 km		
+FCT_TechSystem	Name	Particle Beam Range 640,000 km		
+FCT_TechSystem	Name	Particle Beam Range 800,000 km		
+FCT_TechSystem	Name	Particle Beam Strength 12		
+FCT_TechSystem	Name	Particle Beam Strength 16		
+FCT_TechSystem	Name	Particle Beam Strength 2		
+FCT_TechSystem	Name	Particle Beam Strength 20		
+FCT_TechSystem	Name	Particle Beam Strength 25		
+FCT_TechSystem	Name	Particle Beam Strength 3		
+FCT_TechSystem	Name	Particle Beam Strength 36		
+FCT_TechSystem	Name	Particle Beam Strength 4		
+FCT_TechSystem	Name	Particle Beam Strength 50		
+FCT_TechSystem	Name	Particle Beam Strength 6		
+FCT_TechSystem	Name	Particle Beam Strength 9		
+FCT_TechSystem	Name	Particle Beam-2		
+FCT_TechSystem	Name	Particle Beam-4		
+FCT_TechSystem	Name	Particle Lance		
+FCT_TechSystem	Name	Particle Lance-18		
+FCT_TechSystem	Name	Passenger Accomodation		
+FCT_TechSystem	Name	Passenger Accomodation - Small		
+FCT_TechSystem	Name	PDC-based System		
+FCT_TechSystem	Name	Pebble Bed Reactor		
+FCT_TechSystem	Name	Pebble Bed Reactor R0		
+FCT_TechSystem	Name	Pebble Bed Reactor R22		
+FCT_TechSystem	Name	Personal Weapon: AP 1 DAM 1 SHOTS 1		
+FCT_TechSystem	Name	Phased Geological Sensors		
+FCT_TechSystem	Name	Phased Gravitational Sensors		
+FCT_TechSystem	Name	Photonic Drive		
+FCT_TechSystem	Name	Planetary Defence HQ		
+FCT_TechSystem	Name	Planetary Sensor Strength 1200		
+FCT_TechSystem	Name	Planetary Sensor Strength 1600		
+FCT_TechSystem	Name	Planetary Sensor Strength 2000		
+FCT_TechSystem	Name	Planetary Sensor Strength 250		
+FCT_TechSystem	Name	Planetary Sensor Strength 2500		
+FCT_TechSystem	Name	Planetary Sensor Strength 300		
+FCT_TechSystem	Name	Planetary Sensor Strength 3000		
+FCT_TechSystem	Name	Planetary Sensor Strength 3750		
+FCT_TechSystem	Name	Planetary Sensor Strength 400		
+FCT_TechSystem	Name	Planetary Sensor Strength 550		
+FCT_TechSystem	Name	Planetary Sensor Strength 700		
+FCT_TechSystem	Name	Planetary Sensor Strength 900		
+FCT_TechSystem	Name	Plasma Core Anti-matter Drive		
+FCT_TechSystem	Name	Plasma-core Anti-matter Power Plant		
+FCT_TechSystem	Name	Power Plant Boost 10%, Explosion 7%		
+FCT_TechSystem	Name	Power Plant Boost 100%, Explosion 50%		
+FCT_TechSystem	Name	Power Plant Boost 20%, Explosion 10%		
+FCT_TechSystem	Name	Power Plant Boost 30%, Explosion 15%		
+FCT_TechSystem	Name	Power Plant Boost 40%, Explosion 20%		
+FCT_TechSystem	Name	Power Plant Boost 60%, Explosion 30%		
+FCT_TechSystem	Name	Power Plant Boost 80%, Explosion 40%		
+FCT_TechSystem	Name	Powered Infantry Armour - ARM 1.5		
+FCT_TechSystem	Name	Praetorian Combat Mech		
+FCT_TechSystem	Name	Praetorian High Leader		
+FCT_TechSystem	Name	Praetorian Leader		
+FCT_TechSystem	Name	Pressurised Water Reactor		
+FCT_TechSystem	Name	Primary Flight Control		
+FCT_TechSystem	Name	Psi Shields		
+FCT_TechSystem	Name	Quantum Singularity Drive		
+FCT_TechSystem	Name	Quantum Singularity Power Plant		
+FCT_TechSystem	Name	R15/C1.5 High Power Microwave		
+FCT_TechSystem	Name	R15/C1.5 Meson Cannon		
+FCT_TechSystem	Name	R15/C3 High Power Microwave		
+FCT_TechSystem	Name	R15/C3 Meson Cannon		
+FCT_TechSystem	Name	Radioisotope Thermal Generator 		
+FCT_TechSystem	Name	Railgun Launch Velocity 10,000		
+FCT_TechSystem	Name	Railgun Launch Velocity 100,000		
+FCT_TechSystem	Name	Railgun Launch Velocity 20,000		
+FCT_TechSystem	Name	Railgun Launch Velocity 30,000		
+FCT_TechSystem	Name	Railgun Launch Velocity 40,000		
+FCT_TechSystem	Name	Railgun Launch Velocity 50,000		
+FCT_TechSystem	Name	Railgun Launch Velocity 60,000		
+FCT_TechSystem	Name	Railgun Launch Velocity 70,000		
+FCT_TechSystem	Name	Railgun Launch Velocity 80,000		
+FCT_TechSystem	Name	Railgun Launch Velocity 90,000		
+FCT_TechSystem	Name	Recreational Module		
+FCT_TechSystem	Name	Reduced-size Laser 0.5 Size / 20x Recharge		
+FCT_TechSystem	Name	Reduced-size Laser 0.75 Size / 4x Recharge		
+FCT_TechSystem	Name	Reduced-size Launcher 0.3 Size / 40x Reload		
+FCT_TechSystem	Name	Reduced-size Launcher 0.4 Size / 16x Reload		
+FCT_TechSystem	Name	Reduced-size Launcher 0.5 Size / 8x Reload		
+FCT_TechSystem	Name	Reduced-size Launcher 0.6 Size / 4.8x Reload		
+FCT_TechSystem	Name	Reduced-size Launcher 0.75 Size / 2.4x Reload		
+FCT_TechSystem	Name	Refuelling System: 135,000 LPH		
+FCT_TechSystem	Name	Refuelling System: 20,000 LPH		
+FCT_TechSystem	Name	Refuelling System: 200,000 LPH		
+FCT_TechSystem	Name	Refuelling System: 30,000 LPH		
+FCT_TechSystem	Name	Refuelling System: 300,000 LPH		
+FCT_TechSystem	Name	Refuelling System: 40,000 LPH		
+FCT_TechSystem	Name	Refuelling System: 450,000 LPH		
+FCT_TechSystem	Name	Refuelling System: 60,000 LPH		
+FCT_TechSystem	Name	Refuelling System: 600,000 LPH		
+FCT_TechSystem	Name	Refuelling System: 90,000 LPH		
+FCT_TechSystem	Name	Refuelling System: 900,000 LPH		
+FCT_TechSystem	Name	Research Rate 1000 RP		
+FCT_TechSystem	Name	Research Rate 1200 RP		
+FCT_TechSystem	Name	Research Rate 1500 RP		
+FCT_TechSystem	Name	Research Rate 240 RP		
+FCT_TechSystem	Name	Research Rate 280 RP		
+FCT_TechSystem	Name	Research Rate 320 RP		
+FCT_TechSystem	Name	Research Rate 400 RP		
+FCT_TechSystem	Name	Research Rate 500 RP		
+FCT_TechSystem	Name	Research Rate 600 RP		
+FCT_TechSystem	Name	Research Rate 720 RP		
+FCT_TechSystem	Name	Research Rate 840 RP		
+FCT_TechSystem	Name	Resupply Infantry		
+FCT_TechSystem	Name	Resupply Vehicle		
+FCT_TechSystem	Name	Rift Valley Warfare Capability		
+FCT_TechSystem	Name	Salvage Module 1000		
+FCT_TechSystem	Name	Salvage Module 1350		
+FCT_TechSystem	Name	Salvage Module 1800		
+FCT_TechSystem	Name	Salvage Module 2500		
+FCT_TechSystem	Name	Salvage Module 500		
+FCT_TechSystem	Name	Salvage Module 750		
+FCT_TechSystem	Name	Science Department		
+FCT_TechSystem	Name	Scythe Anti-Ship Missile		
+FCT_TechSystem	Name	Search Sensor		
+FCT_TechSystem	Name	Sensor Jammer 1		
+FCT_TechSystem	Name	Sensor Jammer 10		
+FCT_TechSystem	Name	Sensor Jammer 2		
+FCT_TechSystem	Name	Sensor Jammer 3		
+FCT_TechSystem	Name	Sensor Jammer 4		
+FCT_TechSystem	Name	Sensor Jammer 5		
+FCT_TechSystem	Name	Sensor Jammer 6		
+FCT_TechSystem	Name	Sensor Jammer 7		
+FCT_TechSystem	Name	Sensor Jammer 8		
+FCT_TechSystem	Name	Sensor Jammer 9		
+FCT_TechSystem	Name	Shield Regeneration Rate 1		
+FCT_TechSystem	Name	Shield Regeneration Rate 1.5		
+FCT_TechSystem	Name	Shield Regeneration Rate 10		
+FCT_TechSystem	Name	Shield Regeneration Rate 12		
+FCT_TechSystem	Name	Shield Regeneration Rate 15		
+FCT_TechSystem	Name	Shield Regeneration Rate 2		
+FCT_TechSystem	Name	Shield Regeneration Rate 2.5		
+FCT_TechSystem	Name	Shield Regeneration Rate 3		
+FCT_TechSystem	Name	Shield Regeneration Rate 4		
+FCT_TechSystem	Name	Shield Regeneration Rate 5		
+FCT_TechSystem	Name	Shield Regeneration Rate 6		
+FCT_TechSystem	Name	Shield Regeneration Rate 8		
+FCT_TechSystem	Name	Ship to Ship Tractor Beam		
+FCT_TechSystem	Name	Ship-based System		
+FCT_TechSystem	Name	Shipbuilding Rate 1000 BP		
+FCT_TechSystem	Name	Shipbuilding Rate 1300 BP		
+FCT_TechSystem	Name	Shipbuilding Rate 1600 BP		
+FCT_TechSystem	Name	Shipbuilding Rate 2100 BP		
+FCT_TechSystem	Name	Shipbuilding Rate 2750 BP		
+FCT_TechSystem	Name	Shipbuilding Rate 3500 BP		
+FCT_TechSystem	Name	Shipbuilding Rate 4600 BP		
+FCT_TechSystem	Name	Shipbuilding Rate 560 BP		
+FCT_TechSystem	Name	Shipbuilding Rate 6000 BP		
+FCT_TechSystem	Name	Shipbuilding Rate 750 BP		
+FCT_TechSystem	Name	Shipbuilding Rate 8000 BP		
+FCT_TechSystem	Name	Shipyard Operations: 10% Time/Cost Saving		
+FCT_TechSystem	Name	Shipyard Operations: 20% Time/Cost Saving		
+FCT_TechSystem	Name	Shipyard Operations: 30% Time/Cost Saving		
+FCT_TechSystem	Name	Shipyard Operations: 40% Time/Cost Saving		
+FCT_TechSystem	Name	Shipyard Operations: 5% Time/Cost Saving		
+FCT_TechSystem	Name	Shipyard Operations: 50% Time/Cost Saving		
+FCT_TechSystem	Name	Sigma Shields		
+FCT_TechSystem	Name	Single Warhead Only		
+FCT_TechSystem	Name	Single-Weapon Fire Control		
+FCT_TechSystem	Name	Size 1 Missile Launcher		
+FCT_TechSystem	Name	Size 17 Decoy Launcher		
+FCT_TechSystem	Name	Size 18 Decoy Launcher		
+FCT_TechSystem	Name	Size 21 Decoy Launcher		
+FCT_TechSystem	Name	Size 22 Decoy Launcher		
+FCT_TechSystem	Name	Size 27 Decoy Launcher		
+FCT_TechSystem	Name	Size 9 Box Launcher		
+FCT_TechSystem	Name	Size 9 Missile Launcher (30.0% Reduction)		
+FCT_TechSystem	Name	Small Craft Refuelling System: 5,000 LPH		
+FCT_TechSystem	Name	Small Jump Point Stabilisation Module		
+FCT_TechSystem	Name	Small Maintenance Storage		
+FCT_TechSystem	Name	Soft X-ray Laser		
+FCT_TechSystem	Name	Solid Core AM Drive  EP1872.00		
+FCT_TechSystem	Name	Solid Core AM Drive  EP2695.68		
+FCT_TechSystem	Name	Solid Core AM Drive  EP280.00		
+FCT_TechSystem	Name	Solid Core AM Drive  EP320		
+FCT_TechSystem	Name	Solid Core Anti-matter Drive		
+FCT_TechSystem	Name	Solid-core Anti-matter Power Plant		
+FCT_TechSystem	Name	Solid-core Anti-matter Power Plant R0		
+FCT_TechSystem	Name	Solid-core Anti-matter Power Plant R54		
+FCT_TechSystem	Name	Solid-core Anti-matter Power Plant R67		
+FCT_TechSystem	Name	Solid-core Anti-matter Power Plant R8		
+FCT_TechSystem	Name	Sorium Harvester		
+FCT_TechSystem	Name	Spear  AA Tank		
+FCT_TechSystem	Name	Spear AMM		
+FCT_TechSystem	Name	Spinal Mount		
+FCT_TechSystem	Name	Spinal Mount - Advanced		
+FCT_TechSystem	Name	Standard Laser Size and Recharge Rate		
+FCT_TechSystem	Name	Standard Mount		
+FCT_TechSystem	Name	Standard Size and Reload Rate		
+FCT_TechSystem	Name	Stellarator Fusion Reactor		
+FCT_TechSystem	Name	Stellarator Fusion Reactor R12		
+FCT_TechSystem	Name	Stellarator Fusion Reactor R19		
+FCT_TechSystem	Name	Stellarator Fusion Reactor R199		
+FCT_TechSystem	Name	Stellarator Fusion Reactor R25		
+FCT_TechSystem	Name	Stellarator Fusion Reactor R32		
+FCT_TechSystem	Name	Stellarator Fusion Reactor R49		
+FCT_TechSystem	Name	STO		
+FCT_TechSystem	Name	STO-PD		
+FCT_TechSystem	Name	Structural Shell		
+FCT_TechSystem	Name	Super-Heavy Anti-Vehicle Weapon: AP 9 DAM 9 SHOT 1		
+FCT_TechSystem	Name	Super-Heavy Bombardment Weapon: AP 3, DAM 9, SHOTS 3		
+FCT_TechSystem	Name	Super-Heavy Vehicle Armour - ARM 9		
+FCT_TechSystem	Name	Superdense Armour		
+FCT_TechSystem	Name	Surface to Orbit Weaponry		
+FCT_TechSystem	Name	Swarm Extraction Module		
+FCT_TechSystem	Name	Swarm Warrior Melee		
+FCT_TechSystem	Name	Sword AMM		
+FCT_TechSystem	Name	Sword STO-PD		
+FCT_TechSystem	Name	Szász P128.0 Civilian Drive		
+FCT_TechSystem	Name	Tank Brigade HQ		
+FCT_TechSystem	Name	Tau Shields		
+FCT_TechSystem	Name	Terraforming Module		
+FCT_TechSystem	Name	Terraforming Rate 0.00032 atm		
+FCT_TechSystem	Name	Terraforming Rate 0.0004 atm		
+FCT_TechSystem	Name	Terraforming Rate 0.00048 atm		
+FCT_TechSystem	Name	Terraforming Rate 0.0006 atm		
+FCT_TechSystem	Name	Terraforming Rate 0.00075 atm		
+FCT_TechSystem	Name	Terraforming Rate 0.00096 atm		
+FCT_TechSystem	Name	Terraforming Rate 0.0012 atm		
+FCT_TechSystem	Name	Terraforming Rate 0.0015 atm		
+FCT_TechSystem	Name	Terraforming Rate 0.0019 atm		
+FCT_TechSystem	Name	Terraforming Rate 0.0024 atm		
+FCT_TechSystem	Name	Terraforming Rate 0.003 atm		
+FCT_TechSystem	Name	Terraforming Rate 0.00375 atm		
+FCT_TechSystem	Name	Thermal Reduction: Signature 1% Normal		
+FCT_TechSystem	Name	Thermal Reduction: Signature 100% Normal		
+FCT_TechSystem	Name	Thermal Reduction: Signature 12% Normal		
+FCT_TechSystem	Name	Thermal Reduction: Signature 16% Normal		
+FCT_TechSystem	Name	Thermal Reduction: Signature 2% Normal		
+FCT_TechSystem	Name	Thermal Reduction: Signature 24% Normal		
+FCT_TechSystem	Name	Thermal Reduction: Signature 3% Normal		
+FCT_TechSystem	Name	Thermal Reduction: Signature 35% Normal		
+FCT_TechSystem	Name	Thermal Reduction: Signature 4% Normal		
+FCT_TechSystem	Name	Thermal Reduction: Signature 50% Normal		
+FCT_TechSystem	Name	Thermal Reduction: Signature 6% Normal		
+FCT_TechSystem	Name	Thermal Reduction: Signature 75% Normal		
+FCT_TechSystem	Name	Thermal Reduction: Signature 8% Normal		
+FCT_TechSystem	Name	Thermal Sensor Sensitivity 11		
+FCT_TechSystem	Name	Thermal Sensor Sensitivity 14		
+FCT_TechSystem	Name	Thermal Sensor Sensitivity 18		
+FCT_TechSystem	Name	Thermal Sensor Sensitivity 24		
+FCT_TechSystem	Name	Thermal Sensor Sensitivity 32		
+FCT_TechSystem	Name	Thermal Sensor Sensitivity 40		
+FCT_TechSystem	Name	Thermal Sensor Sensitivity 5		
+FCT_TechSystem	Name	Thermal Sensor Sensitivity 50		
+FCT_TechSystem	Name	Thermal Sensor Sensitivity 6		
+FCT_TechSystem	Name	Thermal Sensor Sensitivity 60		
+FCT_TechSystem	Name	Thermal Sensor Sensitivity 75		
+FCT_TechSystem	Name	Thermal Sensor Sensitivity 8		
+FCT_TechSystem	Name	Thermal Sensor TH1-14		
+FCT_TechSystem	Name	Thermal Sensor TH1-6		
+FCT_TechSystem	Name	Thermal Sensor TH1-8		
+FCT_TechSystem	Name	Thermal Sensor TH2-12		
+FCT_TechSystem	Name	Thermal Sensor TH2-16		
+FCT_TechSystem	Name	Thermal Sensor TH2-28		
+FCT_TechSystem	Name	Thermal Sensor TH3-18		
+FCT_TechSystem	Name	Thermal Sensor TH3-24		
+FCT_TechSystem	Name	Thermal Sensor TH3-42		
+FCT_TechSystem	Name	Thermal Sensor TH6-36		
+FCT_TechSystem	Name	Thermal Sensor TH6-48		
+FCT_TechSystem	Name	Thermal Sensor TH6-84		
+FCT_TechSystem	Name	Theta S229 / R536 Shields		
+FCT_TechSystem	Name	Theta Shields		
+FCT_TechSystem	Name	Three-stage Thermonuclear Warhead: Strength: 8 x MSP		
+FCT_TechSystem	Name	Tiny Maintenance Storage		
+FCT_TechSystem	Name	Tokamak Fusion Reactor		
+FCT_TechSystem	Name	Towed Artillery		
+FCT_TechSystem	Name	Trans-Newtonian Cargo Shuttles		
+FCT_TechSystem	Name	Trans-Newtonian Technology		
+FCT_TechSystem	Name	Tri-Cobalt Warhead: Strength: 12 x MSP		
+FCT_TechSystem	Name	Troop Transport Bay - Conventional		
+FCT_TechSystem	Name	Troop Transport Bay - Large		
+FCT_TechSystem	Name	Troop Transport Bay - Small		
+FCT_TechSystem	Name	Troop Transport Bay - Standard		
+FCT_TechSystem	Name	Troop Transport Bay - Very Large		
+FCT_TechSystem	Name	Troop Transport Bay - Very Small		
+FCT_TechSystem	Name	Troop Transport Boarding Bay - Small		
+FCT_TechSystem	Name	Troop Transport Boarding Bay - Standard		
+FCT_TechSystem	Name	Troop Transport Boarding Bay - Very Small		
+FCT_TechSystem	Name	Troop Transport Drop Bay - Large		
+FCT_TechSystem	Name	Troop Transport Drop Bay - Small		
+FCT_TechSystem	Name	Troop Transport Drop Bay - Standard		
+FCT_TechSystem	Name	Troop Transport Drop Bay - Very Large		
+FCT_TechSystem	Name	Troop Transport Drop Bay - Very Small		
+FCT_TechSystem	Name	Turret Tracking Speed (10% Gear) 10,000 km/s		
+FCT_TechSystem	Name	Turret Tracking Speed (10% Gear) 12,500 km/s		
+FCT_TechSystem	Name	Turret Tracking Speed (10% Gear) 1250 km/s		
+FCT_TechSystem	Name	Turret Tracking Speed (10% Gear) 16,000 km/s		
+FCT_TechSystem	Name	Turret Tracking Speed (10% Gear) 20,000 km/s		
+FCT_TechSystem	Name	Turret Tracking Speed (10% Gear) 2000 km/s		
+FCT_TechSystem	Name	Turret Tracking Speed (10% Gear) 25,000 km/s		
+FCT_TechSystem	Name	Turret Tracking Speed (10% Gear) 3000 km/s		
+FCT_TechSystem	Name	Turret Tracking Speed (10% Gear) 4000 km/s		
+FCT_TechSystem	Name	Turret Tracking Speed (10% Gear) 5000 km/s		
+FCT_TechSystem	Name	Turret Tracking Speed (10% Gear) 6250 km/s		
+FCT_TechSystem	Name	Turret Tracking Speed (10% Gear) 8000 km/s		
+FCT_TechSystem	Name	Twin Gauss Cannon R200-100 Turret		
+FCT_TechSystem	Name	Twin Gauss Cannon R400-100 Turret		
+FCT_TechSystem	Name	Two-stage Thermonuclear Warhead: Strength: 6 x MSP		
+FCT_TechSystem	Name	Ultra-Heavy Vehicle Armour - ARM 12		
+FCT_TechSystem	Name	Ultraviolet Laser		
+FCT_TechSystem	Name	Underway Replenishment 100% Rate		
+FCT_TechSystem	Name	Underway Replenishment 20% Rate		
+FCT_TechSystem	Name	Underway Replenishment 30% Rate		
+FCT_TechSystem	Name	Underway Replenishment 45% Rate		
+FCT_TechSystem	Name	Underway Replenishment 70% Rate		
+FCT_TechSystem	Name	Vacuum Energy Power Plant		
+FCT_TechSystem	Name	Visible Light Laser		
+FCT_TechSystem	Name	Wealth Generation per Million TN Workers: 120		
+FCT_TechSystem	Name	Wealth Generation per Million TN Workers: 140		
+FCT_TechSystem	Name	Wealth Generation per Million TN Workers: 160		
+FCT_TechSystem	Name	Wealth Generation per Million TN Workers: 200		
+FCT_TechSystem	Name	Wealth Generation per Million TN Workers: 250		
+FCT_TechSystem	Name	Wealth Generation per Million TN Workers: 300		
+FCT_TechSystem	Name	Wealth Generation per Million TN Workers: 360		
+FCT_TechSystem	Name	Wealth Generation per Million TN Workers: 420		
+FCT_TechSystem	Name	Wealth Generation per Million TN Workers: 500		
+FCT_TechSystem	Name	Wealth Generation per Million TN Workers: 600		
+FCT_TechSystem	Name	X-Ray Laser		
+FCT_TechSystem	Name	Xenoarchaeology		
+FCT_TechSystem	Name	Xenoarchaeology Equipment		
+FCT_TechSystem	Name	Xi Shields		
+FCT_TechSystem	TechDescription	A background tech that allows research into the creation of new species		
+FCT_TechSystem	TechDescription	A component that can be added to a missile to distract missiles targeted on the parent ship		
+FCT_TechSystem	TechDescription	A fleet that includes a ship with a flag bridge can assign a 'fleet commander' senior to the commander of the ship. If a fleet has multiple flag bridges, the most senior officer assigned to any of them will be the fleet commander. The fleet commander will improve the fleet's overall reaction rating by his Reaction Bonus. A flag bridge sets the required ship commander rank to two above the lowest racial rank		
+FCT_TechSystem	TechDescription	A ground unit with this component can conduct ground-based planetary surveys		
+FCT_TechSystem	TechDescription	A ground unit with this component can function as a partial construction factory or fortify other ground units		
+FCT_TechSystem	TechDescription	A ground unit with this component can investigate alien ruins		
+FCT_TechSystem	TechDescription	A ground unit with this component can reduce radiation levels		
+FCT_TechSystem	TechDescription	A ground unit with this component may direct the fire of bombardment units or orbital fire support		
+FCT_TechSystem	TechDescription	A jump engine with this technology will hold open a jump point long enough for eight ships to transit, including the jump ship		
+FCT_TechSystem	TechDescription	A jump engine with this technology will hold open a jump point long enough for eleven ships to transit, including the jump ship		
+FCT_TechSystem	TechDescription	A jump engine with this technology will hold open a jump point long enough for five ships to transit, including the jump ship		
+FCT_TechSystem	TechDescription	A jump engine with this technology will hold open a jump point long enough for four ships to transit, including the jump ship		
+FCT_TechSystem	TechDescription	A jump engine with this technology will hold open a jump point long enough for nine ships to transit, including the jump ship		
+FCT_TechSystem	TechDescription	A jump engine with this technology will hold open a jump point long enough for seven ships to transit, including the jump ship		
+FCT_TechSystem	TechDescription	A jump engine with this technology will hold open a jump point long enough for six ships to transit, including the jump ship		
+FCT_TechSystem	TechDescription	A jump engine with this technology will hold open a jump point long enough for ten ships to transit, including the jump ship		
+FCT_TechSystem	TechDescription	A jump engine with this technology will hold open a jump point long enough for three ships to transit, including the jump ship		
+FCT_TechSystem	TechDescription	A jump engine with this technology will hold open a jump point long enough for twelve ships to transit, including the jump ship		
+FCT_TechSystem	TechDescription	A larger, less efficient hangar than the military version. Useful mainly as a mobile drydock to repair military ships and for transport of smaller commercial ships. Does not stop the maintenance clock.		
+FCT_TechSystem	TechDescription	A missile launcher that consists only of a launch rail, designed for fighters or occasionally fast attack craft. This can only be reloaded inside a hangar bay or by mainteannce facilities		
+FCT_TechSystem	TechDescription	A modification to lasers that reduces their size by removing part of the recharging mechanism, dramatically increasing the recharge time		
+FCT_TechSystem	TechDescription	A modification to missile launchers that reduces their size by removing part of the reloading mechanism, dramatically increasing the reload time		
+FCT_TechSystem	TechDescription	A modification to missile launchers that reduces their size by removing part of the reloading mechanism, dramatically reducing the reload time		
+FCT_TechSystem	TechDescription	A normal energy weapon mount		
+FCT_TechSystem	TechDescription	A percentage boost to chance to hit for a missile mounting this system		
+FCT_TechSystem	TechDescription	A recreational module provides entertainment for ships or bases on deep deployments		
+FCT_TechSystem	TechDescription	A secondary bridge as a reserve for the main bridge. Required for the Executive Officer position. Minimum rank for ship command is lowest racial rank + 1.		
+FCT_TechSystem	TechDescription	A ship component that allows a ship to perform the same task as a terraforming installation when it is in orbit of a colony		
+FCT_TechSystem	TechDescription	A ship component that allows a ship to perform the same task as an automated mine when it is in orbit of an asteroid or comet		
+FCT_TechSystem	TechDescription	A ship component that allows a ship to perform the same task as an ordnance factory when it is in orbit of population		
+FCT_TechSystem	TechDescription	A ship component that allows a ship to salvage wrecks		
+FCT_TechSystem	TechDescription	A ship component that is added to the total maintenance facilites of a population if the ship is on the same planet or in near orbit		
+FCT_TechSystem	TechDescription	A ship equipped with this module can stablise a jump point in 120 days		
+FCT_TechSystem	TechDescription	A ship equipped with this module can stablise a jump point in 150 days		
+FCT_TechSystem	TechDescription	A ship equipped with this module can stablise a jump point in 180 days		
+FCT_TechSystem	TechDescription	A ship equipped with this module can stablise a jump point in 20 days		
+FCT_TechSystem	TechDescription	A ship equipped with this module can stablise a jump point in 30 days		
+FCT_TechSystem	TechDescription	A ship equipped with this module can stablise a jump point in 360 days		
+FCT_TechSystem	TechDescription	A ship equipped with this module can stablise a jump point in 45 days		
+FCT_TechSystem	TechDescription	A ship equipped with this module can stablise a jump point in 60 days		
+FCT_TechSystem	TechDescription	A ship equipped with this module can stablise a jump point in 90 days		
+FCT_TechSystem	TechDescription	A ship module that allows a ship to extract sorium from a gas giant and convert it into fuel. This works automatically if the ship is in orbit of a gas giant.		
+FCT_TechSystem	TechDescription	A structural shell used for fragile objects such as orbital habitats or space stations. Cannot be used on ships with engines. Provides no armour protection		
+FCT_TechSystem	TechDescription	A system that allows ship to carry out emergency damage repairs without the need for a shipyard.		
+FCT_TechSystem	TechDescription	A tractor beam capable of attaching one ship to another		
+FCT_TechSystem	TechDescription	Active Jammers reduce the range of hostile active sensors and missile fire controls		
+FCT_TechSystem	TechDescription	Active sensor strength per hull space of the component. Provides the strength of the output pulse for active sensors, which are used to detect alien ships based on their size. The active pulse can be detected by GPD sensors		
+FCT_TechSystem	TechDescription	Allow detection of Aether Gates		
+FCT_TechSystem	TechDescription	Allow prevention of Aether Gates being formed		
+FCT_TechSystem	TechDescription	Allows a fighter or ship of up to 250 tons to dock within the mothership		
+FCT_TechSystem	TechDescription	Allows a fighter or ship of up to 50 tons to dock within the mothership		
+FCT_TechSystem	TechDescription	Allows a ship to carry additional maintenance supplies		
+FCT_TechSystem	TechDescription	Allows a ship to survey for jump points by visiting survey locations. Provides 1 survey point per hour		
+FCT_TechSystem	TechDescription	Allows a ship to survey for jump points by visiting survey locations. Provides 2 survey points per hour		
+FCT_TechSystem	TechDescription	Allows a ship to survey for jump points by visiting survey locations. Provides 3 survey points per hour		
+FCT_TechSystem	TechDescription	Allows a ship to survey for jump points by visiting survey locations. Provides 5 survey points per hour		
+FCT_TechSystem	TechDescription	Allows a ship to survey system bodies for mineral deposits or alien ruins. Provides 1 survey point per hour		
+FCT_TechSystem	TechDescription	Allows a ship to survey system bodies for mineral deposits or alien ruins. Provides 2 survey points per hour		
+FCT_TechSystem	TechDescription	Allows a ship to survey system bodies for mineral deposits or alien ruins. Provides 3 survey points per hour		
+FCT_TechSystem	TechDescription	Allows a ship to survey system bodies for mineral deposits or alien ruins. Provides 5 survey points per hour		
+FCT_TechSystem	TechDescription	Allows a swarm worker to extract bio-energy from mineral deposits		
+FCT_TechSystem	TechDescription	Allows creation of ground unit classes based on the Heavy Vehicle type		
+FCT_TechSystem	TechDescription	Allows creation of ground unit classes based on the Infantry type		
+FCT_TechSystem	TechDescription	Allows creation of ground unit classes based on the Light Vehicle type		
+FCT_TechSystem	TechDescription	Allows creation of ground unit classes based on the Static type (towed weapons or emplacements)		
+FCT_TechSystem	TechDescription	Allows creation of ground unit classes based on the Super-Heavy Vehicle type		
+FCT_TechSystem	TechDescription	Allows creation of ground unit classes based on the Ultra-Heavy Vehicle type		
+FCT_TechSystem	TechDescription	Allows creation of ground unit classes based on the Vehicle type		
+FCT_TechSystem	TechDescription	Allows fighter or ships of up to 1000 tons to dock within the mothership		
+FCT_TechSystem	TechDescription	Allows missile launchers on ships		
+FCT_TechSystem	TechDescription	Allows PDC-based missile launchers		
+FCT_TechSystem	TechDescription	Allows processing and analysis of signals intelligence		
+FCT_TechSystem	TechDescription	Allows ship to transport 125,000 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP		
+FCT_TechSystem	TechDescription	Allows ship to transport 25,000 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP		
+FCT_TechSystem	TechDescription	Allows ship to transport 50 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP		
+FCT_TechSystem	TechDescription	Allows ship to transport 500 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP		
+FCT_TechSystem	TechDescription	Allows ship to transport 5000 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP		
+FCT_TechSystem	TechDescription	Allows the construction of Sector Commands		
+FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 10cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 12cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 15cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 20cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 25cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 30cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 35cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 40cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 50cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 60cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 70cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 80cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of high power microwaves with a 10cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of high power microwaves with a 12cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of high power microwaves with a 15cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of high power microwaves with a 20cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of high power microwaves with a 25cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of high power microwaves with a 30cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of high power microwaves with a 35cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of high power microwaves with a 40cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of high power microwaves with a 50cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of high power microwaves with a 60cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of high power microwaves with a 70cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of high power microwavesn with a 80cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of lasers with a 10cm Focal Size (or calibre). Lasers of this type cause a maximum of 3 points of damage		
+FCT_TechSystem	TechDescription	Allows the creation of lasers with a 12cm Focal Size (or calibre). Lasers of this type cause a maximum of 4 points of damage		
+FCT_TechSystem	TechDescription	Allows the creation of lasers with a 15cm Focal Size (or calibre). Lasers of this type cause a maximum of 6 points of damage		
+FCT_TechSystem	TechDescription	Allows the creation of lasers with a 20cm Focal Size (or calibre). Lasers of this type cause a maximum of 10 points of damage		
+FCT_TechSystem	TechDescription	Allows the creation of lasers with a 25cm Focal Size (or calibre). Lasers of this type cause a maximum of 16 points of damage		
+FCT_TechSystem	TechDescription	Allows the creation of lasers with a 30cm Focal Size (or calibre). Lasers of this type cause a maximum of 24 points of damage		
+FCT_TechSystem	TechDescription	Allows the creation of lasers with a 35cm Focal Size (or calibre). Lasers of this type cause a maximum of 32 points of damage		
+FCT_TechSystem	TechDescription	Allows the creation of lasers with a 40cm Focal Size (or calibre). Lasers of this type cause a maximum of 40 points of damage		
+FCT_TechSystem	TechDescription	Allows the creation of lasers with a 50cm Focal Size (or calibre). Lasers of this type cause a maximum of 64 points of damage		
+FCT_TechSystem	TechDescription	Allows the creation of lasers with a 60cm Focal Size (or calibre). Lasers of this type cause a maximum of 96 points of damage		
+FCT_TechSystem	TechDescription	Allows the creation of lasers with a 70cm Focal Size (or calibre). Lasers of this type cause a maximum of 128 points of damage		
+FCT_TechSystem	TechDescription	Allows the creation of lasers with a 80cm Focal Size (or calibre). Lasers of this type cause a maximum of 168 points of damage		
+FCT_TechSystem	TechDescription	Allows the creation of meson cannon with a 10cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of meson cannon with a 12cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of meson cannon with a 15cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of meson cannon with a 20cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of meson cannon with a 25cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of meson cannon with a 30cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of meson cannon with a 35cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of meson cannon with a 40cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of meson cannon with a 50cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of meson cannon with a 60cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of meson cannon with a 70cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the creation of meson cannon with a 80cm Focal Size (or calibre).		
+FCT_TechSystem	TechDescription	Allows the ground unit to deploy weaponry capable of engaging ships in space. Cannot engage ground units		
+FCT_TechSystem	TechDescription	An ICBM similar to those used in the late twentieth and early twenty-first centuries		
+FCT_TechSystem	TechDescription	An infantry unit with this capability can launch boarding combat attacks on enemy ships		
+FCT_TechSystem	TechDescription	An unit with this capability has twice the normal chance to hit when operating on a planet with dominant Desert Terrain		
+FCT_TechSystem	TechDescription	An unit with this capability has twice the normal chance to hit when operating on a planet with dominant Jungle Terrain		
+FCT_TechSystem	TechDescription	An unit with this capability has twice the normal chance to hit when operating on a planet with dominant Mountain Terrain		
+FCT_TechSystem	TechDescription	An unit with this capability has twice the normal chance to hit when operating on a planet with dominant Rift Valley Terrain		
+FCT_TechSystem	TechDescription	An unit with this capability is not penalised when operating on a planet with gravity higher than the species tolerance		
+FCT_TechSystem	TechDescription	An unit with this capability is not penalised when operating on a planet with gravity lower than the species tolerance		
+FCT_TechSystem	TechDescription	An unit with this capability is not penalised when operating on a planet with pressure above the species tolerance		
+FCT_TechSystem	TechDescription	An unit with this capability is not penalised when operating on a planet with temperature outside the species tolerance		
+FCT_TechSystem	TechDescription	Annual build points for one ground force construction complex		
+FCT_TechSystem	TechDescription	Annual construction rate for one unit of Industrial Capacity		
+FCT_TechSystem	TechDescription	Annual production of accessibility 1.0 minerals for each mine or automated mine. Small amounts of lower accessibility minerals will be produced; half annual rate for 0.5 accesssibility, one tenth annual rate for 0.1 accessibility, etc.		
+FCT_TechSystem	TechDescription	Annual production rate for a Fighter Factory		
+FCT_TechSystem	TechDescription	Annual production rate for a single maintenance facility		
+FCT_TechSystem	TechDescription	Annual production rate for an Ordnance Factory		
+FCT_TechSystem	TechDescription	Armour for static weapons		
+FCT_TechSystem	TechDescription	Armour is used for the hull of all ships. See Tutorial 4 for detail on armour		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 10 power per HS of engine		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 100 power per HS of engine		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 12.5 power per HS of engine		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 16 power per HS of engine		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 20 power per HS of engine		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 25 power per HS of engine		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 32 power per HS of engine		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 40 power per HS of engine		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 5 power per HS of engine		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 50 power per HS of engine		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 6.4 power per HS of engine		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 64 power per HS of engine		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 8 power per HS of engine		
+FCT_TechSystem	TechDescription	Base engine technology for engine component designs. Provides 80 power per HS of engine		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Beam Core Anti-matter Drive		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Conventional Engine		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Gas Core Anti-matter Drive		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Inertial Confinement Fusion Drive		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Ion Drive		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Magnetic Confinement Fusion Drive		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for magneto-plasma drive		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Nuclear Gas-Core Engine		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Nuclear Pulse Engine		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Nuclear Radioisotope Engine		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Nuclear Thermal Engine		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Photonic Drive		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Plasma Core Anti-matter Drive		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Quantum Singularity Drive		
+FCT_TechSystem	TechDescription	Base technology used for creation of power plants. Pre-requisite tech for Solid Core Anti-matter Drive		
+FCT_TechSystem	TechDescription	Base Temperature of new species is equal to that of the base species		
+FCT_TechSystem	TechDescription	Basis of various cloaking technologies		
+FCT_TechSystem	TechDescription	Better crew quarter design to maintain efficiency for longer		
+FCT_TechSystem	TechDescription	Bombardment weapon. Can be used by front-line units or units in a support position		
+FCT_TechSystem	TechDescription	Can transfer ordnance to many ships at once		
+FCT_TechSystem	TechDescription	Chance of any missile in a box launcher exploding when hit		
+FCT_TechSystem	TechDescription	CIC acts as a tactical control centre, allowing improved targeting of weapons. Required for the Tactical Officer position. Minimum rank for ship command is lowest racial rank + 2.		
+FCT_TechSystem	TechDescription	Cloaking efficiency is similar to jump drive efficiency. The higher the efficiency, the larger the ship to which a device of a given size can be fitted		
+FCT_TechSystem	TechDescription	Commercial Jump Drives are larger, less efficient and cannot be used by ships with military engines		
+FCT_TechSystem	TechDescription	Commercial Magazine for transport of ordnance. Inefficient in terms of space and will explode if hit. Non-military system.		
+FCT_TechSystem	TechDescription	Crew-served direct-fire weapon. Can only be used by front-line units		
+FCT_TechSystem	TechDescription	ECCM allows fire controls and missiles to overcome the ECM of targets		
+FCT_TechSystem	TechDescription	Electromagnetic sensor strength per hull space of the sensor component. EM sensors detect alien active sensor emissions and the shield output of alien ships. They provide the 'listening' portion of active sensors		
+FCT_TechSystem	TechDescription	Enables the transport of ground forces		
+FCT_TechSystem	TechDescription	Enables the transport of ground forces and provides boarding tubes that can launch infantry units against other ships		
+FCT_TechSystem	TechDescription	Enables the transport of ground forces and provides drop ships that can quickly land those forces from orbit		
+FCT_TechSystem	TechDescription	Engineering Space. Reduces chance of failure and adds maintenance supply capacity		
+FCT_TechSystem	TechDescription	Engines can be boosted by up to 100%. Fuel efficiency Modifier is (4^Engine Power Modifier)/4		
+FCT_TechSystem	TechDescription	Engines can be boosted by up to 150%. Fuel efficiency Modifier is (4^Engine Power Modifier)/4		
+FCT_TechSystem	TechDescription	Engines can be boosted by up to 200%. Fuel efficiency Modifier is (4^Engine Power Modifier)/4		
+FCT_TechSystem	TechDescription	Engines can be boosted by up to 25%. Fuel efficiency Modifier is (4^Engine Power Modifier)/4		
+FCT_TechSystem	TechDescription	Engines can be boosted by up to 50%. Fuel efficiency Modifier is (4^Engine Power Modifier)/4		
+FCT_TechSystem	TechDescription	Engines can be boosted by up to 75%. Fuel efficiency Modifier is (4^Engine Power Modifier)/4		
+FCT_TechSystem	TechDescription	Engines can be reduced in power to 10%. Fuel efficiency Modifier is (10^Engine Power Modifier)/10		
+FCT_TechSystem	TechDescription	Engines can be reduced in power to 15%. Fuel efficiency Modifier is (10^Engine Power Modifier)/10		
+FCT_TechSystem	TechDescription	Engines can be reduced in power to 20%. Fuel efficiency Modifier is (10^Engine Power Modifier)/10		
+FCT_TechSystem	TechDescription	Engines can be reduced in power to 25%. Fuel efficiency Modifier is (10^Engine Power Modifier)/10		
+FCT_TechSystem	TechDescription	Engines can be reduced in power to 30%. Fuel efficiency Modifier is (10^Engine Power Modifier)/10		
+FCT_TechSystem	TechDescription	Engines can be reduced in power to 40%. Fuel efficiency Modifier is (10^Engine Power Modifier)/10		
+FCT_TechSystem	TechDescription	Engines can be reduced in power to 50%. Fuel efficiency Modifier is (10^Engine Power Modifier)/10		
+FCT_TechSystem	TechDescription	Essential for every ship and the location of the ship commander		
+FCT_TechSystem	TechDescription	Fire control can be used to control multiple weapons		
+FCT_TechSystem	TechDescription	Fire control can only be used to control a single weapon		
+FCT_TechSystem	TechDescription	Fire Control Jammers reduce the accuracy of hostile beam fire controls		
+FCT_TechSystem	TechDescription	First of three armour generations used before the development of Trans-newtonian materials		
+FCT_TechSystem	TechDescription	Fuel storage for larger ships. Each module can hold 250,000 litres of fuel.		
+FCT_TechSystem	TechDescription	Fuel storage for ships. Each Fuel Storage module can hold 50,000 litres of fuel.		
+FCT_TechSystem	TechDescription	Fuel storage for small ships. Each module can hold 10,000 litres of fuel.		
+FCT_TechSystem	TechDescription	Fuel storage for ultra large ships or fuel tankers. Each module can hold 5,000,000 litres of fuel.		
+FCT_TechSystem	TechDescription	Fuel storage for very large ships. Each module can hold 1,000,000 litres of fuel.		
+FCT_TechSystem	TechDescription	Fuel storage for very small ships such as fighters or shuttles. Each module can hold 1,000 litres of fuel.		
+FCT_TechSystem	TechDescription	Fuel storage for very small ships such as fighters or shuttles. Each module can hold 200 litres of fuel.		
+FCT_TechSystem	TechDescription	Fuel storage for very small ships. Each module can hold 5,000 litres of fuel.		
+FCT_TechSystem	TechDescription	Fully automatic weapon used for both anti-personnel and anti vehicle. Fewer shots and higher damage than dedicated anti-personnel weapons. Lower penetration than a dedicated anti-vehicle weapon		
+FCT_TechSystem	TechDescription	Fully automatic weapon used for both anti-personnel and anti vehicle. Fewer shots than dedicated anti-personnel weapons but higher damage.		
+FCT_TechSystem	TechDescription	Gravity Range of new species is equal to that of the base species		
+FCT_TechSystem	TechDescription	Hardening protects an electronic system against anti-electronic weapons or effects, such as a high power microwave. However, level 0 does not provide any protection		
+FCT_TechSystem	TechDescription	Heavy Anti-aircraft weaponry. Designed to target low flying fighters.		
+FCT_TechSystem	TechDescription	Heavy Powered TN armour suitable for infantry		
+FCT_TechSystem	TechDescription	Heavy TN armour suitable for vehicles or super-heavy vehicles		
+FCT_TechSystem	TechDescription	How efficiently magazine systems store ordnance. The percentage is the amount of space used for storage rather than for the feed mechanism. Efficiency is also lowered by HTK > 1		
+FCT_TechSystem	TechDescription	How much tonnage of military shipping can be supported by a single maintenance facility or shipboard maintenance module		
+FCT_TechSystem	TechDescription	Improved focusing technology increases the range of high power microwaves		
+FCT_TechSystem	TechDescription	Improved focusing technology increases the range of meson cannons		
+FCT_TechSystem	TechDescription	Improves communication attempts with alien civilizations and aids increase in relationship		
+FCT_TechSystem	TechDescription	Improves fuel efficiency. Engines with this technology use only 10% of the fuel used by engines with no fuel efficiency		
+FCT_TechSystem	TechDescription	Improves fuel efficiency. Engines with this technology use only 12.5% of the fuel used by engines with no fuel efficiency		
+FCT_TechSystem	TechDescription	Improves fuel efficiency. Engines with this technology use only 15% of the fuel used by engines with no fuel efficiency		
+FCT_TechSystem	TechDescription	Improves fuel efficiency. Engines with this technology use only 20% of the fuel used by engines with no fuel efficiency		
+FCT_TechSystem	TechDescription	Improves fuel efficiency. Engines with this technology use only 25% of the fuel used by engines with no fuel efficiency		
+FCT_TechSystem	TechDescription	Improves fuel efficiency. Engines with this technology use only 30% of the fuel used by engines with no fuel efficiency		
+FCT_TechSystem	TechDescription	Improves fuel efficiency. Engines with this technology use only 40% of the fuel used by engines with no fuel efficiency		
+FCT_TechSystem	TechDescription	Improves fuel efficiency. Engines with this technology use only 50% of the fuel used by engines with no fuel efficiency		
+FCT_TechSystem	TechDescription	Improves fuel efficiency. Engines with this technology use only 60% of the fuel used by engines with no fuel efficiency		
+FCT_TechSystem	TechDescription	Improves fuel efficiency. Engines with this technology use only 70% of the fuel used by engines with no fuel efficiency		
+FCT_TechSystem	TechDescription	Improves fuel efficiency. Engines with this technology use only 80% of the fuel used by engines with no fuel efficiency		
+FCT_TechSystem	TechDescription	Improves fuel efficiency. Engines with this technology use only 90% of the fuel used by engines with no fuel efficiency		
+FCT_TechSystem	TechDescription	Improves hit points of infantry by 100%		
+FCT_TechSystem	TechDescription	Improves hit points of infantry by 25%		
+FCT_TechSystem	TechDescription	Improves hit points of infantry by 60%		
+FCT_TechSystem	TechDescription	Increases radiation output of missile warheads and reduces the blast damage. Useful against populations where the intention is cause harm by radiation and decrease industrial damage		
+FCT_TechSystem	TechDescription	Increases the annual fuel production for each Fuel Refinery to 100,000 litres		
+FCT_TechSystem	TechDescription	Increases the annual fuel production for each Fuel Refinery to 120,000 litres		
+FCT_TechSystem	TechDescription	Increases the annual fuel production for each Fuel Refinery to 144,000 litres		
+FCT_TechSystem	TechDescription	Increases the annual fuel production for each Fuel Refinery to 168,000 litres		
+FCT_TechSystem	TechDescription	Increases the annual fuel production for each Fuel Refinery to 200,000 litres		
+FCT_TechSystem	TechDescription	Increases the annual fuel production for each Fuel Refinery to 240,000 litres		
+FCT_TechSystem	TechDescription	Increases the annual fuel production for each Fuel Refinery to 280,000 litres		
+FCT_TechSystem	TechDescription	Increases the annual fuel production for each Fuel Refinery to 48,000 litres		
+FCT_TechSystem	TechDescription	Increases the annual fuel production for each Fuel Refinery to 56,000 litres		
+FCT_TechSystem	TechDescription	Increases the annual fuel production for each Fuel Refinery to 64,000 litres		
+FCT_TechSystem	TechDescription	Increases the annual fuel production for each Fuel Refinery to 80,000 litres		
+FCT_TechSystem	TechDescription	Increases the sensor strength of each Deep Space Tracking Station. A population has a sensor strength equal to the Planetary Sensor Strength x Number of Tracking Station		
+FCT_TechSystem	TechDescription	Infantry weapon		
+FCT_TechSystem	TechDescription	Jump drives with higher levels of jump drive efficiency will permit larger ships to jump than lower efficiency drives of the same size. Ships with military engines are unable to traverse a wormhole created by a commercial jump drive		
+FCT_TechSystem	TechDescription	Laser wavelength technology. The higher a laser wavelength, the less the laser loses power with range. Therefore, higher wavelength lasers will cause more damage at longer range than lower wavelength lasers of the same focal size		
+FCT_TechSystem	TechDescription	Light Anti-aircraft weaponry. Designed to target low flying fighters.		
+FCT_TechSystem	TechDescription	Light infantry weapon		
+FCT_TechSystem	TechDescription	Light infnatry weapon		
+FCT_TechSystem	TechDescription	Light TN armour suitable for vehicles 		
+FCT_TechSystem	TechDescription	Main Engineering acts as a centre for damage control and maintenance. Required for the Chief Engineer position. Minimum rank for ship command is lowest racial rank + 2.		
+FCT_TechSystem	TechDescription	Making changes to shipyards, such as adding slipways and capacity or retooling for different classes requires 10% less time than normal		
+FCT_TechSystem	TechDescription	Making changes to shipyards, such as adding slipways and capacity or retooling for different classes requires 20% less time than normal		
+FCT_TechSystem	TechDescription	Making changes to shipyards, such as adding slipways and capacity or retooling for different classes requires 30% less time than normal		
+FCT_TechSystem	TechDescription	Making changes to shipyards, such as adding slipways and capacity or retooling for different classes requires 40% less time than normal		
+FCT_TechSystem	TechDescription	Making changes to shipyards, such as adding slipways and capacity or retooling for different classes requires 5% less time than normal		
+FCT_TechSystem	TechDescription	Making changes to shipyards, such as adding slipways and capacity or retooling for different classes requires 50% less time than normal		
+FCT_TechSystem	TechDescription	Maximum beam fire control range for a size 1 beam fire control ship component. Components may be built up to size 4 with a corresponding linear increase in range		
+FCT_TechSystem	TechDescription	Maximum diameter of body that can be mined using orbital mining modules		
+FCT_TechSystem	TechDescription	Maximum size of engine in HS		
+FCT_TechSystem	TechDescription	Maximum size of Shield Generator in HS		
+FCT_TechSystem	TechDescription	Medium Anti-aircraft weaponry. Designed to target low flying fighters.		
+FCT_TechSystem	TechDescription	Medium TN armour suitable for vehicles or super-heavy vehicles		
+FCT_TechSystem	TechDescription	Melee attack for Swarm Warrior		
+FCT_TechSystem	TechDescription	Missile Jammers reduce the accuracy of hostile missiles		
+FCT_TechSystem	TechDescription	Missiles can split their warhead strength into multiple attacks for an extra 0.1 MSP per additional warhead		
+FCT_TechSystem	TechDescription	Missiles cannot retarget after missing their first attack		
+FCT_TechSystem	TechDescription	Missiles have a single warhead		
+FCT_TechSystem	TechDescription	Missiles that miss their target will continue to attempt a hit, rather than self-destructing		
+FCT_TechSystem	TechDescription	Modification to Particle Beam to create larger, more focused weapon		
+FCT_TechSystem	TechDescription	No capability		
+FCT_TechSystem	TechDescription	No Details		
+FCT_TechSystem	TechDescription	No details		
+FCT_TechSystem	TechDescription	No Particle Lance Modification available		
+FCT_TechSystem	TechDescription	No restrictions on fire contro		
+FCT_TechSystem	TechDescription	Non-powered infantry armour 		
+FCT_TechSystem	TechDescription	Normal Engine Power		
+FCT_TechSystem	TechDescription	One energy weapon per ship may be designated as a spinal mount. This can be up to two sizes larger than the normal maximum size for the energy weapon when used by that race.		
+FCT_TechSystem	TechDescription	One energy weapon per ship may be designated as an advanced spinal mount. This can be up to three sizes larger than the normal maximum size for the energy weapon when used by that race.		
+FCT_TechSystem	TechDescription	Only gauss cannon can be allocated to this fire control		
+FCT_TechSystem	TechDescription	Oxygen Range of new species is equal to that of the base species		
+FCT_TechSystem	TechDescription	Powered TN armour suitable for infantry		
+FCT_TechSystem	TechDescription	Precursor technology for the various jump drive technologies		
+FCT_TechSystem	TechDescription	Prerequisite technology for Electronic countermeasures and Electronic counter-countermeasures		
+FCT_TechSystem	TechDescription	Primary Flight Control acts as a centre for controlling fighter operations in a carrier. Required for the Commander - Air Group position. Minimum rank for ship command is lowest racial rank + 1.		
+FCT_TechSystem	TechDescription	Protects an electronic system against anti-electronic weapons or effects, such as a high power microwave. Level 1 provides a 30% chance of protection. Cost +15%.		
+FCT_TechSystem	TechDescription	Protects an electronic system against anti-electronic weapons or effects, such as a high power microwave. Level 2 provides a 50% chance of protection. Cost +25%		
+FCT_TechSystem	TechDescription	Protects an electronic system against anti-electronic weapons or effects, such as a high power microwave. Level 3 provides a 70% chance of protection. Cost +35%		
+FCT_TechSystem	TechDescription	Protects an electronic system against anti-electronic weapons or effects, such as a high power microwave. Level 4 provides an 80% chance of protection. Cost +50%		
+FCT_TechSystem	TechDescription	Protects an electronic system against anti-electronic weapons or effects, such as a high power microwave. Level 5 provides a 90% chance of protection. Cost +75%		
+FCT_TechSystem	TechDescription	Protects an electronic system against anti-electronic weapons or effects, such as a high power microwave. Level 6 provides a 95% chance of protection. Cost +100%		
+FCT_TechSystem	TechDescription	Provides a power increase for reactors but also increases the chance of an explosion if the reactor is damaged		
+FCT_TechSystem	TechDescription	Provides accomodation for up to 10 crew		
+FCT_TechSystem	TechDescription	Provides accomodation for up to 5 crew		
+FCT_TechSystem	TechDescription	Provides accomodation for up to 50 crew		
+FCT_TechSystem	TechDescription	Provides cryogenic berths for up to 1000 people. Often used on hospital ships		
+FCT_TechSystem	TechDescription	Provides cryogenic berths for up to 200 people in an emergency		
+FCT_TechSystem	TechDescription	Provides headquarters capability		
+FCT_TechSystem	TechDescription	Provides life support for up to 50000 workers. Useful for space stations		
+FCT_TechSystem	TechDescription	Provides logistical support to ground forces		
+FCT_TechSystem	TechDescription	Provides transport for 25 first-class passengers. 		
+FCT_TechSystem	TechDescription	Provides transport for 250 first-class passengers. Only really useful for shipping lines		
+FCT_TechSystem	TechDescription	Provides transport for colonists. Each Cryogenic Transport module can transport 10,000 colonists.		
+FCT_TechSystem	TechDescription	Provides transport for colonists. Each Large Cryogenic Transport module can transport 50,000 colonists.		
+FCT_TechSystem	TechDescription	Race-designed Active Sensor		
+FCT_TechSystem	TechDescription	Race-designed CIWS		
+FCT_TechSystem	TechDescription	Race-designed Cloaking Device		
+FCT_TechSystem	TechDescription	Race-designed Decoy Launcher		
+FCT_TechSystem	TechDescription	Race-designed Direct Fire Control		
+FCT_TechSystem	TechDescription	Race-designed EM Sensor		
+FCT_TechSystem	TechDescription	Race-designed Engine		
+FCT_TechSystem	TechDescription	Race-designed Gauss Cannon		
+FCT_TechSystem	TechDescription	Race-designed Ground Unit Class		
+FCT_TechSystem	TechDescription	Race-designed High Power Microwave		
+FCT_TechSystem	TechDescription	Race-designed Jump Drive		
+FCT_TechSystem	TechDescription	Race-designed Laser		
+FCT_TechSystem	TechDescription	Race-designed Magazine		
+FCT_TechSystem	TechDescription	Race-designed Meson Cannon		
+FCT_TechSystem	TechDescription	Race-designed Missile		
+FCT_TechSystem	TechDescription	Race-designed Missile Engine		
+FCT_TechSystem	TechDescription	Race-designed Missile Fire Control		
+FCT_TechSystem	TechDescription	Race-designed Missile Launcher		
+FCT_TechSystem	TechDescription	Race-designed Particle Beam		
+FCT_TechSystem	TechDescription	Race-designed Particle Lance		
+FCT_TechSystem	TechDescription	Race-designed Plasma Carronade		
+FCT_TechSystem	TechDescription	Race-designed Power Plant		
+FCT_TechSystem	TechDescription	Race-designed Railgun		
+FCT_TechSystem	TechDescription	Race-designed Shield Generator		
+FCT_TechSystem	TechDescription	Race-designed Thermal Sensor		
+FCT_TechSystem	TechDescription	Race-designed Turret		
+FCT_TechSystem	TechDescription	Racial Tech		
+FCT_TechSystem	TechDescription	Reduces the colony cost of planets or moons by the specified amount		
+FCT_TechSystem	TechDescription	Reduces the thermal output of engines, making them harder for thermal sensors to detect		
+FCT_TechSystem	TechDescription	Second of three armour generations used before the development of Trans-newtonian materials		
+FCT_TechSystem	TechDescription	Ship-based Repair Yard that does not require supporting population		
+FCT_TechSystem	TechDescription	Size and Accuracy of Gauss Cannon		
+FCT_TechSystem	TechDescription	Speed at which the gauss round leaves the cannon. Higher velocity provides better accuracy at long ranges		
+FCT_TechSystem	TechDescription	Speed of target that a turret can track using rotational gear equal to 10% of the weapon mass. 2x gear = 2x tracking speed, 3x gear = 3x tracking, etc.		
+FCT_TechSystem	TechDescription	Standard jump Drive		
+FCT_TechSystem	TechDescription	Standard sensor and fire control type. Able to detect targets at all resolutions, albeit at differeing ranges		
+FCT_TechSystem	TechDescription	Starting level of fuel use		
+FCT_TechSystem	TechDescription	Storage of BioEnergy used by the Swarm for production		
+FCT_TechSystem	TechDescription	Super-heavy TN armour suitable for super-heavy vehicles		
+FCT_TechSystem	TechDescription	Temperature Range of new species is equal to that of the base species		
+FCT_TechSystem	TechDescription	The ability to make changes to shipyards, such as adding slipways and capacity or retooling for different classes		
+FCT_TechSystem	TechDescription	The advanced railgun shoots five projectiles at once and has a total damage output one third higher than a similar tech advanced laser. However, due to the lower damage of each shot, it is more susceptible to armour and is shorter ranged		
+FCT_TechSystem	TechDescription	The amount by which the new midpoint of the gravity tolerance differs from that of the base species		
+FCT_TechSystem	TechDescription	The amount by which the new midpoint of the oxygen tolerance differs from that of the base species		
+FCT_TechSystem	TechDescription	The amount by which the new midpoint of the temperature tolerance differs from that of the base species		
+FCT_TechSystem	TechDescription	The amount of damage caused by a missile with this technology if it reaches its target		
+FCT_TechSystem	TechDescription	The amount of gas (measured in atmospheric pressure) produced in one year by one terraforming installation or terraforming module		
+FCT_TechSystem	TechDescription	The amount of power that a shield generator with this technology will regenerate over a 300 second period.		
+FCT_TechSystem	TechDescription	The amount of power which an energy weapon will recharge every 5 seconds		
+FCT_TechSystem	TechDescription	The basic number of research points produced by each Research Facility per year. This can be increased by the research bonus of the scientist leading the project		
+FCT_TechSystem	TechDescription	The damage caused by advanced particle beams throughout their range		
+FCT_TechSystem	TechDescription	The damage caused by particle beams throughout their range		
+FCT_TechSystem	TechDescription	The electronic warfare strength of missile decoys		
+FCT_TechSystem	TechDescription	The level of shield technology. Higher level shields provide more protection for the same size shield generator. Shields regenerate over time		
+FCT_TechSystem	TechDescription	The maximum calibre of Plasma Carronades		
+FCT_TechSystem	TechDescription	The maximum distance in thousands of kilometres at which a ship equipped with a jump engine with this technology will emerge from a jump point		
+FCT_TechSystem	TechDescription	The maximum range of particle beams		
+FCT_TechSystem	TechDescription	The maximum size of missile a launcher with this technology can fire		
+FCT_TechSystem	TechDescription	The maximum target speed that a beam fire control ship component can engage without a penalty to accuracy. Components may be increased in size to increase their speed rating		
+FCT_TechSystem	TechDescription	The muzzle velocity of the railgun. Railguns with higher velocities can shoot their ammo further and inflict damage at greater ranges. This works in a similar wave to laser wavelengths		
+FCT_TechSystem	TechDescription	The number of build points produced by each Shipyard per year. This can be increased by the Shipbuilding bonus of the planetary governor		
+FCT_TechSystem	TechDescription	The numbers of degrees by which this new species exceeds the range tolerance of the base species		
+FCT_TechSystem	TechDescription	The percentage chance that a magazine with this technology will successfully neutralise ordnance if the magazine is destroyed. Failure will result in a magazine explosion		
+FCT_TechSystem	TechDescription	The percentage of warhead damage that is converted into laser damage		
+FCT_TechSystem	TechDescription	The railgun shoots four projectiles at once and has a total damage output one third higher than a similar tech laser. However, due to the lower damage of each shot, it is more susceptible to armour and is shorter ranged		
+FCT_TechSystem	TechDescription	The rate in millions at which population is genetically modified into a new species		
+FCT_TechSystem	TechDescription	The rate of damage fall off for laser warheads		
+FCT_TechSystem	TechDescription	The rate of fire for a gauss cannon per 5 seconds.		
+FCT_TechSystem	TechDescription	The reduction in range of hostile sensors when trying to detect a ship equipped with this type of cloak		
+FCT_TechSystem	TechDescription	The reload rate is the size of launcher that can be reloaded in 30 seconds. Smaller launchers with this technology will reload more quickly and larger launchers will require more reload time		
+FCT_TechSystem	TechDescription	The Science Department improves the effectiveness of any scientific endeavour on the ship, such as surveying. Required for the Science Officer position. Minimum rank for ship command is lowest racial rank + 1.		
+FCT_TechSystem	TechDescription	The smallest cloak that can be created in HS		
+FCT_TechSystem	TechDescription	The speed at which a ship can be refuelled while moving		
+FCT_TechSystem	TechDescription	The starting tech for all trans-newtonian technology		
+FCT_TechSystem	TechDescription	Thermal sensor strength per hull space of the sensor component. Thermal sensors detect the engine output of alien ships		
+FCT_TechSystem	TechDescription	Third of three armour generations used before the development of Trans-newtonian materials		
+FCT_TechSystem	TechDescription	This active sensor is designed as a fire control system		
+FCT_TechSystem	TechDescription	This active sensor is for search only		
+FCT_TechSystem	TechDescription	This bonus will allow increased tracking speeds for beam fire controls engaging missiles, based on the length of time the target has been continually tracked on active sensors		
+FCT_TechSystem	TechDescription	Ultra-heavy TN armour suitable for super-heavy vehicles		
+FCT_TechSystem	TechDescription	Used by ships and bases to load and unload cargo.		
+FCT_TechSystem	TechDescription	Used by ships and bases to load and unload cargo. Reduces Load Time by 2 per Bay		
+FCT_TechSystem	TechDescription	Used by ships and bases to load and unload cargo. Reduces Load Time by 3 per Bay		
+FCT_TechSystem	TechDescription	Used by ships and bases to load and unload cargo. Reduces Load Time by 5 per Bay		
+FCT_TechSystem	TechDescription	Used by ships of 1000 tons or less to refuel other ship of 1000 tons or less		
+FCT_TechSystem	TechDescription	Used to refuel another ship		
+FCT_TechSystem	TechDescription	Used to transfer ordnance to another ship		
+FCT_TechSystem	TechDescription	Very Light TN armour suitable for vehicles 		
+FCT_TechSystem	TechDescription	Wealth generation for each million workers (all workers except those for conventional factories)		

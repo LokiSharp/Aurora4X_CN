@@ -1,0 +1,15 @@
+table	field	english	chinese	reason
+DIM_SetAtmosphere	Description	CO2 - Nitrogen		
+DIM_SetAtmosphere	Description	Helium - Hydrogen		
+DIM_SetAtmosphere	Description	Hydrogen		
+DIM_SetAtmosphere	Description	Hydrogen - Helium		
+DIM_SetAtmosphere	Description	Neon		
+DIM_SetAtmosphere	Description	Nitrogen - Ammonia		
+DIM_SetAtmosphere	Description	Nitrogen - CO2		
+DIM_SetAtmosphere	Description	Nitrogen - CO2 - Oxygen		
+DIM_SetAtmosphere	Description	Nitrogen - Methane		
+DIM_SetAtmosphere	Description	Nitrogen - Methane - Ethane		
+DIM_SetAtmosphere	Description	Nitrogen - Oxygen		
+DIM_SetAtmosphere	Description	Nitrogen - Oxygen - CO2		
+DIM_SetAtmosphere	Description	Nitrogen Dioxide		
+DIM_SetAtmosphere	Description	Nitrogen Dioxide - Sulphur Dioxide		

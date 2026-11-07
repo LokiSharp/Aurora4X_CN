@@ -1,0 +1,320 @@
+table	field	english	chinese	reason
+FCT_HullDescription	Description	Ammunition Transport		
+FCT_HullDescription	Description	Anchorage		
+FCT_HullDescription	Description	Area Defence Cruiser		
+FCT_HullDescription	Description	Armed Boarding Vessel		
+FCT_HullDescription	Description	Armed Scout		
+FCT_HullDescription	Description	Armed Shuttle		
+FCT_HullDescription	Description	Armoured Cruiser		
+FCT_HullDescription	Description	Assault Carrier		
+FCT_HullDescription	Description	Assault Ship		
+FCT_HullDescription	Description	Assault Shuttle		
+FCT_HullDescription	Description	Assault Transport		
+FCT_HullDescription	Description	ASW Destroyer		
+FCT_HullDescription	Description	Attack Craft		
+FCT_HullDescription	Description	Auxiliary Carrier		
+FCT_HullDescription	Description	Auxiliary Transport		
+FCT_HullDescription	Description	Base		
+FCT_HullDescription	Description	Base Star		
+FCT_HullDescription	Description	Battle Barge		
+FCT_HullDescription	Description	Battle Carrier		
+FCT_HullDescription	Description	Battlecruiser		
+FCT_HullDescription	Description	Battleship		
+FCT_HullDescription	Description	Battlestar		
+FCT_HullDescription	Description	Beam Defence Base		
+FCT_HullDescription	Description	Bombardment Cruiser		
+FCT_HullDescription	Description	Bomber		
+FCT_HullDescription	Description	Breaching Pod		
+FCT_HullDescription	Description	Buoy Deployment Craft		
+FCT_HullDescription	Description	Buoy Deployment Sloop		
+FCT_HullDescription	Description	Buoy Deployment Vessel		
+FCT_HullDescription	Description	Cargo Ship		
+FCT_HullDescription	Description	Cargo Shuttle		
+FCT_HullDescription	Description	Carrack		
+FCT_HullDescription	Description	Carrier		
+FCT_HullDescription	Description	Carrier Strike		
+FCT_HullDescription	Description	Collier		
+FCT_HullDescription	Description	Colonist Transport		
+FCT_HullDescription	Description	Colonist Transport Pod		
+FCT_HullDescription	Description	Colony Ship		
+FCT_HullDescription	Description	Command Cruiser		
+FCT_HullDescription	Description	Command Destroyer		
+FCT_HullDescription	Description	Command Dropship		
+FCT_HullDescription	Description	Command Ship		
+FCT_HullDescription	Description	Construction Ship		
+FCT_HullDescription	Description	Corvette		
+FCT_HullDescription	Description	Courier		
+FCT_HullDescription	Description	Cruiser		
+FCT_HullDescription	Description	Cutter		
+FCT_HullDescription	Description	Deep Space Survey Ship		
+FCT_HullDescription	Description	Defence Monitor		
+FCT_HullDescription	Description	Defence Satellite		
+FCT_HullDescription	Description	Destroyer		
+FCT_HullDescription	Description	Destroyer Escort		
+FCT_HullDescription	Description	Destroyer Leader		
+FCT_HullDescription	Description	Diplomatic Ship		
+FCT_HullDescription	Description	Diplomatic Station		
+FCT_HullDescription	Description	Dive Bomber		
+FCT_HullDescription	Description	Dockyard		
+FCT_HullDescription	Description	Drakar		
+FCT_HullDescription	Description	Dreadcarrier		
+FCT_HullDescription	Description	Dreadnought		
+FCT_HullDescription	Description	Drone Scout		
+FCT_HullDescription	Description	Dropship		
+FCT_HullDescription	Description	Dropship Carrier		
+FCT_HullDescription	Description	Dropship Escort		
+FCT_HullDescription	Description	Early Warning Craft		
+FCT_HullDescription	Description	ELINT Vessel		
+FCT_HullDescription	Description	Escort		
+FCT_HullDescription	Description	Escort Carrier		
+FCT_HullDescription	Description	Escort Cruiser		
+FCT_HullDescription	Description	Escort Frigate		
+FCT_HullDescription	Description	Exodus		
+FCT_HullDescription	Description	Exploration Cruiser		
+FCT_HullDescription	Description	Exploration Frigate		
+FCT_HullDescription	Description	Exploration Ship		
+FCT_HullDescription	Description	Explorer		
+FCT_HullDescription	Description	FAC Leader		
+FCT_HullDescription	Description	FAC Tender		
+FCT_HullDescription	Description	FAC Transport		
+FCT_HullDescription	Description	Fast Attack Craft		
+FCT_HullDescription	Description	Fast Colony Ship		
+FCT_HullDescription	Description	Fast Freighter		
+FCT_HullDescription	Description	Fast Patrol Craft		
+FCT_HullDescription	Description	Fast Scout		
+FCT_HullDescription	Description	Fast Scout Craft		
+FCT_HullDescription	Description	Fast Tanker		
+FCT_HullDescription	Description	Fighter		
+FCT_HullDescription	Description	Fighter Base		
+FCT_HullDescription	Description	Fighter Storage		
+FCT_HullDescription	Description	Fighter Transport		
+FCT_HullDescription	Description	Fighter-bomber		
+FCT_HullDescription	Description	Fighter-Scout		
+FCT_HullDescription	Description	First Class Cruiser		
+FCT_HullDescription	Description	Fleet Base (Maintenance)		
+FCT_HullDescription	Description	Fleet Base (Repair)		
+FCT_HullDescription	Description	Fleet Scout		
+FCT_HullDescription	Description	Fleet Support Vessel		
+FCT_HullDescription	Description	Fleet Tug		
+FCT_HullDescription	Description	Fortress		
+FCT_HullDescription	Description	Freighter		
+FCT_HullDescription	Description	Frigate		
+FCT_HullDescription	Description	Frigate Leader		
+FCT_HullDescription	Description	Fuel Harvester		
+FCT_HullDescription	Description	Fuel Harvester Base		
+FCT_HullDescription	Description	Fuel Harvester Station		
+FCT_HullDescription	Description	Galleon		
+FCT_HullDescription	Description	Geological Survey Craft		
+FCT_HullDescription	Description	Geological Survey Shuttle		
+FCT_HullDescription	Description	Geological Survey Sloop		
+FCT_HullDescription	Description	Geological Survey Vessel		
+FCT_HullDescription	Description	Geosurvey Ship		
+FCT_HullDescription	Description	Grand Cruiser		
+FCT_HullDescription	Description	Gravitational Survey Craft		
+FCT_HullDescription	Description	Gravitational Survey Shuttle		
+FCT_HullDescription	Description	Gravitational Survey Sloop		
+FCT_HullDescription	Description	Gravitational Survey Vessel		
+FCT_HullDescription	Description	Gravsurvey Ship		
+FCT_HullDescription	Description	Ground Support Fighter		
+FCT_HullDescription	Description	Gunboat		
+FCT_HullDescription	Description	Gunship		
+FCT_HullDescription	Description	Heavy Battlecruiser		
+FCT_HullDescription	Description	Heavy Carrier		
+FCT_HullDescription	Description	Heavy Cruiser		
+FCT_HullDescription	Description	Heavy Fighter		
+FCT_HullDescription	Description	Heavy Freighter		
+FCT_HullDescription	Description	Heavy Interceptor		
+FCT_HullDescription	Description	High Speed Scout		
+FCT_HullDescription	Description	Hive Ship		
+FCT_HullDescription	Description	Hospital Ship		
+FCT_HullDescription	Description	Hunter		
+FCT_HullDescription	Description	Hyper-capable Freighter		
+FCT_HullDescription	Description	ICBM Launch Base		
+FCT_HullDescription	Description	Imperial Starship		
+FCT_HullDescription	Description	Intelligence Corvette		
+FCT_HullDescription	Description	Intelligence Ship		
+FCT_HullDescription	Description	Intelligence Station		
+FCT_HullDescription	Description	Interceptor		
+FCT_HullDescription	Description	Interceptor Base		
+FCT_HullDescription	Description	Jump Battlecruiser		
+FCT_HullDescription	Description	Jump Colony Ship		
+FCT_HullDescription	Description	Jump Corvette		
+FCT_HullDescription	Description	Jump Cruiser		
+FCT_HullDescription	Description	Jump Destroyer		
+FCT_HullDescription	Description	Jump Destroyer Escort		
+FCT_HullDescription	Description	Jump Escort Cruiser		
+FCT_HullDescription	Description	Jump Freighter		
+FCT_HullDescription	Description	Jump Frigate		
+FCT_HullDescription	Description	Jump Point Defence Base		
+FCT_HullDescription	Description	Jump Scout		
+FCT_HullDescription	Description	Jump Ship		
+FCT_HullDescription	Description	Jump Stabilisation Station		
+FCT_HullDescription	Description	Jump Tender		
+FCT_HullDescription	Description	Jump Tender Station		
+FCT_HullDescription	Description	Jump Transport		
+FCT_HullDescription	Description	Kinetic Battlecruiser		
+FCT_HullDescription	Description	Kinetic Cruiser		
+FCT_HullDescription	Description	Kinetic Frigate		
+FCT_HullDescription	Description	Lander		
+FCT_HullDescription	Description	Landing Craft Assault		
+FCT_HullDescription	Description	Landing Craft Utility		
+FCT_HullDescription	Description	Landing Ship		
+FCT_HullDescription	Description	Launch Complex		
+FCT_HullDescription	Description	Launch Platform		
+FCT_HullDescription	Description	Legion Transport		
+FCT_HullDescription	Description	Lifeboat		
+FCT_HullDescription	Description	Light Carrier		
+FCT_HullDescription	Description	Light Cruiser		
+FCT_HullDescription	Description	Light Fighter		
+FCT_HullDescription	Description	Light Jump Cruiser		
+FCT_HullDescription	Description	Light Troop Transport		
+FCT_HullDescription	Description	Long Range Gravsurvey Vessel		
+FCT_HullDescription	Description	Long Range Patrol		
+FCT_HullDescription	Description	Long Range Scout		
+FCT_HullDescription	Description	Long Range Strike		
+FCT_HullDescription	Description	Long Range Survey Ship		
+FCT_HullDescription	Description	Luxury Liner		
+FCT_HullDescription	Description	MACO Shuttle		
+FCT_HullDescription	Description	Maintenance Base		
+FCT_HullDescription	Description	Maintenance Pod		
+FCT_HullDescription	Description	Maintenance Station		
+FCT_HullDescription	Description	Maintenance Vessel		
+FCT_HullDescription	Description	Marine Transport		
+FCT_HullDescription	Description	Mass Conveyor		
+FCT_HullDescription	Description	Military Jump Tender		
+FCT_HullDescription	Description	Military Replenishment Ship		
+FCT_HullDescription	Description	Military Tanker		
+FCT_HullDescription	Description	Minelayer		
+FCT_HullDescription	Description	Mining Platform		
+FCT_HullDescription	Description	Missile Base		
+FCT_HullDescription	Description	Missile Boat		
+FCT_HullDescription	Description	Missile Cruiser		
+FCT_HullDescription	Description	Missile Defence Base		
+FCT_HullDescription	Description	Missile Defence Satellite		
+FCT_HullDescription	Description	Missile Destroyer		
+FCT_HullDescription	Description	Missile Frigate		
+FCT_HullDescription	Description	Mobile Jump Gate		
+FCT_HullDescription	Description	Monitor		
+FCT_HullDescription	Description	Monitoring Station		
+FCT_HullDescription	Description	Mothership		
+FCT_HullDescription	Description	Observer		
+FCT_HullDescription	Description	Oiler		
+FCT_HullDescription	Description	Orbital Defence Base		
+FCT_HullDescription	Description	Orbital Defence Monitor		
+FCT_HullDescription	Description	Orbital Defence Platform		
+FCT_HullDescription	Description	Orbital Habitat		
+FCT_HullDescription	Description	Orbital Miner		
+FCT_HullDescription	Description	Orbital Mining Platform		
+FCT_HullDescription	Description	Orbital Mining Station		
+FCT_HullDescription	Description	Orbital Weapon Platform		
+FCT_HullDescription	Description	Ordnance Transport		
+FCT_HullDescription	Description	Passenger Cruiser		
+FCT_HullDescription	Description	Patrol Craft		
+FCT_HullDescription	Description	Patrol Cruiser		
+FCT_HullDescription	Description	Patrol Ship		
+FCT_HullDescription	Description	Patrol Vessel		
+FCT_HullDescription	Description	Personnel Shuttle		
+FCT_HullDescription	Description	Pinnace		
+FCT_HullDescription	Description	Planet Killer		
+FCT_HullDescription	Description	Planetary Defence Centre		
+FCT_HullDescription	Description	Planetary Fighter Base		
+FCT_HullDescription	Description	Planetary Surveillance Base		
+FCT_HullDescription	Description	Point Defence Base		
+FCT_HullDescription	Description	Police Cutter		
+FCT_HullDescription	Description	Protected Cruiser		
+FCT_HullDescription	Description	Raider		
+FCT_HullDescription	Description	Railgun Cruiser		
+FCT_HullDescription	Description	Recon Craft		
+FCT_HullDescription	Description	Recon Fighter		
+FCT_HullDescription	Description	Recon Frigate		
+FCT_HullDescription	Description	Recon Satellite		
+FCT_HullDescription	Description	Reconnaissance Craft		
+FCT_HullDescription	Description	Recreational Ship		
+FCT_HullDescription	Description	Recreational Station		
+FCT_HullDescription	Description	Repair Ship		
+FCT_HullDescription	Description	Repair Station		
+FCT_HullDescription	Description	Replenishment Ship		
+FCT_HullDescription	Description	Rescue Shuttle		
+FCT_HullDescription	Description	Resupply Base		
+FCT_HullDescription	Description	Runabout		
+FCT_HullDescription	Description	Salvage Station		
+FCT_HullDescription	Description	Salvager		
+FCT_HullDescription	Description	Schnellboot		
+FCT_HullDescription	Description	Science Vessel		
+FCT_HullDescription	Description	Scout		
+FCT_HullDescription	Description	Scout Base		
+FCT_HullDescription	Description	Scout Boat		
+FCT_HullDescription	Description	Scout Carrier		
+FCT_HullDescription	Description	Scout Cruiser		
+FCT_HullDescription	Description	Scout Destroyer		
+FCT_HullDescription	Description	Scout Fighter		
+FCT_HullDescription	Description	Scout Frigate		
+FCT_HullDescription	Description	Scout/Courier		
+FCT_HullDescription	Description	Search and Rescue Shuttle		
+FCT_HullDescription	Description	Second Class Cruiser		
+FCT_HullDescription	Description	Security Shuttle		
+FCT_HullDescription	Description	Sensor Outpost		
+FCT_HullDescription	Description	Sensor Platform		
+FCT_HullDescription	Description	Shuttle		
+FCT_HullDescription	Description	Shuttlecraft		
+FCT_HullDescription	Description	Slave Transport		
+FCT_HullDescription	Description	Small Craft Tender		
+FCT_HullDescription	Description	Space Station		
+FCT_HullDescription	Description	Spaceliner		
+FCT_HullDescription	Description	Stabilisation Ship		
+FCT_HullDescription	Description	Stabilisation Station		
+FCT_HullDescription	Description	Star Destroyer		
+FCT_HullDescription	Description	Star Fortress		
+FCT_HullDescription	Description	Star Swarm		
+FCT_HullDescription	Description	Starbase		
+FCT_HullDescription	Description	Starfighter		
+FCT_HullDescription	Description	Starport		
+FCT_HullDescription	Description	Starship		
+FCT_HullDescription	Description	Stealth Scout		
+FCT_HullDescription	Description	Strike Carrier		
+FCT_HullDescription	Description	Strike Cruiser		
+FCT_HullDescription	Description	Strikefighter		
+FCT_HullDescription	Description	Superdreadnought		
+FCT_HullDescription	Description	Superfreighter		
+FCT_HullDescription	Description	Supply Ship		
+FCT_HullDescription	Description	Supply Transport		
+FCT_HullDescription	Description	Support Base		
+FCT_HullDescription	Description	Support Vessel		
+FCT_HullDescription	Description	Surveillance Cruiser		
+FCT_HullDescription	Description	Surveillance Frigate		
+FCT_HullDescription	Description	Survey Carrier		
+FCT_HullDescription	Description	Survey Command Cruiser		
+FCT_HullDescription	Description	Survey Command Ship		
+FCT_HullDescription	Description	Survey Corvette		
+FCT_HullDescription	Description	Survey Craft		
+FCT_HullDescription	Description	Survey Cruiser		
+FCT_HullDescription	Description	Survey Frigate		
+FCT_HullDescription	Description	Survey Hunter		
+FCT_HullDescription	Description	Survey Ship		
+FCT_HullDescription	Description	Survey Shuttle		
+FCT_HullDescription	Description	Survey Sloop		
+FCT_HullDescription	Description	Survey Support		
+FCT_HullDescription	Description	Survey Support Base		
+FCT_HullDescription	Description	Survey Support Cruiser		
+FCT_HullDescription	Description	Survey Tender		
+FCT_HullDescription	Description	Survey Vessel		
+FCT_HullDescription	Description	Tanker		
+FCT_HullDescription	Description	Terraformer		
+FCT_HullDescription	Description	Terraforming Base		
+FCT_HullDescription	Description	Terraforming Station		
+FCT_HullDescription	Description	Third Class Cruiser		
+FCT_HullDescription	Description	TIE Bomber		
+FCT_HullDescription	Description	Titan		
+FCT_HullDescription	Description	Torpedo Boat		
+FCT_HullDescription	Description	Torpedo Boat Tender		
+FCT_HullDescription	Description	Torpedo Bomber		
+FCT_HullDescription	Description	Torpedo Cruiser		
+FCT_HullDescription	Description	Transport		
+FCT_HullDescription	Description	Transport Carrier		
+FCT_HullDescription	Description	Troop Shuttle		
+FCT_HullDescription	Description	Troop Transport		
+FCT_HullDescription	Description	Tug		
+FCT_HullDescription	Description	Unknown		
+FCT_HullDescription	Description	Utility Shuttle		
+FCT_HullDescription	Description	War Cruiser		
+FCT_HullDescription	Description	War Cruiser Leader		

@@ -1,0 +1,87 @@
+table	field	english	chinese	reason
+DIM_AutomatedClassDesign	DefaultClassName	Ark Royal		
+DIM_AutomatedClassDesign	DefaultClassName	Atlas		
+DIM_AutomatedClassDesign	DefaultClassName	Atlas V		
+DIM_AutomatedClassDesign	DefaultClassName	Bardiche		
+DIM_AutomatedClassDesign	DefaultClassName	Bardiche-J		
+DIM_AutomatedClassDesign	DefaultClassName	Beam Defence Base		
+DIM_AutomatedClassDesign	DefaultClassName	Botany Bay		
+DIM_AutomatedClassDesign	DefaultClassName	Brigand		
+DIM_AutomatedClassDesign	DefaultClassName	Buckland		
+DIM_AutomatedClassDesign	DefaultClassName	Carnifex		
+DIM_AutomatedClassDesign	DefaultClassName	Colossus		
+DIM_AutomatedClassDesign	DefaultClassName	Colossus-J		
+DIM_AutomatedClassDesign	DefaultClassName	Custer		
+DIM_AutomatedClassDesign	DefaultClassName	Darwin		
+DIM_AutomatedClassDesign	DefaultClassName	Deadly Reaper		
+DIM_AutomatedClassDesign	DefaultClassName	Deadly Reaper-J		
+DIM_AutomatedClassDesign	DefaultClassName	Eagle		
+DIM_AutomatedClassDesign	DefaultClassName	Elysium		
+DIM_AutomatedClassDesign	DefaultClassName	FAC-Killer		
+DIM_AutomatedClassDesign	DefaultClassName	FAC-Killer-J		
+DIM_AutomatedClassDesign	DefaultClassName	Faraday		
+DIM_AutomatedClassDesign	DefaultClassName	Fighter-Killer		
+DIM_AutomatedClassDesign	DefaultClassName	Fighter-Killer-J		
+DIM_AutomatedClassDesign	DefaultClassName	Gargoyle		
+DIM_AutomatedClassDesign	DefaultClassName	Gateway		
+DIM_AutomatedClassDesign	DefaultClassName	Genesis		
+DIM_AutomatedClassDesign	DefaultClassName	Genesis-L		
+DIM_AutomatedClassDesign	DefaultClassName	Genestealer		
+DIM_AutomatedClassDesign	DefaultClassName	Geronimo		
+DIM_AutomatedClassDesign	DefaultClassName	Grim Reaper		
+DIM_AutomatedClassDesign	DefaultClassName	Grim Reaper-J		
+DIM_AutomatedClassDesign	DefaultClassName	Guardian		
+DIM_AutomatedClassDesign	DefaultClassName	Guardian-J		
+DIM_AutomatedClassDesign	DefaultClassName	Hive Guard		
+DIM_AutomatedClassDesign	DefaultClassName	Hormagaunt		
+DIM_AutomatedClassDesign	DefaultClassName	Hyuga		
+DIM_AutomatedClassDesign	DefaultClassName	Iwo Jima		
+DIM_AutomatedClassDesign	DefaultClassName	Large Hive		
+DIM_AutomatedClassDesign	DefaultClassName	Lictor		
+DIM_AutomatedClassDesign	DefaultClassName	Longsword		
+DIM_AutomatedClassDesign	DefaultClassName	Longsword-J		
+DIM_AutomatedClassDesign	DefaultClassName	Machiavelli		
+DIM_AutomatedClassDesign	DefaultClassName	Marauder		
+DIM_AutomatedClassDesign	DefaultClassName	Mauretania		
+DIM_AutomatedClassDesign	DefaultClassName	Mayflower		
+DIM_AutomatedClassDesign	DefaultClassName	Medium Hive		
+DIM_AutomatedClassDesign	DefaultClassName	Missile Base		
+DIM_AutomatedClassDesign	DefaultClassName	Missile Defence Base		
+DIM_AutomatedClassDesign	DefaultClassName	Msl Guardian		
+DIM_AutomatedClassDesign	DefaultClassName	Msl Guardian-J		
+DIM_AutomatedClassDesign	DefaultClassName	Msl Sentinel		
+DIM_AutomatedClassDesign	DefaultClassName	Msl Sentinel-J		
+DIM_AutomatedClassDesign	DefaultClassName	Narwhal		
+DIM_AutomatedClassDesign	DefaultClassName	Narwhal-L		
+DIM_AutomatedClassDesign	DefaultClassName	Newton		
+DIM_AutomatedClassDesign	DefaultClassName	Nimitz		
+DIM_AutomatedClassDesign	DefaultClassName	ONeill		
+DIM_AutomatedClassDesign	DefaultClassName	Overseer		
+DIM_AutomatedClassDesign	DefaultClassName	Pegasus		
+DIM_AutomatedClassDesign	DefaultClassName	Phalanx		
+DIM_AutomatedClassDesign	DefaultClassName	Phantom		
+DIM_AutomatedClassDesign	DefaultClassName	Phoenix		
+DIM_AutomatedClassDesign	DefaultClassName	Plunder		
+DIM_AutomatedClassDesign	DefaultClassName	Pyrovore		
+DIM_AutomatedClassDesign	DefaultClassName	Raider		
+DIM_AutomatedClassDesign	DefaultClassName	Rappahannock		
+DIM_AutomatedClassDesign	DefaultClassName	Reaper		
+DIM_AutomatedClassDesign	DefaultClassName	Reaper-J		
+DIM_AutomatedClassDesign	DefaultClassName	Reaper-S		
+DIM_AutomatedClassDesign	DefaultClassName	Ripper		
+DIM_AutomatedClassDesign	DefaultClassName	Roanoke		
+DIM_AutomatedClassDesign	DefaultClassName	Scourge		
+DIM_AutomatedClassDesign	DefaultClassName	Sentinel		
+DIM_AutomatedClassDesign	DefaultClassName	Sentinel-J		
+DIM_AutomatedClassDesign	DefaultClassName	Small Hive		
+DIM_AutomatedClassDesign	DefaultClassName	Stakhanov		
+DIM_AutomatedClassDesign	DefaultClassName	Tanker		
+DIM_AutomatedClassDesign	DefaultClassName	Termaguant		
+DIM_AutomatedClassDesign	DefaultClassName	Tervigon		
+DIM_AutomatedClassDesign	DefaultClassName	Titan		
+DIM_AutomatedClassDesign	DefaultClassName	Titanic		
+DIM_AutomatedClassDesign	DefaultClassName	Tramp		
+DIM_AutomatedClassDesign	DefaultClassName	Very Large Hive		
+DIM_AutomatedClassDesign	DefaultClassName	Vulcan		
+DIM_AutomatedClassDesign	DefaultClassName	Zoanthrope		
+MissileSeries	SeriesName	Anti-Ship		

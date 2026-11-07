@@ -1,0 +1,911 @@
+table	field	english	chinese	reason
+FCT_Ranks	RankName	Admiral		
+FCT_Ranks	RankName	Baron		
+FCT_Ranks	RankName	Brigadier		
+FCT_Ranks	RankName	Captain		
+FCT_Ranks	RankName	Colonel		
+FCT_Ranks	RankName	Commander		
+FCT_Ranks	RankName	Commodore		
+FCT_Ranks	RankName	Duke		
+FCT_Ranks	RankName	Dwar		
+FCT_Ranks	RankName	Field Marshal		
+FCT_Ranks	RankName	First Space Lord		
+FCT_Ranks	RankName	General		
+FCT_Ranks	RankName	Grand Master		
+FCT_Ranks	RankName	Great Hunter		
+FCT_Ranks	RankName	Great Stalker		
+FCT_Ranks	RankName	High Hunter		
+FCT_Ranks	RankName	High Stalker		
+FCT_Ranks	RankName	Hunter		
+FCT_Ranks	RankName	Jed		
+FCT_Ranks	RankName	Jeddak		
+FCT_Ranks	RankName	Junior Kadar		
+FCT_Ranks	RankName	Kadar		
+FCT_Ranks	RankName	Knight		
+FCT_Ranks	RankName	Knight Commander		
+FCT_Ranks	RankName	Knight Grand Commander		
+FCT_Ranks	RankName	Leftenant Colonel		
+FCT_Ranks	RankName	Leftenant General		
+FCT_Ranks	RankName	Lieutenant Colonel		
+FCT_Ranks	RankName	Lieutenant Commander		
+FCT_Ranks	RankName	Lieutenant-General		
+FCT_Ranks	RankName	Major		
+FCT_Ranks	RankName	Major General		
+FCT_Ranks	RankName	Major-General		
+FCT_Ranks	RankName	Marshal		
+FCT_Ranks	RankName	Odwar		
+FCT_Ranks	RankName	Padwar		
+FCT_Ranks	RankName	Rear Admiral		
+FCT_Ranks	RankName	Squire		
+FCT_Ranks	RankName	Stalker		
+FCT_Ranks	RankName	Trailer		
+FCT_Ranks	RankName	Vice Admiral		
+FCT_Race	RankScientist	Scientist		
+FCT_Race	RankAdministrator	Administrator		
+DIM_RankThemeTypes	ThemeName	African Union		
+DIM_RankThemeTypes	ThemeName	Ancient Egypt		
+DIM_RankThemeTypes	ThemeName	Ancient Greece		
+DIM_RankThemeTypes	ThemeName	Andorian		
+DIM_RankThemeTypes	ThemeName	Andromeda		
+DIM_RankThemeTypes	ThemeName	Animal		
+DIM_RankThemeTypes	ThemeName	Arabic		
+DIM_RankThemeTypes	ThemeName	Argentina		
+DIM_RankThemeTypes	ThemeName	ASEAN		
+DIM_RankThemeTypes	ThemeName	Australia		
+DIM_RankThemeTypes	ThemeName	Aztec		
+DIM_RankThemeTypes	ThemeName	Bajoran		
+DIM_RankThemeTypes	ThemeName	Barsoom		
+DIM_RankThemeTypes	ThemeName	Boer		
+DIM_RankThemeTypes	ThemeName	Brazil		
+DIM_RankThemeTypes	ThemeName	Canada		
+DIM_RankThemeTypes	ThemeName	Cardassian		
+DIM_RankThemeTypes	ThemeName	China		
+DIM_RankThemeTypes	ThemeName	Clans of Shakar		
+DIM_RankThemeTypes	ThemeName	Danmark		
+DIM_RankThemeTypes	ThemeName	Demonic Realm		
+DIM_RankThemeTypes	ThemeName	Deutschland		
+DIM_RankThemeTypes	ThemeName	Deverry		
+DIM_RankThemeTypes	ThemeName	Egyptian		
+DIM_RankThemeTypes	ThemeName	Elemental		
+DIM_RankThemeTypes	ThemeName	Fantasy		
+DIM_RankThemeTypes	ThemeName	Ferengi		
+DIM_RankThemeTypes	ThemeName	France		
+DIM_RankThemeTypes	ThemeName	Galactic Empire		
+DIM_RankThemeTypes	ThemeName	Gorn		
+DIM_RankThemeTypes	ThemeName	Hippy		
+DIM_RankThemeTypes	ThemeName	House Davion		
+DIM_RankThemeTypes	ThemeName	House Kurita		
+DIM_RankThemeTypes	ThemeName	House Liao		
+DIM_RankThemeTypes	ThemeName	House Marik		
+DIM_RankThemeTypes	ThemeName	House Steiner		
+DIM_RankThemeTypes	ThemeName	India		
+DIM_RankThemeTypes	ThemeName	Indonesia		
+DIM_RankThemeTypes	ThemeName	Iran		
+DIM_RankThemeTypes	ThemeName	Ireland (Gaelic)		
+DIM_RankThemeTypes	ThemeName	Israel		
+DIM_RankThemeTypes	ThemeName	Italia		
+DIM_RankThemeTypes	ThemeName	Khanate of Orion		
+DIM_RankThemeTypes	ThemeName	Klingon		
+DIM_RankThemeTypes	ThemeName	Knights Templar		
+DIM_RankThemeTypes	ThemeName	Magician (R. Feist)		
+DIM_RankThemeTypes	ThemeName	Manticore (RMN)		
+DIM_RankThemeTypes	ThemeName	Mexico		
+DIM_RankThemeTypes	ThemeName	Mongol		
+DIM_RankThemeTypes	ThemeName	Narn		
+DIM_RankThemeTypes	ThemeName	Nations of Earth		
+DIM_RankThemeTypes	ThemeName	Native American		
+DIM_RankThemeTypes	ThemeName	Netherlands		
+DIM_RankThemeTypes	ThemeName	Nihon (Japan)		
+DIM_RankThemeTypes	ThemeName	Norse		
+DIM_RankThemeTypes	ThemeName	Odd		
+DIM_RankThemeTypes	ThemeName	Orc		
+DIM_RankThemeTypes	ThemeName	Rebel Alliance		
+DIM_RankThemeTypes	ThemeName	Rigelian (Historical)		
+DIM_RankThemeTypes	ThemeName	Rigellian (Steve)		
+DIM_RankThemeTypes	ThemeName	Roman		
+DIM_RankThemeTypes	ThemeName	Romulan		
+DIM_RankThemeTypes	ThemeName	Russia		
+DIM_RankThemeTypes	ThemeName	Shotgun		
+DIM_RankThemeTypes	ThemeName	South Africa		
+DIM_RankThemeTypes	ThemeName	South America		
+DIM_RankThemeTypes	ThemeName	South Korea		
+DIM_RankThemeTypes	ThemeName	Spanish		
+DIM_RankThemeTypes	ThemeName	Suomi (Finland)		
+DIM_RankThemeTypes	ThemeName	Sverige (Sweden)		
+DIM_RankThemeTypes	ThemeName	Terran Federation		
+DIM_RankThemeTypes	ThemeName	Tolkien		
+DIM_RankThemeTypes	ThemeName	Turkey		
+DIM_RankThemeTypes	ThemeName	United Kingdom		
+DIM_RankThemeTypes	ThemeName	United States		
+DIM_RankThemeTypes	ThemeName	Vulcan		
+DIM_RankThemeTypes	ThemeName	Warhammer 40K Empire		
+DIM_RankThemeTypes	ThemeName	Welsh		
+DIM_RankThemes	RankName	Adept		
+DIM_RankThemes	RankName	Admiraal		
+DIM_RankThemes	RankName	Admiral		
+DIM_RankThemes	RankName	Admiral 		
+DIM_RankThemes	RankName	Admiral flota		
+DIM_RankThemes	RankName	Admiral of the Fleet		
+DIM_RankThemes	RankName	Albay		
+DIM_RankThemes	RankName	Almirante		
+DIM_RankThemes	RankName	Almirante general		
+DIM_RankThemes	RankName	Almirante-de-Esquadra		
+DIM_RankThemes	RankName	Aluf		
+DIM_RankThemes	RankName	Aluf mishne		
+DIM_RankThemes	RankName	Amid		
+DIM_RankThemes	RankName	Amiraali		
+DIM_RankThemes	RankName	Amiral		
+DIM_RankThemes	RankName	Ammiraglio di Armata		
+DIM_RankThemes	RankName	Ammiraglio di Divisione		
+DIM_RankThemes	RankName	Ammiraglio di Squadra		
+DIM_RankThemes	RankName	Antinavarchos		
+DIM_RankThemes	RankName	Antiploiarchos		
+DIM_RankThemes	RankName	Aqid		
+DIM_RankThemes	RankName	Arbanchi		
+DIM_RankThemes	RankName	Archdemon		
+DIM_RankThemes	RankName	Archdevil		
+DIM_RankThemes	RankName	Archiploiarchos		
+DIM_RankThemes	RankName	Archon		
+DIM_RankThemes	RankName	Axbearer		
+DIM_RankThemes	RankName	Baron		
+DIM_RankThemes	RankName	Berserkir		
+DIM_RankThemes	RankName	Binbasi		
+DIM_RankThemes	RankName	Brave		
+DIM_RankThemes	RankName	Brigadier		
+DIM_RankThemes	RankName	Byddin Gofod Marsial		
+DIM_RankThemes	RankName	Cadlywydd Gofod		
+DIM_RankThemes	RankName	Caliph		
+DIM_RankThemes	RankName	Capitaine de corvette		
+DIM_RankThemes	RankName	Capitaine de frégate		
+DIM_RankThemes	RankName	Capitaine de vaisseau		
+DIM_RankThemes	RankName	Capitan de Corbeta		
+DIM_RankThemes	RankName	Capitan de Fragata		
+DIM_RankThemes	RankName	Capitan de Navio		
+DIM_RankThemes	RankName	Capitano di Corvetta		
+DIM_RankThemes	RankName	Capitano di Fregata		
+DIM_RankThemes	RankName	Capitano di Vascello		
+DIM_RankThemes	RankName	Capitán de Corbeta		
+DIM_RankThemes	RankName	Capitán de Fragata		
+DIM_RankThemes	RankName	Capitán de Navío		
+DIM_RankThemes	RankName	Capitán general		
+DIM_RankThemes	RankName	Capitão-de-Corveta		
+DIM_RankThemes	RankName	Capitão-de-Fragata		
+DIM_RankThemes	RankName	Capitão-de-Mar-e-Guerra		
+DIM_RankThemes	RankName	Capitão-tenente		
+DIM_RankThemes	RankName	Captaen		
+DIM_RankThemes	RankName	Captain		
+DIM_RankThemes	RankName	Captain 		
+DIM_RankThemes	RankName	Captain (JG)		
+DIM_RankThemes	RankName	Captain of the List		
+DIM_RankThemes	RankName	Captain-General		
+DIM_RankThemes	RankName	Capten Gofod		
+DIM_RankThemes	RankName	Ceannasaí		
+DIM_RankThemes	RankName	Ceannasóir		
+DIM_RankThemes	RankName	Centurion		
+DIM_RankThemes	RankName	Chancellor		
+DIM_RankThemes	RankName	Cheetah		
+DIM_RankThemes	RankName	Chief of Chiefs		
+DIM_RankThemes	RankName	Cho'Noth		
+DIM_RankThemes	RankName	Cho'Rath		
+DIM_RankThemes	RankName	Chu-i		
+DIM_RankThemes	RankName	Chu-sa		
+DIM_RankThemes	RankName	Civil Chief		
+DIM_RankThemes	RankName	Cleric		
+DIM_RankThemes	RankName	Colonel		
+DIM_RankThemes	RankName	Colonel 		
+DIM_RankThemes	RankName	Commander		
+DIM_RankThemes	RankName	Commander 		
+DIM_RankThemes	RankName	Commandeur 		
+DIM_RankThemes	RankName	Commodore		
+DIM_RankThemes	RankName	Commodore 		
+DIM_RankThemes	RankName	Comodor Gofod		
+DIM_RankThemes	RankName	Comodoro de Marina		
+DIM_RankThemes	RankName	Contra-Almirante		
+DIM_RankThemes	RankName	Contraalmirante		
+DIM_RankThemes	RankName	Contralmirante		
+DIM_RankThemes	RankName	Contrammiraglio		
+DIM_RankThemes	RankName	Contre-amiral		
+DIM_RankThemes	RankName	Count		
+DIM_RankThemes	RankName	Da Xiao		
+DIM_RankThemes	RankName	Da'Jareth		
+DIM_RankThemes	RankName	Daejang		
+DIM_RankThemes	RankName	Daeryeong		
+DIM_RankThemes	RankName	Dahar Master		
+DIM_RankThemes	RankName	Daimon		
+DIM_RankThemes	RankName	Daimon-Ress		
+DIM_RankThemes	RankName	Dal		
+DIM_RankThemes	RankName	Dalin		
+DIM_RankThemes	RankName	Dar'Garoth		
+DIM_RankThemes	RankName	Dar'Sol		
+DIM_RankThemes	RankName	Daryaban		
+DIM_RankThemes	RankName	Daryadar		
+DIM_RankThemes	RankName	Daryadar Dovom		
+DIM_RankThemes	RankName	Daryasalar		
+DIM_RankThemes	RankName	Demon		
+DIM_RankThemes	RankName	Demon Lord		
+DIM_RankThemes	RankName	Demon Prince		
+DIM_RankThemes	RankName	Devil		
+DIM_RankThemes	RankName	Dictator		
+DIM_RankThemes	RankName	Dirprwy Marsial Gofod		
+DIM_RankThemes	RankName	Drengr		
+DIM_RankThemes	RankName	Duke		
+DIM_RankThemes	RankName	Dwar		
+DIM_RankThemes	RankName	Earl		
+DIM_RankThemes	RankName	Earth Lord		
+DIM_RankThemes	RankName	Elemental		
+DIM_RankThemes	RankName	Elemental Lord		
+DIM_RankThemes	RankName	Elemental Overlord		
+DIM_RankThemes	RankName	Emperor		
+DIM_RankThemes	RankName	Fariq		
+DIM_RankThemes	RankName	Fariq’awal		
+DIM_RankThemes	RankName	Field Marshal		
+DIM_RankThemes	RankName	Fiend		
+DIM_RankThemes	RankName	Fire Lord		
+DIM_RankThemes	RankName	First Fang		
+DIM_RankThemes	RankName	First Space Lord		
+DIM_RankThemes	RankName	Fleet Admiral		
+DIM_RankThemes	RankName	Fleet Admiral of the Green		
+DIM_RankThemes	RankName	Fleet Admiral of the Red		
+DIM_RankThemes	RankName	Fleet Commander		
+DIM_RankThemes	RankName	Flotilleadmiral		
+DIM_RankThemes	RankName	Flottiljamiral		
+DIM_RankThemes	RankName	Flottillenadmiral		
+DIM_RankThemes	RankName	Force Commander		
+DIM_RankThemes	RankName	Fregattenkapitän		
+DIM_RankThemes	RankName	Gangboss		
+DIM_RankThemes	RankName	Gangleader		
+DIM_RankThemes	RankName	General		
+DIM_RankThemes	RankName	General 		
+DIM_RankThemes	RankName	Gensui-Kaigun-Taishō		
+DIM_RankThemes	RankName	Glinn		
+DIM_RankThemes	RankName	Governor		
+DIM_RankThemes	RankName	Grand Admiral		
+DIM_RankThemes	RankName	Grand Ammiraglio		
+DIM_RankThemes	RankName	Grand Master		
+DIM_RankThemes	RankName	Grand Moff		
+DIM_RankThemes	RankName	Grand Sheikh		
+DIM_RankThemes	RankName	Grand Vizier		
+DIM_RankThemes	RankName	Great Axbearer		
+DIM_RankThemes	RankName	Great Claw		
+DIM_RankThemes	RankName	Great Fang		
+DIM_RankThemes	RankName	Great Hunter		
+DIM_RankThemes	RankName	Great Khan		
+DIM_RankThemes	RankName	Great Stalker		
+DIM_RankThemes	RankName	Greater Swordsman		
+DIM_RankThemes	RankName	Groupboss		
+DIM_RankThemes	RankName	Gul		
+DIM_RankThemes	RankName	Guru		
+DIM_RankThemes	RankName	Hauptmann-General		
+DIM_RankThemes	RankName	High Admiral		
+DIM_RankThemes	RankName	High Hunter		
+DIM_RankThemes	RankName	High Stalker		
+DIM_RankThemes	RankName	High Swordsman		
+DIM_RankThemes	RankName	Hueyteccatl		
+DIM_RankThemes	RankName	Hueytlatoani		
+DIM_RankThemes	RankName	Hunter		
+DIM_RankThemes	RankName	Huscarl		
+DIM_RankThemes	RankName	Imperator		
+DIM_RankThemes	RankName	Ja'Gul		
+DIM_RankThemes	RankName	Jaghunchi		
+DIM_RankThemes	RankName	Jaguar		
+DIM_RankThemes	RankName	Jarl		
+DIM_RankThemes	RankName	Jed		
+DIM_RankThemes	RankName	Jeddak		
+DIM_RankThemes	RankName	Jomsviking		
+DIM_RankThemes	RankName	Jungjang		
+DIM_RankThemes	RankName	Jungnyeong		
+DIM_RankThemes	RankName	Junior Captain		
+DIM_RankThemes	RankName	Junior Kadar		
+DIM_RankThemes	RankName	Junjang		
+DIM_RankThemes	RankName	Kadar		
+DIM_RankThemes	RankName	Kaigun Chujo		
+DIM_RankThemes	RankName	Kaigun Taisho		
+DIM_RankThemes	RankName	Kaigun-Chōsa		
+DIM_RankThemes	RankName	Kaigun-Chūsa		
+DIM_RankThemes	RankName	Kaigun-Daisa		
+DIM_RankThemes	RankName	Kaigun-Shōshō		
+DIM_RankThemes	RankName	Kapitan pervogo ranga		
+DIM_RankThemes	RankName	Kapitan tret'yego ranga		
+DIM_RankThemes	RankName	Kapitan vtorogo ranga		
+DIM_RankThemes	RankName	Kapitein ter Zee 		
+DIM_RankThemes	RankName	Kapitein-luitenant ter Zee 		
+DIM_RankThemes	RankName	Kapitän zur See		
+DIM_RankThemes	RankName	Kaptajnlojnant		
+DIM_RankThemes	RankName	Kaptein		
+DIM_RankThemes	RankName	Kar'Veth		
+DIM_RankThemes	RankName	Khan		
+DIM_RankThemes	RankName	Knight		
+DIM_RankThemes	RankName	Knight Captain		
+DIM_RankThemes	RankName	Knight Commander		
+DIM_RankThemes	RankName	Knight Grand Commander		
+DIM_RankThemes	RankName	Knight-General		
+DIM_RankThemes	RankName	Knight-Lieutenant		
+DIM_RankThemes	RankName	Knight-Marshal		
+DIM_RankThemes	RankName	Knight-Sergeant		
+DIM_RankThemes	RankName	Kolonel Laut		
+DIM_RankThemes	RankName	Komentaja		
+DIM_RankThemes	RankName	Komentajakapteen		
+DIM_RankThemes	RankName	Kommandant-General		
+DIM_RankThemes	RankName	Kommandeur		
+DIM_RankThemes	RankName	Kommandor		
+DIM_RankThemes	RankName	Kommandorkaptajn		
+DIM_RankThemes	RankName	Kommendör		
+DIM_RankThemes	RankName	Kommendörkapten		
+DIM_RankThemes	RankName	Kommodori		
+DIM_RankThemes	RankName	Konteradmiral		
+DIM_RankThemes	RankName	Konteramiral		
+DIM_RankThemes	RankName	Kontr-admiral		
+DIM_RankThemes	RankName	Kontra-amiraali		
+DIM_RankThemes	RankName	Kontreadmiral		
+DIM_RankThemes	RankName	Koramiral		
+DIM_RankThemes	RankName	Korvettenkapitän		
+DIM_RankThemes	RankName	Laksamana		
+DIM_RankThemes	RankName	Laksamana Madya		
+DIM_RankThemes	RankName	Laksamana Muda		
+DIM_RankThemes	RankName	Laksamana Pertama		
+DIM_RankThemes	RankName	Lay Magician		
+DIM_RankThemes	RankName	Lay Priest		
+DIM_RankThemes	RankName	Leas-Aimiréal		
+DIM_RankThemes	RankName	Least Claw		
+DIM_RankThemes	RankName	Least Fang		
+DIM_RankThemes	RankName	Leftenant Colonel		
+DIM_RankThemes	RankName	Leftenant General		
+DIM_RankThemes	RankName	Legate		
+DIM_RankThemes	RankName	Legatus		
+DIM_RankThemes	RankName	Leifteanant-Cheannasaí		
+DIM_RankThemes	RankName	Leopard		
+DIM_RankThemes	RankName	Letek-Ress		
+DIM_RankThemes	RankName	Letnan Kolonel Laut		
+DIM_RankThemes	RankName	Leutnant-Colonel		
+DIM_RankThemes	RankName	Leutnant-General		
+DIM_RankThemes	RankName	Lieutenant		
+DIM_RankThemes	RankName	Lieutenant Colonel		
+DIM_RankThemes	RankName	Lieutenant Commander		
+DIM_RankThemes	RankName	Lieutenant General		
+DIM_RankThemes	RankName	Line Captain		
+DIM_RankThemes	RankName	Lion		
+DIM_RankThemes	RankName	Lippueamiraali		
+DIM_RankThemes	RankName	Liwa		
+DIM_RankThemes	RankName	Lord		
+DIM_RankThemes	RankName	Lord Admiral		
+DIM_RankThemes	RankName	Lord Militant Commander		
+DIM_RankThemes	RankName	Lord-Captain		
+DIM_RankThemes	RankName	Luitenant-Admiraal 		
+DIM_RankThemes	RankName	Luitenant-Kommandeur		
+DIM_RankThemes	RankName	Magician		
+DIM_RankThemes	RankName	Major		
+DIM_RankThemes	RankName	Major 		
+DIM_RankThemes	RankName	Major General		
+DIM_RankThemes	RankName	Marshal		
+DIM_RankThemes	RankName	Marsial Gofod		
+DIM_RankThemes	RankName	Master		
+DIM_RankThemes	RankName	Mayor Laut		
+DIM_RankThemes	RankName	Medicine Man		
+DIM_RankThemes	RankName	Mekboy		
+DIM_RankThemes	RankName	Mercenary		
+DIM_RankThemes	RankName	Merkismaor		
+DIM_RankThemes	RankName	Minghunchi		
+DIM_RankThemes	RankName	Minister		
+DIM_RankThemes	RankName	Moff		
+DIM_RankThemes	RankName	Mufti		
+DIM_RankThemes	RankName	Muqaddam		
+DIM_RankThemes	RankName	Mushir		
+DIM_RankThemes	RankName	Nakhoda Dovvom		
+DIM_RankThemes	RankName	Nakhoda Sevom		
+DIM_RankThemes	RankName	Nakhoda Yekom		
+DIM_RankThemes	RankName	Navarch		
+DIM_RankThemes	RankName	Navarchos		
+DIM_RankThemes	RankName	Nob		
+DIM_RankThemes	RankName	OddBoy		
+DIM_RankThemes	RankName	Odwar		
+DIM_RankThemes	RankName	Ometeccatl		
+DIM_RankThemes	RankName	Oracle		
+DIM_RankThemes	RankName	Oramiral		
+DIM_RankThemes	RankName	Orlok		
+DIM_RankThemes	RankName	Orlovskaptajn		
+DIM_RankThemes	RankName	Outlaw		
+DIM_RankThemes	RankName	Overseer		
+DIM_RankThemes	RankName	Padwar		
+DIM_RankThemes	RankName	Panther		
+DIM_RankThemes	RankName	Pen Marsial Gofod		
+DIM_RankThemes	RankName	Pirate		
+DIM_RankThemes	RankName	Ploiarchos		
+DIM_RankThemes	RankName	Plotarchis		
+DIM_RankThemes	RankName	Praefectus		
+DIM_RankThemes	RankName	Praetor		
+DIM_RankThemes	RankName	President		
+DIM_RankThemes	RankName	Priest		
+DIM_RankThemes	RankName	Prime Minister		
+DIM_RankThemes	RankName	Prince		
+DIM_RankThemes	RankName	Raidboss		
+DIM_RankThemes	RankName	Raidleader		
+DIM_RankThemes	RankName	Rav aluf		
+DIM_RankThemes	RankName	Rav seren		
+DIM_RankThemes	RankName	Ra’id		
+DIM_RankThemes	RankName	Rear Admiral		
+DIM_RankThemes	RankName	Rear Admiral (JG)		
+DIM_RankThemes	RankName	Rear Admiral (Lower Half)		
+DIM_RankThemes	RankName	Rear Admiral (Upper Half)		
+DIM_RankThemes	RankName	Rear Admiral of the Green		
+DIM_RankThemes	RankName	Rear Admiral of the Red		
+DIM_RankThemes	RankName	Rear-Admiral		
+DIM_RankThemes	RankName	Rear-Admiral 		
+DIM_RankThemes	RankName	Rig		
+DIM_RankThemes	RankName	Samurai		
+DIM_RankThemes	RankName	Schout bij Nacht 		
+DIM_RankThemes	RankName	Seachaimiréal		
+DIM_RankThemes	RankName	Sectorboss		
+DIM_RankThemes	RankName	Seeker		
+DIM_RankThemes	RankName	Senior Captain		
+DIM_RankThemes	RankName	Seren		
+DIM_RankThemes	RankName	Sergeant 		
+DIM_RankThemes	RankName	Sgan aluf		
+DIM_RankThemes	RankName	Shaman		
+DIM_RankThemes	RankName	Shang Jiang		
+DIM_RankThemes	RankName	Shang Xiao		
+DIM_RankThemes	RankName	Shao Jiang		
+DIM_RankThemes	RankName	Shao Xiao		
+DIM_RankThemes	RankName	Sheikh		
+DIM_RankThemes	RankName	Sho-Sa		
+DIM_RankThemes	RankName	Sho-sho		
+DIM_RankThemes	RankName	Skout-Admiraal		
+DIM_RankThemes	RankName	Skout-Admiraal (JR)		
+DIM_RankThemes	RankName	Sky Marshal		
+DIM_RankThemes	RankName	Small Claw		
+DIM_RankThemes	RankName	Small Fang		
+DIM_RankThemes	RankName	Sojang		
+DIM_RankThemes	RankName	Soldier		
+DIM_RankThemes	RankName	Son of the Khan		
+DIM_RankThemes	RankName	Sorcerer		
+DIM_RankThemes	RankName	Soryeong		
+DIM_RankThemes	RankName	Squire		
+DIM_RankThemes	RankName	Stalker		
+DIM_RankThemes	RankName	StormBoy		
+DIM_RankThemes	RankName	Sub-Admiral		
+DIM_RankThemes	RankName	Sub-Commander		
+DIM_RankThemes	RankName	Sub-Taar		
+DIM_RankThemes	RankName	Subcommander		
+DIM_RankThemes	RankName	Sultan		
+DIM_RankThemes	RankName	Swami		
+DIM_RankThemes	RankName	Swordsman		
+DIM_RankThemes	RankName	Swordsman of Many Stars		
+DIM_RankThemes	RankName	Swordsman of Many Worlds		
+DIM_RankThemes	RankName	Swordsman of Stars		
+DIM_RankThemes	RankName	Swordsman of Worlds		
+DIM_RankThemes	RankName	Taar		
+DIM_RankThemes	RankName	Taar-Ress		
+DIM_RankThemes	RankName	Tai-i		
+DIM_RankThemes	RankName	Tai-sa		
+DIM_RankThemes	RankName	Tai-sho		
+DIM_RankThemes	RankName	Tat aluf		
+DIM_RankThemes	RankName	Teacher		
+DIM_RankThemes	RankName	Teccatl		
+DIM_RankThemes	RankName	Tecotequiua		
+DIM_RankThemes	RankName	Tenente di Vascello		
+DIM_RankThemes	RankName	Teniente de Navio		
+DIM_RankThemes	RankName	Tiger		
+DIM_RankThemes	RankName	Tlacteccatl		
+DIM_RankThemes	RankName	Tlamacatl		
+DIM_RankThemes	RankName	Tonteccatl		
+DIM_RankThemes	RankName	Toteoteccatl		
+DIM_RankThemes	RankName	Trailer		
+DIM_RankThemes	RankName	Tribal Leader		
+DIM_RankThemes	RankName	Trierarch		
+DIM_RankThemes	RankName	Tugamiral		
+DIM_RankThemes	RankName	Tumenchi		
+DIM_RankThemes	RankName	Tümamiral		
+DIM_RankThemes	RankName	Ulfhendar		
+DIM_RankThemes	RankName	Vara-amiraali		
+DIM_RankThemes	RankName	Vice Admiral		
+DIM_RankThemes	RankName	Vice Admiral of the Green		
+DIM_RankThemes	RankName	Vice Admiral of the Red		
+DIM_RankThemes	RankName	Vice Chancellor		
+DIM_RankThemes	RankName	Vice President		
+DIM_RankThemes	RankName	Vice-Admiraal 		
+DIM_RankThemes	RankName	Vice-Admiral		
+DIM_RankThemes	RankName	Vice-Admiral 		
+DIM_RankThemes	RankName	Vice-Almirante		
+DIM_RankThemes	RankName	Vice-amiral		
+DIM_RankThemes	RankName	Vice-Amiral d'escadre		
+DIM_RankThemes	RankName	Viceadmiral		
+DIM_RankThemes	RankName	Vicealmirante		
+DIM_RankThemes	RankName	Viceamiral		
+DIM_RankThemes	RankName	Vise-Admiraal		
+DIM_RankThemes	RankName	Vitse-admiral		
+DIM_RankThemes	RankName	Vizeadmiral		
+DIM_RankThemes	RankName	Vizier		
+DIM_RankThemes	RankName	War Chief		
+DIM_RankThemes	RankName	WarBoss		
+DIM_RankThemes	RankName	Warboss		
+DIM_RankThemes	RankName	Warleader		
+DIM_RankThemes	RankName	Warlord		
+DIM_RankThemes	RankName	Warrior		
+DIM_RankThemes	RankName	Warrior 		
+DIM_RankThemes	RankName	Water Lord		
+DIM_RankThemes	RankName	WildBoy		
+DIM_RankThemes	RankName	Wildcat		
+DIM_RankThemes	RankName	Wind Lord		
+DIM_RankThemes	RankName	Yarbay		
+DIM_RankThemes	RankName	Yponavarchos		
+DIM_RankThemes	RankName	Zhong Jiang		
+DIM_RankThemes	RankName	Zhong Xiao		
+DIM_RankThemes	RankName	Zok-Ress		
+DIM_RankThemes	RankName	Örlogskapten		
+DIM_RankThemes	GFRankName	Adept		
+DIM_RankThemes	GFRankName	Admiral		
+DIM_RankThemes	GFRankName	Albay		
+DIM_RankThemes	GFRankName	Aluf		
+DIM_RankThemes	GFRankName	Aluf mishne		
+DIM_RankThemes	GFRankName	Amid		
+DIM_RankThemes	GFRankName	Antistratigos		
+DIM_RankThemes	GFRankName	Antisyntagmatarchis		
+DIM_RankThemes	GFRankName	Aqid		
+DIM_RankThemes	GFRankName	Arbanchi		
+DIM_RankThemes	GFRankName	Archdemon		
+DIM_RankThemes	GFRankName	Archdevil		
+DIM_RankThemes	GFRankName	Archon		
+DIM_RankThemes	GFRankName	Axbearer		
+DIM_RankThemes	GFRankName	Baron		
+DIM_RankThemes	GFRankName	Berserkir		
+DIM_RankThemes	GFRankName	Binbasi		
+DIM_RankThemes	GFRankName	Brave		
+DIM_RankThemes	GFRankName	Brigade-generaal		
+DIM_RankThemes	GFRankName	Brigadegeneraal		
+DIM_RankThemes	GFRankName	Brigadegeneral		
+DIM_RankThemes	GFRankName	Brigadgeneral		
+DIM_RankThemes	GFRankName	Brigadier		
+DIM_RankThemes	GFRankName	Brigadier General		
+DIM_RankThemes	GFRankName	Brigadir Jenderal		
+DIM_RankThemes	GFRankName	Briogáidire-Ghinearál		
+DIM_RankThemes	GFRankName	Byddin Gofod Marsial		
+DIM_RankThemes	GFRankName	Cadlywydd Gofod		
+DIM_RankThemes	GFRankName	Caliph		
+DIM_RankThemes	GFRankName	Capitán General		
+DIM_RankThemes	GFRankName	Capitão		
+DIM_RankThemes	GFRankName	Captain		
+DIM_RankThemes	GFRankName	Captain 		
+DIM_RankThemes	GFRankName	Captain-General		
+DIM_RankThemes	GFRankName	Capten Gofod		
+DIM_RankThemes	GFRankName	Ceannfort		
+DIM_RankThemes	GFRankName	Centurion		
+DIM_RankThemes	GFRankName	Cheetah		
+DIM_RankThemes	GFRankName	Chief of Chiefs		
+DIM_RankThemes	GFRankName	Cho'Noth		
+DIM_RankThemes	GFRankName	Cho'Rath		
+DIM_RankThemes	GFRankName	Chu-i		
+DIM_RankThemes	GFRankName	Chu-sa		
+DIM_RankThemes	GFRankName	Civil Chief		
+DIM_RankThemes	GFRankName	Cleric		
+DIM_RankThemes	GFRankName	Coirnéal		
+DIM_RankThemes	GFRankName	Colonel		
+DIM_RankThemes	GFRankName	Colonel 		
+DIM_RankThemes	GFRankName	Colonnello		
+DIM_RankThemes	GFRankName	Comandante		
+DIM_RankThemes	GFRankName	Commandant		
+DIM_RankThemes	GFRankName	Commander		
+DIM_RankThemes	GFRankName	Commodore		
+DIM_RankThemes	GFRankName	Comodor Gofod		
+DIM_RankThemes	GFRankName	Coronel		
+DIM_RankThemes	GFRankName	Coronel Mayor		
+DIM_RankThemes	GFRankName	Coronel Mayor\t		
+DIM_RankThemes	GFRankName	Count		
+DIM_RankThemes	GFRankName	Da Xiao		
+DIM_RankThemes	GFRankName	Da'Jareth		
+DIM_RankThemes	GFRankName	Daejang		
+DIM_RankThemes	GFRankName	Daeryeong		
+DIM_RankThemes	GFRankName	Dahar Master		
+DIM_RankThemes	GFRankName	Daimon		
+DIM_RankThemes	GFRankName	Daimon-Ress		
+DIM_RankThemes	GFRankName	Dal		
+DIM_RankThemes	GFRankName	Dalin		
+DIM_RankThemes	GFRankName	Dar'Garoth		
+DIM_RankThemes	GFRankName	Dar'Sol		
+DIM_RankThemes	GFRankName	Daryaban		
+DIM_RankThemes	GFRankName	Daryadar		
+DIM_RankThemes	GFRankName	Daryadar Dovom		
+DIM_RankThemes	GFRankName	Daryasalar		
+DIM_RankThemes	GFRankName	Demon		
+DIM_RankThemes	GFRankName	Demon Lord		
+DIM_RankThemes	GFRankName	Demon Prince		
+DIM_RankThemes	GFRankName	Devil		
+DIM_RankThemes	GFRankName	Dirprwy Marsial Gofod		
+DIM_RankThemes	GFRankName	Djenderal		
+DIM_RankThemes	GFRankName	Drengr		
+DIM_RankThemes	GFRankName	Duke		
+DIM_RankThemes	GFRankName	Dwar		
+DIM_RankThemes	GFRankName	Earl		
+DIM_RankThemes	GFRankName	Earth Lord		
+DIM_RankThemes	GFRankName	Elemental		
+DIM_RankThemes	GFRankName	Elemental Lord		
+DIM_RankThemes	GFRankName	Elemental Overlord		
+DIM_RankThemes	GFRankName	Emperor		
+DIM_RankThemes	GFRankName	Eversti		
+DIM_RankThemes	GFRankName	Everstiluutnantti		
+DIM_RankThemes	GFRankName	Fariq		
+DIM_RankThemes	GFRankName	Fariq’awal		
+DIM_RankThemes	GFRankName	Field Marshal		
+DIM_RankThemes	GFRankName	Fiend		
+DIM_RankThemes	GFRankName	Fire Lord		
+DIM_RankThemes	GFRankName	First Fang		
+DIM_RankThemes	GFRankName	Fleet Admiral		
+DIM_RankThemes	GFRankName	Fleet Commander		
+DIM_RankThemes	GFRankName	Force Commander		
+DIM_RankThemes	GFRankName	Gangboss		
+DIM_RankThemes	GFRankName	Gangleader		
+DIM_RankThemes	GFRankName	Generaal		
+DIM_RankThemes	GFRankName	Generaal-Majoor		
+DIM_RankThemes	GFRankName	Generaal-majoor		
+DIM_RankThemes	GFRankName	General		
+DIM_RankThemes	GFRankName	General 		
+DIM_RankThemes	GFRankName	General Brigadier		
+DIM_RankThemes	GFRankName	General de Brigada		
+DIM_RankThemes	GFRankName	General de División		
+DIM_RankThemes	GFRankName	General de Ejército		
+DIM_RankThemes	GFRankName	General of the Army		
+DIM_RankThemes	GFRankName	General of the Lancers		
+DIM_RankThemes	GFRankName	General-de-Brigada		
+DIM_RankThemes	GFRankName	General-de-Divisão		
+DIM_RankThemes	GFRankName	General-de-Exército		
+DIM_RankThemes	GFRankName	Generale		
+DIM_RankThemes	GFRankName	Generale di Brigata		
+DIM_RankThemes	GFRankName	Generale di Corpo d'Armata		
+DIM_RankThemes	GFRankName	Generale di Divisione		
+DIM_RankThemes	GFRankName	Generalleutnant		
+DIM_RankThemes	GFRankName	Generallöjtnant		
+DIM_RankThemes	GFRankName	Generalløjtnant		
+DIM_RankThemes	GFRankName	Generalmajor		
+DIM_RankThemes	GFRankName	Generál ármii		
+DIM_RankThemes	GFRankName	Generál-leytenánt		
+DIM_RankThemes	GFRankName	Generál-mayór		
+DIM_RankThemes	GFRankName	Generál-polkóvnik		
+DIM_RankThemes	GFRankName	Gensui-Rikugun-Taishō		
+DIM_RankThemes	GFRankName	Glinn		
+DIM_RankThemes	GFRankName	Governor		
+DIM_RankThemes	GFRankName	Grand Admiral		
+DIM_RankThemes	GFRankName	Grand General		
+DIM_RankThemes	GFRankName	Grand Master		
+DIM_RankThemes	GFRankName	Grand Moff		
+DIM_RankThemes	GFRankName	Grand Sheikh		
+DIM_RankThemes	GFRankName	Grand Vizier		
+DIM_RankThemes	GFRankName	Great Axbearer		
+DIM_RankThemes	GFRankName	Great Claw		
+DIM_RankThemes	GFRankName	Great Fang		
+DIM_RankThemes	GFRankName	Great Hunter		
+DIM_RankThemes	GFRankName	Great Khan		
+DIM_RankThemes	GFRankName	Great Stalker		
+DIM_RankThemes	GFRankName	Greater Swordsman		
+DIM_RankThemes	GFRankName	Groupboss		
+DIM_RankThemes	GFRankName	Gul		
+DIM_RankThemes	GFRankName	Guru		
+DIM_RankThemes	GFRankName	Général d'armée		
+DIM_RankThemes	GFRankName	Général de brigade		
+DIM_RankThemes	GFRankName	Général de corps d´armée		
+DIM_RankThemes	GFRankName	Général de division		
+DIM_RankThemes	GFRankName	Hauptmann-General		
+DIM_RankThemes	GFRankName	High Colonel		
+DIM_RankThemes	GFRankName	High General		
+DIM_RankThemes	GFRankName	High Hunter		
+DIM_RankThemes	GFRankName	High Stalker		
+DIM_RankThemes	GFRankName	High Swordsman		
+DIM_RankThemes	GFRankName	Hueyteccatl		
+DIM_RankThemes	GFRankName	Hueytlatoani		
+DIM_RankThemes	GFRankName	Hunter		
+DIM_RankThemes	GFRankName	Huscarl		
+DIM_RankThemes	GFRankName	Ja'Gul		
+DIM_RankThemes	GFRankName	Jaghunchi		
+DIM_RankThemes	GFRankName	Jaguar		
+DIM_RankThemes	GFRankName	Jarl		
+DIM_RankThemes	GFRankName	Jed		
+DIM_RankThemes	GFRankName	Jeddak		
+DIM_RankThemes	GFRankName	Jomsviking		
+DIM_RankThemes	GFRankName	Jungjang		
+DIM_RankThemes	GFRankName	Jungnyeong		
+DIM_RankThemes	GFRankName	Junior Captain		
+DIM_RankThemes	GFRankName	Junior Kadar		
+DIM_RankThemes	GFRankName	Junjang		
+DIM_RankThemes	GFRankName	Kadar		
+DIM_RankThemes	GFRankName	Kar'Veth		
+DIM_RankThemes	GFRankName	Kenraali		
+DIM_RankThemes	GFRankName	Kenraaliluutnantti		
+DIM_RankThemes	GFRankName	Kenraalimajuri		
+DIM_RankThemes	GFRankName	Khan		
+DIM_RankThemes	GFRankName	Knight		
+DIM_RankThemes	GFRankName	Knight Captain		
+DIM_RankThemes	GFRankName	Knight Commander		
+DIM_RankThemes	GFRankName	Knight Grand Commander		
+DIM_RankThemes	GFRankName	Knight-General		
+DIM_RankThemes	GFRankName	Knight-Lieutenant		
+DIM_RankThemes	GFRankName	Knight-Marshal		
+DIM_RankThemes	GFRankName	Knight-Sergeant		
+DIM_RankThemes	GFRankName	Kolonel		
+DIM_RankThemes	GFRankName	Kommandant-General		
+DIM_RankThemes	GFRankName	Korgeneral		
+DIM_RankThemes	GFRankName	Lay Magician		
+DIM_RankThemes	GFRankName	Lay Priest		
+DIM_RankThemes	GFRankName	Least Claw		
+DIM_RankThemes	GFRankName	Least Fang		
+DIM_RankThemes	GFRankName	Leftenant Colonel		
+DIM_RankThemes	GFRankName	Leftenant General		
+DIM_RankThemes	GFRankName	Legate		
+DIM_RankThemes	GFRankName	Legatus Augusti		
+DIM_RankThemes	GFRankName	Legatus Legionis		
+DIM_RankThemes	GFRankName	Leifteanant-Choirnéal		
+DIM_RankThemes	GFRankName	Leifteanant-Ghinearál		
+DIM_RankThemes	GFRankName	Leopard		
+DIM_RankThemes	GFRankName	Letek-Ress		
+DIM_RankThemes	GFRankName	Letnan Jenderal		
+DIM_RankThemes	GFRankName	Letnan Kolonel		
+DIM_RankThemes	GFRankName	Leutnant-Colonel		
+DIM_RankThemes	GFRankName	Leutnant-General		
+DIM_RankThemes	GFRankName	Lieutenant		
+DIM_RankThemes	GFRankName	Lieutenant Colonel		
+DIM_RankThemes	GFRankName	Lieutenant General		
+DIM_RankThemes	GFRankName	Lieutenant-colonel		
+DIM_RankThemes	GFRankName	Lieutenant-General		
+DIM_RankThemes	GFRankName	Lion		
+DIM_RankThemes	GFRankName	Liwa		
+DIM_RankThemes	GFRankName	Lord		
+DIM_RankThemes	GFRankName	Lord Commander		
+DIM_RankThemes	GFRankName	Lord Commander Militant		
+DIM_RankThemes	GFRankName	Lord General		
+DIM_RankThemes	GFRankName	Lord General Militant		
+DIM_RankThemes	GFRankName	Luitenant-Generaal		
+DIM_RankThemes	GFRankName	Luitenant-generaal		
+DIM_RankThemes	GFRankName	Luitenant-kolonel		
+DIM_RankThemes	GFRankName	Maggiore		
+DIM_RankThemes	GFRankName	Magician		
+DIM_RankThemes	GFRankName	Majoor		
+DIM_RankThemes	GFRankName	Major		
+DIM_RankThemes	GFRankName	Major 		
+DIM_RankThemes	GFRankName	Major General		
+DIM_RankThemes	GFRankName	Major-General		
+DIM_RankThemes	GFRankName	Majuri		
+DIM_RankThemes	GFRankName	Maor-Ghinearál		
+DIM_RankThemes	GFRankName	Marechal		
+DIM_RankThemes	GFRankName	Marshal		
+DIM_RankThemes	GFRankName	Marshal of the Corps		
+DIM_RankThemes	GFRankName	Marsial Gofod		
+DIM_RankThemes	GFRankName	Master		
+DIM_RankThemes	GFRankName	Mayor		
+DIM_RankThemes	GFRankName	Mayor Jenderal		
+DIM_RankThemes	GFRankName	Mayór		
+DIM_RankThemes	GFRankName	Medicine Man		
+DIM_RankThemes	GFRankName	Mekboy		
+DIM_RankThemes	GFRankName	Mercenary		
+DIM_RankThemes	GFRankName	Merkismaor		
+DIM_RankThemes	GFRankName	Minghunchi		
+DIM_RankThemes	GFRankName	Moff		
+DIM_RankThemes	GFRankName	Mufti		
+DIM_RankThemes	GFRankName	Muqaddam		
+DIM_RankThemes	GFRankName	Mushir		
+DIM_RankThemes	GFRankName	Nakhoda Dovvom		
+DIM_RankThemes	GFRankName	Nakhoda Sevom		
+DIM_RankThemes	GFRankName	Nakhoda Yekom		
+DIM_RankThemes	GFRankName	Nob		
+DIM_RankThemes	GFRankName	Oberst		
+DIM_RankThemes	GFRankName	Oberstleutnant		
+DIM_RankThemes	GFRankName	Oberstløjtnant		
+DIM_RankThemes	GFRankName	OddBoy		
+DIM_RankThemes	GFRankName	Odwar		
+DIM_RankThemes	GFRankName	Ometeccatl		
+DIM_RankThemes	GFRankName	Oracle		
+DIM_RankThemes	GFRankName	Orgeneral		
+DIM_RankThemes	GFRankName	Orlok		
+DIM_RankThemes	GFRankName	Outlaw		
+DIM_RankThemes	GFRankName	Overseer		
+DIM_RankThemes	GFRankName	Padwar		
+DIM_RankThemes	GFRankName	Panther		
+DIM_RankThemes	GFRankName	Pen Marsial Gofod		
+DIM_RankThemes	GFRankName	Pirate		
+DIM_RankThemes	GFRankName	Podpolkóvnik		
+DIM_RankThemes	GFRankName	Polkóvnik		
+DIM_RankThemes	GFRankName	Praefectus Castrorum		
+DIM_RankThemes	GFRankName	Praetor		
+DIM_RankThemes	GFRankName	Priest		
+DIM_RankThemes	GFRankName	Prikaatikenraali		
+DIM_RankThemes	GFRankName	Primo Capitano		
+DIM_RankThemes	GFRankName	Primus		
+DIM_RankThemes	GFRankName	Prince		
+DIM_RankThemes	GFRankName	Raidboss		
+DIM_RankThemes	GFRankName	Raidleader		
+DIM_RankThemes	GFRankName	Rav seren		
+DIM_RankThemes	GFRankName	Rav-aluf		
+DIM_RankThemes	GFRankName	Ra’id		
+DIM_RankThemes	GFRankName	Rig		
+DIM_RankThemes	GFRankName	Rikugun-Chūjō		
+DIM_RankThemes	GFRankName	Rikugun-Chūsa		
+DIM_RankThemes	GFRankName	Rikugun-Shōsa		
+DIM_RankThemes	GFRankName	Rikugun-Shōshō		
+DIM_RankThemes	GFRankName	Rikugun-Taisa		
+DIM_RankThemes	GFRankName	Rikugun-Taishō		
+DIM_RankThemes	GFRankName	Samurai		
+DIM_RankThemes	GFRankName	Sectorboss		
+DIM_RankThemes	GFRankName	Seeker		
+DIM_RankThemes	GFRankName	Senior Captain		
+DIM_RankThemes	GFRankName	Seren		
+DIM_RankThemes	GFRankName	Sergeant 		
+DIM_RankThemes	GFRankName	Sgan aluf		
+DIM_RankThemes	GFRankName	Shaman		
+DIM_RankThemes	GFRankName	Shang Jiang		
+DIM_RankThemes	GFRankName	Shang Xiao		
+DIM_RankThemes	GFRankName	Shao Jiang		
+DIM_RankThemes	GFRankName	Shao Xiao		
+DIM_RankThemes	GFRankName	Sheikh		
+DIM_RankThemes	GFRankName	Sho-Sa		
+DIM_RankThemes	GFRankName	Sho-sho		
+DIM_RankThemes	GFRankName	Sky Marshal		
+DIM_RankThemes	GFRankName	Small Claw		
+DIM_RankThemes	GFRankName	Small Fang		
+DIM_RankThemes	GFRankName	Sojang		
+DIM_RankThemes	GFRankName	Soldier		
+DIM_RankThemes	GFRankName	Son of the Khan		
+DIM_RankThemes	GFRankName	Sorcerer		
+DIM_RankThemes	GFRankName	Soryeong		
+DIM_RankThemes	GFRankName	Squire		
+DIM_RankThemes	GFRankName	Stalker		
+DIM_RankThemes	GFRankName	StormBoy		
+DIM_RankThemes	GFRankName	Stratigos		
+DIM_RankThemes	GFRankName	Sub-Admiral		
+DIM_RankThemes	GFRankName	Sub-Commander		
+DIM_RankThemes	GFRankName	Sub-Taar		
+DIM_RankThemes	GFRankName	Subcommander		
+DIM_RankThemes	GFRankName	Sultan		
+DIM_RankThemes	GFRankName	Surface Marshal		
+DIM_RankThemes	GFRankName	Swami		
+DIM_RankThemes	GFRankName	Swordsman		
+DIM_RankThemes	GFRankName	Swordsman of Many Stars		
+DIM_RankThemes	GFRankName	Swordsman of Many Worlds		
+DIM_RankThemes	GFRankName	Swordsman of Stars		
+DIM_RankThemes	GFRankName	Swordsman of Worlds		
+DIM_RankThemes	GFRankName	Syntagmatarchis		
+DIM_RankThemes	GFRankName	Taar		
+DIM_RankThemes	GFRankName	Taar-Ress		
+DIM_RankThemes	GFRankName	Tagmatarchis		
+DIM_RankThemes	GFRankName	Tai-i		
+DIM_RankThemes	GFRankName	Tai-sa		
+DIM_RankThemes	GFRankName	Tai-sho		
+DIM_RankThemes	GFRankName	Tat aluf		
+DIM_RankThemes	GFRankName	Taxiarchos		
+DIM_RankThemes	GFRankName	Teacher		
+DIM_RankThemes	GFRankName	Teccatl		
+DIM_RankThemes	GFRankName	Tecotequiua		
+DIM_RankThemes	GFRankName	Tenente Colonnello		
+DIM_RankThemes	GFRankName	Tenente-coronel\t		
+DIM_RankThemes	GFRankName	Teniente Coronel		
+DIM_RankThemes	GFRankName	Teniente coronel		
+DIM_RankThemes	GFRankName	Teniente Coronel\t		
+DIM_RankThemes	GFRankName	Teniente General		
+DIM_RankThemes	GFRankName	Tiger		
+DIM_RankThemes	GFRankName	Tlacteccatl		
+DIM_RankThemes	GFRankName	Tlamacatl		
+DIM_RankThemes	GFRankName	Tonteccatl		
+DIM_RankThemes	GFRankName	Toteoteccatl		
+DIM_RankThemes	GFRankName	Trailer		
+DIM_RankThemes	GFRankName	Tribal Leader		
+DIM_RankThemes	GFRankName	Tribuni Angusticlavii		
+DIM_RankThemes	GFRankName	Tribunus Laticlavius		
+DIM_RankThemes	GFRankName	Tumenchi		
+DIM_RankThemes	GFRankName	Tuğgeneral		
+DIM_RankThemes	GFRankName	Tümgeneral		
+DIM_RankThemes	GFRankName	Ulfhendar		
+DIM_RankThemes	GFRankName	Vice Admiral		
+DIM_RankThemes	GFRankName	Vizier		
+DIM_RankThemes	GFRankName	War Chief		
+DIM_RankThemes	GFRankName	WarBoss		
+DIM_RankThemes	GFRankName	Warboss		
+DIM_RankThemes	GFRankName	Warleader		
+DIM_RankThemes	GFRankName	Warlord		
+DIM_RankThemes	GFRankName	Warmaster		
+DIM_RankThemes	GFRankName	Warrior		
+DIM_RankThemes	GFRankName	Warrior 		
+DIM_RankThemes	GFRankName	Water Lord		
+DIM_RankThemes	GFRankName	WildBoy		
+DIM_RankThemes	GFRankName	Wildcat		
+DIM_RankThemes	GFRankName	Wind Lord		
+DIM_RankThemes	GFRankName	Yarbay		
+DIM_RankThemes	GFRankName	Ypostratigos		
+DIM_RankThemes	GFRankName	Zhong Jiang		
+DIM_RankThemes	GFRankName	Zhong Xiao		
+DIM_RankThemes	GFRankName	Zok-Ress		
+DIM_RankThemes	GFRankName	Överste		
+DIM_RankThemes	GFRankName	Överstelöjtnant		

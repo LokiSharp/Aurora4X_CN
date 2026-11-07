@@ -1,0 +1,50 @@
+table	field	english	chinese	reason
+DIM_ResearchCategories	Name	Active Sensors		
+DIM_ResearchCategories	Name	Basic Systems		
+DIM_ResearchCategories	Name	CIWS		
+DIM_ResearchCategories	Name	Cloaking Device		
+DIM_ResearchCategories	Name	Decoy Launcher		
+DIM_ResearchCategories	Name	Direct Fire Control		
+DIM_ResearchCategories	Name	Electronic Warfare		
+DIM_ResearchCategories	Name	EM Detection Sensors		
+DIM_ResearchCategories	Name	Engines		
+DIM_ResearchCategories	Name	Fighter Pod Bay		
+DIM_ResearchCategories	Name	Gauss Cannon		
+DIM_ResearchCategories	Name	General Science		
+DIM_ResearchCategories	Name	High Power Microwave		
+DIM_ResearchCategories	Name	Industry		
+DIM_ResearchCategories	Name	Jump Drives		
+DIM_ResearchCategories	Name	Lasers		
+DIM_ResearchCategories	Name	Magazine		
+DIM_ResearchCategories	Name	Meson Cannon		
+DIM_ResearchCategories	Name	Miscellaneous Components		
+DIM_ResearchCategories	Name	Missile Engines		
+DIM_ResearchCategories	Name	Missile Fire Control		
+DIM_ResearchCategories	Name	Missile Launchers		
+DIM_ResearchCategories	Name	Missiles		
+DIM_ResearchCategories	Name	New Species		
+DIM_ResearchCategories	Name	Particle Beam		
+DIM_ResearchCategories	Name	Planetary Combat		
+DIM_ResearchCategories	Name	Plasma Carronade		
+DIM_ResearchCategories	Name	Power Plants		
+DIM_ResearchCategories	Name	Railgun		
+DIM_ResearchCategories	Name	Shield Generators		
+DIM_ResearchCategories	Name	Survey Sensors		
+DIM_ResearchCategories	Name	Thermal Sensors		
+DIM_ResearchCategories	Name	Transport & Industry		
+DIM_ResearchCategories	NoteField	Fire Control Range = Sensor Strength x Size x SQRT(Resolution) x EM Sensitivity x 10,000 km		
+DIM_ResearchCategories	NoteField	Fuel Modifier = Power Modifier ^2.5  (so 2x Power = 5.66x Fuel). Engines of 25 HS or greater with Power -50% or lower are classed as commercial		
+DIM_ResearchCategories	NoteField	Missile Drives are solid-fuelled. Because of their one-use nature, they have double the racial maximum power modification		
+DIM_ResearchCategories	NoteField	Sensor Range = Sensor Strength x Size x SQRT(Resolution) x EM Sensitivity x 10,000 km		
+DIM_ResearchCategories	NoteField	The fire control has a % chance to hit equal to (maximum range - target distance) / maximum range		
+DIM_ResearchCategories	RadioText	Target Tons Multiplier		
+DIM_ResearchField	FieldName	Biology / Genetics		
+DIM_ResearchField	FieldName	Component Creation		
+DIM_ResearchField	FieldName	Construction / Production		
+DIM_ResearchField	FieldName	Defensive Systems		
+DIM_ResearchField	FieldName	Direct Fire Weapons		
+DIM_ResearchField	FieldName	Ground Combat		
+DIM_ResearchField	FieldName	Logistics		
+DIM_ResearchField	FieldName	Missiles		
+DIM_ResearchField	FieldName	Power and Propulsion		
+DIM_ResearchField	FieldName	Sensors and Control Systems		

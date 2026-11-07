@@ -1,0 +1,23 @@
+table	field	english	chinese	reason
+DIM_MineralDataType	Description	Civilian Mining		
+DIM_MineralDataType	Description	Construction		
+DIM_MineralDataType	Description	Fighter Production		
+DIM_MineralDataType	Description	Fuel Refining		
+DIM_MineralDataType	Description	Ground Unit Training		
+DIM_MineralDataType	Description	Loaded into Freighter		
+DIM_MineralDataType	Description	Maintenance Production		
+DIM_MineralDataType	Description	Mining		
+DIM_MineralDataType	Description	Ordnance Production		
+DIM_MineralDataType	Description	Received from Mass Driver		
+DIM_MineralDataType	Description	Recovered from Ruins		
+DIM_MineralDataType	Description	Scrapped Components		
+DIM_MineralDataType	Description	Scrapped Ground Units		
+DIM_MineralDataType	Description	Scrapped Installations		
+DIM_MineralDataType	Description	Scrapped Ordnance		
+DIM_MineralDataType	Description	Sent by Mass Driver		
+DIM_MineralDataType	Description	Ship Component Production		
+DIM_MineralDataType	Description	Shipbuilding		
+DIM_MineralDataType	Description	Shipyard Upgrades		
+DIM_MineralDataType	Description	Space Station Construction		
+DIM_MineralDataType	Description	Starting Stockpile		
+DIM_MineralDataType	Description	Unloaded from Freighter		

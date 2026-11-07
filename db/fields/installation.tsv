@@ -1,0 +1,59 @@
+table	field	english	chinese	reason
+DIM_PlanetaryInstallation	Name	Aether Gate Monitoring Station		
+DIM_PlanetaryInstallation	Name	Automated Mine		
+DIM_PlanetaryInstallation	Name	Cargo Shuttle Station		
+DIM_PlanetaryInstallation	Name	Civilian Mining Complex		
+DIM_PlanetaryInstallation	Name	Commercial Shipyard Complex		
+DIM_PlanetaryInstallation	Name	Construction Factory		
+DIM_PlanetaryInstallation	Name	Conventional Industry		
+DIM_PlanetaryInstallation	Name	Convert CI to Construction Factory		
+DIM_PlanetaryInstallation	Name	Convert CI to Financial Centre		
+DIM_PlanetaryInstallation	Name	Convert CI to Fuel Refinery		
+DIM_PlanetaryInstallation	Name	Convert CI to Light Naval Factory		
+DIM_PlanetaryInstallation	Name	Convert CI to Mine		
+DIM_PlanetaryInstallation	Name	Convert CI to Ordnance Factory		
+DIM_PlanetaryInstallation	Name	Convert Mine to Automated		
+DIM_PlanetaryInstallation	Name	Deep Space Tracking Station		
+DIM_PlanetaryInstallation	Name	Ex-Civilian Mining Complex		
+DIM_PlanetaryInstallation	Name	Financial Centre		
+DIM_PlanetaryInstallation	Name	Forced Labour Construction Camp		
+DIM_PlanetaryInstallation	Name	Forced Labour Mining Camp		
+DIM_PlanetaryInstallation	Name	Fuel Refinery		
+DIM_PlanetaryInstallation	Name	Genetic Modification Centre		
+DIM_PlanetaryInstallation	Name	Ground Force Construction Complex		
+DIM_PlanetaryInstallation	Name	Infrastructure		
+DIM_PlanetaryInstallation	Name	Light Naval Factory		
+DIM_PlanetaryInstallation	Name	Light Naval Shipyard		
+DIM_PlanetaryInstallation	Name	Maintenance Facility		
+DIM_PlanetaryInstallation	Name	Mass Driver		
+DIM_PlanetaryInstallation	Name	Military Academy		
+DIM_PlanetaryInstallation	Name	Mine		
+DIM_PlanetaryInstallation	Name	Naval Headquarters		
+DIM_PlanetaryInstallation	Name	Naval Shipyard Complex		
+DIM_PlanetaryInstallation	Name	Ordnance Factory		
+DIM_PlanetaryInstallation	Name	Ordnance Transfer Station		
+DIM_PlanetaryInstallation	Name	Refuelling Station		
+DIM_PlanetaryInstallation	Name	Repair Yard		
+DIM_PlanetaryInstallation	Name	Research Facility		
+DIM_PlanetaryInstallation	Name	Sector Command		
+DIM_PlanetaryInstallation	Name	Spaceport		
+DIM_PlanetaryInstallation	Name	Terraforming Installation		
+DIM_PlanetaryInstallation	WorkerDesciption	Academy Staff		
+DIM_PlanetaryInstallation	WorkerDesciption	Commercial Shipyard Workers		
+DIM_PlanetaryInstallation	WorkerDesciption	Construction Workers		
+DIM_PlanetaryInstallation	WorkerDesciption	Financial Workers		
+DIM_PlanetaryInstallation	WorkerDesciption	Geneticists		
+DIM_PlanetaryInstallation	WorkerDesciption	Ground Force Workers		
+DIM_PlanetaryInstallation	WorkerDesciption	Industrial Workers		
+DIM_PlanetaryInstallation	WorkerDesciption	Labour Camp Overseers		
+DIM_PlanetaryInstallation	WorkerDesciption	Light Naval Factory Workers		
+DIM_PlanetaryInstallation	WorkerDesciption	Maintenance Workers		
+DIM_PlanetaryInstallation	WorkerDesciption	Miners		
+DIM_PlanetaryInstallation	WorkerDesciption	Naval Shipyard Workers		
+DIM_PlanetaryInstallation	WorkerDesciption	Ordnance Workers		
+DIM_PlanetaryInstallation	WorkerDesciption	Refinery Workers		
+DIM_PlanetaryInstallation	WorkerDesciption	Repair Yard Workers		
+DIM_PlanetaryInstallation	WorkerDesciption	Scientists		
+DIM_PlanetaryInstallation	WorkerDesciption	Sector Staff		
+DIM_PlanetaryInstallation	WorkerDesciption	Spaceport Workers		
+DIM_PlanetaryInstallation	WorkerDesciption	Terraformers		

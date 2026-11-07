@@ -1,0 +1,29 @@
+table	field	english	chinese	reason
+DIM_Gases	Name	Acetylene		
+DIM_Gases	Name	Aestusium		
+DIM_Gases	Name	Ammonia		
+DIM_Gases	Name	Argon		
+DIM_Gases	Name	Bromine		
+DIM_Gases	Name	Carbon Dioxide		
+DIM_Gases	Name	Carbon Monoxide		
+DIM_Gases	Name	Chlorine		
+DIM_Gases	Name	Ethane		
+DIM_Gases	Name	Fluorine		
+DIM_Gases	Name	Frigusium		
+DIM_Gases	Name	Helium		
+DIM_Gases	Name	Hydrazine		
+DIM_Gases	Name	Hydrogen		
+DIM_Gases	Name	Hydrogen Cyanide		
+DIM_Gases	Name	Hydrogen Sulphide		
+DIM_Gases	Name	Iodine		
+DIM_Gases	Name	Kyrpton		
+DIM_Gases	Name	Methane		
+DIM_Gases	Name	Neon		
+DIM_Gases	Name	Nitrogen		
+DIM_Gases	Name	Nitrogen Dioxide		
+DIM_Gases	Name	Nitrogen Oxide		
+DIM_Gases	Name	None		
+DIM_Gases	Name	Oxygen		
+DIM_Gases	Name	Sulphur Dioxide		
+DIM_Gases	Name	Water Vapour		
+DIM_Gases	Name	Xenon		

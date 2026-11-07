@@ -1,0 +1,77 @@
+table	field	english	chinese	reason
+DIM_PlanetaryTerrain	Name	Acid Frost Fields		
+DIM_PlanetaryTerrain	Name	Alpine Forests		
+DIM_PlanetaryTerrain	Name	Alpine Grasslands		
+DIM_PlanetaryTerrain	Name	Ammonia Frost Fields		
+DIM_PlanetaryTerrain	Name	Ammonia Ice Ridges		
+DIM_PlanetaryTerrain	Name	Ammonia Salt Flats		
+DIM_PlanetaryTerrain	Name	Archipelago		
+DIM_PlanetaryTerrain	Name	Arid		
+DIM_PlanetaryTerrain	Name	Arid Mountain		
+DIM_PlanetaryTerrain	Name	Arid Rift Valleys		
+DIM_PlanetaryTerrain	Name	Barren		
+DIM_PlanetaryTerrain	Name	Boreal Forest		
+DIM_PlanetaryTerrain	Name	Boreal Mountain Forest		
+DIM_PlanetaryTerrain	Name	Boulder Fields		
+DIM_PlanetaryTerrain	Name	Brimstone Plains		
+DIM_PlanetaryTerrain	Name	Chapparal		
+DIM_PlanetaryTerrain	Name	Cinder Highlands		
+DIM_PlanetaryTerrain	Name	Cinnabar Wastes		
+DIM_PlanetaryTerrain	Name	Cold Desert		
+DIM_PlanetaryTerrain	Name	Cold Desert Mountain		
+DIM_PlanetaryTerrain	Name	Cold Steppe		
+DIM_PlanetaryTerrain	Name	Coniferous Forest		
+DIM_PlanetaryTerrain	Name	Cryogenic Rifts		
+DIM_PlanetaryTerrain	Name	Cryovolcanic Fields		
+DIM_PlanetaryTerrain	Name	Crystal Spire Fields		
+DIM_PlanetaryTerrain	Name	Desert		
+DIM_PlanetaryTerrain	Name	Desert Mountain		
+DIM_PlanetaryTerrain	Name	Ethane Lowlands		
+DIM_PlanetaryTerrain	Name	Forested Mountain		
+DIM_PlanetaryTerrain	Name	Forested Rift Valley		
+DIM_PlanetaryTerrain	Name	Fumarole Maze		
+DIM_PlanetaryTerrain	Name	Glacial Ammonia Basin		
+DIM_PlanetaryTerrain	Name	Graben Valleys		
+DIM_PlanetaryTerrain	Name	Grassland		
+DIM_PlanetaryTerrain	Name	Hot Desert		
+DIM_PlanetaryTerrain	Name	Hot Desert Mountain		
+DIM_PlanetaryTerrain	Name	Hydrocarbon Dunes		
+DIM_PlanetaryTerrain	Name	Hydrocarbon Forest		
+DIM_PlanetaryTerrain	Name	Ice Fields		
+DIM_PlanetaryTerrain	Name	Impact Craters		
+DIM_PlanetaryTerrain	Name	Jungle		
+DIM_PlanetaryTerrain	Name	Jungle Mountain		
+DIM_PlanetaryTerrain	Name	Jungle Rift Valley		
+DIM_PlanetaryTerrain	Name	Lava Fields		
+DIM_PlanetaryTerrain	Name	Lava Tube Network		
+DIM_PlanetaryTerrain	Name	Magma Rifts		
+DIM_PlanetaryTerrain	Name	Marcasite Highlands		
+DIM_PlanetaryTerrain	Name	Methane Frost Plains		
+DIM_PlanetaryTerrain	Name	Methane Ice Mountains		
+DIM_PlanetaryTerrain	Name	Mountain		
+DIM_PlanetaryTerrain	Name	Mountain Rainforest		
+DIM_PlanetaryTerrain	Name	Nitrogen Ice Fields		
+DIM_PlanetaryTerrain	Name	Ocean		
+DIM_PlanetaryTerrain	Name	Pale Forest		
+DIM_PlanetaryTerrain	Name	Prairie		
+DIM_PlanetaryTerrain	Name	Pyroclastic Fields		
+DIM_PlanetaryTerrain	Name	Rainforest		
+DIM_PlanetaryTerrain	Name	Regolith Plains		
+DIM_PlanetaryTerrain	Name	Rift Valleys		
+DIM_PlanetaryTerrain	Name	Savanna		
+DIM_PlanetaryTerrain	Name	Steppe		
+DIM_PlanetaryTerrain	Name	Stratovolcanoes 		
+DIM_PlanetaryTerrain	Name	Sub-Tropical		
+DIM_PlanetaryTerrain	Name	Sub-Tropical Mountain		
+DIM_PlanetaryTerrain	Name	Sub-Tropical Rift Valley		
+DIM_PlanetaryTerrain	Name	Subarctic		
+DIM_PlanetaryTerrain	Name	Subarctic Mountain		
+DIM_PlanetaryTerrain	Name	Sulphur Forest		
+DIM_PlanetaryTerrain	Name	Sulphur Frost Tundra		
+DIM_PlanetaryTerrain	Name	Sulphur Ice Mountains		
+DIM_PlanetaryTerrain	Name	Swamp		
+DIM_PlanetaryTerrain	Name	Taiga		
+DIM_PlanetaryTerrain	Name	Temperate Forest		
+DIM_PlanetaryTerrain	Name	Tholin Highlands		
+DIM_PlanetaryTerrain	Name	Tundra		
+DIM_PlanetaryTerrain	Name	Volcanic Plains		

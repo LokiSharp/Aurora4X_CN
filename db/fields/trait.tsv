@@ -1,0 +1,155 @@
+table	field	english	chinese	reason
+DIM_TraitsList	Name	Academic		
+DIM_TraitsList	Name	Adventurous		
+DIM_TraitsList	Name	Aggressive		
+DIM_TraitsList	Name	Agreeable		
+DIM_TraitsList	Name	Ambitious		
+DIM_TraitsList	Name	Analytical		
+DIM_TraitsList	Name	Apolitical		
+DIM_TraitsList	Name	Arrogant		
+DIM_TraitsList	Name	Astronomy Geek		
+DIM_TraitsList	Name	Atheist		
+DIM_TraitsList	Name	Attractive		
+DIM_TraitsList	Name	Authoritarian		
+DIM_TraitsList	Name	Averse to risk		
+DIM_TraitsList	Name	Born Leader		
+DIM_TraitsList	Name	Callous		
+DIM_TraitsList	Name	Calm		
+DIM_TraitsList	Name	Candid		
+DIM_TraitsList	Name	Capricious		
+DIM_TraitsList	Name	Cautious		
+DIM_TraitsList	Name	Cheerful		
+DIM_TraitsList	Name	Cold manner		
+DIM_TraitsList	Name	Combative		
+DIM_TraitsList	Name	Complacent		
+DIM_TraitsList	Name	Conscientious		
+DIM_TraitsList	Name	Conservative		
+DIM_TraitsList	Name	Contrarian		
+DIM_TraitsList	Name	Courageous		
+DIM_TraitsList	Name	Courteous		
+DIM_TraitsList	Name	Cowardly		
+DIM_TraitsList	Name	Debonaire		
+DIM_TraitsList	Name	Decisive		
+DIM_TraitsList	Name	Delegates easily		
+DIM_TraitsList	Name	Delusional		
+DIM_TraitsList	Name	Determined		
+DIM_TraitsList	Name	Disciplined		
+DIM_TraitsList	Name	Dishonest		
+DIM_TraitsList	Name	Disorganised		
+DIM_TraitsList	Name	Dispassionate		
+DIM_TraitsList	Name	Distant		
+DIM_TraitsList	Name	Doesn't accept change easily		
+DIM_TraitsList	Name	Dynamic		
+DIM_TraitsList	Name	Easily confused		
+DIM_TraitsList	Name	Egomaniac		
+DIM_TraitsList	Name	Embraces change		
+DIM_TraitsList	Name	Energetic		
+DIM_TraitsList	Name	Enterprising		
+DIM_TraitsList	Name	Enthusiastic		
+DIM_TraitsList	Name	Faith in others		
+DIM_TraitsList	Name	Flexible and Pragmatic		
+DIM_TraitsList	Name	Focused		
+DIM_TraitsList	Name	Follows orders without question		
+DIM_TraitsList	Name	Friendly		
+DIM_TraitsList	Name	Gifted		
+DIM_TraitsList	Name	Gloomy		
+DIM_TraitsList	Name	Good judge of character		
+DIM_TraitsList	Name	Good motivator		
+DIM_TraitsList	Name	Highly educated		
+DIM_TraitsList	Name	History Buff		
+DIM_TraitsList	Name	Honest		
+DIM_TraitsList	Name	Humble		
+DIM_TraitsList	Name	Hunter		
+DIM_TraitsList	Name	Ignorant		
+DIM_TraitsList	Name	Imaginative		
+DIM_TraitsList	Name	Impatient		
+DIM_TraitsList	Name	Impoverished		
+DIM_TraitsList	Name	Inconsiderate		
+DIM_TraitsList	Name	Indecisive		
+DIM_TraitsList	Name	Indifferent		
+DIM_TraitsList	Name	Inflexible and Dogmatic		
+DIM_TraitsList	Name	Innovative		
+DIM_TraitsList	Name	Insightful		
+DIM_TraitsList	Name	Insubordinate		
+DIM_TraitsList	Name	Intolerant		
+DIM_TraitsList	Name	Jealous		
+DIM_TraitsList	Name	Lack of self-esteem		
+DIM_TraitsList	Name	Lacks communication skills		
+DIM_TraitsList	Name	Lazy		
+DIM_TraitsList	Name	Listless		
+DIM_TraitsList	Name	Malicious		
+DIM_TraitsList	Name	Many social interests		
+DIM_TraitsList	Name	Martial Artist		
+DIM_TraitsList	Name	Mathematician		
+DIM_TraitsList	Name	Methodical		
+DIM_TraitsList	Name	Modest		
+DIM_TraitsList	Name	Motivated		
+DIM_TraitsList	Name	Narcissistic		
+DIM_TraitsList	Name	Nature Buff		
+DIM_TraitsList	Name	Nepotistic		
+DIM_TraitsList	Name	Nervous		
+DIM_TraitsList	Name	Neurotic		
+DIM_TraitsList	Name	No faith in others		
+DIM_TraitsList	Name	No outside interests		
+DIM_TraitsList	Name	Objective		
+DIM_TraitsList	Name	Observant		
+DIM_TraitsList	Name	Optimistic		
+DIM_TraitsList	Name	Organised		
+DIM_TraitsList	Name	Paranoid		
+DIM_TraitsList	Name	Partisan		
+DIM_TraitsList	Name	Patient		
+DIM_TraitsList	Name	Personable		
+DIM_TraitsList	Name	Pessimistic		
+DIM_TraitsList	Name	Philosophy Buff		
+DIM_TraitsList	Name	Poor Family		
+DIM_TraitsList	Name	Poor judge of character		
+DIM_TraitsList	Name	Problem-solver		
+DIM_TraitsList	Name	Professional		
+DIM_TraitsList	Name	Psychological problems		
+DIM_TraitsList	Name	Punctual		
+DIM_TraitsList	Name	Reliable		
+DIM_TraitsList	Name	Religious		
+DIM_TraitsList	Name	Resentful		
+DIM_TraitsList	Name	Resourceful		
+DIM_TraitsList	Name	Results-oriented		
+DIM_TraitsList	Name	Risk-taker		
+DIM_TraitsList	Name	Rude		
+DIM_TraitsList	Name	Science Fiction Buff		
+DIM_TraitsList	Name	Self-confident		
+DIM_TraitsList	Name	Sincere		
+DIM_TraitsList	Name	Skilled Orator		
+DIM_TraitsList	Name	Strange Medical Condition		
+DIM_TraitsList	Name	Stubborn		
+DIM_TraitsList	Name	Subjective		
+DIM_TraitsList	Name	Substance Abuse		
+DIM_TraitsList	Name	Superstitious		
+DIM_TraitsList	Name	Survivalist		
+DIM_TraitsList	Name	Suspicious		
+DIM_TraitsList	Name	Talented Musician		
+DIM_TraitsList	Name	Tolerant		
+DIM_TraitsList	Name	Tough		
+DIM_TraitsList	Name	Trusting		
+DIM_TraitsList	Name	Unappreciative		
+DIM_TraitsList	Name	Unattractive		
+DIM_TraitsList	Name	Uncaring		
+DIM_TraitsList	Name	Unforgiving		
+DIM_TraitsList	Name	Unimaginative		
+DIM_TraitsList	Name	Unkempt		
+DIM_TraitsList	Name	Unreliable		
+DIM_TraitsList	Name	Untrustworthy		
+DIM_TraitsList	Name	Vain		
+DIM_TraitsList	Name	Vegetarian		
+DIM_TraitsList	Name	War Game Enthusiast		
+DIM_TraitsList	Name	Warm		
+DIM_TraitsList	Name	Weak		
+DIM_TraitsList	Name	Wealthy		
+DIM_TraitsList	Name	Wealthy family		
+DIM_TraitsList	Name	Will not delegate		
+DIM_TraitsList	Name	Will not listen to advice		
+DIM_TraitsList	Name	Yields to others		
+DIM_TraitGroup	Description	Aggressive		
+DIM_TraitGroup	Description	Cautious		
+DIM_TraitGroup	Description	Cheerful / Good character		
+DIM_TraitGroup	Description	Cowardly / Malicious / Character Flaws		
+DIM_TraitGroup	Description	Inflexible / Uncaring		
+DIM_TraitGroup	Description	No effect on anything else		

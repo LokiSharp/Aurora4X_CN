@@ -1,0 +1,55 @@
+table	field	english	chinese	reason
+DIM_WealthUse	Description	Civilian Contracts		
+DIM_WealthUse	Description	Engineering Projects		
+DIM_WealthUse	Description	Fighter Production		
+DIM_WealthUse	Description	Financial Centres		
+DIM_WealthUse	Description	Foreign Aid		
+DIM_WealthUse	Description	Foreign Aid Received		
+DIM_WealthUse	Description	Ground Unit Maintenance		
+DIM_WealthUse	Description	Ground Unit Projects		
+DIM_WealthUse	Description	Ground Unit Training		
+DIM_WealthUse	Description	Installation Construction		
+DIM_WealthUse	Description	Looted from Conquered Population		
+DIM_WealthUse	Description	Lost due to Conquered Population 		
+DIM_WealthUse	Description	Lost to Independence		
+DIM_WealthUse	Description	Maintenance Facility Operation		
+DIM_WealthUse	Description	Maintenance Facility Production		
+DIM_WealthUse	Description	Maintenance Supplies		
+DIM_WealthUse	Description	Orbital Habitat Construction		
+DIM_WealthUse	Description	Ordnance Production		
+DIM_WealthUse	Description	Ordnance Projects		
+DIM_WealthUse	Description	PDC-related Construction		
+DIM_WealthUse	Description	Purchase of Civilian Fuel		
+DIM_WealthUse	Description	Purchase of Civilian Minerals		
+DIM_WealthUse	Description	Purchase of Civilian Ships		
+DIM_WealthUse	Description	Purchase of Fighters		
+DIM_WealthUse	Description	Purchase of Installations		
+DIM_WealthUse	Description	Purchase of Minerals		
+DIM_WealthUse	Description	Purchase of Ordnance		
+DIM_WealthUse	Description	Purchase of Ships		
+DIM_WealthUse	Description	Purchase of Technology		
+DIM_WealthUse	Description	Recovered from Ruins		
+DIM_WealthUse	Description	Research		
+DIM_WealthUse	Description	Sale of Fighters		
+DIM_WealthUse	Description	Sale of Installations		
+DIM_WealthUse	Description	Sale of Minerals		
+DIM_WealthUse	Description	Sale of Ordnance		
+DIM_WealthUse	Description	Sale of Ships		
+DIM_WealthUse	Description	Sale of Technology		
+DIM_WealthUse	Description	Scrap		
+DIM_WealthUse	Description	Ship Component Production		
+DIM_WealthUse	Description	Ship Refits		
+DIM_WealthUse	Description	Ship Repairs		
+DIM_WealthUse	Description	Shipbuilding		
+DIM_WealthUse	Description	Shipping Line Subsidy		
+DIM_WealthUse	Description	Shipyard Modifications		
+DIM_WealthUse	Description	Starting Wealth		
+DIM_WealthUse	Description	Tariff Income		
+DIM_WealthUse	Description	Tax on Civilian Fuel		
+DIM_WealthUse	Description	Tax on Civilian Mining		
+DIM_WealthUse	Description	Tax on Exports		
+DIM_WealthUse	Description	Tax on Passenger Liners		
+DIM_WealthUse	Description	Tax on Shipping Colonists		
+DIM_WealthUse	Description	Tax on Shipping Trade Goods		
+DIM_WealthUse	Description	Trade Income		
+DIM_WealthUse	Description	Worker Taxes		
