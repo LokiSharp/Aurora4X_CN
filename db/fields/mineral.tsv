@@ -1,23 +1,23 @@
 table	field	english	chinese	reason
-DIM_MineralDataType	Description	Civilian Mining		
-DIM_MineralDataType	Description	Construction		
-DIM_MineralDataType	Description	Fighter Production		
-DIM_MineralDataType	Description	Fuel Refining		
-DIM_MineralDataType	Description	Ground Unit Training		
-DIM_MineralDataType	Description	Loaded into Freighter		
-DIM_MineralDataType	Description	Maintenance Production		
-DIM_MineralDataType	Description	Mining		
-DIM_MineralDataType	Description	Ordnance Production		
-DIM_MineralDataType	Description	Received from Mass Driver		
-DIM_MineralDataType	Description	Recovered from Ruins		
-DIM_MineralDataType	Description	Scrapped Components		
-DIM_MineralDataType	Description	Scrapped Ground Units		
-DIM_MineralDataType	Description	Scrapped Installations		
-DIM_MineralDataType	Description	Scrapped Ordnance		
-DIM_MineralDataType	Description	Sent by Mass Driver		
-DIM_MineralDataType	Description	Ship Component Production		
-DIM_MineralDataType	Description	Shipbuilding		
-DIM_MineralDataType	Description	Shipyard Upgrades		
-DIM_MineralDataType	Description	Space Station Construction		
-DIM_MineralDataType	Description	Starting Stockpile		
-DIM_MineralDataType	Description	Unloaded from Freighter		
+DIM_MineralDataType	Description	Civilian Mining	民用采矿	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Construction	建造	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Fighter Production	战斗机生产	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Fuel Refining	燃料精炼	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Ground Unit Training	地面单位训练	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Loaded into Freighter	装载至货船	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Maintenance Production	维护补给生产	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Mining	采矿	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Ordnance Production	军械生产	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Received from Mass Driver	由质量投射器接收	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Recovered from Ruins	遗迹回收	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Scrapped Components	拆解组件	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Scrapped Ground Units	拆解地面单位	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Scrapped Installations	拆解设施	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Scrapped Ordnance	拆解军械	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Sent by Mass Driver	由质量投射器发送	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Ship Component Production	舰船组件生产	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Shipbuilding	舰船建造	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Shipyard Upgrades	造船厂升级	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Space Station Construction	空间站建造	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Starting Stockpile	初始库存	显示文本，沿用已核对译文
+DIM_MineralDataType	Description	Unloaded from Freighter	从货船卸下	显示文本，沿用已核对译文

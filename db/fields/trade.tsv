@@ -1,18 +1,18 @@
 table	field	english	chinese	reason
-DIM_TradeGoods	Description	Ancient Artifacts		
-DIM_TradeGoods	Description	Chemicals		
-DIM_TradeGoods	Description	Civilian Transport		
-DIM_TradeGoods	Description	Construction Materials		
-DIM_TradeGoods	Description	Consumer Electronics		
-DIM_TradeGoods	Description	Entertainment Products		
-DIM_TradeGoods	Description	Furs		
-DIM_TradeGoods	Description	Infrastructure		
-DIM_TradeGoods	Description	Luxury Food		
-DIM_TradeGoods	Description	Machinery		
-DIM_TradeGoods	Description	Pharmaceuticals		
-DIM_TradeGoods	Description	Plastics		
-DIM_TradeGoods	Description	Precious Metals		
-DIM_TradeGoods	Description	Recreational Drugs		
-DIM_TradeGoods	Description	Spices		
-DIM_TradeGoods	Description	Textiles		
-DIM_TradeGoods	Description	Wines		
+DIM_TradeGoods	Description	Ancient Artifacts	远古文物	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Chemicals	化学品	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Civilian Transport	民用运输	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Construction Materials	建筑材料	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Consumer Electronics	消费电子品	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Entertainment Products	娱乐产品	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Furs	毛皮	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Infrastructure	基础设施	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Luxury Food	奢侈食品	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Machinery	机械	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Pharmaceuticals	药品	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Plastics	塑料	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Precious Metals	贵金属	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Recreational Drugs	娱乐性药物	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Spices	香料	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Textiles	纺织品	显示文本，沿用已核对译文
+DIM_TradeGoods	Description	Wines	葡萄酒	显示文本，沿用已核对译文

@@ -1,11 +1,11 @@
 table	field	english	chinese	reason
-DIM_Ruin	Description	Deserted Intact Cities		
-DIM_Ruin	Description	Deserted Intact City		
-DIM_Ruin	Description	Deserted Intact Colony		
-DIM_Ruin	Description	Destroyed Outpost		
-DIM_Ruin	Description	Partially Intact City		
-DIM_Ruin	Description	Partially Intact Colony		
-DIM_Ruin	Description	Ruined City		
-DIM_Ruin	Description	Ruined Colony		
-DIM_Ruin	Description	Ruined Outpost		
-DIM_Ruin	Description	Ruined Settlement		
+DIM_Ruin	Description	Deserted Intact Cities	无人居住的完好城市群	显示文本，沿用已核对译文
+DIM_Ruin	Description	Deserted Intact City	无人居住的完好城市	显示文本，沿用已核对译文
+DIM_Ruin	Description	Deserted Intact Colony	无人居住的完好殖民地	显示文本，沿用已核对译文
+DIM_Ruin	Description	Destroyed Outpost	被摧毁的前哨站	显示文本，沿用已核对译文
+DIM_Ruin	Description	Partially Intact City	部分完好的城市	显示文本，沿用已核对译文
+DIM_Ruin	Description	Partially Intact Colony	部分完好的殖民地	显示文本，沿用已核对译文
+DIM_Ruin	Description	Ruined City	毁坏的城市	显示文本，沿用已核对译文
+DIM_Ruin	Description	Ruined Colony	毁坏的殖民地	显示文本，沿用已核对译文
+DIM_Ruin	Description	Ruined Outpost	毁坏的前哨站	显示文本，沿用已核对译文
+DIM_Ruin	Description	Ruined Settlement	毁坏的定居点	显示文本，沿用已核对译文

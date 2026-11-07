@@ -1,8 +1,8 @@
 table	field	english	chinese	reason
-DIM_NavalAdminCommandType	Description	General		
-DIM_NavalAdminCommandType	Description	Industrial		
-DIM_NavalAdminCommandType	Description	Logistics		
-DIM_NavalAdminCommandType	Description	Naval		
-DIM_NavalAdminCommandType	Description	Patrol		
-DIM_NavalAdminCommandType	Description	Survey		
-DIM_NavalAdminCommandType	Description	Training		
+DIM_NavalAdminCommandType	Description	General	通用	显示文本，沿用已核对译文
+DIM_NavalAdminCommandType	Description	Industrial	工业	显示文本，沿用已核对译文
+DIM_NavalAdminCommandType	Description	Logistics	后勤	显示文本，沿用已核对译文
+DIM_NavalAdminCommandType	Description	Naval	海军	显示文本，沿用已核对译文
+DIM_NavalAdminCommandType	Description	Patrol	巡逻	显示文本，沿用已核对译文
+DIM_NavalAdminCommandType	Description	Survey	勘测	显示文本，沿用已核对译文
+DIM_NavalAdminCommandType	Description	Training	训练	显示文本，沿用已核对译文

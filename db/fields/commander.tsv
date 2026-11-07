@@ -1,122 +1,122 @@
 table	field	english	chinese	reason
-DIM_CommanderBonusType	Description	Carrier Operations		
-DIM_CommanderBonusType	Description	Colony Administration		
-DIM_CommanderBonusType	Description	Communications		
-DIM_CommanderBonusType	Description	Crew Training		
-DIM_CommanderBonusType	Description	Decontamination		
-DIM_CommanderBonusType	Description	Diplomacy		
-DIM_CommanderBonusType	Description	Engineering		
-DIM_CommanderBonusType	Description	Fleet Training		
-DIM_CommanderBonusType	Description	Ground Combat Anti-Aircraft		
-DIM_CommanderBonusType	Description	Ground Combat Artillery		
-DIM_CommanderBonusType	Description	Ground Combat Defence		
-DIM_CommanderBonusType	Description	Ground Combat Logistics		
-DIM_CommanderBonusType	Description	Ground Combat Manoeuvre		
-DIM_CommanderBonusType	Description	Ground Combat Occupation		
-DIM_CommanderBonusType	Description	Ground Combat Offence		
-DIM_CommanderBonusType	Description	Ground Combat Training		
-DIM_CommanderBonusType	Description	Ground Construction		
-DIM_CommanderBonusType	Description	Ground Support		
-DIM_CommanderBonusType	Description	Intelligence		
-DIM_CommanderBonusType	Description	Light Tactical		
-DIM_CommanderBonusType	Description	Logistics		
-DIM_CommanderBonusType	Description	Mining		
-DIM_CommanderBonusType	Description	Political Reliability		
-DIM_CommanderBonusType	Description	Population Growth		
-DIM_CommanderBonusType	Description	Production		
-DIM_CommanderBonusType	Description	Reaction		
-DIM_CommanderBonusType	Description	Research		
-DIM_CommanderBonusType	Description	Research Admin		
-DIM_CommanderBonusType	Description	Shipbuilding		
-DIM_CommanderBonusType	Description	Survey		
-DIM_CommanderBonusType	Description	Tactical		
-DIM_CommanderBonusType	Description	Terraforming		
-DIM_CommanderBonusType	Description	Wealth Creation		
-DIM_CommanderBonusType	Description	Xenoarchaeology		
-DIM_MedalCondition	Description	Ancient Construct Discovered		
-DIM_MedalCondition	Description	Capture Hostile Ship in Boarding Combat		
-DIM_MedalCondition	Description	Capture Three Hostile Ships in Boarding Combat		
-DIM_MedalCondition	Description	Completed Five Research Projects		
-DIM_MedalCondition	Description	Completed Research Project		
-DIM_MedalCondition	Description	Destroy 1,000,000 tons of Commercial Shipping		
-DIM_MedalCondition	Description	Destroy 10,000 tons of Hostile Ground Forces		
-DIM_MedalCondition	Description	Destroy 10,000 tons of Military Shipping		
-DIM_MedalCondition	Description	Destroy 100 Hostile Missiles		
-DIM_MedalCondition	Description	Destroy 100,000 tons of Commercial Shipping		
-DIM_MedalCondition	Description	Destroy 100,000 tons of Hostile Ground Forces		
-DIM_MedalCondition	Description	Destroy 100,000 tons of Military Shipping		
-DIM_MedalCondition	Description	Destroy 1000 Hostile Missiles		
-DIM_MedalCondition	Description	Destroy 1000 tons of Hostile Ground Forces		
-DIM_MedalCondition	Description	Destroy 2,500,000 tons of Commercial Shipping		
-DIM_MedalCondition	Description	Destroy 25 Hostile Missiles		
-DIM_MedalCondition	Description	Destroy 25,000 tons of Hostile Ground Forces		
-DIM_MedalCondition	Description	Destroy 25,000 tons of Military Shipping		
-DIM_MedalCondition	Description	Destroy 250 Hostile Missiles		
-DIM_MedalCondition	Description	Destroy 250,000 tons of Commercial Shipping		
-DIM_MedalCondition	Description	Destroy 250,000 tons of Military Shipping		
-DIM_MedalCondition	Description	Destroy 2500 Hostile Missiles		
-DIM_MedalCondition	Description	Destroy 2500 tons of Hostile Ground Forces		
-DIM_MedalCondition	Description	Destroy 50,000 tons of Military Shipping		
-DIM_MedalCondition	Description	Destroy 500 Hostile Missiles		
-DIM_MedalCondition	Description	Destroy 500,000 tons of Commercial Shipping		
-DIM_MedalCondition	Description	Destroy 5000 tons of Hostile Ground Forces		
-DIM_MedalCondition	Description	Destroy Hostile Ground Unit		
-DIM_MedalCondition	Description	Destroy Hostile Ship		
-DIM_MedalCondition	Description	Discover 10 Jump Points		
-DIM_MedalCondition	Description	Discover 10 New Star Systems		
-DIM_MedalCondition	Description	Discover 100 Jump Points		
-DIM_MedalCondition	Description	Discover 100 New Star Systems		
-DIM_MedalCondition	Description	Discover 100 System Bodies With Minerals		
-DIM_MedalCondition	Description	Discover 1000 System Bodies With Minerals		
-DIM_MedalCondition	Description	Discover 25 Jump Points		
-DIM_MedalCondition	Description	Discover 25 New Star Systems		
-DIM_MedalCondition	Description	Discover 250 System Bodies With Minerals		
-DIM_MedalCondition	Description	Discover 50 System Bodies With Minerals		
-DIM_MedalCondition	Description	Discover Alien Ruins		
-DIM_MedalCondition	Description	Discover New Star System		
-DIM_MedalCondition	Description	Discover Ten Alien Ruins		
-DIM_MedalCondition	Description	Discover Three Alien Ruins		
-DIM_MedalCondition	Description	Generate 10,000 Research Points		
-DIM_MedalCondition	Description	Generate 100,000 Research Points		
-DIM_MedalCondition	Description	Generate 25,000 Research Points		
-DIM_MedalCondition	Description	Generate 250,000 Research Points		
-DIM_MedalCondition	Description	Habitable World Discovered		
-DIM_MedalCondition	Description	Participate in Combat Drop - Formation		
-DIM_MedalCondition	Description	Participate in Combat Drop - Transport		
-DIM_MedalCondition	Description	Participate in Five Combat Drops - Formation		
-DIM_MedalCondition	Description	Participate in Five Combat Drops - Transport		
-DIM_MedalCondition	Description	Recover 10 Abandoned Installations		
-DIM_MedalCondition	Description	Recover 100 Abandoned Installations		
-DIM_MedalCondition	Description	Recover 25 Abandoned Installations		
-DIM_MedalCondition	Description	Recover 250 Abandoned Installations		
-DIM_MedalCondition	Description	Salvage 100,000 tons (Commercial / 10)		
-DIM_MedalCondition	Description	Salvage 25,000 tons (Commercial / 10)		
-DIM_MedalCondition	Description	Salvage 250,000 tons (Commercial / 10)		
-DIM_MedalCondition	Description	Stabilise 1 Jump Point or Lagrange Point		
-DIM_MedalCondition	Description	Stabilise 10 Jump Points or Lagrange Points		
-DIM_MedalCondition	Description	Stabilise 25 Jump Points or Lagrange Points		
-DIM_MedalCondition	Description	Stabilise 3 Jump Points or Lagrange Points		
-DIM_MedalCondition	Description	Suffer Armour Damage		
-DIM_MedalCondition	Description	Suffer Internal Damage		
-DIM_MedalCondition	Description	Survive Ship Destruction		
-DIM_MedalCondition	Description	Ten Ancient Constructs Discovered		
-DIM_MedalCondition	Description	Ten Years of Service		
-DIM_MedalCondition	Description	Thirty Years of Service		
-DIM_MedalCondition	Description	Three Ancient Constructs Discovered		
-DIM_MedalCondition	Description	Three Habitable Worlds Discovered		
-DIM_MedalCondition	Description	Twenty Years of Service		
-DIM_AssignmentTypeFilter	Description	Academy Commandant		
-DIM_AssignmentTypeFilter	Description	Chief Engineer		
-DIM_AssignmentTypeFilter	Description	Commander, Air Group		
-DIM_AssignmentTypeFilter	Description	Commercial Ships		
-DIM_AssignmentTypeFilter	Description	Executive Officer - Commercial		
-DIM_AssignmentTypeFilter	Description	Executive Officer - Military		
-DIM_AssignmentTypeFilter	Description	Fighters and Small Craft		
-DIM_AssignmentTypeFilter	Description	Ground Forces		
-DIM_AssignmentTypeFilter	Description	Military Ships		
-DIM_AssignmentTypeFilter	Description	Naval Admin Commands		
-DIM_AssignmentTypeFilter	Description	Populations		
-DIM_AssignmentTypeFilter	Description	Science Officer		
-DIM_AssignmentTypeFilter	Description	Sectors		
-DIM_AssignmentTypeFilter	Description	Tactical Officer		
-DIM_AssignmentTypeFilter	Description	Warships		
+DIM_CommanderBonusType	Description	Carrier Operations	航母作战	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Colony Administration	殖民地行政	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Communications	通信	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Crew Training	船员训练	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Decontamination	除污	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Diplomacy	外交	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Engineering	工程	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Fleet Training	舰队训练	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Ground Combat Anti-Aircraft	地面战斗防空	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Ground Combat Artillery	地面战斗炮兵	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Ground Combat Defence	地面战斗防御	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Ground Combat Logistics	地面战斗后勤	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Ground Combat Manoeuvre	地面战斗机动	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Ground Combat Occupation	地面战斗占领	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Ground Combat Offence	地面战斗进攻	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Ground Combat Training	地面战斗训练	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Ground Construction	地面建造	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Ground Support	地面支援	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Intelligence	情报	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Light Tactical		显示文本，待译
+DIM_CommanderBonusType	Description	Logistics	后勤	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Mining	采矿	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Political Reliability	政治可靠性	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Population Growth	人口增长	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Production	产出	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Reaction	反应能力	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Research	研究	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Research Admin	研究管理	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Shipbuilding	舰船建造	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Survey	勘测	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Tactical	战术	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Terraforming	地形改造	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Wealth Creation	财富创造	显示文本，沿用已核对译文
+DIM_CommanderBonusType	Description	Xenoarchaeology	异星考古	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Ancient Construct Discovered	发现远古构造体	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Capture Hostile Ship in Boarding Combat	在登舰战斗中俘获敌方舰船	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Capture Three Hostile Ships in Boarding Combat	在登舰战斗中俘获三艘敌方舰船	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Completed Five Research Projects	完成五个研究项目	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Completed Research Project	完成研究项目	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 1,000,000 tons of Commercial Shipping	摧毁 1,000,000 吨商用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 10,000 tons of Hostile Ground Forces	摧毁 10,000 吨敌方地面部队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 10,000 tons of Military Shipping	摧毁 10,000 吨军用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 100 Hostile Missiles	摧毁 100 枚敌方导弹	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 100,000 tons of Commercial Shipping	摧毁 100,000 吨商用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 100,000 tons of Hostile Ground Forces	摧毁 100,000 吨敌方地面部队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 100,000 tons of Military Shipping	摧毁 100,000 吨军用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 1000 Hostile Missiles	摧毁 1000 枚敌方导弹	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 1000 tons of Hostile Ground Forces	摧毁 1000 吨敌方地面部队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 2,500,000 tons of Commercial Shipping	摧毁 2,500,000 吨商用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 25 Hostile Missiles	摧毁 25 枚敌方导弹	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 25,000 tons of Hostile Ground Forces	摧毁 25,000 吨敌方地面部队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 25,000 tons of Military Shipping	摧毁 25,000 吨军用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 250 Hostile Missiles	摧毁 250 枚敌方导弹	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 250,000 tons of Commercial Shipping	摧毁 250,000 吨商用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 250,000 tons of Military Shipping	摧毁 250,000 吨军用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 2500 Hostile Missiles	摧毁 2500 枚敌方导弹	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 2500 tons of Hostile Ground Forces	摧毁 2500 吨敌方地面部队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 50,000 tons of Military Shipping	摧毁 50,000 吨军用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 500 Hostile Missiles	摧毁 500 枚敌方导弹	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 500,000 tons of Commercial Shipping	摧毁 500,000 吨商用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 5000 tons of Hostile Ground Forces	摧毁 5000 吨敌方地面部队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy Hostile Ground Unit	摧毁敌方地面单位	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy Hostile Ship	摧毁敌方舰船	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover 10 Jump Points	发现 10 个跃迁点	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover 10 New Star Systems	发现 10 个新星系	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover 100 Jump Points	发现 100 个跃迁点	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover 100 New Star Systems	发现 100 个新星系	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover 100 System Bodies With Minerals	发现 100 个含矿物的天体	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover 1000 System Bodies With Minerals	发现 1000 个含矿物的天体	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover 25 Jump Points	发现 25 个跃迁点	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover 25 New Star Systems	发现 25 个新星系	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover 250 System Bodies With Minerals	发现 250 个含矿物的天体	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover 50 System Bodies With Minerals	发现 50 个含矿物的天体	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover Alien Ruins	发现外星遗迹	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover New Star System	发现新星系	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover Ten Alien Ruins	发现十处外星遗迹	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Discover Three Alien Ruins	发现三处外星遗迹	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Generate 10,000 Research Points	产生 10,000 研究点	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Generate 100,000 Research Points	产生 100,000 研究点	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Generate 25,000 Research Points	产生 25,000 研究点	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Generate 250,000 Research Points	产生 250,000 研究点	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Habitable World Discovered	发现宜居星球	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Participate in Combat Drop - Formation	参与作战空降 - 编队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Participate in Combat Drop - Transport	参与作战空降 - 运输	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Participate in Five Combat Drops - Formation	参与五次作战空降 - 编队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Participate in Five Combat Drops - Transport	参与五次作战空降 - 运输	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Recover 10 Abandoned Installations	回收 10 座废弃设施	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Recover 100 Abandoned Installations	回收 100 座废弃设施	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Recover 25 Abandoned Installations	回收 25 座废弃设施	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Recover 250 Abandoned Installations	回收 250 座废弃设施	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Salvage 100,000 tons (Commercial / 10)	打捞 100,000 吨 (Commercial / 10)	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Salvage 25,000 tons (Commercial / 10)	打捞 25,000 吨 (Commercial / 10)	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Salvage 250,000 tons (Commercial / 10)	打捞 250,000 吨 (Commercial / 10)	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Stabilise 1 Jump Point or Lagrange Point	稳定 1 个跃迁点或拉格朗日点	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Stabilise 10 Jump Points or Lagrange Points	稳定 10 个跃迁点或拉格朗日点	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Stabilise 25 Jump Points or Lagrange Points	稳定 25 个跃迁点或拉格朗日点	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Stabilise 3 Jump Points or Lagrange Points	稳定 3 个跃迁点或拉格朗日点	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Suffer Armour Damage	承受装甲损伤	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Suffer Internal Damage	承受内部损伤	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Survive Ship Destruction	舰船被毁后幸存	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Ten Ancient Constructs Discovered	发现十座远古构造体	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Ten Years of Service	服役十年	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Thirty Years of Service	服役三十年	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Three Ancient Constructs Discovered	发现三座远古构造体	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Three Habitable Worlds Discovered	发现三颗宜居星球	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Twenty Years of Service	服役二十年	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Academy Commandant	军官学院院长	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Chief Engineer	总工程师	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Commander, Air Group	航空群指挥官	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Commercial Ships	商用舰船	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Executive Officer - Commercial	副舰长 - 商用	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Executive Officer - Military	副舰长 - 军用	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Fighters and Small Craft	战斗机与小型飞行器	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Ground Forces	地面部队	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Military Ships	军用舰船	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Naval Admin Commands	海军行政司令部	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Populations	人口	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Science Officer	科学官	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Sectors	星区	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Tactical Officer	战术官	显示文本，沿用已核对译文
+DIM_AssignmentTypeFilter	Description	Warships	战舰	显示文本，沿用已核对译文

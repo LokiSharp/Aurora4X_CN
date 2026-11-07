@@ -1,59 +1,59 @@
 table	field	english	chinese	reason
-DIM_PlanetaryInstallation	Name	Aether Gate Monitoring Station		
-DIM_PlanetaryInstallation	Name	Automated Mine		
-DIM_PlanetaryInstallation	Name	Cargo Shuttle Station		
-DIM_PlanetaryInstallation	Name	Civilian Mining Complex		
-DIM_PlanetaryInstallation	Name	Commercial Shipyard Complex		
-DIM_PlanetaryInstallation	Name	Construction Factory		
-DIM_PlanetaryInstallation	Name	Conventional Industry		
-DIM_PlanetaryInstallation	Name	Convert CI to Construction Factory		
-DIM_PlanetaryInstallation	Name	Convert CI to Financial Centre		
-DIM_PlanetaryInstallation	Name	Convert CI to Fuel Refinery		
-DIM_PlanetaryInstallation	Name	Convert CI to Light Naval Factory		
-DIM_PlanetaryInstallation	Name	Convert CI to Mine		
-DIM_PlanetaryInstallation	Name	Convert CI to Ordnance Factory		
-DIM_PlanetaryInstallation	Name	Convert Mine to Automated		
-DIM_PlanetaryInstallation	Name	Deep Space Tracking Station		
-DIM_PlanetaryInstallation	Name	Ex-Civilian Mining Complex		
-DIM_PlanetaryInstallation	Name	Financial Centre		
-DIM_PlanetaryInstallation	Name	Forced Labour Construction Camp		
-DIM_PlanetaryInstallation	Name	Forced Labour Mining Camp		
-DIM_PlanetaryInstallation	Name	Fuel Refinery		
-DIM_PlanetaryInstallation	Name	Genetic Modification Centre		
-DIM_PlanetaryInstallation	Name	Ground Force Construction Complex		
-DIM_PlanetaryInstallation	Name	Infrastructure		
-DIM_PlanetaryInstallation	Name	Light Naval Factory		
-DIM_PlanetaryInstallation	Name	Light Naval Shipyard		
-DIM_PlanetaryInstallation	Name	Maintenance Facility		
-DIM_PlanetaryInstallation	Name	Mass Driver		
-DIM_PlanetaryInstallation	Name	Military Academy		
-DIM_PlanetaryInstallation	Name	Mine		
-DIM_PlanetaryInstallation	Name	Naval Headquarters		
-DIM_PlanetaryInstallation	Name	Naval Shipyard Complex		
-DIM_PlanetaryInstallation	Name	Ordnance Factory		
-DIM_PlanetaryInstallation	Name	Ordnance Transfer Station		
-DIM_PlanetaryInstallation	Name	Refuelling Station		
-DIM_PlanetaryInstallation	Name	Repair Yard		
-DIM_PlanetaryInstallation	Name	Research Facility		
-DIM_PlanetaryInstallation	Name	Sector Command		
-DIM_PlanetaryInstallation	Name	Spaceport		
-DIM_PlanetaryInstallation	Name	Terraforming Installation		
-DIM_PlanetaryInstallation	WorkerDesciption	Academy Staff		
-DIM_PlanetaryInstallation	WorkerDesciption	Commercial Shipyard Workers		
-DIM_PlanetaryInstallation	WorkerDesciption	Construction Workers		
-DIM_PlanetaryInstallation	WorkerDesciption	Financial Workers		
-DIM_PlanetaryInstallation	WorkerDesciption	Geneticists		
-DIM_PlanetaryInstallation	WorkerDesciption	Ground Force Workers		
-DIM_PlanetaryInstallation	WorkerDesciption	Industrial Workers		
-DIM_PlanetaryInstallation	WorkerDesciption	Labour Camp Overseers		
-DIM_PlanetaryInstallation	WorkerDesciption	Light Naval Factory Workers		
-DIM_PlanetaryInstallation	WorkerDesciption	Maintenance Workers		
-DIM_PlanetaryInstallation	WorkerDesciption	Miners		
-DIM_PlanetaryInstallation	WorkerDesciption	Naval Shipyard Workers		
-DIM_PlanetaryInstallation	WorkerDesciption	Ordnance Workers		
-DIM_PlanetaryInstallation	WorkerDesciption	Refinery Workers		
-DIM_PlanetaryInstallation	WorkerDesciption	Repair Yard Workers		
-DIM_PlanetaryInstallation	WorkerDesciption	Scientists		
-DIM_PlanetaryInstallation	WorkerDesciption	Sector Staff		
-DIM_PlanetaryInstallation	WorkerDesciption	Spaceport Workers		
-DIM_PlanetaryInstallation	WorkerDesciption	Terraformers		
+DIM_PlanetaryInstallation	Name	Aether Gate Monitoring Station		显示文本，待译
+DIM_PlanetaryInstallation	Name	Automated Mine	自动矿场	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Cargo Shuttle Station	货运穿梭机站	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Civilian Mining Complex	民用采矿联合体	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Commercial Shipyard Complex	商用造船联合体	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Construction Factory	建造工厂	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Conventional Industry	常规工业	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Convert CI to Construction Factory	将常规工业转为建造工厂	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Convert CI to Financial Centre	将常规工业转为金融中心	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Convert CI to Fuel Refinery	将常规工业转为燃料精炼厂	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Convert CI to Light Naval Factory		显示文本，待译
+DIM_PlanetaryInstallation	Name	Convert CI to Mine	将常规工业转为矿场	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Convert CI to Ordnance Factory	将常规工业转为军械工厂	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Convert Mine to Automated	将矿场转为自动矿场	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Deep Space Tracking Station	深空跟踪站	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Ex-Civilian Mining Complex	前民用采矿联合体	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Financial Centre	金融中心	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Forced Labour Construction Camp	强制劳动建造营	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Forced Labour Mining Camp	强制劳动采矿营	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Fuel Refinery	燃料精炼厂	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Genetic Modification Centre	基因改造中心	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Ground Force Construction Complex	地面部队建造联合体	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Infrastructure	基础设施	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Light Naval Factory		显示文本，待译
+DIM_PlanetaryInstallation	Name	Light Naval Shipyard		显示文本，待译
+DIM_PlanetaryInstallation	Name	Maintenance Facility	维护设施	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Mass Driver	质量投射器	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Military Academy	军事学院	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Mine	矿场	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Naval Headquarters	海军总部	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Naval Shipyard Complex	军用造船联合体	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Ordnance Factory	军械工厂	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Ordnance Transfer Station	军械转运站	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Refuelling Station	燃料补给站	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Repair Yard	维修船坞	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Research Facility	研究设施	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Sector Command	星区司令部	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Spaceport	太空港	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	Name	Terraforming Installation	地形改造设施	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Academy Staff	学院教职员工	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Commercial Shipyard Workers	商用造船厂工人	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Construction Workers	建造工人	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Financial Workers	金融业从业者	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Geneticists	基因学家	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Ground Force Workers	地面部队工人	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Industrial Workers	产业工人	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Labour Camp Overseers	劳动营监管员	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Light Naval Factory Workers		显示文本，待译
+DIM_PlanetaryInstallation	WorkerDesciption	Maintenance Workers	维护工人	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Miners	矿工	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Naval Shipyard Workers	军用造船厂工人	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Ordnance Workers	军械工人	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Refinery Workers	精炼厂工人	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Repair Yard Workers	维修船坞工人	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Scientists	科学家	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Sector Staff	星区职员	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Spaceport Workers	太空港工人	显示文本，沿用已核对译文
+DIM_PlanetaryInstallation	WorkerDesciption	Terraformers	地形改造人员	显示文本，沿用已核对译文

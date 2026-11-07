@@ -1,15 +1,15 @@
 table	field	english	chinese	reason
-DIM_SetAtmosphere	Description	CO2 - Nitrogen		
-DIM_SetAtmosphere	Description	Helium - Hydrogen		
-DIM_SetAtmosphere	Description	Hydrogen		
-DIM_SetAtmosphere	Description	Hydrogen - Helium		
-DIM_SetAtmosphere	Description	Neon		
-DIM_SetAtmosphere	Description	Nitrogen - Ammonia		
-DIM_SetAtmosphere	Description	Nitrogen - CO2		
-DIM_SetAtmosphere	Description	Nitrogen - CO2 - Oxygen		
-DIM_SetAtmosphere	Description	Nitrogen - Methane		
-DIM_SetAtmosphere	Description	Nitrogen - Methane - Ethane		
-DIM_SetAtmosphere	Description	Nitrogen - Oxygen		
-DIM_SetAtmosphere	Description	Nitrogen - Oxygen - CO2		
-DIM_SetAtmosphere	Description	Nitrogen Dioxide		
-DIM_SetAtmosphere	Description	Nitrogen Dioxide - Sulphur Dioxide		
+DIM_SetAtmosphere	Description	CO2 - Nitrogen		显示文本，待译
+DIM_SetAtmosphere	Description	Helium - Hydrogen		显示文本，待译
+DIM_SetAtmosphere	Description	Hydrogen	氢	显示文本，沿用对照表中唯一译文
+DIM_SetAtmosphere	Description	Hydrogen - Helium		显示文本，待译
+DIM_SetAtmosphere	Description	Neon	氖	显示文本，沿用对照表中唯一译文
+DIM_SetAtmosphere	Description	Nitrogen - Ammonia		显示文本，待译
+DIM_SetAtmosphere	Description	Nitrogen - CO2		显示文本，待译
+DIM_SetAtmosphere	Description	Nitrogen - CO2 - Oxygen		显示文本，待译
+DIM_SetAtmosphere	Description	Nitrogen - Methane		显示文本，待译
+DIM_SetAtmosphere	Description	Nitrogen - Methane - Ethane		显示文本，待译
+DIM_SetAtmosphere	Description	Nitrogen - Oxygen		显示文本，待译
+DIM_SetAtmosphere	Description	Nitrogen - Oxygen - CO2		显示文本，待译
+DIM_SetAtmosphere	Description	Nitrogen Dioxide	二氧化氮	显示文本，沿用对照表中唯一译文
+DIM_SetAtmosphere	Description	Nitrogen Dioxide - Sulphur Dioxide		显示文本，待译

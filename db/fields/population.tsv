@@ -1,9 +1,9 @@
 table	field	english	chinese	reason
-DIM_PopPoliticalStatus	StatusName	Candidate Population		
-DIM_PopPoliticalStatus	StatusName	Client State		
-DIM_PopPoliticalStatus	StatusName	Conquered		
-DIM_PopPoliticalStatus	StatusName	Imperial Population		
-DIM_PopPoliticalStatus	StatusName	Occupied		
-DIM_PopPoliticalStatus	StatusName	Slave Colony		
-DIM_PopPoliticalStatus	StatusName	Subjugated		
-DIM_PopPoliticalStatus	StatusName	Vanquished		
+DIM_PopPoliticalStatus	StatusName	Candidate Population	候选人口	显示文本，沿用已核对译文
+DIM_PopPoliticalStatus	StatusName	Client State	附庸国	显示文本，沿用已核对译文
+DIM_PopPoliticalStatus	StatusName	Conquered	被征服	显示文本，沿用已核对译文
+DIM_PopPoliticalStatus	StatusName	Imperial Population	帝国人口	显示文本，沿用已核对译文
+DIM_PopPoliticalStatus	StatusName	Occupied	被占领	显示文本，沿用已核对译文
+DIM_PopPoliticalStatus	StatusName	Slave Colony	奴隶殖民地	显示文本，沿用已核对译文
+DIM_PopPoliticalStatus	StatusName	Subjugated	被降服	显示文本，沿用已核对译文
+DIM_PopPoliticalStatus	StatusName	Vanquished	被击溃	显示文本，沿用已核对译文

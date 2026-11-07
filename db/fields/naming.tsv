@@ -1,707 +1,707 @@
 table	field	english	chinese	reason
-DIM_CommanderNameTheme	Description	Abbai		
-DIM_CommanderNameTheme	Description	Afrikaans		
-DIM_CommanderNameTheme	Description	Albanian		
-DIM_CommanderNameTheme	Description	Alien Race #1		
-DIM_CommanderNameTheme	Description	Alien Race #2		
-DIM_CommanderNameTheme	Description	Ancient Egyptian		
-DIM_CommanderNameTheme	Description	Andorian		
-DIM_CommanderNameTheme	Description	Arabic		
-DIM_CommanderNameTheme	Description	Armenian		
-DIM_CommanderNameTheme	Description	Arthurian		
-DIM_CommanderNameTheme	Description	Aurora Forum Members		
-DIM_CommanderNameTheme	Description	Aztec		
-DIM_CommanderNameTheme	Description	Bajoran		
-DIM_CommanderNameTheme	Description	Battlestar Greek		
-DIM_CommanderNameTheme	Description	Belgian		
-DIM_CommanderNameTheme	Description	Bengali		
-DIM_CommanderNameTheme	Description	Bosnian		
-DIM_CommanderNameTheme	Description	Brakiri		
-DIM_CommanderNameTheme	Description	Burmese		
-DIM_CommanderNameTheme	Description	Cardassian		
-DIM_CommanderNameTheme	Description	Centauri		
-DIM_CommanderNameTheme	Description	Chinese		
-DIM_CommanderNameTheme	Description	Congolese		
-DIM_CommanderNameTheme	Description	Danish		
-DIM_CommanderNameTheme	Description	Dilgar		
-DIM_CommanderNameTheme	Description	Drakh		
-DIM_CommanderNameTheme	Description	Dutch		
-DIM_CommanderNameTheme	Description	English		
-DIM_CommanderNameTheme	Description	Estonian		
-DIM_CommanderNameTheme	Description	Ethiopian		
-DIM_CommanderNameTheme	Description	Ferengi - New		
-DIM_CommanderNameTheme	Description	Ferengi - Old		
-DIM_CommanderNameTheme	Description	Filipino		
-DIM_CommanderNameTheme	Description	Finnish		
-DIM_CommanderNameTheme	Description	French		
-DIM_CommanderNameTheme	Description	Gaim		
-DIM_CommanderNameTheme	Description	German		
-DIM_CommanderNameTheme	Description	Gorn		
-DIM_CommanderNameTheme	Description	Greek - Ancient		
-DIM_CommanderNameTheme	Description	Greek - Modern		
-DIM_CommanderNameTheme	Description	Hobbit		
-DIM_CommanderNameTheme	Description	Hungarian		
-DIM_CommanderNameTheme	Description	Indian		
-DIM_CommanderNameTheme	Description	Indonesian		
-DIM_CommanderNameTheme	Description	Italian		
-DIM_CommanderNameTheme	Description	Japanese		
-DIM_CommanderNameTheme	Description	Jewish		
-DIM_CommanderNameTheme	Description	Kenyan		
-DIM_CommanderNameTheme	Description	Klingon		
-DIM_CommanderNameTheme	Description	Korean		
-DIM_CommanderNameTheme	Description	Markab		
-DIM_CommanderNameTheme	Description	Medieval English Names		
-DIM_CommanderNameTheme	Description	Medieval France		
-DIM_CommanderNameTheme	Description	Minbari		
-DIM_CommanderNameTheme	Description	Mongolian		
-DIM_CommanderNameTheme	Description	Narn		
-DIM_CommanderNameTheme	Description	Nausicaan		
-DIM_CommanderNameTheme	Description	Norse		
-DIM_CommanderNameTheme	Description	Persian/Iranian		
-DIM_CommanderNameTheme	Description	Polish - New		
-DIM_CommanderNameTheme	Description	Polish - Old		
-DIM_CommanderNameTheme	Description	Portuguese		
-DIM_CommanderNameTheme	Description	Roman		
-DIM_CommanderNameTheme	Description	Romanian		
-DIM_CommanderNameTheme	Description	Russian - New		
-DIM_CommanderNameTheme	Description	Shadows		
-DIM_CommanderNameTheme	Description	Spanish		
-DIM_CommanderNameTheme	Description	Swedish		
-DIM_CommanderNameTheme	Description	Tellarite		
-DIM_CommanderNameTheme	Description	Thai		
-DIM_CommanderNameTheme	Description	Turkish		
-DIM_CommanderNameTheme	Description	United States		
-DIM_CommanderNameTheme	Description	Vietnamese		
-DIM_CommanderNameTheme	Description	Vorlon		
-DIM_CommanderNameTheme	Description	Vulcan		
-DIM_CommanderNameTheme	Description	Warhammer 40k		
-DIM_CommanderNameTheme	Description	Welsh		
-DIM_CommanderNameTheme	Description	Zhodani		
-DIM_CommanderNameTheme	Description	Zulu		
-DIM_NamingThemeTypes	Description	19th Century Italian Warships		
-DIM_NamingThemeTypes	Description	Abbai Ships		
-DIM_NamingThemeTypes	Description	Adjectives		
-DIM_NamingThemeTypes	Description	Adjectives and Animals		
-DIM_NamingThemeTypes	Description	Adjectives and Concepts		
-DIM_NamingThemeTypes	Description	Adverbs		
-DIM_NamingThemeTypes	Description	African Cities		
-DIM_NamingThemeTypes	Description	Aggressive Names		
-DIM_NamingThemeTypes	Description	Aircraft Nicknames		
-DIM_NamingThemeTypes	Description	Alabama		
-DIM_NamingThemeTypes	Description	Alaska		
-DIM_NamingThemeTypes	Description	Alberta		
-DIM_NamingThemeTypes	Description	Alliance - Union Merchanters & Transports		
-DIM_NamingThemeTypes	Description	Ancient Cities		
-DIM_NamingThemeTypes	Description	Angels and Demons		
-DIM_NamingThemeTypes	Description	Animals		
-DIM_NamingThemeTypes	Description	Antarctic Volcanoes		
-DIM_NamingThemeTypes	Description	Argentina		
-DIM_NamingThemeTypes	Description	Arleigh Burke Class		
-DIM_NamingThemeTypes	Description	Asia		
-DIM_NamingThemeTypes	Description	Astronomers		
-DIM_NamingThemeTypes	Description	Aurora Forum Members		
-DIM_NamingThemeTypes	Description	Australian Aboriginal Place Name		
-DIM_NamingThemeTypes	Description	Aztec Gods		
-DIM_NamingThemeTypes	Description	Battles		
-DIM_NamingThemeTypes	Description	Battlestar Civilian Ships		
-DIM_NamingThemeTypes	Description	Battlestar Episode Names		
-DIM_NamingThemeTypes	Description	Battlestar Names		
-DIM_NamingThemeTypes	Description	Biblical Idioms		
-DIM_NamingThemeTypes	Description	Big Cats		
-DIM_NamingThemeTypes	Description	Big Cities		
-DIM_NamingThemeTypes	Description	Birds		
-DIM_NamingThemeTypes	Description	Birds of Prey (exc Eagles)		
-DIM_NamingThemeTypes	Description	Books of the Bible		
-DIM_NamingThemeTypes	Description	Brazil		
-DIM_NamingThemeTypes	Description	Brazilian States		
-DIM_NamingThemeTypes	Description	Breeds of Dog		
-DIM_NamingThemeTypes	Description	Bright Stars		
-DIM_NamingThemeTypes	Description	British Columbia Volcanoes		
-DIM_NamingThemeTypes	Description	British Counties		
-DIM_NamingThemeTypes	Description	British East India Company Ships		
-DIM_NamingThemeTypes	Description	British Rivers		
-DIM_NamingThemeTypes	Description	Cats		
-DIM_NamingThemeTypes	Description	Centauri Ships		
-DIM_NamingThemeTypes	Description	Chinese Cities		
-DIM_NamingThemeTypes	Description	Chinese Provinces		
-DIM_NamingThemeTypes	Description	Cities		
-DIM_NamingThemeTypes	Description	Class Name Only		
-DIM_NamingThemeTypes	Description	Class Theme - African Union		
-DIM_NamingThemeTypes	Description	Class Theme - Ancient Egypt		
-DIM_NamingThemeTypes	Description	Class Theme - Ancient Greece		
-DIM_NamingThemeTypes	Description	Class Theme - Andromeda		
-DIM_NamingThemeTypes	Description	Class Theme - Animal		
-DIM_NamingThemeTypes	Description	Class Theme - Arabic		
-DIM_NamingThemeTypes	Description	Class Theme - Argentina		
-DIM_NamingThemeTypes	Description	Class Theme - ASEAN		
-DIM_NamingThemeTypes	Description	Class Theme - Australia		
-DIM_NamingThemeTypes	Description	Class Theme - Aztec		
-DIM_NamingThemeTypes	Description	Class Theme - Barsoom		
-DIM_NamingThemeTypes	Description	Class Theme - Boer		
-DIM_NamingThemeTypes	Description	Class Theme - Brazil		
-DIM_NamingThemeTypes	Description	Class Theme - Canada		
-DIM_NamingThemeTypes	Description	Class Theme - Celtic		
-DIM_NamingThemeTypes	Description	Class Theme - China		
-DIM_NamingThemeTypes	Description	Class Theme - Clans of Shakar		
-DIM_NamingThemeTypes	Description	Class Theme - Demonic Realm		
-DIM_NamingThemeTypes	Description	Class Theme - Denmark		
-DIM_NamingThemeTypes	Description	Class Theme - Deverry		
-DIM_NamingThemeTypes	Description	Class Theme - Elemental		
-DIM_NamingThemeTypes	Description	Class Theme - Fallen London		
-DIM_NamingThemeTypes	Description	Class Theme - Fantasy		
-DIM_NamingThemeTypes	Description	Class Theme - Finland		
-DIM_NamingThemeTypes	Description	Class Theme - France		
-DIM_NamingThemeTypes	Description	Class Theme - Gaelic		
-DIM_NamingThemeTypes	Description	Class Theme - Galactic Empire		
-DIM_NamingThemeTypes	Description	Class Theme - Germany		
-DIM_NamingThemeTypes	Description	Class Theme - Hippy		
-DIM_NamingThemeTypes	Description	Class Theme - House Davion		
-DIM_NamingThemeTypes	Description	Class Theme - House Kurita		
-DIM_NamingThemeTypes	Description	Class Theme - House Liao		
-DIM_NamingThemeTypes	Description	Class Theme - House Marik		
-DIM_NamingThemeTypes	Description	Class Theme - House Steiner		
-DIM_NamingThemeTypes	Description	Class Theme - India		
-DIM_NamingThemeTypes	Description	Class Theme - Indonesia		
-DIM_NamingThemeTypes	Description	Class Theme - Iran		
-DIM_NamingThemeTypes	Description	Class Theme - Israel		
-DIM_NamingThemeTypes	Description	Class Theme - Italia		
-DIM_NamingThemeTypes	Description	Class Theme - Japan		
-DIM_NamingThemeTypes	Description	Class Theme - Khanate of Orion		
-DIM_NamingThemeTypes	Description	Class Theme - Knights Templar		
-DIM_NamingThemeTypes	Description	Class Theme - Magician		
-DIM_NamingThemeTypes	Description	Class Theme - Manticore (RMN)		
-DIM_NamingThemeTypes	Description	Class Theme - Mexico		
-DIM_NamingThemeTypes	Description	Class Theme - Mongol		
-DIM_NamingThemeTypes	Description	Class Theme - Nations of Earth		
-DIM_NamingThemeTypes	Description	Class Theme - Native American		
-DIM_NamingThemeTypes	Description	Class Theme - Netherlands		
-DIM_NamingThemeTypes	Description	Class Theme - Norse		
-DIM_NamingThemeTypes	Description	Class Theme - Odd		
-DIM_NamingThemeTypes	Description	Class Theme - Orc		
-DIM_NamingThemeTypes	Description	Class Theme - Rebel Alliance		
-DIM_NamingThemeTypes	Description	Class Theme - Rigelian (Historical)		
-DIM_NamingThemeTypes	Description	Class Theme - Rigellian (Steve)		
-DIM_NamingThemeTypes	Description	Class Theme - Roman		
-DIM_NamingThemeTypes	Description	Class Theme - Russia		
-DIM_NamingThemeTypes	Description	Class Theme - Shotgun		
-DIM_NamingThemeTypes	Description	Class Theme - South Africa		
-DIM_NamingThemeTypes	Description	Class Theme - South America		
-DIM_NamingThemeTypes	Description	Class Theme - South Korea		
-DIM_NamingThemeTypes	Description	Class Theme - Spanish		
-DIM_NamingThemeTypes	Description	Class Theme - Sweden		
-DIM_NamingThemeTypes	Description	Class Theme - Terran Federation		
-DIM_NamingThemeTypes	Description	Class Theme - Tolkien		
-DIM_NamingThemeTypes	Description	Class Theme - Traveller		
-DIM_NamingThemeTypes	Description	Class Theme - Turkey		
-DIM_NamingThemeTypes	Description	Class Theme - United Kingdom		
-DIM_NamingThemeTypes	Description	Class Theme - United States		
-DIM_NamingThemeTypes	Description	Class Theme - Warhammer 40K Empire		
-DIM_NamingThemeTypes	Description	Class Theme - Welsh		
-DIM_NamingThemeTypes	Description	Classical Astronomers		
-DIM_NamingThemeTypes	Description	Clipper Ships		
-DIM_NamingThemeTypes	Description	Coast Salish Place Names and Words		
-DIM_NamingThemeTypes	Description	Colorado Towns		
-DIM_NamingThemeTypes	Description	Constellations		
-DIM_NamingThemeTypes	Description	Countries		
-DIM_NamingThemeTypes	Description	Covenant Ship Names		
-DIM_NamingThemeTypes	Description	Culture		
-DIM_NamingThemeTypes	Description	Daemons		
-DIM_NamingThemeTypes	Description	Defensive Works		
-DIM_NamingThemeTypes	Description	Demon Lords		
-DIM_NamingThemeTypes	Description	Demons and Devils		
-DIM_NamingThemeTypes	Description	Dido Class		
-DIM_NamingThemeTypes	Description	Dinosaurs		
-DIM_NamingThemeTypes	Description	Dinosaurs - Extensive		
-DIM_NamingThemeTypes	Description	Dragons		
-DIM_NamingThemeTypes	Description	Drazi Birds of Prey		
-DIM_NamingThemeTypes	Description	Dune		
-DIM_NamingThemeTypes	Description	Dutch Towns and Cities		
-DIM_NamingThemeTypes	Description	Eastern Orthodox Archangels		
-DIM_NamingThemeTypes	Description	Empire Ships		
-DIM_NamingThemeTypes	Description	Europe		
-DIM_NamingThemeTypes	Description	European Rivers		
-DIM_NamingThemeTypes	Description	European Volcanoes		
-DIM_NamingThemeTypes	Description	Evocative Adjectives		
-DIM_NamingThemeTypes	Description	Exoplanet Names		
-DIM_NamingThemeTypes	Description	Exotic Colours		
-DIM_NamingThemeTypes	Description	Explorers		
-DIM_NamingThemeTypes	Description	Famous Geologists		
-DIM_NamingThemeTypes	Description	Famous Horses of US Civil War		
-DIM_NamingThemeTypes	Description	Famous People		
-DIM_NamingThemeTypes	Description	Fantasy Creatures		
-DIM_NamingThemeTypes	Description	Fast Animals		
-DIM_NamingThemeTypes	Description	Finnish Aggressive		
-DIM_NamingThemeTypes	Description	Finnish Coastal Cities		
-DIM_NamingThemeTypes	Description	Finnish Fish		
-DIM_NamingThemeTypes	Description	Finnish Historical		
-DIM_NamingThemeTypes	Description	Finnish Mythology		
-DIM_NamingThemeTypes	Description	Finnish Presidents		
-DIM_NamingThemeTypes	Description	Finnish Regions		
-DIM_NamingThemeTypes	Description	Finnish Ships		
-DIM_NamingThemeTypes	Description	Finnish Warships - Current		
-DIM_NamingThemeTypes	Description	Finnish Warships - Old		
-DIM_NamingThemeTypes	Description	Flowers		
-DIM_NamingThemeTypes	Description	Football Referees		
-DIM_NamingThemeTypes	Description	Forts		
-DIM_NamingThemeTypes	Description	Foundation Characters		
-DIM_NamingThemeTypes	Description	Four-Digit Numbers		
-DIM_NamingThemeTypes	Description	French Battleships		
-DIM_NamingThemeTypes	Description	French Cruisers		
-DIM_NamingThemeTypes	Description	French Destroyers		
-DIM_NamingThemeTypes	Description	French First Empire Departements		
-DIM_NamingThemeTypes	Description	French Fleet 1790 - 1805		
-DIM_NamingThemeTypes	Description	French Military Personalities		
-DIM_NamingThemeTypes	Description	French Provinces		
-DIM_NamingThemeTypes	Description	French Ship Names		
-DIM_NamingThemeTypes	Description	French Ship Names - General #1		
-DIM_NamingThemeTypes	Description	French Ship Names - General #2		
-DIM_NamingThemeTypes	Description	French Victories		
-DIM_NamingThemeTypes	Description	Gaulish Tribes		
-DIM_NamingThemeTypes	Description	Gemstones		
-DIM_NamingThemeTypes	Description	German Battleships		
-DIM_NamingThemeTypes	Description	German Cities		
-DIM_NamingThemeTypes	Description	German Cruisers		
-DIM_NamingThemeTypes	Description	German Fast Attack Craft		
-DIM_NamingThemeTypes	Description	German Warships		
-DIM_NamingThemeTypes	Description	Gods - Creator		
-DIM_NamingThemeTypes	Description	Gods - Death		
-DIM_NamingThemeTypes	Description	Gods - Fire		
-DIM_NamingThemeTypes	Description	Gods - Moon		
-DIM_NamingThemeTypes	Description	Gods - Sky		
-DIM_NamingThemeTypes	Description	Gods - Sun		
-DIM_NamingThemeTypes	Description	Gods - War		
-DIM_NamingThemeTypes	Description	Gods - Weather and Water		
-DIM_NamingThemeTypes	Description	GPT - Armoued Vehicles		
-DIM_NamingThemeTypes	Description	GPT Missiles		
-DIM_NamingThemeTypes	Description	GPT Ships - Abbai		
-DIM_NamingThemeTypes	Description	GPT Ships - Andorian		
-DIM_NamingThemeTypes	Description	GPT Ships - Bajorian		
-DIM_NamingThemeTypes	Description	GPT Ships - Brakiri		
-DIM_NamingThemeTypes	Description	GPT Ships - Breen		
-DIM_NamingThemeTypes	Description	GPT Ships - Cardassian		
-DIM_NamingThemeTypes	Description	GPT Ships - Centauri		
-DIM_NamingThemeTypes	Description	GPT Ships - Dilgar		
-DIM_NamingThemeTypes	Description	GPT Ships - Dominion		
-DIM_NamingThemeTypes	Description	GPT Ships - Drakh		
-DIM_NamingThemeTypes	Description	GPT Ships - Drazi		
-DIM_NamingThemeTypes	Description	GPT Ships - Ferengi		
-DIM_NamingThemeTypes	Description	GPT Ships - Gaim		
-DIM_NamingThemeTypes	Description	GPT Ships - Gorn		
-DIM_NamingThemeTypes	Description	GPT Ships - Grome		
-DIM_NamingThemeTypes	Description	GPT Ships - Hyach		
-DIM_NamingThemeTypes	Description	GPT Ships - Klingon		
-DIM_NamingThemeTypes	Description	GPT Ships - Markab		
-DIM_NamingThemeTypes	Description	GPT Ships - Minbari		
-DIM_NamingThemeTypes	Description	GPT Ships - Narn		
-DIM_NamingThemeTypes	Description	GPT Ships - Pakmara		
-DIM_NamingThemeTypes	Description	GPT Ships - Romulan		
-DIM_NamingThemeTypes	Description	GPT Ships - Shadows		
-DIM_NamingThemeTypes	Description	GPT Ships - Vorlon		
-DIM_NamingThemeTypes	Description	GPT Systems - Abbai		
-DIM_NamingThemeTypes	Description	GPT Systems - Brakiri		
-DIM_NamingThemeTypes	Description	GPT Systems - Centauri		
-DIM_NamingThemeTypes	Description	GPT Systems - Dilgar		
-DIM_NamingThemeTypes	Description	GPT Systems - Drakh		
-DIM_NamingThemeTypes	Description	GPT Systems - Drazi		
-DIM_NamingThemeTypes	Description	GPT Systems - Gaim		
-DIM_NamingThemeTypes	Description	GPT Systems - Grome		
-DIM_NamingThemeTypes	Description	GPT Systems - Markab		
-DIM_NamingThemeTypes	Description	GPT Systems - Minbari		
-DIM_NamingThemeTypes	Description	GPT Systems - Narn		
-DIM_NamingThemeTypes	Description	GPT Systems - Shadows		
-DIM_NamingThemeTypes	Description	GPT Systems - Vorlons		
-DIM_NamingThemeTypes	Description	Great Frenchmen		
-DIM_NamingThemeTypes	Description	Greek Alphabet		
-DIM_NamingThemeTypes	Description	Greek Lakes		
-DIM_NamingThemeTypes	Description	Greek Mythology		
-DIM_NamingThemeTypes	Description	Guardians		
-DIM_NamingThemeTypes	Description	Halo Ships		
-DIM_NamingThemeTypes	Description	Halo Systems		
-DIM_NamingThemeTypes	Description	Hawaiian Regents		
-DIM_NamingThemeTypes	Description	Heavy Metal		
-DIM_NamingThemeTypes	Description	Himalyan Peaks		
-DIM_NamingThemeTypes	Description	Hydrocarbons		
-DIM_NamingThemeTypes	Description	Imperial Germany Non-Royal Ships		
-DIM_NamingThemeTypes	Description	Imperial Guard Regiments		
-DIM_NamingThemeTypes	Description	Imperial Russia Ships		
-DIM_NamingThemeTypes	Description	Indian 80s Cricketers		
-DIM_NamingThemeTypes	Description	Indian Cities		
-DIM_NamingThemeTypes	Description	Indian Rivers		
-DIM_NamingThemeTypes	Description	Indian States		
-DIM_NamingThemeTypes	Description	Insects		
-DIM_NamingThemeTypes	Description	Insects #2		
-DIM_NamingThemeTypes	Description	Insects of Family Asilidae		
-DIM_NamingThemeTypes	Description	Insects Species Latin		
-DIM_NamingThemeTypes	Description	Irish Navy Ships		
-DIM_NamingThemeTypes	Description	Islands		
-DIM_NamingThemeTypes	Description	Israel		
-DIM_NamingThemeTypes	Description	Italian Battleships		
-DIM_NamingThemeTypes	Description	Italian Cruisers		
-DIM_NamingThemeTypes	Description	Italian Destroyers		
-DIM_NamingThemeTypes	Description	Italian Regions		
-DIM_NamingThemeTypes	Description	Japanese Battleships		
-DIM_NamingThemeTypes	Description	Japanese Carriers		
-DIM_NamingThemeTypes	Description	Japanese Cruisers		
-DIM_NamingThemeTypes	Description	Japanese Destroyers		
-DIM_NamingThemeTypes	Description	Japanese Ships		
-DIM_NamingThemeTypes	Description	Jordan		
-DIM_NamingThemeTypes	Description	Klingon Names		
-DIM_NamingThemeTypes	Description	Krellan Battlecruisers		
-DIM_NamingThemeTypes	Description	Kriegsmarine		
-DIM_NamingThemeTypes	Description	Lakes and Rivers		
-DIM_NamingThemeTypes	Description	Last Stands		
-DIM_NamingThemeTypes	Description	Latin Names		
-DIM_NamingThemeTypes	Description	Latin Poisonous Plants		
-DIM_NamingThemeTypes	Description	Leaders		
-DIM_NamingThemeTypes	Description	Legendary Creatures		
-DIM_NamingThemeTypes	Description	Liberty Sam Ships		
-DIM_NamingThemeTypes	Description	Liberty Ships		
-DIM_NamingThemeTypes	Description	Lunar		
-DIM_NamingThemeTypes	Description	Manx Parishes		
-DIM_NamingThemeTypes	Description	Manx Sheadings		
-DIM_NamingThemeTypes	Description	Manx Towns		
-DIM_NamingThemeTypes	Description	Mayan Gods		
-DIM_NamingThemeTypes	Description	Medieval Hounds		
-DIM_NamingThemeTypes	Description	Middle East		
-DIM_NamingThemeTypes	Description	Minbari Ships		
-DIM_NamingThemeTypes	Description	Minerals		
-DIM_NamingThemeTypes	Description	Missile Names		
-DIM_NamingThemeTypes	Description	Moons		
-DIM_NamingThemeTypes	Description	Mountains		
-DIM_NamingThemeTypes	Description	Mythical Swords		
-DIM_NamingThemeTypes	Description	Mythological Birds		
-DIM_NamingThemeTypes	Description	Name Plus Number		
-DIM_NamingThemeTypes	Description	Names Beginning with A		
-DIM_NamingThemeTypes	Description	Names Beginning with B		
-DIM_NamingThemeTypes	Description	Names Beginning with C		
-DIM_NamingThemeTypes	Description	Names Beginning with D		
-DIM_NamingThemeTypes	Description	Names Beginning with E		
-DIM_NamingThemeTypes	Description	Names Beginning with F		
-DIM_NamingThemeTypes	Description	Names Beginning with G		
-DIM_NamingThemeTypes	Description	Names Beginning with H		
-DIM_NamingThemeTypes	Description	Names Beginning with I		
-DIM_NamingThemeTypes	Description	Names Beginning with J		
-DIM_NamingThemeTypes	Description	Names Beginning with K		
-DIM_NamingThemeTypes	Description	Names Beginning with L		
-DIM_NamingThemeTypes	Description	Names Beginning with M		
-DIM_NamingThemeTypes	Description	Names Beginning with N		
-DIM_NamingThemeTypes	Description	Names Beginning with O		
-DIM_NamingThemeTypes	Description	Names Beginning with P		
-DIM_NamingThemeTypes	Description	Names Beginning with Q		
-DIM_NamingThemeTypes	Description	Names Beginning with R		
-DIM_NamingThemeTypes	Description	Names Beginning with S		
-DIM_NamingThemeTypes	Description	Names Beginning with T		
-DIM_NamingThemeTypes	Description	Names Beginning with U		
-DIM_NamingThemeTypes	Description	Names Beginning with V		
-DIM_NamingThemeTypes	Description	Names Beginning with W		
-DIM_NamingThemeTypes	Description	Names Beginning with X		
-DIM_NamingThemeTypes	Description	Names Beginning with Y		
-DIM_NamingThemeTypes	Description	Names Beginning with Z		
-DIM_NamingThemeTypes	Description	Narn Ships		
-DIM_NamingThemeTypes	Description	NATO Designations for Soviet Aircraft		
-DIM_NamingThemeTypes	Description	Nobel Physicists		
-DIM_NamingThemeTypes	Description	North West Africa		
-DIM_NamingThemeTypes	Description	Norwegian Corvettes		
-DIM_NamingThemeTypes	Description	Norwegian Destroyers		
-DIM_NamingThemeTypes	Description	Norwegian Fast Attack		
-DIM_NamingThemeTypes	Description	Norwegian Frigates		
-DIM_NamingThemeTypes	Description	Norwegian Schooners		
-DIM_NamingThemeTypes	Description	Norwegian Sloops		
-DIM_NamingThemeTypes	Description	Norwegian Submarines		
-DIM_NamingThemeTypes	Description	Numbers as Words		
-DIM_NamingThemeTypes	Description	Octopus Families		
-DIM_NamingThemeTypes	Description	Passes of the Alps		
-DIM_NamingThemeTypes	Description	People Called Robert		
-DIM_NamingThemeTypes	Description	Periodic Table		
-DIM_NamingThemeTypes	Description	Poisonous Plants		
-DIM_NamingThemeTypes	Description	Portuguese Personalities		
-DIM_NamingThemeTypes	Description	Portuguese Ships		
-DIM_NamingThemeTypes	Description	Predatory Fish		
-DIM_NamingThemeTypes	Description	Provinces		
-DIM_NamingThemeTypes	Description	Rag and Bone Men		
-DIM_NamingThemeTypes	Description	Random Dwarf Names		
-DIM_NamingThemeTypes	Description	Ranidae		
-DIM_NamingThemeTypes	Description	Reptiles		
-DIM_NamingThemeTypes	Description	Road Class Freighters		
-DIM_NamingThemeTypes	Description	Romania		
-DIM_NamingThemeTypes	Description	Romulan Ships		
-DIM_NamingThemeTypes	Description	Royal Australian Navy Amphibious Ships		
-DIM_NamingThemeTypes	Description	Royal Australian Navy Cruisers		
-DIM_NamingThemeTypes	Description	Royal Australian Navy Destroyers		
-DIM_NamingThemeTypes	Description	Royal Australian Navy Escorts		
-DIM_NamingThemeTypes	Description	Royal Australian Navy Submarines		
-DIM_NamingThemeTypes	Description	Royal Canadian Navy Cruisers		
-DIM_NamingThemeTypes	Description	Royal Canadian Navy Destroyers		
-DIM_NamingThemeTypes	Description	Royal Canadian Navy Minesweepers		
-DIM_NamingThemeTypes	Description	Royal Canadian Navy Patrol Vessels		
-DIM_NamingThemeTypes	Description	Royal Canadian Navy Submarines		
-DIM_NamingThemeTypes	Description	Royal Navy Amphibious Ships		
-DIM_NamingThemeTypes	Description	Royal Navy Capital Ships		
-DIM_NamingThemeTypes	Description	Royal Navy Carriers		
-DIM_NamingThemeTypes	Description	Royal Navy Constellation Class		
-DIM_NamingThemeTypes	Description	Royal Navy Cruisers		
-DIM_NamingThemeTypes	Description	Royal Navy Destroyers		
-DIM_NamingThemeTypes	Description	Royal Navy Destroyers (Classic)		
-DIM_NamingThemeTypes	Description	Royal Navy Flower Class		
-DIM_NamingThemeTypes	Description	Royal Navy Frigates		
-DIM_NamingThemeTypes	Description	Royal Navy Ham Class		
-DIM_NamingThemeTypes	Description	Royal Navy Hunt Class		
-DIM_NamingThemeTypes	Description	Royal Navy Minesweepers		
-DIM_NamingThemeTypes	Description	Royal Navy Replenishment Ships		
-DIM_NamingThemeTypes	Description	Royal Navy Submarines		
-DIM_NamingThemeTypes	Description	Royal Navy Survey Ships		
-DIM_NamingThemeTypes	Description	Royal Navy Tankers		
-DIM_NamingThemeTypes	Description	Royal Navy Ton class		
-DIM_NamingThemeTypes	Description	Royal Navy Town Class		
-DIM_NamingThemeTypes	Description	Royal Navy Trawlers		
-DIM_NamingThemeTypes	Description	Russian Battleships		
-DIM_NamingThemeTypes	Description	Russian Cruisers		
-DIM_NamingThemeTypes	Description	Russian Destroyers		
-DIM_NamingThemeTypes	Description	Russian Empire Cruisers (1873–1917)		
-DIM_NamingThemeTypes	Description	Russian Lakes		
-DIM_NamingThemeTypes	Description	Russian Mountains above 2km		
-DIM_NamingThemeTypes	Description	Russian Orthodox Saints		
-DIM_NamingThemeTypes	Description	Russian Rivers		
-DIM_NamingThemeTypes	Description	Russian Survey Ships		
-DIM_NamingThemeTypes	Description	Scandinavia		
-DIM_NamingThemeTypes	Description	SciFi Authors		
-DIM_NamingThemeTypes	Description	Scotland		
-DIM_NamingThemeTypes	Description	Scottish Lochs		
-DIM_NamingThemeTypes	Description	Sea Creatures		
-DIM_NamingThemeTypes	Description	SFB - Gorn Ship Names		
-DIM_NamingThemeTypes	Description	SFB - Klingon Ship Names		
-DIM_NamingThemeTypes	Description	SFB - Orion Ships		
-DIM_NamingThemeTypes	Description	SFB - Romulan Ships		
-DIM_NamingThemeTypes	Description	Shakespearean Idioms		
-DIM_NamingThemeTypes	Description	Sharks		
-DIM_NamingThemeTypes	Description	Sixteenth Century Explorers		
-DIM_NamingThemeTypes	Description	Snakes		
-DIM_NamingThemeTypes	Description	Space Liners		
-DIM_NamingThemeTypes	Description	Space Marine Chapters		
-DIM_NamingThemeTypes	Description	Space Shuttles		
-DIM_NamingThemeTypes	Description	Spanish Communities		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Amateur Radio DX		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Czech		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Danish		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Dutch (Belgium)		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Dutch (Netherlands)		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Finnish		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - French (Belgium)		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - French (France)		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - French (Quebec)		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - French (Switzerland)		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - German (Austria)		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - German (Modern)		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - German (WW2)		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Greek		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - IRC 1927		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - IRC 1938		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Italian		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Japanese Long		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Japanese Short		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Korean		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Norwegian		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Portuguese (Brazil)		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Portuguese (Portugal)		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Romanian		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Royal Navy 1917		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Russian		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Serbian		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Slovene		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Spanish		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Swedish		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Tasmania		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Turkish		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - US Air Service 1919		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - US Joint Army Navy 1941		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - US Navy Flaghoist 1908-1		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - US Navy Flaghoist 1908-2		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - US Navy Flaghoist 1920		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - US Navy Flaghoist 1942		
-DIM_NamingThemeTypes	Description	Spelling Alphabet - Western Union 1918		
-DIM_NamingThemeTypes	Description	Spiders		
-DIM_NamingThemeTypes	Description	Star Trek - Andorian Ships		
-DIM_NamingThemeTypes	Description	Star Trek - Bajoran Ships		
-DIM_NamingThemeTypes	Description	Star Trek - Cardassian Ships		
-DIM_NamingThemeTypes	Description	Star Trek - Character Names		
-DIM_NamingThemeTypes	Description	Star Trek - Federation Ships		
-DIM_NamingThemeTypes	Description	Star Trek - Ferengi Ships		
-DIM_NamingThemeTypes	Description	Star Trek - Vulcan Ships		
-DIM_NamingThemeTypes	Description	Stars		
-DIM_NamingThemeTypes	Description	Stars (Proper Names)		
-DIM_NamingThemeTypes	Description	Stars and Planets		
-DIM_NamingThemeTypes	Description	Stellar Class		
-DIM_NamingThemeTypes	Description	Swedish Ancient Regents		
-DIM_NamingThemeTypes	Description	Swedish Birds		
-DIM_NamingThemeTypes	Description	Swedish Cities		
-DIM_NamingThemeTypes	Description	Swedish Explorers		
-DIM_NamingThemeTypes	Description	Swedish Fantasy Creatures		
-DIM_NamingThemeTypes	Description	Swedish Fish		
-DIM_NamingThemeTypes	Description	Swedish Landscapes and Areas		
-DIM_NamingThemeTypes	Description	Swedish Military Airplanes		
-DIM_NamingThemeTypes	Description	Swedish Minelayers and Minesweepers		
-DIM_NamingThemeTypes	Description	Swedish Mythology		
-DIM_NamingThemeTypes	Description	Swedish Predators		
-DIM_NamingThemeTypes	Description	Swedish Regents		
-DIM_NamingThemeTypes	Description	Swedish Scientists		
-DIM_NamingThemeTypes	Description	Swedish Ships of the Line		
-DIM_NamingThemeTypes	Description	Swedish Steam Warships		
-DIM_NamingThemeTypes	Description	Swedish Submarines		
-DIM_NamingThemeTypes	Description	Swords		
-DIM_NamingThemeTypes	Description	System Theme - African Union		
-DIM_NamingThemeTypes	Description	System Theme - Ancient Egypt		
-DIM_NamingThemeTypes	Description	System Theme - Ancient Greece		
-DIM_NamingThemeTypes	Description	System Theme - Andromeda		
-DIM_NamingThemeTypes	Description	System Theme - Animal		
-DIM_NamingThemeTypes	Description	System Theme - Arabic		
-DIM_NamingThemeTypes	Description	System Theme - Argentina		
-DIM_NamingThemeTypes	Description	System Theme - ASEAN		
-DIM_NamingThemeTypes	Description	System Theme - Australia		
-DIM_NamingThemeTypes	Description	System Theme - Aztec		
-DIM_NamingThemeTypes	Description	System Theme - Barsoom		
-DIM_NamingThemeTypes	Description	System Theme - Battlestar Galactica		
-DIM_NamingThemeTypes	Description	System Theme - Boer		
-DIM_NamingThemeTypes	Description	System Theme - Brazil		
-DIM_NamingThemeTypes	Description	System Theme - Canada		
-DIM_NamingThemeTypes	Description	System Theme - China		
-DIM_NamingThemeTypes	Description	System Theme - Clans of Shakar		
-DIM_NamingThemeTypes	Description	System Theme - Demonic Realm		
-DIM_NamingThemeTypes	Description	System Theme - Denmark		
-DIM_NamingThemeTypes	Description	System Theme - Deverry		
-DIM_NamingThemeTypes	Description	System Theme - Elemental		
-DIM_NamingThemeTypes	Description	System Theme - Fallen London		
-DIM_NamingThemeTypes	Description	System Theme - Fantasy		
-DIM_NamingThemeTypes	Description	System Theme - Finland		
-DIM_NamingThemeTypes	Description	System Theme - France		
-DIM_NamingThemeTypes	Description	System Theme - Gaelic		
-DIM_NamingThemeTypes	Description	System Theme - Galactic Empire		
-DIM_NamingThemeTypes	Description	System Theme - Germany		
-DIM_NamingThemeTypes	Description	System Theme - Hippy		
-DIM_NamingThemeTypes	Description	System Theme - House Davion		
-DIM_NamingThemeTypes	Description	System Theme - House Kurita		
-DIM_NamingThemeTypes	Description	System Theme - House Liao		
-DIM_NamingThemeTypes	Description	System Theme - House Marik		
-DIM_NamingThemeTypes	Description	System Theme - House Steiner		
-DIM_NamingThemeTypes	Description	System Theme - India		
-DIM_NamingThemeTypes	Description	System Theme - Indonesia		
-DIM_NamingThemeTypes	Description	System Theme - Iran		
-DIM_NamingThemeTypes	Description	System Theme - Israel		
-DIM_NamingThemeTypes	Description	System Theme - Italia		
-DIM_NamingThemeTypes	Description	System Theme - Japan		
-DIM_NamingThemeTypes	Description	System Theme - Khanate of Orion		
-DIM_NamingThemeTypes	Description	System Theme - Knights Templar		
-DIM_NamingThemeTypes	Description	System Theme - Magician		
-DIM_NamingThemeTypes	Description	System Theme - Manticore (RMN)		
-DIM_NamingThemeTypes	Description	System Theme - Mexico		
-DIM_NamingThemeTypes	Description	System Theme - Mongol		
-DIM_NamingThemeTypes	Description	System Theme - Nations of Earth		
-DIM_NamingThemeTypes	Description	System Theme - Native American		
-DIM_NamingThemeTypes	Description	System Theme - Netherlands		
-DIM_NamingThemeTypes	Description	System Theme - Norse		
-DIM_NamingThemeTypes	Description	System Theme - Odd		
-DIM_NamingThemeTypes	Description	System Theme - Orc		
-DIM_NamingThemeTypes	Description	System Theme - Rebel Alliance		
-DIM_NamingThemeTypes	Description	System Theme - Rigelian (Historical)		
-DIM_NamingThemeTypes	Description	System Theme - Rigellian (Steve)		
-DIM_NamingThemeTypes	Description	System Theme - Roman		
-DIM_NamingThemeTypes	Description	System Theme - Russia		
-DIM_NamingThemeTypes	Description	System Theme - Shotgun		
-DIM_NamingThemeTypes	Description	System Theme - South Africa		
-DIM_NamingThemeTypes	Description	System Theme - South America		
-DIM_NamingThemeTypes	Description	System Theme - South Korea		
-DIM_NamingThemeTypes	Description	System Theme - Spanish		
-DIM_NamingThemeTypes	Description	System Theme - Sweden		
-DIM_NamingThemeTypes	Description	System Theme - Terran Federation		
-DIM_NamingThemeTypes	Description	System Theme - Tolkien		
-DIM_NamingThemeTypes	Description	System Theme - Traveller		
-DIM_NamingThemeTypes	Description	System Theme - Turkey		
-DIM_NamingThemeTypes	Description	System Theme - United Kingdom		
-DIM_NamingThemeTypes	Description	System Theme - United States		
-DIM_NamingThemeTypes	Description	System Theme - Warhammer 40K Empire		
-DIM_NamingThemeTypes	Description	System Theme - Welsh		
-DIM_NamingThemeTypes	Description	T2 Tankers		
-DIM_NamingThemeTypes	Description	Tank Names		
-DIM_NamingThemeTypes	Description	Tau Ships and Septs (NA)		
-DIM_NamingThemeTypes	Description	Texas Alamo Defenders		
-DIM_NamingThemeTypes	Description	Texas Animals		
-DIM_NamingThemeTypes	Description	Texas Birds		
-DIM_NamingThemeTypes	Description	Texas Cities		
-DIM_NamingThemeTypes	Description	Texas Counties		
-DIM_NamingThemeTypes	Description	Texas Historical Figures		
-DIM_NamingThemeTypes	Description	Texas Native American Tribes		
-DIM_NamingThemeTypes	Description	Texas Rangers		
-DIM_NamingThemeTypes	Description	Texas Reptiles		
-DIM_NamingThemeTypes	Description	Texas Rivers		
-DIM_NamingThemeTypes	Description	Tigers		
-DIM_NamingThemeTypes	Description	Tolkien		
-DIM_NamingThemeTypes	Description	Trafalgar Order of battle		
-DIM_NamingThemeTypes	Description	Tribes		
-DIM_NamingThemeTypes	Description	Types of Storm		
-DIM_NamingThemeTypes	Description	UK Prime Ministers		
-DIM_NamingThemeTypes	Description	Ukrainian Birds		
-DIM_NamingThemeTypes	Description	Ukrainian Male Names		
-DIM_NamingThemeTypes	Description	United States		
-DIM_NamingThemeTypes	Description	US 41 For Freedom		
-DIM_NamingThemeTypes	Description	US Battleships		
-DIM_NamingThemeTypes	Description	US Cities		
-DIM_NamingThemeTypes	Description	US Counties		
-DIM_NamingThemeTypes	Description	US Destroyers		
-DIM_NamingThemeTypes	Description	US Escort Carriers		
-DIM_NamingThemeTypes	Description	US Heavy Cruisers		
-DIM_NamingThemeTypes	Description	US Light Carriers		
-DIM_NamingThemeTypes	Description	US Light Cruisers		
-DIM_NamingThemeTypes	Description	US Navy Ammunition Ships		
-DIM_NamingThemeTypes	Description	US Navy Amphibious Ships		
-DIM_NamingThemeTypes	Description	US Navy Carriers		
-DIM_NamingThemeTypes	Description	US Navy Destroyer Escorts		
-DIM_NamingThemeTypes	Description	US Navy Destroyers		
-DIM_NamingThemeTypes	Description	US Navy Heroes		
-DIM_NamingThemeTypes	Description	US Navy Mine Warfare		
-DIM_NamingThemeTypes	Description	US Navy Missile Ships		
-DIM_NamingThemeTypes	Description	US Navy Repair Ships		
-DIM_NamingThemeTypes	Description	US Navy Ships Named After Battles		
-DIM_NamingThemeTypes	Description	US Navy Supply Ships		
-DIM_NamingThemeTypes	Description	US Navy Surveillance Ships		
-DIM_NamingThemeTypes	Description	US Navy Survey Ships		
-DIM_NamingThemeTypes	Description	US Navy Tankers		
-DIM_NamingThemeTypes	Description	US Navy Tenders		
-DIM_NamingThemeTypes	Description	US Navy Transports		
-DIM_NamingThemeTypes	Description	US Presidents		
-DIM_NamingThemeTypes	Description	US States		
-DIM_NamingThemeTypes	Description	US Submarines		
-DIM_NamingThemeTypes	Description	USSR		
-DIM_NamingThemeTypes	Description	Victory Ships		
-DIM_NamingThemeTypes	Description	Virtues		
-DIM_NamingThemeTypes	Description	Virtues - Benjamin Franklin		
-DIM_NamingThemeTypes	Description	Virtues - Roman		
-DIM_NamingThemeTypes	Description	Weapons		
-DIM_NamingThemeTypes	Description	Weather Terms		
-DIM_NamingThemeTypes	Description	Welsh Castles		
-DIM_NamingThemeTypes	Description	Welsh Islands		
-DIM_NamingThemeTypes	Description	Welsh Mountains		
-DIM_NamingThemeTypes	Description	Welsh Towns		
-DIM_NamingThemeTypes	Description	Welsh Waterfalls		
-DIM_NamingThemeTypes	Description	WH40K - Tyranids		
-DIM_NamingThemeTypes	Description	WH40K Battle Barges		
-DIM_NamingThemeTypes	Description	WH40K Battlecruisers		
-DIM_NamingThemeTypes	Description	WH40K Battleships		
-DIM_NamingThemeTypes	Description	WH40K Chaos		
-DIM_NamingThemeTypes	Description	WH40K Cobra Destroyers		
-DIM_NamingThemeTypes	Description	WH40K Dark Eldar		
-DIM_NamingThemeTypes	Description	WH40K Dauntless CL		
-DIM_NamingThemeTypes	Description	WH40K Empire		
-DIM_NamingThemeTypes	Description	WH40K Firestorm Frigates		
-DIM_NamingThemeTypes	Description	WH40K Grand Cruisers		
-DIM_NamingThemeTypes	Description	WH40K Imperial Armoured Regiments		
-DIM_NamingThemeTypes	Description	WH40K Imperial Guard Regiments		
-DIM_NamingThemeTypes	Description	WH40K Lunar class CA		
-DIM_NamingThemeTypes	Description	WH40K Necron		
-DIM_NamingThemeTypes	Description	WH40K Other CAs		
-DIM_NamingThemeTypes	Description	WH40K Other CLs		
-DIM_NamingThemeTypes	Description	WH40K Space Marine Chapters		
-DIM_NamingThemeTypes	Description	WH40K Strike Cruisers		
-DIM_NamingThemeTypes	Description	WH40K Sword Frigates		
-DIM_NamingThemeTypes	Description	WH40K System Names		
-DIM_NamingThemeTypes	Description	WH40K Titan Legions		
-DIM_NamingThemeTypes	Description	Wizards		
-DIM_NamingThemeTypes	Description	Yugoloths		
+DIM_CommanderNameTheme	Description	Abbai		显示文本，待译
+DIM_CommanderNameTheme	Description	Afrikaans		显示文本，待译
+DIM_CommanderNameTheme	Description	Albanian		显示文本，待译
+DIM_CommanderNameTheme	Description	Alien Race #1		显示文本，待译
+DIM_CommanderNameTheme	Description	Alien Race #2		显示文本，待译
+DIM_CommanderNameTheme	Description	Ancient Egyptian		显示文本，待译
+DIM_CommanderNameTheme	Description	Andorian		显示文本，待译
+DIM_CommanderNameTheme	Description	Arabic		显示文本，待译
+DIM_CommanderNameTheme	Description	Armenian		显示文本，待译
+DIM_CommanderNameTheme	Description	Arthurian		显示文本，待译
+DIM_CommanderNameTheme	Description	Aurora Forum Members		显示文本，待译
+DIM_CommanderNameTheme	Description	Aztec		显示文本，待译
+DIM_CommanderNameTheme	Description	Bajoran		显示文本，待译
+DIM_CommanderNameTheme	Description	Battlestar Greek		显示文本，待译
+DIM_CommanderNameTheme	Description	Belgian		显示文本，待译
+DIM_CommanderNameTheme	Description	Bengali		显示文本，待译
+DIM_CommanderNameTheme	Description	Bosnian		显示文本，待译
+DIM_CommanderNameTheme	Description	Brakiri		显示文本，待译
+DIM_CommanderNameTheme	Description	Burmese		显示文本，待译
+DIM_CommanderNameTheme	Description	Cardassian		显示文本，待译
+DIM_CommanderNameTheme	Description	Centauri		显示文本，待译
+DIM_CommanderNameTheme	Description	Chinese		显示文本，待译
+DIM_CommanderNameTheme	Description	Congolese		显示文本，待译
+DIM_CommanderNameTheme	Description	Danish		显示文本，待译
+DIM_CommanderNameTheme	Description	Dilgar		显示文本，待译
+DIM_CommanderNameTheme	Description	Drakh		显示文本，待译
+DIM_CommanderNameTheme	Description	Dutch		显示文本，待译
+DIM_CommanderNameTheme	Description	English		显示文本，待译
+DIM_CommanderNameTheme	Description	Estonian		显示文本，待译
+DIM_CommanderNameTheme	Description	Ethiopian		显示文本，待译
+DIM_CommanderNameTheme	Description	Ferengi - New		显示文本，待译
+DIM_CommanderNameTheme	Description	Ferengi - Old		显示文本，待译
+DIM_CommanderNameTheme	Description	Filipino		显示文本，待译
+DIM_CommanderNameTheme	Description	Finnish		显示文本，待译
+DIM_CommanderNameTheme	Description	French		显示文本，待译
+DIM_CommanderNameTheme	Description	Gaim		显示文本，待译
+DIM_CommanderNameTheme	Description	German		显示文本，待译
+DIM_CommanderNameTheme	Description	Gorn		显示文本，待译
+DIM_CommanderNameTheme	Description	Greek - Ancient		显示文本，待译
+DIM_CommanderNameTheme	Description	Greek - Modern		显示文本，待译
+DIM_CommanderNameTheme	Description	Hobbit		显示文本，待译
+DIM_CommanderNameTheme	Description	Hungarian		显示文本，待译
+DIM_CommanderNameTheme	Description	Indian		显示文本，待译
+DIM_CommanderNameTheme	Description	Indonesian		显示文本，待译
+DIM_CommanderNameTheme	Description	Italian		显示文本，待译
+DIM_CommanderNameTheme	Description	Japanese		显示文本，待译
+DIM_CommanderNameTheme	Description	Jewish		显示文本，待译
+DIM_CommanderNameTheme	Description	Kenyan		显示文本，待译
+DIM_CommanderNameTheme	Description	Klingon		显示文本，待译
+DIM_CommanderNameTheme	Description	Korean		显示文本，待译
+DIM_CommanderNameTheme	Description	Markab		显示文本，待译
+DIM_CommanderNameTheme	Description	Medieval English Names		显示文本，待译
+DIM_CommanderNameTheme	Description	Medieval France		显示文本，待译
+DIM_CommanderNameTheme	Description	Minbari		显示文本，待译
+DIM_CommanderNameTheme	Description	Mongolian		显示文本，待译
+DIM_CommanderNameTheme	Description	Narn		显示文本，待译
+DIM_CommanderNameTheme	Description	Nausicaan		显示文本，待译
+DIM_CommanderNameTheme	Description	Norse		显示文本，待译
+DIM_CommanderNameTheme	Description	Persian/Iranian		显示文本，待译
+DIM_CommanderNameTheme	Description	Polish - New		显示文本，待译
+DIM_CommanderNameTheme	Description	Polish - Old		显示文本，待译
+DIM_CommanderNameTheme	Description	Portuguese		显示文本，待译
+DIM_CommanderNameTheme	Description	Roman		显示文本，待译
+DIM_CommanderNameTheme	Description	Romanian		显示文本，待译
+DIM_CommanderNameTheme	Description	Russian - New		显示文本，待译
+DIM_CommanderNameTheme	Description	Shadows		显示文本，待译
+DIM_CommanderNameTheme	Description	Spanish		显示文本，待译
+DIM_CommanderNameTheme	Description	Swedish		显示文本，待译
+DIM_CommanderNameTheme	Description	Tellarite		显示文本，待译
+DIM_CommanderNameTheme	Description	Thai		显示文本，待译
+DIM_CommanderNameTheme	Description	Turkish		显示文本，待译
+DIM_CommanderNameTheme	Description	United States	合众国	显示文本，沿用对照表中唯一译文
+DIM_CommanderNameTheme	Description	Vietnamese		显示文本，待译
+DIM_CommanderNameTheme	Description	Vorlon		显示文本，待译
+DIM_CommanderNameTheme	Description	Vulcan		显示文本，待译
+DIM_CommanderNameTheme	Description	Warhammer 40k		显示文本，待译
+DIM_CommanderNameTheme	Description	Welsh		显示文本，待译
+DIM_CommanderNameTheme	Description	Zhodani		显示文本，待译
+DIM_CommanderNameTheme	Description	Zulu		显示文本，待译
+DIM_NamingThemeTypes	Description	19th Century Italian Warships		显示文本，待译
+DIM_NamingThemeTypes	Description	Abbai Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Adjectives		显示文本，待译
+DIM_NamingThemeTypes	Description	Adjectives and Animals		显示文本，待译
+DIM_NamingThemeTypes	Description	Adjectives and Concepts		显示文本，待译
+DIM_NamingThemeTypes	Description	Adverbs		显示文本，待译
+DIM_NamingThemeTypes	Description	African Cities		显示文本，待译
+DIM_NamingThemeTypes	Description	Aggressive Names		显示文本，待译
+DIM_NamingThemeTypes	Description	Aircraft Nicknames		显示文本，待译
+DIM_NamingThemeTypes	Description	Alabama		显示文本，待译
+DIM_NamingThemeTypes	Description	Alaska		显示文本，待译
+DIM_NamingThemeTypes	Description	Alberta		显示文本，待译
+DIM_NamingThemeTypes	Description	Alliance - Union Merchanters & Transports		显示文本，待译
+DIM_NamingThemeTypes	Description	Ancient Cities		显示文本，待译
+DIM_NamingThemeTypes	Description	Angels and Demons		显示文本，待译
+DIM_NamingThemeTypes	Description	Animals		显示文本，待译
+DIM_NamingThemeTypes	Description	Antarctic Volcanoes		显示文本，待译
+DIM_NamingThemeTypes	Description	Argentina		显示文本，待译
+DIM_NamingThemeTypes	Description	Arleigh Burke Class		显示文本，待译
+DIM_NamingThemeTypes	Description	Asia		显示文本，待译
+DIM_NamingThemeTypes	Description	Astronomers		显示文本，待译
+DIM_NamingThemeTypes	Description	Aurora Forum Members		显示文本，待译
+DIM_NamingThemeTypes	Description	Australian Aboriginal Place Name		显示文本，待译
+DIM_NamingThemeTypes	Description	Aztec Gods		显示文本，待译
+DIM_NamingThemeTypes	Description	Battles		显示文本，待译
+DIM_NamingThemeTypes	Description	Battlestar Civilian Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Battlestar Episode Names		显示文本，待译
+DIM_NamingThemeTypes	Description	Battlestar Names		显示文本，待译
+DIM_NamingThemeTypes	Description	Biblical Idioms		显示文本，待译
+DIM_NamingThemeTypes	Description	Big Cats		显示文本，待译
+DIM_NamingThemeTypes	Description	Big Cities		显示文本，待译
+DIM_NamingThemeTypes	Description	Birds		显示文本，待译
+DIM_NamingThemeTypes	Description	Birds of Prey (exc Eagles)		显示文本，待译
+DIM_NamingThemeTypes	Description	Books of the Bible		显示文本，待译
+DIM_NamingThemeTypes	Description	Brazil		显示文本，待译
+DIM_NamingThemeTypes	Description	Brazilian States		显示文本，待译
+DIM_NamingThemeTypes	Description	Breeds of Dog		显示文本，待译
+DIM_NamingThemeTypes	Description	Bright Stars		显示文本，待译
+DIM_NamingThemeTypes	Description	British Columbia Volcanoes		显示文本，待译
+DIM_NamingThemeTypes	Description	British Counties		显示文本，待译
+DIM_NamingThemeTypes	Description	British East India Company Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	British Rivers		显示文本，待译
+DIM_NamingThemeTypes	Description	Cats		显示文本，待译
+DIM_NamingThemeTypes	Description	Centauri Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Chinese Cities		显示文本，待译
+DIM_NamingThemeTypes	Description	Chinese Provinces		显示文本，待译
+DIM_NamingThemeTypes	Description	Cities		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Name Only		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - African Union		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Ancient Egypt		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Ancient Greece		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Andromeda		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Animal		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Arabic		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Argentina		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - ASEAN		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Australia		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Aztec		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Barsoom		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Boer		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Brazil		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Canada		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Celtic		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - China		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Clans of Shakar		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Demonic Realm		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Denmark		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Deverry		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Elemental		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Fallen London		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Fantasy		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Finland		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - France		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Gaelic		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Galactic Empire		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Germany		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Hippy		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - House Davion		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - House Kurita		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - House Liao		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - House Marik		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - House Steiner		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - India		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Indonesia		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Iran		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Israel		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Italia		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Japan		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Khanate of Orion		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Knights Templar		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Magician		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Manticore (RMN)		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Mexico		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Mongol		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Nations of Earth		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Native American		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Netherlands		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Norse		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Odd		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Orc		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Rebel Alliance		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Rigelian (Historical)		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Rigellian (Steve)		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Roman		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Russia		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Shotgun		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - South Africa		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - South America		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - South Korea		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Spanish		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Sweden		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Terran Federation		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Tolkien		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Traveller		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Turkey		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - United Kingdom		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - United States		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Warhammer 40K Empire		显示文本，待译
+DIM_NamingThemeTypes	Description	Class Theme - Welsh		显示文本，待译
+DIM_NamingThemeTypes	Description	Classical Astronomers		显示文本，待译
+DIM_NamingThemeTypes	Description	Clipper Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Coast Salish Place Names and Words		显示文本，待译
+DIM_NamingThemeTypes	Description	Colorado Towns		显示文本，待译
+DIM_NamingThemeTypes	Description	Constellations		显示文本，待译
+DIM_NamingThemeTypes	Description	Countries		显示文本，待译
+DIM_NamingThemeTypes	Description	Covenant Ship Names		显示文本，待译
+DIM_NamingThemeTypes	Description	Culture		显示文本，待译
+DIM_NamingThemeTypes	Description	Daemons		显示文本，待译
+DIM_NamingThemeTypes	Description	Defensive Works		显示文本，待译
+DIM_NamingThemeTypes	Description	Demon Lords		显示文本，待译
+DIM_NamingThemeTypes	Description	Demons and Devils		显示文本，待译
+DIM_NamingThemeTypes	Description	Dido Class		显示文本，待译
+DIM_NamingThemeTypes	Description	Dinosaurs		显示文本，待译
+DIM_NamingThemeTypes	Description	Dinosaurs - Extensive		显示文本，待译
+DIM_NamingThemeTypes	Description	Dragons		显示文本，待译
+DIM_NamingThemeTypes	Description	Drazi Birds of Prey		显示文本，待译
+DIM_NamingThemeTypes	Description	Dune		显示文本，待译
+DIM_NamingThemeTypes	Description	Dutch Towns and Cities		显示文本，待译
+DIM_NamingThemeTypes	Description	Eastern Orthodox Archangels		显示文本，待译
+DIM_NamingThemeTypes	Description	Empire Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Europe		显示文本，待译
+DIM_NamingThemeTypes	Description	European Rivers		显示文本，待译
+DIM_NamingThemeTypes	Description	European Volcanoes		显示文本，待译
+DIM_NamingThemeTypes	Description	Evocative Adjectives		显示文本，待译
+DIM_NamingThemeTypes	Description	Exoplanet Names		显示文本，待译
+DIM_NamingThemeTypes	Description	Exotic Colours		显示文本，待译
+DIM_NamingThemeTypes	Description	Explorers		显示文本，待译
+DIM_NamingThemeTypes	Description	Famous Geologists		显示文本，待译
+DIM_NamingThemeTypes	Description	Famous Horses of US Civil War		显示文本，待译
+DIM_NamingThemeTypes	Description	Famous People		显示文本，待译
+DIM_NamingThemeTypes	Description	Fantasy Creatures		显示文本，待译
+DIM_NamingThemeTypes	Description	Fast Animals		显示文本，待译
+DIM_NamingThemeTypes	Description	Finnish Aggressive		显示文本，待译
+DIM_NamingThemeTypes	Description	Finnish Coastal Cities		显示文本，待译
+DIM_NamingThemeTypes	Description	Finnish Fish		显示文本，待译
+DIM_NamingThemeTypes	Description	Finnish Historical		显示文本，待译
+DIM_NamingThemeTypes	Description	Finnish Mythology		显示文本，待译
+DIM_NamingThemeTypes	Description	Finnish Presidents		显示文本，待译
+DIM_NamingThemeTypes	Description	Finnish Regions		显示文本，待译
+DIM_NamingThemeTypes	Description	Finnish Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Finnish Warships - Current		显示文本，待译
+DIM_NamingThemeTypes	Description	Finnish Warships - Old		显示文本，待译
+DIM_NamingThemeTypes	Description	Flowers		显示文本，待译
+DIM_NamingThemeTypes	Description	Football Referees		显示文本，待译
+DIM_NamingThemeTypes	Description	Forts		显示文本，待译
+DIM_NamingThemeTypes	Description	Foundation Characters		显示文本，待译
+DIM_NamingThemeTypes	Description	Four-Digit Numbers		显示文本，待译
+DIM_NamingThemeTypes	Description	French Battleships		显示文本，待译
+DIM_NamingThemeTypes	Description	French Cruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	French Destroyers		显示文本，待译
+DIM_NamingThemeTypes	Description	French First Empire Departements		显示文本，待译
+DIM_NamingThemeTypes	Description	French Fleet 1790 - 1805		显示文本，待译
+DIM_NamingThemeTypes	Description	French Military Personalities		显示文本，待译
+DIM_NamingThemeTypes	Description	French Provinces		显示文本，待译
+DIM_NamingThemeTypes	Description	French Ship Names		显示文本，待译
+DIM_NamingThemeTypes	Description	French Ship Names - General #1		显示文本，待译
+DIM_NamingThemeTypes	Description	French Ship Names - General #2		显示文本，待译
+DIM_NamingThemeTypes	Description	French Victories		显示文本，待译
+DIM_NamingThemeTypes	Description	Gaulish Tribes		显示文本，待译
+DIM_NamingThemeTypes	Description	Gemstones		显示文本，待译
+DIM_NamingThemeTypes	Description	German Battleships		显示文本，待译
+DIM_NamingThemeTypes	Description	German Cities		显示文本，待译
+DIM_NamingThemeTypes	Description	German Cruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	German Fast Attack Craft		显示文本，待译
+DIM_NamingThemeTypes	Description	German Warships		显示文本，待译
+DIM_NamingThemeTypes	Description	Gods - Creator		显示文本，待译
+DIM_NamingThemeTypes	Description	Gods - Death		显示文本，待译
+DIM_NamingThemeTypes	Description	Gods - Fire		显示文本，待译
+DIM_NamingThemeTypes	Description	Gods - Moon		显示文本，待译
+DIM_NamingThemeTypes	Description	Gods - Sky		显示文本，待译
+DIM_NamingThemeTypes	Description	Gods - Sun		显示文本，待译
+DIM_NamingThemeTypes	Description	Gods - War		显示文本，待译
+DIM_NamingThemeTypes	Description	Gods - Weather and Water		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT - Armoued Vehicles		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Missiles		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Abbai		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Andorian		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Bajorian		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Brakiri		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Breen		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Cardassian		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Centauri		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Dilgar		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Dominion		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Drakh		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Drazi		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Ferengi		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Gaim		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Gorn		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Grome		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Hyach		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Klingon		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Markab		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Minbari		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Narn		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Pakmara		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Romulan		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Shadows		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Ships - Vorlon		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Systems - Abbai		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Systems - Brakiri		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Systems - Centauri		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Systems - Dilgar		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Systems - Drakh		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Systems - Drazi		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Systems - Gaim		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Systems - Grome		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Systems - Markab		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Systems - Minbari		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Systems - Narn		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Systems - Shadows		显示文本，待译
+DIM_NamingThemeTypes	Description	GPT Systems - Vorlons		显示文本，待译
+DIM_NamingThemeTypes	Description	Great Frenchmen		显示文本，待译
+DIM_NamingThemeTypes	Description	Greek Alphabet		显示文本，待译
+DIM_NamingThemeTypes	Description	Greek Lakes		显示文本，待译
+DIM_NamingThemeTypes	Description	Greek Mythology		显示文本，待译
+DIM_NamingThemeTypes	Description	Guardians		显示文本，待译
+DIM_NamingThemeTypes	Description	Halo Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Halo Systems		显示文本，待译
+DIM_NamingThemeTypes	Description	Hawaiian Regents		显示文本，待译
+DIM_NamingThemeTypes	Description	Heavy Metal		显示文本，待译
+DIM_NamingThemeTypes	Description	Himalyan Peaks		显示文本，待译
+DIM_NamingThemeTypes	Description	Hydrocarbons		显示文本，待译
+DIM_NamingThemeTypes	Description	Imperial Germany Non-Royal Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Imperial Guard Regiments		显示文本，待译
+DIM_NamingThemeTypes	Description	Imperial Russia Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Indian 80s Cricketers		显示文本，待译
+DIM_NamingThemeTypes	Description	Indian Cities		显示文本，待译
+DIM_NamingThemeTypes	Description	Indian Rivers		显示文本，待译
+DIM_NamingThemeTypes	Description	Indian States		显示文本，待译
+DIM_NamingThemeTypes	Description	Insects		显示文本，待译
+DIM_NamingThemeTypes	Description	Insects #2		显示文本，待译
+DIM_NamingThemeTypes	Description	Insects of Family Asilidae		显示文本，待译
+DIM_NamingThemeTypes	Description	Insects Species Latin		显示文本，待译
+DIM_NamingThemeTypes	Description	Irish Navy Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Islands		显示文本，待译
+DIM_NamingThemeTypes	Description	Israel		显示文本，待译
+DIM_NamingThemeTypes	Description	Italian Battleships		显示文本，待译
+DIM_NamingThemeTypes	Description	Italian Cruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	Italian Destroyers		显示文本，待译
+DIM_NamingThemeTypes	Description	Italian Regions		显示文本，待译
+DIM_NamingThemeTypes	Description	Japanese Battleships		显示文本，待译
+DIM_NamingThemeTypes	Description	Japanese Carriers		显示文本，待译
+DIM_NamingThemeTypes	Description	Japanese Cruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	Japanese Destroyers		显示文本，待译
+DIM_NamingThemeTypes	Description	Japanese Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Jordan		显示文本，待译
+DIM_NamingThemeTypes	Description	Klingon Names		显示文本，待译
+DIM_NamingThemeTypes	Description	Krellan Battlecruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	Kriegsmarine		显示文本，待译
+DIM_NamingThemeTypes	Description	Lakes and Rivers		显示文本，待译
+DIM_NamingThemeTypes	Description	Last Stands		显示文本，待译
+DIM_NamingThemeTypes	Description	Latin Names		显示文本，待译
+DIM_NamingThemeTypes	Description	Latin Poisonous Plants		显示文本，待译
+DIM_NamingThemeTypes	Description	Leaders		显示文本，待译
+DIM_NamingThemeTypes	Description	Legendary Creatures		显示文本，待译
+DIM_NamingThemeTypes	Description	Liberty Sam Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Liberty Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Lunar		显示文本，待译
+DIM_NamingThemeTypes	Description	Manx Parishes		显示文本，待译
+DIM_NamingThemeTypes	Description	Manx Sheadings		显示文本，待译
+DIM_NamingThemeTypes	Description	Manx Towns		显示文本，待译
+DIM_NamingThemeTypes	Description	Mayan Gods		显示文本，待译
+DIM_NamingThemeTypes	Description	Medieval Hounds		显示文本，待译
+DIM_NamingThemeTypes	Description	Middle East		显示文本，待译
+DIM_NamingThemeTypes	Description	Minbari Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Minerals	矿物	显示文本，沿用界面对照表中的唯一译文
+DIM_NamingThemeTypes	Description	Missile Names		显示文本，待译
+DIM_NamingThemeTypes	Description	Moons	卫星	显示文本，沿用界面对照表中的唯一译文
+DIM_NamingThemeTypes	Description	Mountains		显示文本，待译
+DIM_NamingThemeTypes	Description	Mythical Swords		显示文本，待译
+DIM_NamingThemeTypes	Description	Mythological Birds		显示文本，待译
+DIM_NamingThemeTypes	Description	Name Plus Number		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with A		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with B		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with C		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with D		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with E		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with F		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with G		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with H		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with I		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with J		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with K		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with L		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with M		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with N		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with O		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with P		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with Q		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with R		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with S		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with T		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with U		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with V		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with W		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with X		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with Y		显示文本，待译
+DIM_NamingThemeTypes	Description	Names Beginning with Z		显示文本，待译
+DIM_NamingThemeTypes	Description	Narn Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	NATO Designations for Soviet Aircraft		显示文本，待译
+DIM_NamingThemeTypes	Description	Nobel Physicists		显示文本，待译
+DIM_NamingThemeTypes	Description	North West Africa		显示文本，待译
+DIM_NamingThemeTypes	Description	Norwegian Corvettes		显示文本，待译
+DIM_NamingThemeTypes	Description	Norwegian Destroyers		显示文本，待译
+DIM_NamingThemeTypes	Description	Norwegian Fast Attack		显示文本，待译
+DIM_NamingThemeTypes	Description	Norwegian Frigates		显示文本，待译
+DIM_NamingThemeTypes	Description	Norwegian Schooners		显示文本，待译
+DIM_NamingThemeTypes	Description	Norwegian Sloops		显示文本，待译
+DIM_NamingThemeTypes	Description	Norwegian Submarines		显示文本，待译
+DIM_NamingThemeTypes	Description	Numbers as Words		显示文本，待译
+DIM_NamingThemeTypes	Description	Octopus Families		显示文本，待译
+DIM_NamingThemeTypes	Description	Passes of the Alps		显示文本，待译
+DIM_NamingThemeTypes	Description	People Called Robert		显示文本，待译
+DIM_NamingThemeTypes	Description	Periodic Table		显示文本，待译
+DIM_NamingThemeTypes	Description	Poisonous Plants		显示文本，待译
+DIM_NamingThemeTypes	Description	Portuguese Personalities		显示文本，待译
+DIM_NamingThemeTypes	Description	Portuguese Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Predatory Fish		显示文本，待译
+DIM_NamingThemeTypes	Description	Provinces		显示文本，待译
+DIM_NamingThemeTypes	Description	Rag and Bone Men		显示文本，待译
+DIM_NamingThemeTypes	Description	Random Dwarf Names		显示文本，待译
+DIM_NamingThemeTypes	Description	Ranidae		显示文本，待译
+DIM_NamingThemeTypes	Description	Reptiles		显示文本，待译
+DIM_NamingThemeTypes	Description	Road Class Freighters		显示文本，待译
+DIM_NamingThemeTypes	Description	Romania		显示文本，待译
+DIM_NamingThemeTypes	Description	Romulan Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Australian Navy Amphibious Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Australian Navy Cruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Australian Navy Destroyers		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Australian Navy Escorts		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Australian Navy Submarines		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Canadian Navy Cruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Canadian Navy Destroyers		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Canadian Navy Minesweepers		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Canadian Navy Patrol Vessels		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Canadian Navy Submarines		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Amphibious Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Capital Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Carriers		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Constellation Class		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Cruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Destroyers		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Destroyers (Classic)		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Flower Class		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Frigates		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Ham Class		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Hunt Class		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Minesweepers		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Replenishment Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Submarines		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Survey Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Tankers		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Ton class		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Town Class		显示文本，待译
+DIM_NamingThemeTypes	Description	Royal Navy Trawlers		显示文本，待译
+DIM_NamingThemeTypes	Description	Russian Battleships		显示文本，待译
+DIM_NamingThemeTypes	Description	Russian Cruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	Russian Destroyers		显示文本，待译
+DIM_NamingThemeTypes	Description	Russian Empire Cruisers (1873–1917)		显示文本，待译
+DIM_NamingThemeTypes	Description	Russian Lakes		显示文本，待译
+DIM_NamingThemeTypes	Description	Russian Mountains above 2km		显示文本，待译
+DIM_NamingThemeTypes	Description	Russian Orthodox Saints		显示文本，待译
+DIM_NamingThemeTypes	Description	Russian Rivers		显示文本，待译
+DIM_NamingThemeTypes	Description	Russian Survey Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Scandinavia		显示文本，待译
+DIM_NamingThemeTypes	Description	SciFi Authors		显示文本，待译
+DIM_NamingThemeTypes	Description	Scotland		显示文本，待译
+DIM_NamingThemeTypes	Description	Scottish Lochs		显示文本，待译
+DIM_NamingThemeTypes	Description	Sea Creatures		显示文本，待译
+DIM_NamingThemeTypes	Description	SFB - Gorn Ship Names		显示文本，待译
+DIM_NamingThemeTypes	Description	SFB - Klingon Ship Names		显示文本，待译
+DIM_NamingThemeTypes	Description	SFB - Orion Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	SFB - Romulan Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Shakespearean Idioms		显示文本，待译
+DIM_NamingThemeTypes	Description	Sharks		显示文本，待译
+DIM_NamingThemeTypes	Description	Sixteenth Century Explorers		显示文本，待译
+DIM_NamingThemeTypes	Description	Snakes		显示文本，待译
+DIM_NamingThemeTypes	Description	Space Liners		显示文本，待译
+DIM_NamingThemeTypes	Description	Space Marine Chapters		显示文本，待译
+DIM_NamingThemeTypes	Description	Space Shuttles		显示文本，待译
+DIM_NamingThemeTypes	Description	Spanish Communities		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Amateur Radio DX		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Czech		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Danish		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Dutch (Belgium)		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Dutch (Netherlands)		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Finnish		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - French (Belgium)		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - French (France)		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - French (Quebec)		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - French (Switzerland)		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - German (Austria)		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - German (Modern)		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - German (WW2)		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Greek		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - IRC 1927		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - IRC 1938		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Italian		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Japanese Long		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Japanese Short		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Korean		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Norwegian		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Portuguese (Brazil)		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Portuguese (Portugal)		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Romanian		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Royal Navy 1917		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Russian		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Serbian		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Slovene		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Spanish		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Swedish		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Tasmania		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Turkish		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - US Air Service 1919		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - US Joint Army Navy 1941		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - US Navy Flaghoist 1908-1		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - US Navy Flaghoist 1908-2		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - US Navy Flaghoist 1920		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - US Navy Flaghoist 1942		显示文本，待译
+DIM_NamingThemeTypes	Description	Spelling Alphabet - Western Union 1918		显示文本，待译
+DIM_NamingThemeTypes	Description	Spiders		显示文本，待译
+DIM_NamingThemeTypes	Description	Star Trek - Andorian Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Star Trek - Bajoran Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Star Trek - Cardassian Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Star Trek - Character Names		显示文本，待译
+DIM_NamingThemeTypes	Description	Star Trek - Federation Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Star Trek - Ferengi Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Star Trek - Vulcan Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Stars		显示文本，待译
+DIM_NamingThemeTypes	Description	Stars (Proper Names)		显示文本，待译
+DIM_NamingThemeTypes	Description	Stars and Planets		显示文本，待译
+DIM_NamingThemeTypes	Description	Stellar Class		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Ancient Regents		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Birds		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Cities		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Explorers		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Fantasy Creatures		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Fish		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Landscapes and Areas		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Military Airplanes		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Minelayers and Minesweepers		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Mythology		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Predators		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Regents		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Scientists		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Ships of the Line		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Steam Warships		显示文本，待译
+DIM_NamingThemeTypes	Description	Swedish Submarines		显示文本，待译
+DIM_NamingThemeTypes	Description	Swords		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - African Union		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Ancient Egypt		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Ancient Greece		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Andromeda		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Animal		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Arabic		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Argentina		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - ASEAN		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Australia		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Aztec		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Barsoom		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Battlestar Galactica		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Boer		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Brazil		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Canada		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - China		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Clans of Shakar		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Demonic Realm		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Denmark		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Deverry		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Elemental		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Fallen London		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Fantasy		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Finland		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - France		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Gaelic		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Galactic Empire		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Germany		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Hippy		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - House Davion		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - House Kurita		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - House Liao		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - House Marik		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - House Steiner		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - India		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Indonesia		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Iran		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Israel		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Italia		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Japan		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Khanate of Orion		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Knights Templar		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Magician		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Manticore (RMN)		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Mexico		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Mongol		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Nations of Earth		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Native American		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Netherlands		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Norse		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Odd		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Orc		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Rebel Alliance		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Rigelian (Historical)		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Rigellian (Steve)		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Roman		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Russia		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Shotgun		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - South Africa		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - South America		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - South Korea		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Spanish		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Sweden		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Terran Federation		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Tolkien		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Traveller		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Turkey		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - United Kingdom		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - United States		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Warhammer 40K Empire		显示文本，待译
+DIM_NamingThemeTypes	Description	System Theme - Welsh		显示文本，待译
+DIM_NamingThemeTypes	Description	T2 Tankers		显示文本，待译
+DIM_NamingThemeTypes	Description	Tank Names		显示文本，待译
+DIM_NamingThemeTypes	Description	Tau Ships and Septs (NA)		显示文本，待译
+DIM_NamingThemeTypes	Description	Texas Alamo Defenders		显示文本，待译
+DIM_NamingThemeTypes	Description	Texas Animals		显示文本，待译
+DIM_NamingThemeTypes	Description	Texas Birds		显示文本，待译
+DIM_NamingThemeTypes	Description	Texas Cities		显示文本，待译
+DIM_NamingThemeTypes	Description	Texas Counties		显示文本，待译
+DIM_NamingThemeTypes	Description	Texas Historical Figures		显示文本，待译
+DIM_NamingThemeTypes	Description	Texas Native American Tribes		显示文本，待译
+DIM_NamingThemeTypes	Description	Texas Rangers		显示文本，待译
+DIM_NamingThemeTypes	Description	Texas Reptiles		显示文本，待译
+DIM_NamingThemeTypes	Description	Texas Rivers		显示文本，待译
+DIM_NamingThemeTypes	Description	Tigers		显示文本，待译
+DIM_NamingThemeTypes	Description	Tolkien		显示文本，待译
+DIM_NamingThemeTypes	Description	Trafalgar Order of battle		显示文本，待译
+DIM_NamingThemeTypes	Description	Tribes		显示文本，待译
+DIM_NamingThemeTypes	Description	Types of Storm		显示文本，待译
+DIM_NamingThemeTypes	Description	UK Prime Ministers		显示文本，待译
+DIM_NamingThemeTypes	Description	Ukrainian Birds		显示文本，待译
+DIM_NamingThemeTypes	Description	Ukrainian Male Names		显示文本，待译
+DIM_NamingThemeTypes	Description	United States	合众国	显示文本，沿用对照表中唯一译文
+DIM_NamingThemeTypes	Description	US 41 For Freedom		显示文本，待译
+DIM_NamingThemeTypes	Description	US Battleships		显示文本，待译
+DIM_NamingThemeTypes	Description	US Cities		显示文本，待译
+DIM_NamingThemeTypes	Description	US Counties		显示文本，待译
+DIM_NamingThemeTypes	Description	US Destroyers		显示文本，待译
+DIM_NamingThemeTypes	Description	US Escort Carriers		显示文本，待译
+DIM_NamingThemeTypes	Description	US Heavy Cruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	US Light Carriers		显示文本，待译
+DIM_NamingThemeTypes	Description	US Light Cruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Ammunition Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Amphibious Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Carriers		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Destroyer Escorts		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Destroyers		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Heroes		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Mine Warfare		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Missile Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Repair Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Ships Named After Battles		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Supply Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Surveillance Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Survey Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Tankers		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Tenders		显示文本，待译
+DIM_NamingThemeTypes	Description	US Navy Transports		显示文本，待译
+DIM_NamingThemeTypes	Description	US Presidents		显示文本，待译
+DIM_NamingThemeTypes	Description	US States		显示文本，待译
+DIM_NamingThemeTypes	Description	US Submarines		显示文本，待译
+DIM_NamingThemeTypes	Description	USSR		显示文本，待译
+DIM_NamingThemeTypes	Description	Victory Ships		显示文本，待译
+DIM_NamingThemeTypes	Description	Virtues		显示文本，待译
+DIM_NamingThemeTypes	Description	Virtues - Benjamin Franklin		显示文本，待译
+DIM_NamingThemeTypes	Description	Virtues - Roman		显示文本，待译
+DIM_NamingThemeTypes	Description	Weapons		显示文本，待译
+DIM_NamingThemeTypes	Description	Weather Terms		显示文本，待译
+DIM_NamingThemeTypes	Description	Welsh Castles		显示文本，待译
+DIM_NamingThemeTypes	Description	Welsh Islands		显示文本，待译
+DIM_NamingThemeTypes	Description	Welsh Mountains		显示文本，待译
+DIM_NamingThemeTypes	Description	Welsh Towns		显示文本，待译
+DIM_NamingThemeTypes	Description	Welsh Waterfalls		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K - Tyranids		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Battle Barges		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Battlecruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Battleships		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Chaos		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Cobra Destroyers		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Dark Eldar		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Dauntless CL		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Empire		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Firestorm Frigates		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Grand Cruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Imperial Armoured Regiments		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Imperial Guard Regiments		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Lunar class CA		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Necron		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Other CAs		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Other CLs		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Space Marine Chapters		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Strike Cruisers		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Sword Frigates		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K System Names		显示文本，待译
+DIM_NamingThemeTypes	Description	WH40K Titan Legions		显示文本，待译
+DIM_NamingThemeTypes	Description	Wizards		显示文本，待译
+DIM_NamingThemeTypes	Description	Yugoloths		显示文本，待译

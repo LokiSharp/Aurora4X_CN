@@ -1,77 +1,77 @@
 table	field	english	chinese	reason
-DIM_PlanetaryTerrain	Name	Acid Frost Fields		
-DIM_PlanetaryTerrain	Name	Alpine Forests		
-DIM_PlanetaryTerrain	Name	Alpine Grasslands		
-DIM_PlanetaryTerrain	Name	Ammonia Frost Fields		
-DIM_PlanetaryTerrain	Name	Ammonia Ice Ridges		
-DIM_PlanetaryTerrain	Name	Ammonia Salt Flats		
-DIM_PlanetaryTerrain	Name	Archipelago		
-DIM_PlanetaryTerrain	Name	Arid		
-DIM_PlanetaryTerrain	Name	Arid Mountain		
-DIM_PlanetaryTerrain	Name	Arid Rift Valleys		
-DIM_PlanetaryTerrain	Name	Barren		
-DIM_PlanetaryTerrain	Name	Boreal Forest		
-DIM_PlanetaryTerrain	Name	Boreal Mountain Forest		
-DIM_PlanetaryTerrain	Name	Boulder Fields		
-DIM_PlanetaryTerrain	Name	Brimstone Plains		
-DIM_PlanetaryTerrain	Name	Chapparal		
-DIM_PlanetaryTerrain	Name	Cinder Highlands		
-DIM_PlanetaryTerrain	Name	Cinnabar Wastes		
-DIM_PlanetaryTerrain	Name	Cold Desert		
-DIM_PlanetaryTerrain	Name	Cold Desert Mountain		
-DIM_PlanetaryTerrain	Name	Cold Steppe		
-DIM_PlanetaryTerrain	Name	Coniferous Forest		
-DIM_PlanetaryTerrain	Name	Cryogenic Rifts		
-DIM_PlanetaryTerrain	Name	Cryovolcanic Fields		
-DIM_PlanetaryTerrain	Name	Crystal Spire Fields		
-DIM_PlanetaryTerrain	Name	Desert		
-DIM_PlanetaryTerrain	Name	Desert Mountain		
-DIM_PlanetaryTerrain	Name	Ethane Lowlands		
-DIM_PlanetaryTerrain	Name	Forested Mountain		
-DIM_PlanetaryTerrain	Name	Forested Rift Valley		
-DIM_PlanetaryTerrain	Name	Fumarole Maze		
-DIM_PlanetaryTerrain	Name	Glacial Ammonia Basin		
-DIM_PlanetaryTerrain	Name	Graben Valleys		
-DIM_PlanetaryTerrain	Name	Grassland		
-DIM_PlanetaryTerrain	Name	Hot Desert		
-DIM_PlanetaryTerrain	Name	Hot Desert Mountain		
-DIM_PlanetaryTerrain	Name	Hydrocarbon Dunes		
-DIM_PlanetaryTerrain	Name	Hydrocarbon Forest		
-DIM_PlanetaryTerrain	Name	Ice Fields		
-DIM_PlanetaryTerrain	Name	Impact Craters		
-DIM_PlanetaryTerrain	Name	Jungle		
-DIM_PlanetaryTerrain	Name	Jungle Mountain		
-DIM_PlanetaryTerrain	Name	Jungle Rift Valley		
-DIM_PlanetaryTerrain	Name	Lava Fields		
-DIM_PlanetaryTerrain	Name	Lava Tube Network		
-DIM_PlanetaryTerrain	Name	Magma Rifts		
-DIM_PlanetaryTerrain	Name	Marcasite Highlands		
-DIM_PlanetaryTerrain	Name	Methane Frost Plains		
-DIM_PlanetaryTerrain	Name	Methane Ice Mountains		
-DIM_PlanetaryTerrain	Name	Mountain		
-DIM_PlanetaryTerrain	Name	Mountain Rainforest		
-DIM_PlanetaryTerrain	Name	Nitrogen Ice Fields		
-DIM_PlanetaryTerrain	Name	Ocean		
-DIM_PlanetaryTerrain	Name	Pale Forest		
-DIM_PlanetaryTerrain	Name	Prairie		
-DIM_PlanetaryTerrain	Name	Pyroclastic Fields		
-DIM_PlanetaryTerrain	Name	Rainforest		
-DIM_PlanetaryTerrain	Name	Regolith Plains		
-DIM_PlanetaryTerrain	Name	Rift Valleys		
-DIM_PlanetaryTerrain	Name	Savanna		
-DIM_PlanetaryTerrain	Name	Steppe		
-DIM_PlanetaryTerrain	Name	Stratovolcanoes 		
-DIM_PlanetaryTerrain	Name	Sub-Tropical		
-DIM_PlanetaryTerrain	Name	Sub-Tropical Mountain		
-DIM_PlanetaryTerrain	Name	Sub-Tropical Rift Valley		
-DIM_PlanetaryTerrain	Name	Subarctic		
-DIM_PlanetaryTerrain	Name	Subarctic Mountain		
-DIM_PlanetaryTerrain	Name	Sulphur Forest		
-DIM_PlanetaryTerrain	Name	Sulphur Frost Tundra		
-DIM_PlanetaryTerrain	Name	Sulphur Ice Mountains		
-DIM_PlanetaryTerrain	Name	Swamp		
-DIM_PlanetaryTerrain	Name	Taiga		
-DIM_PlanetaryTerrain	Name	Temperate Forest		
-DIM_PlanetaryTerrain	Name	Tholin Highlands		
-DIM_PlanetaryTerrain	Name	Tundra		
-DIM_PlanetaryTerrain	Name	Volcanic Plains		
+DIM_PlanetaryTerrain	Name	Acid Frost Fields		显示文本，待译
+DIM_PlanetaryTerrain	Name	Alpine Forests	高山森林	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Alpine Grasslands	高山草原	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Ammonia Frost Fields		显示文本，待译
+DIM_PlanetaryTerrain	Name	Ammonia Ice Ridges		显示文本，待译
+DIM_PlanetaryTerrain	Name	Ammonia Salt Flats		显示文本，待译
+DIM_PlanetaryTerrain	Name	Archipelago	群岛	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Arid	干旱	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Arid Mountain	干旱山地	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Arid Rift Valleys	干旱裂谷	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Barren	贫瘠	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Boreal Forest	北方针叶林	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Boreal Mountain Forest	北方山地森林	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Boulder Fields		显示文本，待译
+DIM_PlanetaryTerrain	Name	Brimstone Plains		显示文本，待译
+DIM_PlanetaryTerrain	Name	Chapparal	旱生灌丛	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Cinder Highlands		显示文本，待译
+DIM_PlanetaryTerrain	Name	Cinnabar Wastes		显示文本，待译
+DIM_PlanetaryTerrain	Name	Cold Desert	寒冷沙漠	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Cold Desert Mountain	寒冷沙漠山地	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Cold Steppe	寒冷草原	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Coniferous Forest	针叶林	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Cryogenic Rifts		显示文本，待译
+DIM_PlanetaryTerrain	Name	Cryovolcanic Fields		显示文本，待译
+DIM_PlanetaryTerrain	Name	Crystal Spire Fields		显示文本，待译
+DIM_PlanetaryTerrain	Name	Desert	沙漠	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Desert Mountain	沙漠山地	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Ethane Lowlands		显示文本，待译
+DIM_PlanetaryTerrain	Name	Forested Mountain	森林山地	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Forested Rift Valley	森林裂谷	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Fumarole Maze		显示文本，待译
+DIM_PlanetaryTerrain	Name	Glacial Ammonia Basin		显示文本，待译
+DIM_PlanetaryTerrain	Name	Graben Valleys		显示文本，待译
+DIM_PlanetaryTerrain	Name	Grassland	草原	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Hot Desert	炎热沙漠	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Hot Desert Mountain	炎热沙漠山地	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Hydrocarbon Dunes		显示文本，待译
+DIM_PlanetaryTerrain	Name	Hydrocarbon Forest		显示文本，待译
+DIM_PlanetaryTerrain	Name	Ice Fields	冰原	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Impact Craters		显示文本，待译
+DIM_PlanetaryTerrain	Name	Jungle	丛林	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Jungle Mountain	丛林山地	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Jungle Rift Valley	丛林裂谷	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Lava Fields		显示文本，待译
+DIM_PlanetaryTerrain	Name	Lava Tube Network		显示文本，待译
+DIM_PlanetaryTerrain	Name	Magma Rifts		显示文本，待译
+DIM_PlanetaryTerrain	Name	Marcasite Highlands		显示文本，待译
+DIM_PlanetaryTerrain	Name	Methane Frost Plains		显示文本，待译
+DIM_PlanetaryTerrain	Name	Methane Ice Mountains		显示文本，待译
+DIM_PlanetaryTerrain	Name	Mountain	山地	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Mountain Rainforest	山地雨林	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Nitrogen Ice Fields		显示文本，待译
+DIM_PlanetaryTerrain	Name	Ocean		显示文本，待译
+DIM_PlanetaryTerrain	Name	Pale Forest		显示文本，待译
+DIM_PlanetaryTerrain	Name	Prairie	高草草原	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Pyroclastic Fields		显示文本，待译
+DIM_PlanetaryTerrain	Name	Rainforest	雨林	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Regolith Plains		显示文本，待译
+DIM_PlanetaryTerrain	Name	Rift Valleys	裂谷	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Savanna	稀树草原	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Steppe	干草原	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Stratovolcanoes 		显示文本，待译
+DIM_PlanetaryTerrain	Name	Sub-Tropical	亚热带	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Sub-Tropical Mountain	亚热带山地	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Sub-Tropical Rift Valley	亚热带裂谷	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Subarctic	亚寒带	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Subarctic Mountain	亚寒带山地	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Sulphur Forest		显示文本，待译
+DIM_PlanetaryTerrain	Name	Sulphur Frost Tundra		显示文本，待译
+DIM_PlanetaryTerrain	Name	Sulphur Ice Mountains		显示文本，待译
+DIM_PlanetaryTerrain	Name	Swamp	沼泽	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Taiga	泰加林	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Temperate Forest	温带森林	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Tholin Highlands		显示文本，待译
+DIM_PlanetaryTerrain	Name	Tundra	冻原	显示文本，沿用已核对译文
+DIM_PlanetaryTerrain	Name	Volcanic Plains		显示文本，待译

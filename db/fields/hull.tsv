@@ -1,320 +1,320 @@
 table	field	english	chinese	reason
-FCT_HullDescription	Description	Ammunition Transport		
-FCT_HullDescription	Description	Anchorage		
-FCT_HullDescription	Description	Area Defence Cruiser		
-FCT_HullDescription	Description	Armed Boarding Vessel		
-FCT_HullDescription	Description	Armed Scout		
-FCT_HullDescription	Description	Armed Shuttle		
-FCT_HullDescription	Description	Armoured Cruiser		
-FCT_HullDescription	Description	Assault Carrier		
-FCT_HullDescription	Description	Assault Ship		
-FCT_HullDescription	Description	Assault Shuttle		
-FCT_HullDescription	Description	Assault Transport		
-FCT_HullDescription	Description	ASW Destroyer		
-FCT_HullDescription	Description	Attack Craft		
-FCT_HullDescription	Description	Auxiliary Carrier		
-FCT_HullDescription	Description	Auxiliary Transport		
-FCT_HullDescription	Description	Base		
-FCT_HullDescription	Description	Base Star		
-FCT_HullDescription	Description	Battle Barge		
-FCT_HullDescription	Description	Battle Carrier		
-FCT_HullDescription	Description	Battlecruiser		
-FCT_HullDescription	Description	Battleship		
-FCT_HullDescription	Description	Battlestar		
-FCT_HullDescription	Description	Beam Defence Base		
-FCT_HullDescription	Description	Bombardment Cruiser		
-FCT_HullDescription	Description	Bomber		
-FCT_HullDescription	Description	Breaching Pod		
-FCT_HullDescription	Description	Buoy Deployment Craft		
-FCT_HullDescription	Description	Buoy Deployment Sloop		
-FCT_HullDescription	Description	Buoy Deployment Vessel		
-FCT_HullDescription	Description	Cargo Ship		
-FCT_HullDescription	Description	Cargo Shuttle		
-FCT_HullDescription	Description	Carrack		
-FCT_HullDescription	Description	Carrier		
-FCT_HullDescription	Description	Carrier Strike		
-FCT_HullDescription	Description	Collier		
-FCT_HullDescription	Description	Colonist Transport		
-FCT_HullDescription	Description	Colonist Transport Pod		
-FCT_HullDescription	Description	Colony Ship		
-FCT_HullDescription	Description	Command Cruiser		
-FCT_HullDescription	Description	Command Destroyer		
-FCT_HullDescription	Description	Command Dropship		
-FCT_HullDescription	Description	Command Ship		
-FCT_HullDescription	Description	Construction Ship		
-FCT_HullDescription	Description	Corvette		
-FCT_HullDescription	Description	Courier		
-FCT_HullDescription	Description	Cruiser		
-FCT_HullDescription	Description	Cutter		
-FCT_HullDescription	Description	Deep Space Survey Ship		
-FCT_HullDescription	Description	Defence Monitor		
-FCT_HullDescription	Description	Defence Satellite		
-FCT_HullDescription	Description	Destroyer		
-FCT_HullDescription	Description	Destroyer Escort		
-FCT_HullDescription	Description	Destroyer Leader		
-FCT_HullDescription	Description	Diplomatic Ship		
-FCT_HullDescription	Description	Diplomatic Station		
-FCT_HullDescription	Description	Dive Bomber		
-FCT_HullDescription	Description	Dockyard		
-FCT_HullDescription	Description	Drakar		
-FCT_HullDescription	Description	Dreadcarrier		
-FCT_HullDescription	Description	Dreadnought		
-FCT_HullDescription	Description	Drone Scout		
-FCT_HullDescription	Description	Dropship		
-FCT_HullDescription	Description	Dropship Carrier		
-FCT_HullDescription	Description	Dropship Escort		
-FCT_HullDescription	Description	Early Warning Craft		
-FCT_HullDescription	Description	ELINT Vessel		
-FCT_HullDescription	Description	Escort		
-FCT_HullDescription	Description	Escort Carrier		
-FCT_HullDescription	Description	Escort Cruiser		
-FCT_HullDescription	Description	Escort Frigate		
-FCT_HullDescription	Description	Exodus		
-FCT_HullDescription	Description	Exploration Cruiser		
-FCT_HullDescription	Description	Exploration Frigate		
-FCT_HullDescription	Description	Exploration Ship		
-FCT_HullDescription	Description	Explorer		
-FCT_HullDescription	Description	FAC Leader		
-FCT_HullDescription	Description	FAC Tender		
-FCT_HullDescription	Description	FAC Transport		
-FCT_HullDescription	Description	Fast Attack Craft		
-FCT_HullDescription	Description	Fast Colony Ship		
-FCT_HullDescription	Description	Fast Freighter		
-FCT_HullDescription	Description	Fast Patrol Craft		
-FCT_HullDescription	Description	Fast Scout		
-FCT_HullDescription	Description	Fast Scout Craft		
-FCT_HullDescription	Description	Fast Tanker		
-FCT_HullDescription	Description	Fighter		
-FCT_HullDescription	Description	Fighter Base		
-FCT_HullDescription	Description	Fighter Storage		
-FCT_HullDescription	Description	Fighter Transport		
-FCT_HullDescription	Description	Fighter-bomber		
-FCT_HullDescription	Description	Fighter-Scout		
-FCT_HullDescription	Description	First Class Cruiser		
-FCT_HullDescription	Description	Fleet Base (Maintenance)		
-FCT_HullDescription	Description	Fleet Base (Repair)		
-FCT_HullDescription	Description	Fleet Scout		
-FCT_HullDescription	Description	Fleet Support Vessel		
-FCT_HullDescription	Description	Fleet Tug		
-FCT_HullDescription	Description	Fortress		
-FCT_HullDescription	Description	Freighter		
-FCT_HullDescription	Description	Frigate		
-FCT_HullDescription	Description	Frigate Leader		
-FCT_HullDescription	Description	Fuel Harvester		
-FCT_HullDescription	Description	Fuel Harvester Base		
-FCT_HullDescription	Description	Fuel Harvester Station		
-FCT_HullDescription	Description	Galleon		
-FCT_HullDescription	Description	Geological Survey Craft		
-FCT_HullDescription	Description	Geological Survey Shuttle		
-FCT_HullDescription	Description	Geological Survey Sloop		
-FCT_HullDescription	Description	Geological Survey Vessel		
-FCT_HullDescription	Description	Geosurvey Ship		
-FCT_HullDescription	Description	Grand Cruiser		
-FCT_HullDescription	Description	Gravitational Survey Craft		
-FCT_HullDescription	Description	Gravitational Survey Shuttle		
-FCT_HullDescription	Description	Gravitational Survey Sloop		
-FCT_HullDescription	Description	Gravitational Survey Vessel		
-FCT_HullDescription	Description	Gravsurvey Ship		
-FCT_HullDescription	Description	Ground Support Fighter		
-FCT_HullDescription	Description	Gunboat		
-FCT_HullDescription	Description	Gunship		
-FCT_HullDescription	Description	Heavy Battlecruiser		
-FCT_HullDescription	Description	Heavy Carrier		
-FCT_HullDescription	Description	Heavy Cruiser		
-FCT_HullDescription	Description	Heavy Fighter		
-FCT_HullDescription	Description	Heavy Freighter		
-FCT_HullDescription	Description	Heavy Interceptor		
-FCT_HullDescription	Description	High Speed Scout		
-FCT_HullDescription	Description	Hive Ship		
-FCT_HullDescription	Description	Hospital Ship		
-FCT_HullDescription	Description	Hunter		
-FCT_HullDescription	Description	Hyper-capable Freighter		
-FCT_HullDescription	Description	ICBM Launch Base		
-FCT_HullDescription	Description	Imperial Starship		
-FCT_HullDescription	Description	Intelligence Corvette		
-FCT_HullDescription	Description	Intelligence Ship		
-FCT_HullDescription	Description	Intelligence Station		
-FCT_HullDescription	Description	Interceptor		
-FCT_HullDescription	Description	Interceptor Base		
-FCT_HullDescription	Description	Jump Battlecruiser		
-FCT_HullDescription	Description	Jump Colony Ship		
-FCT_HullDescription	Description	Jump Corvette		
-FCT_HullDescription	Description	Jump Cruiser		
-FCT_HullDescription	Description	Jump Destroyer		
-FCT_HullDescription	Description	Jump Destroyer Escort		
-FCT_HullDescription	Description	Jump Escort Cruiser		
-FCT_HullDescription	Description	Jump Freighter		
-FCT_HullDescription	Description	Jump Frigate		
-FCT_HullDescription	Description	Jump Point Defence Base		
-FCT_HullDescription	Description	Jump Scout		
-FCT_HullDescription	Description	Jump Ship		
-FCT_HullDescription	Description	Jump Stabilisation Station		
-FCT_HullDescription	Description	Jump Tender		
-FCT_HullDescription	Description	Jump Tender Station		
-FCT_HullDescription	Description	Jump Transport		
-FCT_HullDescription	Description	Kinetic Battlecruiser		
-FCT_HullDescription	Description	Kinetic Cruiser		
-FCT_HullDescription	Description	Kinetic Frigate		
-FCT_HullDescription	Description	Lander		
-FCT_HullDescription	Description	Landing Craft Assault		
-FCT_HullDescription	Description	Landing Craft Utility		
-FCT_HullDescription	Description	Landing Ship		
-FCT_HullDescription	Description	Launch Complex		
-FCT_HullDescription	Description	Launch Platform		
-FCT_HullDescription	Description	Legion Transport		
-FCT_HullDescription	Description	Lifeboat		
-FCT_HullDescription	Description	Light Carrier		
-FCT_HullDescription	Description	Light Cruiser		
-FCT_HullDescription	Description	Light Fighter		
-FCT_HullDescription	Description	Light Jump Cruiser		
-FCT_HullDescription	Description	Light Troop Transport		
-FCT_HullDescription	Description	Long Range Gravsurvey Vessel		
-FCT_HullDescription	Description	Long Range Patrol		
-FCT_HullDescription	Description	Long Range Scout		
-FCT_HullDescription	Description	Long Range Strike		
-FCT_HullDescription	Description	Long Range Survey Ship		
-FCT_HullDescription	Description	Luxury Liner		
-FCT_HullDescription	Description	MACO Shuttle		
-FCT_HullDescription	Description	Maintenance Base		
-FCT_HullDescription	Description	Maintenance Pod		
-FCT_HullDescription	Description	Maintenance Station		
-FCT_HullDescription	Description	Maintenance Vessel		
-FCT_HullDescription	Description	Marine Transport		
-FCT_HullDescription	Description	Mass Conveyor		
-FCT_HullDescription	Description	Military Jump Tender		
-FCT_HullDescription	Description	Military Replenishment Ship		
-FCT_HullDescription	Description	Military Tanker		
-FCT_HullDescription	Description	Minelayer		
-FCT_HullDescription	Description	Mining Platform		
-FCT_HullDescription	Description	Missile Base		
-FCT_HullDescription	Description	Missile Boat		
-FCT_HullDescription	Description	Missile Cruiser		
-FCT_HullDescription	Description	Missile Defence Base		
-FCT_HullDescription	Description	Missile Defence Satellite		
-FCT_HullDescription	Description	Missile Destroyer		
-FCT_HullDescription	Description	Missile Frigate		
-FCT_HullDescription	Description	Mobile Jump Gate		
-FCT_HullDescription	Description	Monitor		
-FCT_HullDescription	Description	Monitoring Station		
-FCT_HullDescription	Description	Mothership		
-FCT_HullDescription	Description	Observer		
-FCT_HullDescription	Description	Oiler		
-FCT_HullDescription	Description	Orbital Defence Base		
-FCT_HullDescription	Description	Orbital Defence Monitor		
-FCT_HullDescription	Description	Orbital Defence Platform		
-FCT_HullDescription	Description	Orbital Habitat		
-FCT_HullDescription	Description	Orbital Miner		
-FCT_HullDescription	Description	Orbital Mining Platform		
-FCT_HullDescription	Description	Orbital Mining Station		
-FCT_HullDescription	Description	Orbital Weapon Platform		
-FCT_HullDescription	Description	Ordnance Transport		
-FCT_HullDescription	Description	Passenger Cruiser		
-FCT_HullDescription	Description	Patrol Craft		
-FCT_HullDescription	Description	Patrol Cruiser		
-FCT_HullDescription	Description	Patrol Ship		
-FCT_HullDescription	Description	Patrol Vessel		
-FCT_HullDescription	Description	Personnel Shuttle		
-FCT_HullDescription	Description	Pinnace		
-FCT_HullDescription	Description	Planet Killer		
-FCT_HullDescription	Description	Planetary Defence Centre		
-FCT_HullDescription	Description	Planetary Fighter Base		
-FCT_HullDescription	Description	Planetary Surveillance Base		
-FCT_HullDescription	Description	Point Defence Base		
-FCT_HullDescription	Description	Police Cutter		
-FCT_HullDescription	Description	Protected Cruiser		
-FCT_HullDescription	Description	Raider		
-FCT_HullDescription	Description	Railgun Cruiser		
-FCT_HullDescription	Description	Recon Craft		
-FCT_HullDescription	Description	Recon Fighter		
-FCT_HullDescription	Description	Recon Frigate		
-FCT_HullDescription	Description	Recon Satellite		
-FCT_HullDescription	Description	Reconnaissance Craft		
-FCT_HullDescription	Description	Recreational Ship		
-FCT_HullDescription	Description	Recreational Station		
-FCT_HullDescription	Description	Repair Ship		
-FCT_HullDescription	Description	Repair Station		
-FCT_HullDescription	Description	Replenishment Ship		
-FCT_HullDescription	Description	Rescue Shuttle		
-FCT_HullDescription	Description	Resupply Base		
-FCT_HullDescription	Description	Runabout		
-FCT_HullDescription	Description	Salvage Station		
-FCT_HullDescription	Description	Salvager		
-FCT_HullDescription	Description	Schnellboot		
-FCT_HullDescription	Description	Science Vessel		
-FCT_HullDescription	Description	Scout		
-FCT_HullDescription	Description	Scout Base		
-FCT_HullDescription	Description	Scout Boat		
-FCT_HullDescription	Description	Scout Carrier		
-FCT_HullDescription	Description	Scout Cruiser		
-FCT_HullDescription	Description	Scout Destroyer		
-FCT_HullDescription	Description	Scout Fighter		
-FCT_HullDescription	Description	Scout Frigate		
-FCT_HullDescription	Description	Scout/Courier		
-FCT_HullDescription	Description	Search and Rescue Shuttle		
-FCT_HullDescription	Description	Second Class Cruiser		
-FCT_HullDescription	Description	Security Shuttle		
-FCT_HullDescription	Description	Sensor Outpost		
-FCT_HullDescription	Description	Sensor Platform		
-FCT_HullDescription	Description	Shuttle		
-FCT_HullDescription	Description	Shuttlecraft		
-FCT_HullDescription	Description	Slave Transport		
-FCT_HullDescription	Description	Small Craft Tender		
-FCT_HullDescription	Description	Space Station		
-FCT_HullDescription	Description	Spaceliner		
-FCT_HullDescription	Description	Stabilisation Ship		
-FCT_HullDescription	Description	Stabilisation Station		
-FCT_HullDescription	Description	Star Destroyer		
-FCT_HullDescription	Description	Star Fortress		
-FCT_HullDescription	Description	Star Swarm		
-FCT_HullDescription	Description	Starbase		
-FCT_HullDescription	Description	Starfighter		
-FCT_HullDescription	Description	Starport		
-FCT_HullDescription	Description	Starship		
-FCT_HullDescription	Description	Stealth Scout		
-FCT_HullDescription	Description	Strike Carrier		
-FCT_HullDescription	Description	Strike Cruiser		
-FCT_HullDescription	Description	Strikefighter		
-FCT_HullDescription	Description	Superdreadnought		
-FCT_HullDescription	Description	Superfreighter		
-FCT_HullDescription	Description	Supply Ship		
-FCT_HullDescription	Description	Supply Transport		
-FCT_HullDescription	Description	Support Base		
-FCT_HullDescription	Description	Support Vessel		
-FCT_HullDescription	Description	Surveillance Cruiser		
-FCT_HullDescription	Description	Surveillance Frigate		
-FCT_HullDescription	Description	Survey Carrier		
-FCT_HullDescription	Description	Survey Command Cruiser		
-FCT_HullDescription	Description	Survey Command Ship		
-FCT_HullDescription	Description	Survey Corvette		
-FCT_HullDescription	Description	Survey Craft		
-FCT_HullDescription	Description	Survey Cruiser		
-FCT_HullDescription	Description	Survey Frigate		
-FCT_HullDescription	Description	Survey Hunter		
-FCT_HullDescription	Description	Survey Ship		
-FCT_HullDescription	Description	Survey Shuttle		
-FCT_HullDescription	Description	Survey Sloop		
-FCT_HullDescription	Description	Survey Support		
-FCT_HullDescription	Description	Survey Support Base		
-FCT_HullDescription	Description	Survey Support Cruiser		
-FCT_HullDescription	Description	Survey Tender		
-FCT_HullDescription	Description	Survey Vessel		
-FCT_HullDescription	Description	Tanker		
-FCT_HullDescription	Description	Terraformer		
-FCT_HullDescription	Description	Terraforming Base		
-FCT_HullDescription	Description	Terraforming Station		
-FCT_HullDescription	Description	Third Class Cruiser		
-FCT_HullDescription	Description	TIE Bomber		
-FCT_HullDescription	Description	Titan		
-FCT_HullDescription	Description	Torpedo Boat		
-FCT_HullDescription	Description	Torpedo Boat Tender		
-FCT_HullDescription	Description	Torpedo Bomber		
-FCT_HullDescription	Description	Torpedo Cruiser		
-FCT_HullDescription	Description	Transport		
-FCT_HullDescription	Description	Transport Carrier		
-FCT_HullDescription	Description	Troop Shuttle		
-FCT_HullDescription	Description	Troop Transport		
-FCT_HullDescription	Description	Tug		
-FCT_HullDescription	Description	Unknown		
-FCT_HullDescription	Description	Utility Shuttle		
-FCT_HullDescription	Description	War Cruiser		
-FCT_HullDescription	Description	War Cruiser Leader		
+FCT_HullDescription	Description	Ammunition Transport	弹药运输舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Anchorage	锚地基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Area Defence Cruiser	区域防御巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Armed Boarding Vessel	武装登舰舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Armed Scout	武装侦察舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Armed Shuttle	武装穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Armoured Cruiser	装甲巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Assault Carrier	突击航母	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Assault Ship	突击舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Assault Shuttle	突击穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Assault Transport	突击运输舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	ASW Destroyer	反潜驱逐舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Attack Craft	攻击艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Auxiliary Carrier	辅助航母	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Auxiliary Transport	辅助运输舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Base	基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Base Star	基地之星	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Battle Barge	战斗驳船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Battle Carrier	战斗航母	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Battlecruiser	战列巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Battleship	战列舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Battlestar	战斗之星	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Beam Defence Base	光束防御基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Bombardment Cruiser	轰击巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Bomber	轰炸机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Breaching Pod	破舱登舰舱	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Buoy Deployment Craft	浮标布放艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Buoy Deployment Sloop		显示文本，待译
+FCT_HullDescription	Description	Buoy Deployment Vessel	浮标布放舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Cargo Ship	货运舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Cargo Shuttle	货运穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Carrack	卡拉克帆船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Carrier	航空母舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Carrier Strike	打击航母	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Collier	弹药补给舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Colonist Transport	殖民者运输舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Colonist Transport Pod	殖民者运输舱	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Colony Ship	殖民船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Command Cruiser	指挥巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Command Destroyer	指挥驱逐舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Command Dropship	指挥空降艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Command Ship	指挥舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Construction Ship	建造舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Corvette	轻护卫舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Courier	传令舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Cruiser	巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Cutter		显示文本，待译
+FCT_HullDescription	Description	Deep Space Survey Ship	深空勘测舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Defence Monitor	防御监视舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Defence Satellite	防御卫星	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Destroyer	驱逐舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Destroyer Escort	护航驱逐舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Destroyer Leader	驱逐领舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Diplomatic Ship	外交舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Diplomatic Station	外交空间站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Dive Bomber	俯冲轰炸机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Dockyard	船坞	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Drakar	德拉卡长船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Dreadcarrier		显示文本，待译
+FCT_HullDescription	Description	Dreadnought	无畏舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Drone Scout	无人侦察舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Dropship	空降艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Dropship Carrier	空降母舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Dropship Escort	空降护航舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Early Warning Craft	预警艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	ELINT Vessel	电子情报舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Escort	护航舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Escort Carrier	护航航母	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Escort Cruiser	护航巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Escort Frigate	护航护卫舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Exodus	撤离舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Exploration Cruiser	探索巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Exploration Frigate		显示文本，待译
+FCT_HullDescription	Description	Exploration Ship	探索舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Explorer	探索者	显示文本，沿用已核对译文
+FCT_HullDescription	Description	FAC Leader	快攻艇领舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	FAC Tender	快攻艇补给舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	FAC Transport	快攻艇运输舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fast Attack Craft	快攻艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fast Colony Ship	快速殖民船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fast Freighter	快速货船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fast Patrol Craft	快速巡逻艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fast Scout	快速侦察舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fast Scout Craft	快速侦察艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fast Tanker	快速燃料补给舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fighter	战斗机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fighter Base	战斗机基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fighter Storage	战斗机储备站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fighter Transport	战斗机运输舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fighter-bomber	战斗轰炸机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fighter-Scout	战斗侦察机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	First Class Cruiser	一等巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fleet Base (Maintenance)	舰队基地（维护）	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fleet Base (Repair)	舰队基地（维修）	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fleet Scout	舰队侦察舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fleet Support Vessel	舰队支援舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fleet Tug	舰队拖船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fortress		显示文本，待译
+FCT_HullDescription	Description	Freighter	货船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Frigate	护卫舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Frigate Leader	护卫领舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fuel Harvester	燃料采集舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fuel Harvester Base	燃料采集基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Fuel Harvester Station	燃料采集空间站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Galleon	大帆船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Geological Survey Craft	地质勘测艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Geological Survey Shuttle	地质勘测穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Geological Survey Sloop		显示文本，待译
+FCT_HullDescription	Description	Geological Survey Vessel	地质勘测舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Geosurvey Ship	地质勘测船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Grand Cruiser	大巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Gravitational Survey Craft	引力勘测艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Gravitational Survey Shuttle	引力勘测穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Gravitational Survey Sloop		显示文本，待译
+FCT_HullDescription	Description	Gravitational Survey Vessel	引力勘测舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Gravsurvey Ship	引力勘测船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Ground Support Fighter	对地支援战斗机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Gunboat	炮艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Gunship	炮舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Heavy Battlecruiser	重型战列巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Heavy Carrier	重型航母	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Heavy Cruiser	重巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Heavy Fighter	重型战斗机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Heavy Freighter	重型货船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Heavy Interceptor		显示文本，待译
+FCT_HullDescription	Description	High Speed Scout	高速侦察舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Hive Ship	蜂巢舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Hospital Ship	医疗舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Hunter	猎手舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Hyper-capable Freighter	超空间货船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	ICBM Launch Base	洲际弹道导弹发射基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Imperial Starship		显示文本，待译
+FCT_HullDescription	Description	Intelligence Corvette	情报轻护卫舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Intelligence Ship	情报舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Intelligence Station	情报空间站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Interceptor	截击机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Interceptor Base	截击机基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Battlecruiser	跃迁战列巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Colony Ship	跃迁殖民船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Corvette	跃迁轻护卫舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Cruiser	跃迁巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Destroyer	跃迁驱逐舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Destroyer Escort	跃迁护航驱逐舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Escort Cruiser	跃迁护航巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Freighter	跃迁货船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Frigate	跃迁护卫舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Point Defence Base	跃迁点防御基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Scout	跃迁侦察舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Ship	跃迁舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Stabilisation Station	跃迁稳定空间站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Tender	跃迁补给舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Tender Station	跃迁供应空间站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Jump Transport	跃迁运输舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Kinetic Battlecruiser	动能战列巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Kinetic Cruiser	动能巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Kinetic Frigate	动能护卫舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Lander	登陆艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Landing Craft Assault	突击登陆艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Landing Craft Utility	通用登陆艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Landing Ship	登陆舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Launch Complex	发射综合体	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Launch Platform	发射平台	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Legion Transport	军团运输舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Lifeboat	救生艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Light Carrier	轻型航母	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Light Cruiser	轻巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Light Fighter	轻型战斗机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Light Jump Cruiser	轻型跃迁巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Light Troop Transport	轻型运兵舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Long Range Gravsurvey Vessel	远程引力勘测舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Long Range Patrol	远程巡逻舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Long Range Scout		显示文本，待译
+FCT_HullDescription	Description	Long Range Strike	远程打击舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Long Range Survey Ship	远程勘测舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Luxury Liner	豪华邮轮	显示文本，沿用已核对译文
+FCT_HullDescription	Description	MACO Shuttle	MACO 穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Maintenance Base	维护基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Maintenance Pod	维护舱	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Maintenance Station		显示文本，待译
+FCT_HullDescription	Description	Maintenance Vessel	维护舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Marine Transport		显示文本，待译
+FCT_HullDescription	Description	Mass Conveyor	大宗运输舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Military Jump Tender	军用跃迁支援舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Military Replenishment Ship	军用燃料补给舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Military Tanker	军用加油舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Minelayer	布雷舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Mining Platform	采矿平台	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Missile Base	导弹基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Missile Boat	导弹艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Missile Cruiser	导弹巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Missile Defence Base	导弹防御基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Missile Defence Satellite	导弹防御卫星	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Missile Destroyer	导弹驱逐舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Missile Frigate	导弹护卫舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Mobile Jump Gate	机动跃迁门	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Monitor	重炮舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Monitoring Station	监测站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Mothership	母舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Observer	观察舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Oiler	油轮	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Orbital Defence Base	轨道防御基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Orbital Defence Monitor	轨道防御重炮舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Orbital Defence Platform	轨道防御平台	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Orbital Habitat	轨道居住站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Orbital Miner	轨道采矿舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Orbital Mining Platform	轨道采矿平台	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Orbital Mining Station	轨道采矿站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Orbital Weapon Platform	轨道武器平台	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Ordnance Transport		显示文本，待译
+FCT_HullDescription	Description	Passenger Cruiser	客运巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Patrol Craft	巡逻艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Patrol Cruiser	巡逻巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Patrol Ship	巡逻舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Patrol Vessel	巡逻船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Personnel Shuttle	人员穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Pinnace	交通艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Planet Killer	灭星舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Planetary Defence Centre	行星防御中心	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Planetary Fighter Base	行星战斗机基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Planetary Surveillance Base	行星监视基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Point Defence Base	点防御基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Police Cutter	警务快艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Protected Cruiser	防护巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Raider	袭击舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Railgun Cruiser		显示文本，待译
+FCT_HullDescription	Description	Recon Craft	侦察艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Recon Fighter	侦察战斗机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Recon Frigate	侦察护卫舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Recon Satellite	侦察卫星	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Reconnaissance Craft	侦察飞行器	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Recreational Ship	娱乐舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Recreational Station	娱乐站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Repair Ship	维修舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Repair Station	维修站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Replenishment Ship	燃料补给舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Rescue Shuttle	救援穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Resupply Base	补给基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Runabout	联络艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Salvage Station	打捞站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Salvager	打捞舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Schnellboot	高速艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Science Vessel	科研舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Scout	侦察舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Scout Base	侦察基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Scout Boat	侦察快艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Scout Carrier	侦察航母	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Scout Cruiser	侦察巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Scout Destroyer	侦察驱逐舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Scout Fighter	侦察战斗机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Scout Frigate	侦察护卫舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Scout/Courier	侦察/信使舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Search and Rescue Shuttle	搜救穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Second Class Cruiser	二等巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Security Shuttle	安保穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Sensor Outpost	传感器前哨站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Sensor Platform	传感器平台	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Shuttle	穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Shuttlecraft	穿梭艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Slave Transport	奴隶运输舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Small Craft Tender	小型艇支援舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Space Station	空间站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Spaceliner	太空邮轮	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Stabilisation Ship	跃迁稳定舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Stabilisation Station	跃迁稳定站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Star Destroyer	星际驱逐舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Star Fortress	星际要塞	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Star Swarm	星际蜂群	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Starbase	星际基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Starfighter	星际战斗机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Starport	星际港	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Starship	星际飞船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Stealth Scout	隐形侦察舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Strike Carrier	攻击航母	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Strike Cruiser	攻击巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Strikefighter	攻击战斗机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Superdreadnought	超级无畏舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Superfreighter	超大型货船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Supply Ship	补给舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Supply Transport	补给运输舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Support Base	支援基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Support Vessel	支援舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Surveillance Cruiser	监视巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Surveillance Frigate	侦察护卫舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Carrier	勘测航母	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Command Cruiser	勘测指挥巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Command Ship	勘测指挥舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Corvette	勘测轻护卫舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Craft	勘测艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Cruiser	勘测巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Frigate	勘测护卫舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Hunter	勘测猎击舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Ship	勘测舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Shuttle	勘测穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Sloop		显示文本，待译
+FCT_HullDescription	Description	Survey Support	勘测支援舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Support Base	勘测支援基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Support Cruiser	勘测支援巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Tender	勘测补给舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Survey Vessel	勘测船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Tanker	燃料补给舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Terraformer	地形改造舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Terraforming Base	地形改造基地	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Terraforming Station	地形改造空间站	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Third Class Cruiser	三等巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	TIE Bomber	TIE 轰炸机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Titan		显示文本，待译
+FCT_HullDescription	Description	Torpedo Boat	鱼雷艇	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Torpedo Boat Tender		显示文本，待译
+FCT_HullDescription	Description	Torpedo Bomber	鱼雷轰炸机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Torpedo Cruiser	鱼雷巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Transport	运输舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Transport Carrier		显示文本，待译
+FCT_HullDescription	Description	Troop Shuttle	运兵穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Troop Transport	运兵舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Tug	拖船	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Unknown	未知	显示文本，沿用已核对译文
+FCT_HullDescription	Description	Utility Shuttle	通用穿梭机	显示文本，沿用已核对译文
+FCT_HullDescription	Description	War Cruiser	战争巡洋舰	显示文本，沿用已核对译文
+FCT_HullDescription	Description	War Cruiser Leader	战争巡洋舰领舰	显示文本，沿用已核对译文

@@ -1,50 +1,50 @@
 table	field	english	chinese	reason
-DIM_ResearchCategories	Name	Active Sensors		
-DIM_ResearchCategories	Name	Basic Systems		
-DIM_ResearchCategories	Name	CIWS		
-DIM_ResearchCategories	Name	Cloaking Device		
-DIM_ResearchCategories	Name	Decoy Launcher		
-DIM_ResearchCategories	Name	Direct Fire Control		
-DIM_ResearchCategories	Name	Electronic Warfare		
-DIM_ResearchCategories	Name	EM Detection Sensors		
-DIM_ResearchCategories	Name	Engines		
-DIM_ResearchCategories	Name	Fighter Pod Bay		
-DIM_ResearchCategories	Name	Gauss Cannon		
-DIM_ResearchCategories	Name	General Science		
-DIM_ResearchCategories	Name	High Power Microwave		
-DIM_ResearchCategories	Name	Industry		
-DIM_ResearchCategories	Name	Jump Drives		
-DIM_ResearchCategories	Name	Lasers		
-DIM_ResearchCategories	Name	Magazine		
-DIM_ResearchCategories	Name	Meson Cannon		
-DIM_ResearchCategories	Name	Miscellaneous Components		
-DIM_ResearchCategories	Name	Missile Engines		
-DIM_ResearchCategories	Name	Missile Fire Control		
-DIM_ResearchCategories	Name	Missile Launchers		
-DIM_ResearchCategories	Name	Missiles		
-DIM_ResearchCategories	Name	New Species		
-DIM_ResearchCategories	Name	Particle Beam		
-DIM_ResearchCategories	Name	Planetary Combat		
-DIM_ResearchCategories	Name	Plasma Carronade		
-DIM_ResearchCategories	Name	Power Plants		
-DIM_ResearchCategories	Name	Railgun		
-DIM_ResearchCategories	Name	Shield Generators		
-DIM_ResearchCategories	Name	Survey Sensors		
-DIM_ResearchCategories	Name	Thermal Sensors		
-DIM_ResearchCategories	Name	Transport & Industry		
-DIM_ResearchCategories	NoteField	Fire Control Range = Sensor Strength x Size x SQRT(Resolution) x EM Sensitivity x 10,000 km		
-DIM_ResearchCategories	NoteField	Fuel Modifier = Power Modifier ^2.5  (so 2x Power = 5.66x Fuel). Engines of 25 HS or greater with Power -50% or lower are classed as commercial		
-DIM_ResearchCategories	NoteField	Missile Drives are solid-fuelled. Because of their one-use nature, they have double the racial maximum power modification		
-DIM_ResearchCategories	NoteField	Sensor Range = Sensor Strength x Size x SQRT(Resolution) x EM Sensitivity x 10,000 km		
-DIM_ResearchCategories	NoteField	The fire control has a % chance to hit equal to (maximum range - target distance) / maximum range		
-DIM_ResearchCategories	RadioText	Target Tons Multiplier		
-DIM_ResearchField	FieldName	Biology / Genetics		
-DIM_ResearchField	FieldName	Component Creation		
-DIM_ResearchField	FieldName	Construction / Production		
-DIM_ResearchField	FieldName	Defensive Systems		
-DIM_ResearchField	FieldName	Direct Fire Weapons		
-DIM_ResearchField	FieldName	Ground Combat		
-DIM_ResearchField	FieldName	Logistics		
-DIM_ResearchField	FieldName	Missiles		
-DIM_ResearchField	FieldName	Power and Propulsion		
-DIM_ResearchField	FieldName	Sensors and Control Systems		
+DIM_ResearchCategories	Name	Active Sensors	主动传感器	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Basic Systems	基础系统	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	CIWS	CIWS 近防武器系统	显示文本，沿用对照表中唯一译文
+DIM_ResearchCategories	Name	Cloaking Device	隐蔽装置	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Decoy Launcher	诱饵发射器	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Direct Fire Control	光束火控	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Electronic Warfare	电子战	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	EM Detection Sensors	电磁探测传感器	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Engines	引擎	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Fighter Pod Bay	战斗舱机库	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Gauss Cannon	高斯炮	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	General Science	基础科学	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	High Power Microwave	高功率微波	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Industry	工业	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Jump Drives	跃迁引擎	显示文本，沿用对照表中唯一译文
+DIM_ResearchCategories	Name	Lasers	激光	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Magazine	弹仓	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Meson Cannon	介子炮	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Miscellaneous Components	杂项组件	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Missile Engines	导弹引擎	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Missile Fire Control	导弹火控	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Missile Launchers	导弹发射器	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Missiles	导弹	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	New Species	新物种	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Particle Beam	粒子束	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Planetary Combat	行星战	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Plasma Carronade	等离子炮	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Power Plants	发电机组	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Railgun	磁轨炮	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Shield Generators	护盾发生器	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Survey Sensors	勘测传感器	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Thermal Sensors	热传感器	显示文本，沿用已核对译文
+DIM_ResearchCategories	Name	Transport & Industry	运输与工业	显示文本，沿用已核对译文
+DIM_ResearchCategories	NoteField	Fire Control Range = Sensor Strength x Size x SQRT(Resolution) x EM Sensitivity x 10,000 km		显示文本，待译
+DIM_ResearchCategories	NoteField	Fuel Modifier = Power Modifier ^2.5  (so 2x Power = 5.66x Fuel). Engines of 25 HS or greater with Power -50% or lower are classed as commercial		显示文本，待译
+DIM_ResearchCategories	NoteField	Missile Drives are solid-fuelled. Because of their one-use nature, they have double the racial maximum power modification		显示文本，待译
+DIM_ResearchCategories	NoteField	Sensor Range = Sensor Strength x Size x SQRT(Resolution) x EM Sensitivity x 10,000 km		显示文本，待译
+DIM_ResearchCategories	NoteField	The fire control has a % chance to hit equal to (maximum range - target distance) / maximum range		显示文本，待译
+DIM_ResearchCategories	RadioText	Target Tons Multiplier	目标吨位倍数	显示文本，沿用界面对照表中的唯一译文
+DIM_ResearchField	FieldName	Biology / Genetics	生物学 / 遗传学	显示文本，沿用已核对译文
+DIM_ResearchField	FieldName	Component Creation	组件创建	显示文本，沿用已核对译文
+DIM_ResearchField	FieldName	Construction / Production	建造 / 生产	显示文本，沿用已核对译文
+DIM_ResearchField	FieldName	Defensive Systems	防御系统	显示文本，沿用已核对译文
+DIM_ResearchField	FieldName	Direct Fire Weapons	直射武器	显示文本，沿用已核对译文
+DIM_ResearchField	FieldName	Ground Combat	地面战	显示文本，沿用已核对译文
+DIM_ResearchField	FieldName	Logistics	后勤	显示文本，沿用已核对译文
+DIM_ResearchField	FieldName	Missiles	导弹	显示文本，沿用已核对译文
+DIM_ResearchField	FieldName	Power and Propulsion	动力与推进	显示文本，沿用已核对译文
+DIM_ResearchField	FieldName	Sensors and Control Systems	传感器与控制系统	显示文本，沿用已核对译文

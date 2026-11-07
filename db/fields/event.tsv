@@ -1,249 +1,249 @@
 table	field	english	chinese	reason
-DIM_EventType	Description	  Message Continued		
-DIM_EventType	Description	Accessibility Increase		
-DIM_EventType	Description	Acid Burn		
-DIM_EventType	Description	Acid Damage 		
-DIM_EventType	Description	Admin Command Update		
-DIM_EventType	Description	Administrator Experience		
-DIM_EventType	Description	Aether Gate Detected		
-DIM_EventType	Description	Alien Communication		
-DIM_EventType	Description	Alien Salvage		
-DIM_EventType	Description	All Minerals Exhausted		
-DIM_EventType	Description	Allied Contact Update		
-DIM_EventType	Description	Allied Contact Update - AC		
-DIM_EventType	Description	AMM Point Defence		
-DIM_EventType	Description	Ancient Construct		
-DIM_EventType	Description	Artifacts Recovered		
-DIM_EventType	Description	Attack vs GUC Summary		
-DIM_EventType	Description	Attacked By AA Fire		
-DIM_EventType	Description	Attacked By Energy Weapons		
-DIM_EventType	Description	Attacked By Missiles		
-DIM_EventType	Description	Attacked by STO		
-DIM_EventType	Description	Boarding Attempt		
-DIM_EventType	Description	Boarding Combat		
-DIM_EventType	Description	Boarding Damage 		
-DIM_EventType	Description	Boarding Underway		
-DIM_EventType	Description	Bombardment Summary		
-DIM_EventType	Description	Breakthrough Achieved		
-DIM_EventType	Description	Breathable Atmosphere		
-DIM_EventType	Description	Chance To Hit		
-DIM_EventType	Description	Change to Dominant Terrain		
-DIM_EventType	Description	Civilian Activity		
-DIM_EventType	Description	Civilian Construction		
-DIM_EventType	Description	Civilian Contact		
-DIM_EventType	Description	Civilian Contact Update		
-DIM_EventType	Description	Civilian Mining Colony		
-DIM_EventType	Description	Civilian Ship Scrapped		
-DIM_EventType	Description	Collaterall Damage		
-DIM_EventType	Description	Command Assignment		
-DIM_EventType	Description	Commander Experience		
-DIM_EventType	Description	Commander Health		
-DIM_EventType	Description	Commander Promoted		
-DIM_EventType	Description	Commander Restored		
-DIM_EventType	Description	Commander Unassigned		
-DIM_EventType	Description	Commander Update		
-DIM_EventType	Description	Communication		
-DIM_EventType	Description	Components Scrapped		
-DIM_EventType	Description	Conditional Order		
-DIM_EventType	Description	Conversion Halted		
-DIM_EventType	Description	Crew Escape		
-DIM_EventType	Description	Crew Grade Increase		
-DIM_EventType	Description	Crew Losses		
-DIM_EventType	Description	Crew Morale Falling		
-DIM_EventType	Description	Damage Control		
-DIM_EventType	Description	Damage Report		
-DIM_EventType	Description	Damage Summary		
-DIM_EventType	Description	Deployment Time Exceeded		
-DIM_EventType	Description	Diplomacy		
-DIM_EventType	Description	Element Loss Summary		
-DIM_EventType	Description	Element vs GUC Report		
-DIM_EventType	Description	Empire in Debt		
-DIM_EventType	Description	Energy Point Defence		
-DIM_EventType	Description	Exceptional New Officer		
-DIM_EventType	Description	Factory Restored		
-DIM_EventType	Description	Fighter Combat - Energy		
-DIM_EventType	Description	Fighter Combat - Missile		
-DIM_EventType	Description	Fighter Point Defence		
-DIM_EventType	Description	Fire Delay		
-DIM_EventType	Description	Fleet Message		
-DIM_EventType	Description	Fleet PD Summary		
-DIM_EventType	Description	Fleet Transfer		
-DIM_EventType	Description	Formation Attack Summary		
-DIM_EventType	Description	Formation Loss Summary		
-DIM_EventType	Description	Formation Training Task		
-DIM_EventType	Description	Friendly Contact Update		
-DIM_EventType	Description	Friendly Contact Update - AC		
-DIM_EventType	Description	Fuel Exhausted		
-DIM_EventType	Description	Fuel Shortage		
-DIM_EventType	Description	Game Saved		
-DIM_EventType	Description	Gas Removed		
-DIM_EventType	Description	Geo Survey Complete		
-DIM_EventType	Description	Geological Survey Data		
-DIM_EventType	Description	GPD Contact Lost		
-DIM_EventType	Description	Ground Attack Summary		
-DIM_EventType	Description	Ground Combat Intelligence		
-DIM_EventType	Description	Ground Combat Update		
-DIM_EventType	Description	Ground Defence Summary		
-DIM_EventType	Description	Ground Support Reassigned		
-DIM_EventType	Description	Ground Survey Potential		
-DIM_EventType	Description	Ground Unit Unloaded		
-DIM_EventType	Description	Ground Units Scrapped		
-DIM_EventType	Description	GUC vs GUC Summary		
-DIM_EventType	Description	Harvester Capacity		
-DIM_EventType	Description	Hostile Contact Update		
-DIM_EventType	Description	Ice Sheet Frozen		
-DIM_EventType	Description	Ice Sheet Melted		
-DIM_EventType	Description	Illegal Order		
-DIM_EventType	Description	Inactive Lab		
-DIM_EventType	Description	Incomplete Salvage		
-DIM_EventType	Description	Incorrect Ordnance		
-DIM_EventType	Description	Increment Adjustment		
-DIM_EventType	Description	Installation Scrapped		
-DIM_EventType	Description	Installations Salvaged		
-DIM_EventType	Description	Insufficient Fuel		
-DIM_EventType	Description	Insufficient JGC		
-DIM_EventType	Description	Insufficient Population		
-DIM_EventType	Description	Intact Ship Salvaged		
-DIM_EventType	Description	Intelligence Update		
-DIM_EventType	Description	Interrogation Update		
-DIM_EventType	Description	Invalid Unload System		
-DIM_EventType	Description	Jump Gate Underway		
-DIM_EventType	Description	Jump Point Detected		
-DIM_EventType	Description	Life Pod Expired		
-DIM_EventType	Description	Life Support Failure		
-DIM_EventType	Description	Lifepods Launched		
-DIM_EventType	Description	Light Naval Construction		
-DIM_EventType	Description	Low Fuel		
-DIM_EventType	Description	Maintenance Failure		
-DIM_EventType	Description	Maintenance Problem		
-DIM_EventType	Description	Maximum Fleet Training		
-DIM_EventType	Description	Medal Awarded		
-DIM_EventType	Description	Mine Restored		
-DIM_EventType	Description	Mineral Exhausted		
-DIM_EventType	Description	Mineral Packet Contact		
-DIM_EventType	Description	Mineral Shortage		
-DIM_EventType	Description	Minerals Located		
-DIM_EventType	Description	Mining Colony Update		
-DIM_EventType	Description	Missile Launch		
-DIM_EventType	Description	Missile Self-destruct		
-DIM_EventType	Description	Missile vs Ship		
-DIM_EventType	Description	Missiles Lost		
-DIM_EventType	Description	Morale Increase		
-DIM_EventType	Description	Neutral Contact Update		
-DIM_EventType	Description	Neutral Contact Update - AC		
-DIM_EventType	Description	New Administrator		
-DIM_EventType	Description	New Alien Class		
-DIM_EventType	Description	New Alien Ground Unit		
-DIM_EventType	Description	New Alien Population		
-DIM_EventType	Description	New Alien Race		
-DIM_EventType	Description	New Allied Alien Ship		
-DIM_EventType	Description	New Allied Contact		
-DIM_EventType	Description	New Combat Contact		
-DIM_EventType	Description	New Friendly Alien Ship		
-DIM_EventType	Description	New Friendly Contact		
-DIM_EventType	Description	New Ground Force Officer		
-DIM_EventType	Description	New Hostile Alien Ship		
-DIM_EventType	Description	New Hostile Contact		
-DIM_EventType	Description	New Mineral Deposit		
-DIM_EventType	Description	New Naval Officer		
-DIM_EventType	Description	New Neutral Alien Ship		
-DIM_EventType	Description	New Neutral Contact		
-DIM_EventType	Description	New Scientist		
-DIM_EventType	Description	New Shipping Line		
-DIM_EventType	Description	New System Discovered		
-DIM_EventType	Description	New Wreck Detected		
-DIM_EventType	Description	No Event Type		
-DIM_EventType	Description	No Freighter Overhaul		
-DIM_EventType	Description	No Missile Assigned		
-DIM_EventType	Description	No Replacements Required		
-DIM_EventType	Description	No Spare Parts		
-DIM_EventType	Description	Orbital Support Reassigned		
-DIM_EventType	Description	Orbital Support Summary		
-DIM_EventType	Description	Orbital vs GUC Summary		
-DIM_EventType	Description	Orders Assigned		
-DIM_EventType	Description	Orders Completed		
-DIM_EventType	Description	Orders Not Possible		
-DIM_EventType	Description	Out of Ammo		
-DIM_EventType	Description	Outstanding New Officer		
-DIM_EventType	Description	Overallocation of Labs		
-DIM_EventType	Description	Overhaul Clock Reduced		
-DIM_EventType	Description	Overhaul Complete		
-DIM_EventType	Description	Overkill		
-DIM_EventType	Description	Pickup Failed		
-DIM_EventType	Description	Planet Destroyed		
-DIM_EventType	Description	Planet Looted		
-DIM_EventType	Description	Pop Status Change		
-DIM_EventType	Description	Population PD Summary		
-DIM_EventType	Description	POWs Rescued		
-DIM_EventType	Description	Probe Out of Fuel		
-DIM_EventType	Description	Production		
-DIM_EventType	Description	Production Started		
-DIM_EventType	Description	Promising New Officer		
-DIM_EventType	Description	Ramming Attempt		
-DIM_EventType	Description	Recovery Failure		
-DIM_EventType	Description	Reparations		
-DIM_EventType	Description	Replacement Unit Disbanded		
-DIM_EventType	Description	Research Completed		
-DIM_EventType	Description	Research Started		
-DIM_EventType	Description	Retirement		
-DIM_EventType	Description	Ruins Exploited		
-DIM_EventType	Description	Ruins Located		
-DIM_EventType	Description	Scientist Experience		
-DIM_EventType	Description	Search and Rescue		
-DIM_EventType	Description	Secondary Explosion		
-DIM_EventType	Description	Senior Officer Required		
-DIM_EventType	Description	Shield Deactivation		
-DIM_EventType	Description	Shield Recharge		
-DIM_EventType	Description	Ship Combat - Energy		
-DIM_EventType	Description	Ship Combat - Missile		
-DIM_EventType	Description	Ship Construction		
-DIM_EventType	Description	Ship Destroyed		
-DIM_EventType	Description	Ship Overcrowded		
-DIM_EventType	Description	Ship Rammed		
-DIM_EventType	Description	Ship Refit		
-DIM_EventType	Description	Ship Repair		
-DIM_EventType	Description	Ship Scrapped		
-DIM_EventType	Description	Ship Surrender		
-DIM_EventType	Description	Ship vs GUC Report		
-DIM_EventType	Description	Shipyard Modified		
-DIM_EventType	Description	Shipyard Task Abandoned		
-DIM_EventType	Description	Shore Leave Complete		
-DIM_EventType	Description	STO Combat		
-DIM_EventType	Description	STO Point Defence		
-DIM_EventType	Description	Stockpile Warning		
-DIM_EventType	Description	Successful Espionage		
-DIM_EventType	Description	Successful Ramming Attack		
-DIM_EventType	Description	Successful Repair		
-DIM_EventType	Description	System Damaged		
-DIM_EventType	Description	System Destroyed		
-DIM_EventType	Description	System Intact		
-DIM_EventType	Description	System Surveyed		
-DIM_EventType	Description	Target Hit		
-DIM_EventType	Description	Target Lost		
-DIM_EventType	Description	Target Missed		
-DIM_EventType	Description	Target Out of Range		
-DIM_EventType	Description	Targeting		
-DIM_EventType	Description	Targeting Problem		
-DIM_EventType	Description	Team Skill		
-DIM_EventType	Description	Tech Data Learned		
-DIM_EventType	Description	Tech Data Scanned		
-DIM_EventType	Description	Tech Downloaded		
-DIM_EventType	Description	Terraforming Report		
-DIM_EventType	Description	Test Data		
-DIM_EventType	Description	Thermal Contact Lost		
-DIM_EventType	Description	Time Check		
-DIM_EventType	Description	Tractor(s) Released		
-DIM_EventType	Description	Training not Possible		
-DIM_EventType	Description	Training Task Abandoned		
-DIM_EventType	Description	Transit Delay		
-DIM_EventType	Description	Transit Failure		
-DIM_EventType	Description	Unassigned Experience		
-DIM_EventType	Description	Unit Trained		
-DIM_EventType	Description	Unrest Decreasing		
-DIM_EventType	Description	Unrest Increasing		
-DIM_EventType	Description	Weapon Recharging		
-DIM_EventType	Description	Weapon Reloading		
-DIM_EventType	Description	Wreck Components		
-DIM_EventType	Description	Wreck Contact		
-DIM_EventType	Description	Wreck Salvaged		
-DIM_EventType	Description	Xenoarchaeology Research		
+DIM_EventType	Description	  Message Continued	  消息续	显示文本，沿用已核对译文
+DIM_EventType	Description	Accessibility Increase	可采度提升	显示文本，沿用已核对译文
+DIM_EventType	Description	Acid Burn	酸液灼伤	显示文本，沿用已核对译文
+DIM_EventType	Description	Acid Damage 	酸液伤害 	显示文本，沿用已核对译文
+DIM_EventType	Description	Admin Command Update	行政司令部更新	显示文本，沿用已核对译文
+DIM_EventType	Description	Administrator Experience	行政官经验	显示文本，沿用已核对译文
+DIM_EventType	Description	Aether Gate Detected		显示文本，待译
+DIM_EventType	Description	Alien Communication	外星通讯	显示文本，沿用已核对译文
+DIM_EventType	Description	Alien Salvage	外星打捞	显示文本，沿用已核对译文
+DIM_EventType	Description	All Minerals Exhausted		显示文本，待译
+DIM_EventType	Description	Allied Contact Update	结盟接触更新	显示文本，沿用已核对译文
+DIM_EventType	Description	Allied Contact Update - AC	结盟接触更新 - AC	显示文本，沿用已核对译文
+DIM_EventType	Description	AMM Point Defence	反导点防御	显示文本，沿用已核对译文
+DIM_EventType	Description	Ancient Construct	远古构造体	显示文本，沿用已核对译文
+DIM_EventType	Description	Artifacts Recovered		显示文本，待译
+DIM_EventType	Description	Attack vs GUC Summary	对 GUC 攻击概要	显示文本，沿用已核对译文
+DIM_EventType	Description	Attacked By AA Fire	遭受防空火力攻击	显示文本，沿用已核对译文
+DIM_EventType	Description	Attacked By Energy Weapons	遭受能量武器攻击	显示文本，沿用已核对译文
+DIM_EventType	Description	Attacked By Missiles	遭受导弹攻击	显示文本，沿用已核对译文
+DIM_EventType	Description	Attacked by STO	遭受对轨炮台攻击	显示文本，沿用已核对译文
+DIM_EventType	Description	Boarding Attempt	登舰尝试	显示文本，沿用已核对译文
+DIM_EventType	Description	Boarding Combat	登舰战斗	显示文本，沿用已核对译文
+DIM_EventType	Description	Boarding Damage 	登舰伤害 	显示文本，沿用已核对译文
+DIM_EventType	Description	Boarding Underway	登舰进行中	显示文本，沿用已核对译文
+DIM_EventType	Description	Bombardment Summary	轰击概要	显示文本，沿用已核对译文
+DIM_EventType	Description	Breakthrough Achieved	取得突破	显示文本，沿用已核对译文
+DIM_EventType	Description	Breathable Atmosphere	可呼吸大气	显示文本，沿用已核对译文
+DIM_EventType	Description	Chance To Hit	命中率	显示文本，沿用已核对译文
+DIM_EventType	Description	Change to Dominant Terrain	主导地形变化	显示文本，沿用已核对译文
+DIM_EventType	Description	Civilian Activity	民用活动	显示文本，沿用已核对译文
+DIM_EventType	Description	Civilian Construction	民用建造	显示文本，沿用已核对译文
+DIM_EventType	Description	Civilian Contact	民用接触	显示文本，沿用已核对译文
+DIM_EventType	Description	Civilian Contact Update	民用接触更新	显示文本，沿用已核对译文
+DIM_EventType	Description	Civilian Mining Colony	民用采矿殖民地	显示文本，沿用已核对译文
+DIM_EventType	Description	Civilian Ship Scrapped	民用舰船已拆解	显示文本，沿用已核对译文
+DIM_EventType	Description	Collaterall Damage	附带伤害	显示文本，沿用已核对译文
+DIM_EventType	Description	Command Assignment	指挥任职	显示文本，沿用已核对译文
+DIM_EventType	Description	Commander Experience	指挥官经验	显示文本，沿用已核对译文
+DIM_EventType	Description	Commander Health	指挥官健康	显示文本，沿用已核对译文
+DIM_EventType	Description	Commander Promoted	指挥官晋升	显示文本，沿用已核对译文
+DIM_EventType	Description	Commander Restored	指挥官恢复	显示文本，沿用已核对译文
+DIM_EventType	Description	Commander Unassigned	指挥官解职	显示文本，沿用已核对译文
+DIM_EventType	Description	Commander Update	指挥官更新	显示文本，沿用已核对译文
+DIM_EventType	Description	Communication	通讯	显示文本，沿用已核对译文
+DIM_EventType	Description	Components Scrapped	组件已拆解	显示文本，沿用已核对译文
+DIM_EventType	Description	Conditional Order	条件命令	显示文本，沿用已核对译文
+DIM_EventType	Description	Conversion Halted	转换暂停	显示文本，沿用已核对译文
+DIM_EventType	Description	Crew Escape	船员逃生	显示文本，沿用已核对译文
+DIM_EventType	Description	Crew Grade Increase	船员评分提升	显示文本，沿用已核对译文
+DIM_EventType	Description	Crew Losses	船员损失	显示文本，沿用已核对译文
+DIM_EventType	Description	Crew Morale Falling	船员士气下降	显示文本，沿用已核对译文
+DIM_EventType	Description	Damage Control	损管	显示文本，沿用已核对译文
+DIM_EventType	Description	Damage Report	伤害报告	显示文本，沿用已核对译文
+DIM_EventType	Description	Damage Summary	伤害概要	显示文本，沿用已核对译文
+DIM_EventType	Description	Deployment Time Exceeded	超出部署时间	显示文本，沿用已核对译文
+DIM_EventType	Description	Diplomacy	外交	显示文本，沿用已核对译文
+DIM_EventType	Description	Element Loss Summary	分队损失概要	显示文本，沿用已核对译文
+DIM_EventType	Description	Element vs GUC Report	分队对 GUC 报告	显示文本，沿用已核对译文
+DIM_EventType	Description	Empire in Debt	帝国负债	显示文本，沿用已核对译文
+DIM_EventType	Description	Energy Point Defence	能量点防御	显示文本，沿用已核对译文
+DIM_EventType	Description	Exceptional New Officer	杰出新军官	显示文本，沿用已核对译文
+DIM_EventType	Description	Factory Restored	工厂恢复	显示文本，沿用已核对译文
+DIM_EventType	Description	Fighter Combat - Energy	战斗机战斗 - 能量	显示文本，沿用已核对译文
+DIM_EventType	Description	Fighter Combat - Missile	战斗机战斗 - 导弹	显示文本，沿用已核对译文
+DIM_EventType	Description	Fighter Point Defence	战斗机点防御	显示文本，沿用已核对译文
+DIM_EventType	Description	Fire Delay	射击延迟	显示文本，沿用已核对译文
+DIM_EventType	Description	Fleet Message	舰队消息	显示文本，沿用已核对译文
+DIM_EventType	Description	Fleet PD Summary	舰队点防御概要	显示文本，沿用已核对译文
+DIM_EventType	Description	Fleet Transfer	舰队转移	显示文本，沿用已核对译文
+DIM_EventType	Description	Formation Attack Summary	编队攻击概要	显示文本，沿用已核对译文
+DIM_EventType	Description	Formation Loss Summary	编队损失概要	显示文本，沿用已核对译文
+DIM_EventType	Description	Formation Training Task	编队训练任务	显示文本，沿用已核对译文
+DIM_EventType	Description	Friendly Contact Update	友方接触更新	显示文本，沿用已核对译文
+DIM_EventType	Description	Friendly Contact Update - AC	友方接触更新 - AC	显示文本，沿用已核对译文
+DIM_EventType	Description	Fuel Exhausted	燃料耗尽	显示文本，沿用已核对译文
+DIM_EventType	Description	Fuel Shortage	燃料短缺	显示文本，沿用已核对译文
+DIM_EventType	Description	Game Saved		显示文本，待译
+DIM_EventType	Description	Gas Removed	气体移除	显示文本，沿用已核对译文
+DIM_EventType	Description	Geo Survey Complete	地质勘测完成	显示文本，沿用已核对译文
+DIM_EventType	Description	Geological Survey Data	地质勘测数据	显示文本，沿用已核对译文
+DIM_EventType	Description	GPD Contact Lost	GPD 接触丢失	显示文本，沿用已核对译文
+DIM_EventType	Description	Ground Attack Summary	地面攻击概要	显示文本，沿用已核对译文
+DIM_EventType	Description	Ground Combat Intelligence	地面战斗情报	显示文本，沿用已核对译文
+DIM_EventType	Description	Ground Combat Update	地面战斗更新	显示文本，沿用已核对译文
+DIM_EventType	Description	Ground Defence Summary	地面防御概要	显示文本，沿用已核对译文
+DIM_EventType	Description	Ground Support Reassigned	地面支援已重新分配	显示文本，沿用已核对译文
+DIM_EventType	Description	Ground Survey Potential	地面勘测潜力	显示文本，沿用已核对译文
+DIM_EventType	Description	Ground Unit Unloaded	地面单位已卸载	显示文本，沿用已核对译文
+DIM_EventType	Description	Ground Units Scrapped	地面单位已拆解	显示文本，沿用已核对译文
+DIM_EventType	Description	GUC vs GUC Summary	GUC 对 GUC 概要	显示文本，沿用已核对译文
+DIM_EventType	Description	Harvester Capacity	采集器容量	显示文本，沿用已核对译文
+DIM_EventType	Description	Hostile Contact Update	敌对接触更新	显示文本，沿用已核对译文
+DIM_EventType	Description	Ice Sheet Frozen	冰盖冻结	显示文本，沿用已核对译文
+DIM_EventType	Description	Ice Sheet Melted	冰盖融化	显示文本，沿用已核对译文
+DIM_EventType	Description	Illegal Order	非法命令	显示文本，沿用已核对译文
+DIM_EventType	Description	Inactive Lab	实验室停用	显示文本，沿用已核对译文
+DIM_EventType	Description	Incomplete Salvage		显示文本，待译
+DIM_EventType	Description	Incorrect Ordnance	军械错误	显示文本，沿用已核对译文
+DIM_EventType	Description	Increment Adjustment	增量调整	显示文本，沿用已核对译文
+DIM_EventType	Description	Installation Scrapped	设施已拆解	显示文本，沿用已核对译文
+DIM_EventType	Description	Installations Salvaged	设施已打捞	显示文本，沿用已核对译文
+DIM_EventType	Description	Insufficient Fuel	燃料不足	显示文本，沿用已核对译文
+DIM_EventType	Description	Insufficient JGC	JGC 不足	显示文本，沿用已核对译文
+DIM_EventType	Description	Insufficient Population	人口不足	显示文本，沿用已核对译文
+DIM_EventType	Description	Intact Ship Salvaged	完整舰船已打捞	显示文本，沿用已核对译文
+DIM_EventType	Description	Intelligence Update	情报更新	显示文本，沿用已核对译文
+DIM_EventType	Description	Interrogation Update	审讯更新	显示文本，沿用已核对译文
+DIM_EventType	Description	Invalid Unload System	卸载星系无效	显示文本，沿用已核对译文
+DIM_EventType	Description	Jump Gate Underway	跃迁门建造中	显示文本，沿用已核对译文
+DIM_EventType	Description	Jump Point Detected	检测到跃迁点	显示文本，沿用已核对译文
+DIM_EventType	Description	Life Pod Expired	逃生舱失效	显示文本，沿用已核对译文
+DIM_EventType	Description	Life Support Failure	生命维持故障	显示文本，沿用已核对译文
+DIM_EventType	Description	Lifepods Launched	逃生舱已发射	显示文本，沿用已核对译文
+DIM_EventType	Description	Light Naval Construction		显示文本，待译
+DIM_EventType	Description	Low Fuel	燃料偏低	显示文本，沿用已核对译文
+DIM_EventType	Description	Maintenance Failure	维护故障	显示文本，沿用已核对译文
+DIM_EventType	Description	Maintenance Problem	维护问题	显示文本，沿用已核对译文
+DIM_EventType	Description	Maximum Fleet Training	舰队训练已达上限	显示文本，沿用已核对译文
+DIM_EventType	Description	Medal Awarded	授予勋章	显示文本，沿用已核对译文
+DIM_EventType	Description	Mine Restored	矿场已恢复	显示文本，沿用已核对译文
+DIM_EventType	Description	Mineral Exhausted	矿物枯竭	显示文本，沿用已核对译文
+DIM_EventType	Description	Mineral Packet Contact	矿物包接触	显示文本，沿用已核对译文
+DIM_EventType	Description	Mineral Shortage	矿物短缺	显示文本，沿用已核对译文
+DIM_EventType	Description	Minerals Located	发现矿物	显示文本，沿用已核对译文
+DIM_EventType	Description	Mining Colony Update		显示文本，待译
+DIM_EventType	Description	Missile Launch	导弹发射	显示文本，沿用已核对译文
+DIM_EventType	Description	Missile Self-destruct	导弹自毁	显示文本，沿用已核对译文
+DIM_EventType	Description	Missile vs Ship	导弹对舰船	显示文本，沿用已核对译文
+DIM_EventType	Description	Missiles Lost	导弹损失	显示文本，沿用已核对译文
+DIM_EventType	Description	Morale Increase	士气提升	显示文本，沿用已核对译文
+DIM_EventType	Description	Neutral Contact Update	中立接触更新	显示文本，沿用已核对译文
+DIM_EventType	Description	Neutral Contact Update - AC	中立接触更新 - AC	显示文本，沿用已核对译文
+DIM_EventType	Description	New Administrator	新行政官	显示文本，沿用已核对译文
+DIM_EventType	Description	New Alien Class	新外星舰级	显示文本，沿用已核对译文
+DIM_EventType	Description	New Alien Ground Unit	新外星地面单位	显示文本，沿用已核对译文
+DIM_EventType	Description	New Alien Population	新外星人口	显示文本，沿用已核对译文
+DIM_EventType	Description	New Alien Race	新外星种族	显示文本，沿用已核对译文
+DIM_EventType	Description	New Allied Alien Ship		显示文本，待译
+DIM_EventType	Description	New Allied Contact	新结盟接触	显示文本，沿用已核对译文
+DIM_EventType	Description	New Combat Contact	新战斗接触	显示文本，沿用已核对译文
+DIM_EventType	Description	New Friendly Alien Ship		显示文本，待译
+DIM_EventType	Description	New Friendly Contact	新友方接触	显示文本，沿用已核对译文
+DIM_EventType	Description	New Ground Force Officer	新地面部队军官	显示文本，沿用已核对译文
+DIM_EventType	Description	New Hostile Alien Ship		显示文本，待译
+DIM_EventType	Description	New Hostile Contact	新敌对接触	显示文本，沿用已核对译文
+DIM_EventType	Description	New Mineral Deposit	新矿藏	显示文本，沿用已核对译文
+DIM_EventType	Description	New Naval Officer	新海军军官	显示文本，沿用已核对译文
+DIM_EventType	Description	New Neutral Alien Ship		显示文本，待译
+DIM_EventType	Description	New Neutral Contact	新中立接触	显示文本，沿用已核对译文
+DIM_EventType	Description	New Scientist	新科学家	显示文本，沿用已核对译文
+DIM_EventType	Description	New Shipping Line	新航运公司	显示文本，沿用已核对译文
+DIM_EventType	Description	New System Discovered	发现新星系	显示文本，沿用已核对译文
+DIM_EventType	Description	New Wreck Detected	检测到新残骸	显示文本，沿用已核对译文
+DIM_EventType	Description	No Event Type	无事件类型	显示文本，沿用已核对译文
+DIM_EventType	Description	No Freighter Overhaul	货船无需大修	显示文本，沿用已核对译文
+DIM_EventType	Description	No Missile Assigned	未分配导弹	显示文本，沿用已核对译文
+DIM_EventType	Description	No Replacements Required	无需补充	显示文本，沿用已核对译文
+DIM_EventType	Description	No Spare Parts	无备件	显示文本，沿用已核对译文
+DIM_EventType	Description	Orbital Support Reassigned	轨道支援已重新分配	显示文本，沿用已核对译文
+DIM_EventType	Description	Orbital Support Summary	轨道支援概要	显示文本，沿用已核对译文
+DIM_EventType	Description	Orbital vs GUC Summary	轨道对 GUC 概要	显示文本，沿用已核对译文
+DIM_EventType	Description	Orders Assigned	命令已下达	显示文本，沿用已核对译文
+DIM_EventType	Description	Orders Completed	命令已完成	显示文本，沿用已核对译文
+DIM_EventType	Description	Orders Not Possible	命令无法执行	显示文本，沿用已核对译文
+DIM_EventType	Description	Out of Ammo	弹药耗尽	显示文本，沿用已核对译文
+DIM_EventType	Description	Outstanding New Officer	杰出新军官	显示文本，沿用已核对译文
+DIM_EventType	Description	Overallocation of Labs	实验室超额分配	显示文本，沿用已核对译文
+DIM_EventType	Description	Overhaul Clock Reduced	大修时间缩短	显示文本，沿用已核对译文
+DIM_EventType	Description	Overhaul Complete	大修完成	显示文本，沿用已核对译文
+DIM_EventType	Description	Overkill	过度杀伤	显示文本，沿用已核对译文
+DIM_EventType	Description	Pickup Failed	收取失败	显示文本，沿用已核对译文
+DIM_EventType	Description	Planet Destroyed	行星被摧毁	显示文本，沿用已核对译文
+DIM_EventType	Description	Planet Looted	行星被掠夺	显示文本，沿用已核对译文
+DIM_EventType	Description	Pop Status Change	人口状态变化	显示文本，沿用已核对译文
+DIM_EventType	Description	Population PD Summary	人口点防御概要	显示文本，沿用已核对译文
+DIM_EventType	Description	POWs Rescued	战俘获救	显示文本，沿用已核对译文
+DIM_EventType	Description	Probe Out of Fuel	探测器燃料耗尽	显示文本，沿用已核对译文
+DIM_EventType	Description	Production	产出	显示文本，沿用已核对译文
+DIM_EventType	Description	Production Started	生产开始	显示文本，沿用已核对译文
+DIM_EventType	Description	Promising New Officer	有潜力的新军官	显示文本，沿用已核对译文
+DIM_EventType	Description	Ramming Attempt	撞击尝试	显示文本，沿用已核对译文
+DIM_EventType	Description	Recovery Failure	回收失败	显示文本，沿用已核对译文
+DIM_EventType	Description	Reparations	赔款	显示文本，沿用已核对译文
+DIM_EventType	Description	Replacement Unit Disbanded	补充单位已解散	显示文本，沿用已核对译文
+DIM_EventType	Description	Research Completed	研究完成	显示文本，沿用已核对译文
+DIM_EventType	Description	Research Started	研究开始	显示文本，沿用已核对译文
+DIM_EventType	Description	Retirement	退役	显示文本，沿用已核对译文
+DIM_EventType	Description	Ruins Exploited	遗迹已开发	显示文本，沿用已核对译文
+DIM_EventType	Description	Ruins Located	发现遗迹	显示文本，沿用已核对译文
+DIM_EventType	Description	Scientist Experience	科学家经验	显示文本，沿用已核对译文
+DIM_EventType	Description	Search and Rescue	搜索与救援	显示文本，沿用已核对译文
+DIM_EventType	Description	Secondary Explosion	二次爆炸	显示文本，沿用已核对译文
+DIM_EventType	Description	Senior Officer Required	需要高级军官	显示文本，沿用已核对译文
+DIM_EventType	Description	Shield Deactivation	护盾停用	显示文本，沿用已核对译文
+DIM_EventType	Description	Shield Recharge	护盾充能	显示文本，沿用已核对译文
+DIM_EventType	Description	Ship Combat - Energy	舰船战斗 - 能量	显示文本，沿用已核对译文
+DIM_EventType	Description	Ship Combat - Missile	舰船战斗 - 导弹	显示文本，沿用已核对译文
+DIM_EventType	Description	Ship Construction	舰船建造	显示文本，沿用已核对译文
+DIM_EventType	Description	Ship Destroyed	舰船被摧毁	显示文本，沿用已核对译文
+DIM_EventType	Description	Ship Overcrowded	舰船过度拥挤	显示文本，沿用已核对译文
+DIM_EventType	Description	Ship Rammed	舰船遭撞击	显示文本，沿用已核对译文
+DIM_EventType	Description	Ship Refit	舰船改装	显示文本，沿用已核对译文
+DIM_EventType	Description	Ship Repair	舰船维修	显示文本，沿用已核对译文
+DIM_EventType	Description	Ship Scrapped	舰船拆解	显示文本，沿用已核对译文
+DIM_EventType	Description	Ship Surrender	舰船投降	显示文本，沿用已核对译文
+DIM_EventType	Description	Ship vs GUC Report	舰船对地面单位级别报告	显示文本，沿用已核对译文
+DIM_EventType	Description	Shipyard Modified	造船厂已修改	显示文本，沿用已核对译文
+DIM_EventType	Description	Shipyard Task Abandoned	造船厂任务已放弃	显示文本，沿用已核对译文
+DIM_EventType	Description	Shore Leave Complete	岸上休假结束	显示文本，沿用已核对译文
+DIM_EventType	Description	STO Combat	STO 战斗	显示文本，沿用已核对译文
+DIM_EventType	Description	STO Point Defence	STO 点防御	显示文本，沿用已核对译文
+DIM_EventType	Description	Stockpile Warning	库存警告	显示文本，沿用已核对译文
+DIM_EventType	Description	Successful Espionage	间谍活动成功	显示文本，沿用已核对译文
+DIM_EventType	Description	Successful Ramming Attack	撞击攻击成功	显示文本，沿用已核对译文
+DIM_EventType	Description	Successful Repair	维修成功	显示文本，沿用已核对译文
+DIM_EventType	Description	System Damaged	系统受损	显示文本，沿用已核对译文
+DIM_EventType	Description	System Destroyed	系统被摧毁	显示文本，沿用已核对译文
+DIM_EventType	Description	System Intact	系统完好	显示文本，沿用已核对译文
+DIM_EventType	Description	System Surveyed	星系已勘测	显示文本，沿用已核对译文
+DIM_EventType	Description	Target Hit	命中目标	显示文本，沿用已核对译文
+DIM_EventType	Description	Target Lost	目标丢失	显示文本，沿用已核对译文
+DIM_EventType	Description	Target Missed	未命中目标	显示文本，沿用已核对译文
+DIM_EventType	Description	Target Out of Range	目标超出射程	显示文本，沿用已核对译文
+DIM_EventType	Description	Targeting	瞄准中	显示文本，沿用已核对译文
+DIM_EventType	Description	Targeting Problem	瞄准问题	显示文本，沿用已核对译文
+DIM_EventType	Description	Team Skill	团队技能	显示文本，沿用已核对译文
+DIM_EventType	Description	Tech Data Learned	已获知科技数据	显示文本，沿用已核对译文
+DIM_EventType	Description	Tech Data Scanned	已扫描科技数据	显示文本，沿用已核对译文
+DIM_EventType	Description	Tech Downloaded	科技已下载	显示文本，沿用已核对译文
+DIM_EventType	Description	Terraforming Report	地形改造报告	显示文本，沿用已核对译文
+DIM_EventType	Description	Test Data	测试数据	显示文本，沿用已核对译文
+DIM_EventType	Description	Thermal Contact Lost	热信号接触丢失	显示文本，沿用已核对译文
+DIM_EventType	Description	Time Check	时间检查	显示文本，沿用已核对译文
+DIM_EventType	Description	Tractor(s) Released	牵引光束已释放	显示文本，沿用已核对译文
+DIM_EventType	Description	Training not Possible	无法训练	显示文本，沿用已核对译文
+DIM_EventType	Description	Training Task Abandoned	训练任务已放弃	显示文本，沿用已核对译文
+DIM_EventType	Description	Transit Delay	过境延迟	显示文本，沿用已核对译文
+DIM_EventType	Description	Transit Failure	过境失败	显示文本，沿用已核对译文
+DIM_EventType	Description	Unassigned Experience	未分配经验	显示文本，沿用已核对译文
+DIM_EventType	Description	Unit Trained	单位已训练	显示文本，沿用已核对译文
+DIM_EventType	Description	Unrest Decreasing	动乱下降	显示文本，沿用已核对译文
+DIM_EventType	Description	Unrest Increasing	动乱上升	显示文本，沿用已核对译文
+DIM_EventType	Description	Weapon Recharging	武器充能中	显示文本，沿用已核对译文
+DIM_EventType	Description	Weapon Reloading	武器装填中	显示文本，沿用已核对译文
+DIM_EventType	Description	Wreck Components	残骸组件	显示文本，沿用已核对译文
+DIM_EventType	Description	Wreck Contact	残骸接触	显示文本，沿用已核对译文
+DIM_EventType	Description	Wreck Salvaged	残骸已打捞	显示文本，沿用已核对译文
+DIM_EventType	Description	Xenoarchaeology Research		显示文本，待译

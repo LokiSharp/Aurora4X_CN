@@ -1,155 +1,155 @@
 table	field	english	chinese	reason
-DIM_TraitsList	Name	Academic		
-DIM_TraitsList	Name	Adventurous		
-DIM_TraitsList	Name	Aggressive		
-DIM_TraitsList	Name	Agreeable		
-DIM_TraitsList	Name	Ambitious		
-DIM_TraitsList	Name	Analytical		
-DIM_TraitsList	Name	Apolitical		
-DIM_TraitsList	Name	Arrogant		
-DIM_TraitsList	Name	Astronomy Geek		
-DIM_TraitsList	Name	Atheist		
-DIM_TraitsList	Name	Attractive		
-DIM_TraitsList	Name	Authoritarian		
-DIM_TraitsList	Name	Averse to risk		
-DIM_TraitsList	Name	Born Leader		
-DIM_TraitsList	Name	Callous		
-DIM_TraitsList	Name	Calm		
-DIM_TraitsList	Name	Candid		
-DIM_TraitsList	Name	Capricious		
-DIM_TraitsList	Name	Cautious		
-DIM_TraitsList	Name	Cheerful		
-DIM_TraitsList	Name	Cold manner		
-DIM_TraitsList	Name	Combative		
-DIM_TraitsList	Name	Complacent		
-DIM_TraitsList	Name	Conscientious		
-DIM_TraitsList	Name	Conservative		
-DIM_TraitsList	Name	Contrarian		
-DIM_TraitsList	Name	Courageous		
-DIM_TraitsList	Name	Courteous		
-DIM_TraitsList	Name	Cowardly		
-DIM_TraitsList	Name	Debonaire		
-DIM_TraitsList	Name	Decisive		
-DIM_TraitsList	Name	Delegates easily		
-DIM_TraitsList	Name	Delusional		
-DIM_TraitsList	Name	Determined		
-DIM_TraitsList	Name	Disciplined		
-DIM_TraitsList	Name	Dishonest		
-DIM_TraitsList	Name	Disorganised		
-DIM_TraitsList	Name	Dispassionate		
-DIM_TraitsList	Name	Distant		
-DIM_TraitsList	Name	Doesn't accept change easily		
-DIM_TraitsList	Name	Dynamic		
-DIM_TraitsList	Name	Easily confused		
-DIM_TraitsList	Name	Egomaniac		
-DIM_TraitsList	Name	Embraces change		
-DIM_TraitsList	Name	Energetic		
-DIM_TraitsList	Name	Enterprising		
-DIM_TraitsList	Name	Enthusiastic		
-DIM_TraitsList	Name	Faith in others		
-DIM_TraitsList	Name	Flexible and Pragmatic		
-DIM_TraitsList	Name	Focused		
-DIM_TraitsList	Name	Follows orders without question		
-DIM_TraitsList	Name	Friendly		
-DIM_TraitsList	Name	Gifted		
-DIM_TraitsList	Name	Gloomy		
-DIM_TraitsList	Name	Good judge of character		
-DIM_TraitsList	Name	Good motivator		
-DIM_TraitsList	Name	Highly educated		
-DIM_TraitsList	Name	History Buff		
-DIM_TraitsList	Name	Honest		
-DIM_TraitsList	Name	Humble		
-DIM_TraitsList	Name	Hunter		
-DIM_TraitsList	Name	Ignorant		
-DIM_TraitsList	Name	Imaginative		
-DIM_TraitsList	Name	Impatient		
-DIM_TraitsList	Name	Impoverished		
-DIM_TraitsList	Name	Inconsiderate		
-DIM_TraitsList	Name	Indecisive		
-DIM_TraitsList	Name	Indifferent		
-DIM_TraitsList	Name	Inflexible and Dogmatic		
-DIM_TraitsList	Name	Innovative		
-DIM_TraitsList	Name	Insightful		
-DIM_TraitsList	Name	Insubordinate		
-DIM_TraitsList	Name	Intolerant		
-DIM_TraitsList	Name	Jealous		
-DIM_TraitsList	Name	Lack of self-esteem		
-DIM_TraitsList	Name	Lacks communication skills		
-DIM_TraitsList	Name	Lazy		
-DIM_TraitsList	Name	Listless		
-DIM_TraitsList	Name	Malicious		
-DIM_TraitsList	Name	Many social interests		
-DIM_TraitsList	Name	Martial Artist		
-DIM_TraitsList	Name	Mathematician		
-DIM_TraitsList	Name	Methodical		
-DIM_TraitsList	Name	Modest		
-DIM_TraitsList	Name	Motivated		
-DIM_TraitsList	Name	Narcissistic		
-DIM_TraitsList	Name	Nature Buff		
-DIM_TraitsList	Name	Nepotistic		
-DIM_TraitsList	Name	Nervous		
-DIM_TraitsList	Name	Neurotic		
-DIM_TraitsList	Name	No faith in others		
-DIM_TraitsList	Name	No outside interests		
-DIM_TraitsList	Name	Objective		
-DIM_TraitsList	Name	Observant		
-DIM_TraitsList	Name	Optimistic		
-DIM_TraitsList	Name	Organised		
-DIM_TraitsList	Name	Paranoid		
-DIM_TraitsList	Name	Partisan		
-DIM_TraitsList	Name	Patient		
-DIM_TraitsList	Name	Personable		
-DIM_TraitsList	Name	Pessimistic		
-DIM_TraitsList	Name	Philosophy Buff		
-DIM_TraitsList	Name	Poor Family		
-DIM_TraitsList	Name	Poor judge of character		
-DIM_TraitsList	Name	Problem-solver		
-DIM_TraitsList	Name	Professional		
-DIM_TraitsList	Name	Psychological problems		
-DIM_TraitsList	Name	Punctual		
-DIM_TraitsList	Name	Reliable		
-DIM_TraitsList	Name	Religious		
-DIM_TraitsList	Name	Resentful		
-DIM_TraitsList	Name	Resourceful		
-DIM_TraitsList	Name	Results-oriented		
-DIM_TraitsList	Name	Risk-taker		
-DIM_TraitsList	Name	Rude		
-DIM_TraitsList	Name	Science Fiction Buff		
-DIM_TraitsList	Name	Self-confident		
-DIM_TraitsList	Name	Sincere		
-DIM_TraitsList	Name	Skilled Orator		
-DIM_TraitsList	Name	Strange Medical Condition		
-DIM_TraitsList	Name	Stubborn		
-DIM_TraitsList	Name	Subjective		
-DIM_TraitsList	Name	Substance Abuse		
-DIM_TraitsList	Name	Superstitious		
-DIM_TraitsList	Name	Survivalist		
-DIM_TraitsList	Name	Suspicious		
-DIM_TraitsList	Name	Talented Musician		
-DIM_TraitsList	Name	Tolerant		
-DIM_TraitsList	Name	Tough		
-DIM_TraitsList	Name	Trusting		
-DIM_TraitsList	Name	Unappreciative		
-DIM_TraitsList	Name	Unattractive		
-DIM_TraitsList	Name	Uncaring		
-DIM_TraitsList	Name	Unforgiving		
-DIM_TraitsList	Name	Unimaginative		
-DIM_TraitsList	Name	Unkempt		
-DIM_TraitsList	Name	Unreliable		
-DIM_TraitsList	Name	Untrustworthy		
-DIM_TraitsList	Name	Vain		
-DIM_TraitsList	Name	Vegetarian		
-DIM_TraitsList	Name	War Game Enthusiast		
-DIM_TraitsList	Name	Warm		
-DIM_TraitsList	Name	Weak		
-DIM_TraitsList	Name	Wealthy		
-DIM_TraitsList	Name	Wealthy family		
-DIM_TraitsList	Name	Will not delegate		
-DIM_TraitsList	Name	Will not listen to advice		
-DIM_TraitsList	Name	Yields to others		
-DIM_TraitGroup	Description	Aggressive		
-DIM_TraitGroup	Description	Cautious		
-DIM_TraitGroup	Description	Cheerful / Good character		
-DIM_TraitGroup	Description	Cowardly / Malicious / Character Flaws		
-DIM_TraitGroup	Description	Inflexible / Uncaring		
-DIM_TraitGroup	Description	No effect on anything else		
+DIM_TraitsList	Name	Academic	学者型	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Adventurous	爱冒险	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Aggressive	好斗	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Agreeable	随和	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Ambitious	雄心勃勃	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Analytical	善于分析	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Apolitical	不问政治	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Arrogant	傲慢	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Astronomy Geek	天文迷	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Atheist	无神论者	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Attractive	有魅力	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Authoritarian	威权主义	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Averse to risk	厌恶风险	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Born Leader	天生领袖	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Callous	冷酷	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Calm	沉着	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Candid	坦率	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Capricious	反复无常	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Cautious	谨慎	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Cheerful	开朗	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Cold manner	态度冷淡	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Combative	好斗	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Complacent	自满	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Conscientious	尽责	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Conservative	保守	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Contrarian	爱唱反调	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Courageous	勇敢	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Courteous	有礼	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Cowardly	怯懦	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Debonaire	风度翩翩	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Decisive	果断	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Delegates easily	善于授权	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Delusional	妄想	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Determined	坚定	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Disciplined	守纪律	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Dishonest	不诚实	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Disorganised	无条理	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Dispassionate	冷静客观	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Distant	疏离	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Doesn't accept change easily	难以接受变化	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Dynamic	有活力	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Easily confused	容易困惑	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Egomaniac	自我中心	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Embraces change	乐于接受变化	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Energetic	精力充沛	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Enterprising	有进取心	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Enthusiastic	热情	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Faith in others	信任他人	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Flexible and Pragmatic	灵活务实	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Focused	专注	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Follows orders without question	绝对服从命令	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Friendly	友善	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Gifted	天赋异禀	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Gloomy	阴郁	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Good judge of character	善于识人	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Good motivator	善于激励	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Highly educated	学识渊博	显示文本，沿用已核对译文
+DIM_TraitsList	Name	History Buff	历史爱好者	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Honest	诚实	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Humble	谦逊	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Hunter	猎手	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Ignorant	无知	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Imaginative	富有想象力	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Impatient	急躁	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Impoverished	出身贫寒	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Inconsiderate	不顾他人	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Indecisive	优柔寡断	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Indifferent	冷漠	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Inflexible and Dogmatic	僵化教条	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Innovative	富有创新	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Insightful	洞察力强	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Insubordinate	不服从	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Intolerant	不宽容	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Jealous	嫉妒	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Lack of self-esteem	缺乏自信	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Lacks communication skills	缺乏沟通能力	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Lazy	懒散	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Listless	无精打采	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Malicious	心怀恶意	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Many social interests	社交兴趣广泛	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Martial Artist	武术家	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Mathematician	数学家	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Methodical	有条不紊	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Modest	谦虚	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Motivated	有干劲	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Narcissistic	自恋	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Nature Buff	自然爱好者	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Nepotistic	任人唯亲	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Nervous	紧张	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Neurotic	神经质	显示文本，沿用已核对译文
+DIM_TraitsList	Name	No faith in others	不信任他人	显示文本，沿用已核对译文
+DIM_TraitsList	Name	No outside interests	无业余爱好	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Objective	客观	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Observant	观察敏锐	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Optimistic	乐观	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Organised	有条理	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Paranoid	多疑偏执	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Partisan	派系倾向	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Patient	耐心	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Personable	亲和力强	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Pessimistic	悲观	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Philosophy Buff	哲学爱好者	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Poor Family	家境贫寒	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Poor judge of character	不善识人	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Problem-solver	善于解决问题	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Professional	专业	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Psychological problems	心理问题	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Punctual	守时	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Reliable	可靠	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Religious	虔诚	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Resentful	心怀怨恨	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Resourceful	足智多谋	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Results-oriented	注重结果	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Risk-taker	敢于冒险	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Rude	粗鲁	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Science Fiction Buff	科幻爱好者	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Self-confident	自信	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Sincere	真诚	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Skilled Orator	演说高手	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Strange Medical Condition	怪病	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Stubborn	固执	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Subjective	主观	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Substance Abuse	药物滥用	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Superstitious	迷信	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Survivalist	生存主义者	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Suspicious	多疑	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Talented Musician	音乐才华	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Tolerant	宽容	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Tough	坚韧	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Trusting	轻信	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Unappreciative	不知感恩	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Unattractive	其貌不扬	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Uncaring	漠不关心	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Unforgiving	不宽恕	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Unimaginative	想象力贫乏	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Unkempt	不修边幅	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Unreliable	不可靠	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Untrustworthy	不值得信任	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Vain	虚荣	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Vegetarian	素食主义者	显示文本，沿用已核对译文
+DIM_TraitsList	Name	War Game Enthusiast	兵棋爱好者	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Warm	热情	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Weak	体弱	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Wealthy	富有	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Wealthy family	富裕家庭	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Will not delegate	不愿授权	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Will not listen to advice	不听劝告	显示文本，沿用已核对译文
+DIM_TraitsList	Name	Yields to others	迁就他人	显示文本，沿用已核对译文
+DIM_TraitGroup	Description	Aggressive	好斗	显示文本，沿用已核对译文
+DIM_TraitGroup	Description	Cautious	谨慎	显示文本，沿用已核对译文
+DIM_TraitGroup	Description	Cheerful / Good character	开朗 / 品格良好	显示文本，沿用已核对译文
+DIM_TraitGroup	Description	Cowardly / Malicious / Character Flaws	懦弱 / 阴险 / 性格缺陷	显示文本，沿用已核对译文
+DIM_TraitGroup	Description	Inflexible / Uncaring	固执 / 冷漠	显示文本，沿用已核对译文
+DIM_TraitGroup	Description	No effect on anything else	对其他方面无影响	显示文本，沿用已核对译文

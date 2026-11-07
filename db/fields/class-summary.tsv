@@ -1,10 +1,10 @@
 table	field	english	chinese	reason
-DIM_ClassSummaryType	Description	Combat - Beam		
-DIM_ClassSummaryType	Description	Combat - Missile		
-DIM_ClassSummaryType	Description	Defence		
-DIM_ClassSummaryType	Description	Essential Systems		
-DIM_ClassSummaryType	Description	Other		
-DIM_ClassSummaryType	Description	Production		
-DIM_ClassSummaryType	Description	Propulsion		
-DIM_ClassSummaryType	Description	Sensor Systems		
-DIM_ClassSummaryType	Description	Transport and Logistics		
+DIM_ClassSummaryType	Description	Combat - Beam	战斗 - 光束	显示文本，沿用已核对译文
+DIM_ClassSummaryType	Description	Combat - Missile	战斗 - 导弹	显示文本，沿用已核对译文
+DIM_ClassSummaryType	Description	Defence	防御	显示文本，沿用已核对译文
+DIM_ClassSummaryType	Description	Essential Systems	关键系统	显示文本，沿用已核对译文
+DIM_ClassSummaryType	Description	Other	其他	显示文本，沿用已核对译文
+DIM_ClassSummaryType	Description	Production	产出	显示文本，沿用已核对译文
+DIM_ClassSummaryType	Description	Propulsion	推进系统	显示文本，沿用已核对译文
+DIM_ClassSummaryType	Description	Sensor Systems	传感器系统	显示文本，沿用已核对译文
+DIM_ClassSummaryType	Description	Transport and Logistics	运输与后勤	显示文本，沿用已核对译文

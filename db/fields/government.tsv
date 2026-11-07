@@ -1,39 +1,39 @@
 table	field	english	chinese	reason
-GovType	GovName	Absolute Democracy		
-GovType	GovName	Autocracy		
-GovType	GovName	Belligerent Theocracy		
-GovType	GovName	Benevolent Dictatorship		
-GovType	GovName	Clan/Familiy Council		
-GovType	GovName	Communism		
-GovType	GovName	Confederation		
-GovType	GovName	Contemplative		
-GovType	GovName	Corporate Government		
-GovType	GovName	Despotism		
-GovType	GovName	Dictatorship		
-GovType	GovName	Enlightened Despotism		
-GovType	GovName	Fascist		
-GovType	GovName	Federal Theocracy		
-GovType	GovName	Feudal States		
-GovType	GovName	High Imperial Monarchy		
-GovType	GovName	Hive Mind Race		
-GovType	GovName	Imperial Council		
-GovType	GovName	Imperial Monarchy		
-GovType	GovName	Insane Dictator		
-GovType	GovName	Meritocracy		
-GovType	GovName	Military Anarchy		
-GovType	GovName	Military Dictatorship		
-GovType	GovName	Military Theocracy		
-GovType	GovName	Oligarchy		
-GovType	GovName	Ordered Socalism		
-GovType	GovName	Pax Utopia		
-GovType	GovName	Peaceful Anarchy		
-GovType	GovName	Peaceful Theocracy		
-GovType	GovName	Player Race		
-GovType	GovName	Plutocracy		
-GovType	GovName	Religious Aristocracy		
-GovType	GovName	Religious Democracy		
-GovType	GovName	Representative Democracy		
-GovType	GovName	Republic		
-GovType	GovName	Rigid Democracy		
-GovType	GovName	Stalin Communist		
-GovType	GovName	Tyranny		
+GovType	GovName	Absolute Democracy		显示文本，待译
+GovType	GovName	Autocracy		显示文本，待译
+GovType	GovName	Belligerent Theocracy		显示文本，待译
+GovType	GovName	Benevolent Dictatorship		显示文本，待译
+GovType	GovName	Clan/Familiy Council		显示文本，待译
+GovType	GovName	Communism		显示文本，待译
+GovType	GovName	Confederation	邦联	显示文本，沿用对照表中唯一译文
+GovType	GovName	Contemplative		显示文本，待译
+GovType	GovName	Corporate Government		显示文本，待译
+GovType	GovName	Despotism		显示文本，待译
+GovType	GovName	Dictatorship		显示文本，待译
+GovType	GovName	Enlightened Despotism		显示文本，待译
+GovType	GovName	Fascist		显示文本，待译
+GovType	GovName	Federal Theocracy		显示文本，待译
+GovType	GovName	Feudal States		显示文本，待译
+GovType	GovName	High Imperial Monarchy		显示文本，待译
+GovType	GovName	Hive Mind Race		显示文本，待译
+GovType	GovName	Imperial Council		显示文本，待译
+GovType	GovName	Imperial Monarchy		显示文本，待译
+GovType	GovName	Insane Dictator		显示文本，待译
+GovType	GovName	Meritocracy		显示文本，待译
+GovType	GovName	Military Anarchy		显示文本，待译
+GovType	GovName	Military Dictatorship		显示文本，待译
+GovType	GovName	Military Theocracy		显示文本，待译
+GovType	GovName	Oligarchy	寡头制	显示文本，沿用对照表中唯一译文
+GovType	GovName	Ordered Socalism		显示文本，待译
+GovType	GovName	Pax Utopia		显示文本，待译
+GovType	GovName	Peaceful Anarchy		显示文本，待译
+GovType	GovName	Peaceful Theocracy		显示文本，待译
+GovType	GovName	Player Race		不翻译：程序按原文比较，或是存档标识
+GovType	GovName	Plutocracy		显示文本，待译
+GovType	GovName	Religious Aristocracy		显示文本，待译
+GovType	GovName	Religious Democracy		显示文本，待译
+GovType	GovName	Representative Democracy		显示文本，待译
+GovType	GovName	Republic	共和国	显示文本，沿用对照表中唯一译文
+GovType	GovName	Rigid Democracy		显示文本，待译
+GovType	GovName	Stalin Communist		显示文本，待译
+GovType	GovName	Tyranny		显示文本，待译

@@ -1,48 +1,48 @@
 table	field	english	chinese	reason
-DIM_EmpireTitles	Title	Alliance		
-DIM_EmpireTitles	Title	Aristocracy		
-DIM_EmpireTitles	Title	Ascendancy		
-DIM_EmpireTitles	Title	Association		
-DIM_EmpireTitles	Title	Cartel		
-DIM_EmpireTitles	Title	Church		
-DIM_EmpireTitles	Title	Clan		
-DIM_EmpireTitles	Title	Coalition		
-DIM_EmpireTitles	Title	Collective		
-DIM_EmpireTitles	Title	Combine		
-DIM_EmpireTitles	Title	Commonality		
-DIM_EmpireTitles	Title	Commonwealth		
-DIM_EmpireTitles	Title	Commune		
-DIM_EmpireTitles	Title	Confederation		
-DIM_EmpireTitles	Title	Conglomerate		
-DIM_EmpireTitles	Title	Consciousness		
-DIM_EmpireTitles	Title	Corporation		
-DIM_EmpireTitles	Title	Council		
-DIM_EmpireTitles	Title	Democratic People's Republic		
-DIM_EmpireTitles	Title	Dominion		
-DIM_EmpireTitles	Title	Duchy		
-DIM_EmpireTitles	Title	Dynasty		
-DIM_EmpireTitles	Title	Empire		
-DIM_EmpireTitles	Title	Enclave		
-DIM_EmpireTitles	Title	Federal Republic		
-DIM_EmpireTitles	Title	Federated States		
-DIM_EmpireTitles	Title	Federation		
-DIM_EmpireTitles	Title	Followers		
-DIM_EmpireTitles	Title	Freehold		
-DIM_EmpireTitles	Title	Hegemony		
-DIM_EmpireTitles	Title	Hierachy		
-DIM_EmpireTitles	Title	Host		
-DIM_EmpireTitles	Title	House		
-DIM_EmpireTitles	Title	Imperium		
-DIM_EmpireTitles	Title	Khanate		
-DIM_EmpireTitles	Title	Kingdom		
-DIM_EmpireTitles	Title	Monarchy		
-DIM_EmpireTitles	Title	Oligarchy		
-DIM_EmpireTitles	Title	People's Republic		
-DIM_EmpireTitles	Title	Protectorate		
-DIM_EmpireTitles	Title	Republic		
-DIM_EmpireTitles	Title	Star Empire		
-DIM_EmpireTitles	Title	Theocracy		
-DIM_EmpireTitles	Title	Union		
-DIM_EmpireTitles	Title	United Kingdom		
-DIM_EmpireTitles	Title	United States		
-DIM_EmpireTitles	Title	Unity		
+DIM_EmpireTitles	Title	Alliance	联盟	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Aristocracy	贵族政体	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Ascendancy	至尊领	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Association	协会	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Cartel	卡特尔	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Church	教会	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Clan	氏族	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Coalition	同盟	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Collective	集体	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Combine	联合企业	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Commonality	共通体	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Commonwealth	共同体	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Commune	公社	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Confederation	邦联	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Conglomerate	集团	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Consciousness	意识体	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Corporation	公司	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Council	议会	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Democratic People's Republic	民主人民共和国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Dominion	自治领	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Duchy	公国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Dynasty	王朝	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Empire	帝国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Enclave	飞地	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Federal Republic	联邦共和国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Federated States	联邦诸州	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Federation	联邦	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Followers	追随者	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Freehold	自由领	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Hegemony	霸权	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Hierachy	阶序体	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Host	宿主	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	House	家族	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Imperium	帝权	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Khanate	汗国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Kingdom	王国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Monarchy	君主国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Oligarchy	寡头制	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	People's Republic	人民共和国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Protectorate	保护国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Republic	共和国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Star Empire	星际帝国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Theocracy	神权国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Union	联合体	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	United Kingdom	联合王国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	United States	合众国	显示文本，沿用已核对译文
+DIM_EmpireTitles	Title	Unity	统一体	显示文本，沿用已核对译文
