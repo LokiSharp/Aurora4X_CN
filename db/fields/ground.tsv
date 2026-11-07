@@ -81,61 +81,61 @@ DIM_AutomatedGroundTemplateDesign	Name	Rakhas Planetary Defence	Rakhas 行星防
 DIM_AutomatedGroundTemplateDesign	Name	Rakhas Warband	Rakhas 战团	显示文本，沿用已核对译文
 DIM_AutomatedGroundTemplateDesign	Name	Survey Expedition	勘测远征队	显示文本，沿用已核对译文
 DIM_AutomatedGroundTemplateDesign	Name	Xenoarchaeology Expedition	异星考古远征队	显示文本，沿用已核对译文
-DIM_AutomatedGroundTemplateElements	ClassName	AA Tank		显示文本，待译
+DIM_AutomatedGroundTemplateElements	ClassName	AA Tank	防空坦克	显示文本，按已核对术语补译
 DIM_AutomatedGroundTemplateElements	ClassName	Anti Air Team	防空小队	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Anti Tank Team	反坦克小队	显示文本，沿用对照表中唯一译文
-DIM_AutomatedGroundTemplateElements	ClassName	Centurion		显示文本，待译
+DIM_AutomatedGroundTemplateElements	ClassName	Centurion	百夫长	显示文本，按已核对术语补译
 DIM_AutomatedGroundTemplateElements	ClassName	Construction	建造	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Construction Vehicle	建造载具	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Construction Vehicles	建造载具	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Decontamination	除污	显示文本，沿用对照表中唯一译文
-DIM_AutomatedGroundTemplateElements	ClassName	Decurion Support Mech		显示文本，待译
+DIM_AutomatedGroundTemplateElements	ClassName	Decurion Support Mech	十夫长支援机甲	显示文本，按已核对术语补译
 DIM_AutomatedGroundTemplateElements	ClassName	Elite Infantry	精锐步兵	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	GeoSurvey	地质勘测	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Heavy Infantry	重装步兵	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Infantry	步兵	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Infantry Brigade HQ	步兵旅指挥部	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Infantry HQ	步兵指挥部	显示文本，沿用对照表中唯一译文
-DIM_AutomatedGroundTemplateElements	ClassName	Medium Tank		显示文本，待译
-DIM_AutomatedGroundTemplateElements	ClassName	Mobile Artillery		显示文本，待译
+DIM_AutomatedGroundTemplateElements	ClassName	Medium Tank	中型坦克	显示文本，按已核对术语补译
+DIM_AutomatedGroundTemplateElements	ClassName	Mobile Artillery	机动火炮	显示文本，按已核对术语补译
 DIM_AutomatedGroundTemplateElements	ClassName	Planetary Defence HQ	行星防御指挥部	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Praetorian Combat Mech	Praetorian 作战机甲	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Praetorian High Leader	Praetorian 高级领袖	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Praetorian Leader	Praetorian 领袖	显示文本，沿用对照表中唯一译文
-DIM_AutomatedGroundTemplateElements	ClassName	Rakhas AA Tank		显示文本，待译
-DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Anti Air Team		显示文本，待译
-DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Anti Vehicle Team		显示文本，待译
-DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Battlewagon		显示文本，待译
-DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Battlewagon HQ		显示文本，待译
-DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Combatwagon		显示文本，待译
-DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Planetary Defence HQ		显示文本，待译
-DIM_AutomatedGroundTemplateElements	ClassName	Rakhas STO		显示文本，待译
-DIM_AutomatedGroundTemplateElements	ClassName	Rakhas STO-PD		显示文本，待译
-DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Warrior		显示文本，待译
-DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Warrior HQ		显示文本，待译
+DIM_AutomatedGroundTemplateElements	ClassName	Rakhas AA Tank	拉卡斯防空坦克	显示文本，按已核对术语补译
+DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Anti Air Team	拉卡斯防空小队	显示文本，按已核对术语补译
+DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Anti Vehicle Team	拉卡斯反载具小队	显示文本，按已核对术语补译
+DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Battlewagon	拉卡斯战车	显示文本，按已核对术语补译
+DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Battlewagon HQ	拉卡斯战车指挥部	显示文本，按已核对术语补译
+DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Combatwagon	拉卡斯战斗车	显示文本，按已核对术语补译
+DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Planetary Defence HQ	拉卡斯行星防御指挥部	显示文本，按已核对术语补译
+DIM_AutomatedGroundTemplateElements	ClassName	Rakhas STO	拉卡斯对轨炮台	显示文本，按已核对术语补译
+DIM_AutomatedGroundTemplateElements	ClassName	Rakhas STO-PD	拉卡斯对轨炮台-点防御	显示文本，按已核对术语补译
+DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Warrior	拉卡斯战士	显示文本，按已核对术语补译
+DIM_AutomatedGroundTemplateElements	ClassName	Rakhas Warrior HQ	拉卡斯战士指挥部	显示文本，按已核对术语补译
 DIM_AutomatedGroundTemplateElements	ClassName	Resupply Infantry	补给步兵	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Resupply Vehicle	补给载具	显示文本，沿用对照表中唯一译文
-DIM_AutomatedGroundTemplateElements	ClassName	STO		显示文本，待译
-DIM_AutomatedGroundTemplateElements	ClassName	STO-PD		显示文本，待译
-DIM_AutomatedGroundTemplateElements	ClassName	Support Tank		显示文本，待译
+DIM_AutomatedGroundTemplateElements	ClassName	STO	对轨炮台	显示文本，按已核对术语补译
+DIM_AutomatedGroundTemplateElements	ClassName	STO-PD	对轨炮台-点防御	显示文本，按已核对术语补译
+DIM_AutomatedGroundTemplateElements	ClassName	Support Tank	支援坦克	显示文本，按已核对术语补译
 DIM_AutomatedGroundTemplateElements	ClassName	Swarm Biovore	蜂群生化体	显示文本，沿用界面对照表中的唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Swarm Ravener	蜂群掠夺者	显示文本，沿用界面对照表中的唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Swarm Reaper	蜂群收割者	显示文本，沿用界面对照表中的唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Swarm Warrior	蜂群战士	显示文本，沿用界面对照表中的唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Tank Brigade HQ	坦克旅指挥部	显示文本，沿用对照表中唯一译文
-DIM_AutomatedGroundTemplateElements	ClassName	Tank HQ		显示文本，待译
+DIM_AutomatedGroundTemplateElements	ClassName	Tank HQ	坦克指挥部	显示文本，按已核对术语补译
 DIM_AutomatedGroundTemplateElements	ClassName	Towed Artillery	牵引火炮	显示文本，沿用对照表中唯一译文
 DIM_AutomatedGroundTemplateElements	ClassName	Xenoarchaeology	异星考古	显示文本，沿用对照表中唯一译文
 FCT_GroundUnitClass	ClassName	Anti Air Team	防空小队	显示文本，沿用对照表中唯一译文
 FCT_GroundUnitClass	ClassName	Anti Tank Team	反坦克小队	显示文本，沿用对照表中唯一译文
 FCT_GroundUnitClass	ClassName	Arrow Infantry Support Tank	Arrow 步兵支援坦克	显示文本，沿用对照表中唯一译文
 FCT_GroundUnitClass	ClassName	Ballista  Towed Artillery	Ballista  牵引火炮	显示文本，沿用对照表中唯一译文
-FCT_GroundUnitClass	ClassName	Centurion		显示文本，待译
+FCT_GroundUnitClass	ClassName	Centurion	百夫长	显示文本，按已核对术语补译
 FCT_GroundUnitClass	ClassName	Construction Vehicle	建造载具	显示文本，沿用对照表中唯一译文
 FCT_GroundUnitClass	ClassName	Construction Vehicles	建造载具	显示文本，沿用对照表中唯一译文
 FCT_GroundUnitClass	ClassName	Dagger  STO	Dagger  对轨炮台	显示文本，沿用对照表中唯一译文
 FCT_GroundUnitClass	ClassName	Dart Medium Tank	Dart 中型坦克	显示文本，沿用对照表中唯一译文
-FCT_GroundUnitClass	ClassName	Decurion Support Mech		显示文本，待译
+FCT_GroundUnitClass	ClassName	Decurion Support Mech	十夫长支援机甲	显示文本，按已核对术语补译
 FCT_GroundUnitClass	ClassName	Elite Infantry	精锐步兵	显示文本，沿用对照表中唯一译文
 FCT_GroundUnitClass	ClassName	GeoSurvey	地质勘测	显示文本，沿用对照表中唯一译文
 FCT_GroundUnitClass	ClassName	Heavy Infantry	重装步兵	显示文本，沿用对照表中唯一译文
@@ -151,8 +151,8 @@ FCT_GroundUnitClass	ClassName	Praetorian Leader	Praetorian 领袖	显示文本�
 FCT_GroundUnitClass	ClassName	Resupply Infantry	补给步兵	显示文本，沿用对照表中唯一译文
 FCT_GroundUnitClass	ClassName	Resupply Vehicle	补给载具	显示文本，沿用对照表中唯一译文
 FCT_GroundUnitClass	ClassName	Spear  AA Tank	Spear  防空坦克	显示文本，沿用对照表中唯一译文
-FCT_GroundUnitClass	ClassName	STO		显示文本，待译
-FCT_GroundUnitClass	ClassName	STO-PD		显示文本，待译
+FCT_GroundUnitClass	ClassName	STO	对轨炮台	显示文本，按已核对术语补译
+FCT_GroundUnitClass	ClassName	STO-PD	对轨炮台-点防御	显示文本，按已核对术语补译
 FCT_GroundUnitClass	ClassName	Sword STO-PD	Sword STO 点防御	显示文本，沿用对照表中唯一译文
 FCT_GroundUnitClass	ClassName	Tank Brigade HQ	坦克旅指挥部	显示文本，沿用对照表中唯一译文
 FCT_GroundUnitClass	ClassName	Towed Artillery	牵引火炮	显示文本，沿用对照表中唯一译文

@@ -1,5 +1,5 @@
 table	field	english	chinese	reason
-DIM_Gases	Name	Acetylene		显示文本，待译
+DIM_Gases	Name	Acetylene	乙炔	显示文本，按已核对术语补译
 DIM_Gases	Name	Aestusium	埃斯图西姆	显示文本，沿用已核对译文
 DIM_Gases	Name	Ammonia	氨	显示文本，沿用已核对译文
 DIM_Gases	Name	Argon	氩	显示文本，沿用已核对译文
@@ -7,16 +7,16 @@ DIM_Gases	Name	Bromine	溴	显示文本，沿用已核对译文
 DIM_Gases	Name	Carbon Dioxide	二氧化碳	显示文本，沿用已核对译文
 DIM_Gases	Name	Carbon Monoxide	一氧化碳	显示文本，沿用已核对译文
 DIM_Gases	Name	Chlorine	氯	显示文本，沿用已核对译文
-DIM_Gases	Name	Ethane		显示文本，待译
+DIM_Gases	Name	Ethane	乙烷	显示文本，按已核对术语补译
 DIM_Gases	Name	Fluorine	氟	显示文本，沿用已核对译文
 DIM_Gases	Name	Frigusium	弗里古西姆	显示文本，沿用已核对译文
 DIM_Gases	Name	Helium	氦	显示文本，沿用已核对译文
-DIM_Gases	Name	Hydrazine		显示文本，待译
+DIM_Gases	Name	Hydrazine	肼	显示文本，按已核对术语补译
 DIM_Gases	Name	Hydrogen	氢	显示文本，沿用已核对译文
-DIM_Gases	Name	Hydrogen Cyanide		显示文本，待译
+DIM_Gases	Name	Hydrogen Cyanide	氰化氢	显示文本，按已核对术语补译
 DIM_Gases	Name	Hydrogen Sulphide	硫化氢	显示文本，沿用已核对译文
 DIM_Gases	Name	Iodine	碘	显示文本，沿用已核对译文
-DIM_Gases	Name	Kyrpton		显示文本，待译
+DIM_Gases	Name	Kyrpton	氪	显示文本，按已核对术语补译
 DIM_Gases	Name	Methane	甲烷	显示文本，沿用已核对译文
 DIM_Gases	Name	Neon	氖	显示文本，沿用已核对译文
 DIM_Gases	Name	Nitrogen	氮	显示文本，沿用已核对译文
@@ -26,4 +26,4 @@ DIM_Gases	Name	None		不翻译：程序按原文比较，或是存档标识
 DIM_Gases	Name	Oxygen	氧	显示文本，沿用已核对译文
 DIM_Gases	Name	Sulphur Dioxide	二氧化硫	显示文本，沿用已核对译文
 DIM_Gases	Name	Water Vapour	水蒸气	显示文本，沿用已核对译文
-DIM_Gases	Name	Xenon		显示文本，待译
+DIM_Gases	Name	Xenon	氙	显示文本，按已核对术语补译

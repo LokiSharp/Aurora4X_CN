@@ -1,12 +1,12 @@
 table	field	english	chinese	reason
 DIM_WealthUse	Description	Civilian Contracts	民用合同	显示文本，沿用已核对译文
-DIM_WealthUse	Description	Engineering Projects		显示文本，待译
+DIM_WealthUse	Description	Engineering Projects	工程项目	显示文本，按已核对术语补译
 DIM_WealthUse	Description	Fighter Production	战斗机生产	显示文本，沿用已核对译文
 DIM_WealthUse	Description	Financial Centres	金融中心	显示文本，沿用已核对译文
 DIM_WealthUse	Description	Foreign Aid	对外援助	显示文本，沿用已核对译文
 DIM_WealthUse	Description	Foreign Aid Received	收到对外援助	显示文本，沿用已核对译文
 DIM_WealthUse	Description	Ground Unit Maintenance	地面单位维护	显示文本，沿用已核对译文
-DIM_WealthUse	Description	Ground Unit Projects		显示文本，待译
+DIM_WealthUse	Description	Ground Unit Projects	地面单位项目	显示文本，按已核对术语补译
 DIM_WealthUse	Description	Ground Unit Training	地面单位训练	显示文本，沿用已核对译文
 DIM_WealthUse	Description	Installation Construction	设施建造	显示文本，沿用已核对译文
 DIM_WealthUse	Description	Looted from Conquered Population	掠夺被征服人口	显示文本，沿用已核对译文
@@ -17,7 +17,7 @@ DIM_WealthUse	Description	Maintenance Facility Production	维护设施生产	显
 DIM_WealthUse	Description	Maintenance Supplies	维护补给	显示文本，沿用已核对译文
 DIM_WealthUse	Description	Orbital Habitat Construction	轨道居住站建造	显示文本，沿用已核对译文
 DIM_WealthUse	Description	Ordnance Production	军械生产	显示文本，沿用已核对译文
-DIM_WealthUse	Description	Ordnance Projects		显示文本，待译
+DIM_WealthUse	Description	Ordnance Projects	军械项目	显示文本，按已核对术语补译
 DIM_WealthUse	Description	PDC-related Construction	行星防御中心相关建造	显示文本，沿用已核对译文
 DIM_WealthUse	Description	Purchase of Civilian Fuel	购买民用燃料	显示文本，沿用已核对译文
 DIM_WealthUse	Description	Purchase of Civilian Minerals	购买民用矿物	显示文本，沿用已核对译文

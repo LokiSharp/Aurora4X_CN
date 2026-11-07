@@ -1,39 +1,39 @@
 table	field	english	chinese	reason
-GovType	GovName	Absolute Democracy		显示文本，待译
-GovType	GovName	Autocracy		显示文本，待译
-GovType	GovName	Belligerent Theocracy		显示文本，待译
-GovType	GovName	Benevolent Dictatorship		显示文本，待译
-GovType	GovName	Clan/Familiy Council		显示文本，待译
-GovType	GovName	Communism		显示文本，待译
+GovType	GovName	Absolute Democracy	绝对民主制	显示文本，按已核对术语补译
+GovType	GovName	Autocracy	独裁政体	显示文本，按已核对术语补译
+GovType	GovName	Belligerent Theocracy	好战神权制	显示文本，按已核对术语补译
+GovType	GovName	Benevolent Dictatorship	仁慈独裁	显示文本，按已核对术语补译
+GovType	GovName	Clan/Familiy Council	氏族/家族会议	显示文本，按已核对术语补译
+GovType	GovName	Communism	共产主义	显示文本，按已核对术语补译
 GovType	GovName	Confederation	邦联	显示文本，沿用对照表中唯一译文
-GovType	GovName	Contemplative		显示文本，待译
-GovType	GovName	Corporate Government		显示文本，待译
-GovType	GovName	Despotism		显示文本，待译
-GovType	GovName	Dictatorship		显示文本，待译
-GovType	GovName	Enlightened Despotism		显示文本，待译
-GovType	GovName	Fascist		显示文本，待译
-GovType	GovName	Federal Theocracy		显示文本，待译
-GovType	GovName	Feudal States		显示文本，待译
-GovType	GovName	High Imperial Monarchy		显示文本，待译
-GovType	GovName	Hive Mind Race		显示文本，待译
-GovType	GovName	Imperial Council		显示文本，待译
-GovType	GovName	Imperial Monarchy		显示文本，待译
-GovType	GovName	Insane Dictator		显示文本，待译
-GovType	GovName	Meritocracy		显示文本，待译
-GovType	GovName	Military Anarchy		显示文本，待译
-GovType	GovName	Military Dictatorship		显示文本，待译
-GovType	GovName	Military Theocracy		显示文本，待译
+GovType	GovName	Contemplative	沉思政体	显示文本，按已核对术语补译
+GovType	GovName	Corporate Government	公司政府	显示文本，按已核对术语补译
+GovType	GovName	Despotism	专制	显示文本，按已核对术语补译
+GovType	GovName	Dictatorship	独裁	显示文本，按已核对术语补译
+GovType	GovName	Enlightened Despotism	开明专制	显示文本，按已核对术语补译
+GovType	GovName	Fascist	法西斯	显示文本，按已核对术语补译
+GovType	GovName	Federal Theocracy	联邦神权制	显示文本，按已核对术语补译
+GovType	GovName	Feudal States	封建邦国	显示文本，按已核对术语补译
+GovType	GovName	High Imperial Monarchy	高阶帝国君主制	显示文本，按已核对术语补译
+GovType	GovName	Hive Mind Race	蜂群思维种族	显示文本，按已核对术语补译
+GovType	GovName	Imperial Council	帝国议会	显示文本，按已核对术语补译
+GovType	GovName	Imperial Monarchy	帝国君主制	显示文本，按已核对术语补译
+GovType	GovName	Insane Dictator	疯狂独裁者	显示文本，按已核对术语补译
+GovType	GovName	Meritocracy	精英统治	显示文本，按已核对术语补译
+GovType	GovName	Military Anarchy	军事无政府	显示文本，按已核对术语补译
+GovType	GovName	Military Dictatorship	军事独裁	显示文本，按已核对术语补译
+GovType	GovName	Military Theocracy	军事神权制	显示文本，按已核对术语补译
 GovType	GovName	Oligarchy	寡头制	显示文本，沿用对照表中唯一译文
-GovType	GovName	Ordered Socalism		显示文本，待译
-GovType	GovName	Pax Utopia		显示文本，待译
-GovType	GovName	Peaceful Anarchy		显示文本，待译
-GovType	GovName	Peaceful Theocracy		显示文本，待译
+GovType	GovName	Ordered Socalism	有序社会主义	显示文本，按已核对术语补译
+GovType	GovName	Pax Utopia	和平乌托邦	显示文本，按已核对术语补译
+GovType	GovName	Peaceful Anarchy	和平无政府	显示文本，按已核对术语补译
+GovType	GovName	Peaceful Theocracy	和平神权制	显示文本，按已核对术语补译
 GovType	GovName	Player Race		不翻译：程序按原文比较，或是存档标识
-GovType	GovName	Plutocracy		显示文本，待译
-GovType	GovName	Religious Aristocracy		显示文本，待译
-GovType	GovName	Religious Democracy		显示文本，待译
-GovType	GovName	Representative Democracy		显示文本，待译
+GovType	GovName	Plutocracy	财阀统治	显示文本，按已核对术语补译
+GovType	GovName	Religious Aristocracy	宗教贵族制	显示文本，按已核对术语补译
+GovType	GovName	Religious Democracy	宗教民主制	显示文本，按已核对术语补译
+GovType	GovName	Representative Democracy	代议民主制	显示文本，按已核对术语补译
 GovType	GovName	Republic	共和国	显示文本，沿用对照表中唯一译文
-GovType	GovName	Rigid Democracy		显示文本，待译
-GovType	GovName	Stalin Communist		显示文本，待译
-GovType	GovName	Tyranny		显示文本，待译
+GovType	GovName	Rigid Democracy	僵化民主制	显示文本，按已核对术语补译
+GovType	GovName	Stalin Communist	斯大林式共产主义	显示文本，按已核对术语补译
+GovType	GovName	Tyranny	暴政	显示文本，按已核对术语补译

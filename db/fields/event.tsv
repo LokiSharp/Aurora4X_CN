@@ -5,15 +5,15 @@ DIM_EventType	Description	Acid Burn	酸液灼伤	显示文本，沿用已核对�
 DIM_EventType	Description	Acid Damage 	酸液伤害 	显示文本，沿用已核对译文
 DIM_EventType	Description	Admin Command Update	行政司令部更新	显示文本，沿用已核对译文
 DIM_EventType	Description	Administrator Experience	行政官经验	显示文本，沿用已核对译文
-DIM_EventType	Description	Aether Gate Detected		显示文本，待译
+DIM_EventType	Description	Aether Gate Detected	发现以太门	显示文本，按已核对术语补译
 DIM_EventType	Description	Alien Communication	外星通讯	显示文本，沿用已核对译文
 DIM_EventType	Description	Alien Salvage	外星打捞	显示文本，沿用已核对译文
-DIM_EventType	Description	All Minerals Exhausted		显示文本，待译
+DIM_EventType	Description	All Minerals Exhausted	全部矿物耗尽	显示文本，按已核对术语补译
 DIM_EventType	Description	Allied Contact Update	结盟接触更新	显示文本，沿用已核对译文
 DIM_EventType	Description	Allied Contact Update - AC	结盟接触更新 - AC	显示文本，沿用已核对译文
 DIM_EventType	Description	AMM Point Defence	反导点防御	显示文本，沿用已核对译文
 DIM_EventType	Description	Ancient Construct	远古构造体	显示文本，沿用已核对译文
-DIM_EventType	Description	Artifacts Recovered		显示文本，待译
+DIM_EventType	Description	Artifacts Recovered	文物已回收	显示文本，按已核对术语补译
 DIM_EventType	Description	Attack vs GUC Summary	对 GUC 攻击概要	显示文本，沿用已核对译文
 DIM_EventType	Description	Attacked By AA Fire	遭受防空火力攻击	显示文本，沿用已核对译文
 DIM_EventType	Description	Attacked By Energy Weapons	遭受能量武器攻击	显示文本，沿用已核对译文
@@ -75,7 +75,7 @@ DIM_EventType	Description	Friendly Contact Update	友方接触更新	显示文�
 DIM_EventType	Description	Friendly Contact Update - AC	友方接触更新 - AC	显示文本，沿用已核对译文
 DIM_EventType	Description	Fuel Exhausted	燃料耗尽	显示文本，沿用已核对译文
 DIM_EventType	Description	Fuel Shortage	燃料短缺	显示文本，沿用已核对译文
-DIM_EventType	Description	Game Saved		显示文本，待译
+DIM_EventType	Description	Game Saved	游戏已保存	显示文本，按已核对术语补译
 DIM_EventType	Description	Gas Removed	气体移除	显示文本，沿用已核对译文
 DIM_EventType	Description	Geo Survey Complete	地质勘测完成	显示文本，沿用已核对译文
 DIM_EventType	Description	Geological Survey Data	地质勘测数据	显示文本，沿用已核对译文
@@ -95,7 +95,7 @@ DIM_EventType	Description	Ice Sheet Frozen	冰盖冻结	显示文本，沿用已
 DIM_EventType	Description	Ice Sheet Melted	冰盖融化	显示文本，沿用已核对译文
 DIM_EventType	Description	Illegal Order	非法命令	显示文本，沿用已核对译文
 DIM_EventType	Description	Inactive Lab	实验室停用	显示文本，沿用已核对译文
-DIM_EventType	Description	Incomplete Salvage		显示文本，待译
+DIM_EventType	Description	Incomplete Salvage	打捞未完成	显示文本，按已核对术语补译
 DIM_EventType	Description	Incorrect Ordnance	军械错误	显示文本，沿用已核对译文
 DIM_EventType	Description	Increment Adjustment	增量调整	显示文本，沿用已核对译文
 DIM_EventType	Description	Installation Scrapped	设施已拆解	显示文本，沿用已核对译文
@@ -112,7 +112,7 @@ DIM_EventType	Description	Jump Point Detected	检测到跃迁点	显示文本，
 DIM_EventType	Description	Life Pod Expired	逃生舱失效	显示文本，沿用已核对译文
 DIM_EventType	Description	Life Support Failure	生命维持故障	显示文本，沿用已核对译文
 DIM_EventType	Description	Lifepods Launched	逃生舱已发射	显示文本，沿用已核对译文
-DIM_EventType	Description	Light Naval Construction		显示文本，待译
+DIM_EventType	Description	Light Naval Construction	轻型海军建造	显示文本，按已核对术语补译
 DIM_EventType	Description	Low Fuel	燃料偏低	显示文本，沿用已核对译文
 DIM_EventType	Description	Maintenance Failure	维护故障	显示文本，沿用已核对译文
 DIM_EventType	Description	Maintenance Problem	维护问题	显示文本，沿用已核对译文
@@ -123,7 +123,7 @@ DIM_EventType	Description	Mineral Exhausted	矿物枯竭	显示文本，沿用�
 DIM_EventType	Description	Mineral Packet Contact	矿物包接触	显示文本，沿用已核对译文
 DIM_EventType	Description	Mineral Shortage	矿物短缺	显示文本，沿用已核对译文
 DIM_EventType	Description	Minerals Located	发现矿物	显示文本，沿用已核对译文
-DIM_EventType	Description	Mining Colony Update		显示文本，待译
+DIM_EventType	Description	Mining Colony Update	采矿殖民地更新	显示文本，按已核对术语补译
 DIM_EventType	Description	Missile Launch	导弹发射	显示文本，沿用已核对译文
 DIM_EventType	Description	Missile Self-destruct	导弹自毁	显示文本，沿用已核对译文
 DIM_EventType	Description	Missile vs Ship	导弹对舰船	显示文本，沿用已核对译文
@@ -136,17 +136,17 @@ DIM_EventType	Description	New Alien Class	新外星舰级	显示文本，沿用�
 DIM_EventType	Description	New Alien Ground Unit	新外星地面单位	显示文本，沿用已核对译文
 DIM_EventType	Description	New Alien Population	新外星人口	显示文本，沿用已核对译文
 DIM_EventType	Description	New Alien Race	新外星种族	显示文本，沿用已核对译文
-DIM_EventType	Description	New Allied Alien Ship		显示文本，待译
+DIM_EventType	Description	New Allied Alien Ship	新盟友外星舰船	显示文本，按已核对术语补译
 DIM_EventType	Description	New Allied Contact	新结盟接触	显示文本，沿用已核对译文
 DIM_EventType	Description	New Combat Contact	新战斗接触	显示文本，沿用已核对译文
-DIM_EventType	Description	New Friendly Alien Ship		显示文本，待译
+DIM_EventType	Description	New Friendly Alien Ship	新友好外星舰船	显示文本，按已核对术语补译
 DIM_EventType	Description	New Friendly Contact	新友方接触	显示文本，沿用已核对译文
 DIM_EventType	Description	New Ground Force Officer	新地面部队军官	显示文本，沿用已核对译文
-DIM_EventType	Description	New Hostile Alien Ship		显示文本，待译
+DIM_EventType	Description	New Hostile Alien Ship	新敌对外星舰船	显示文本，按已核对术语补译
 DIM_EventType	Description	New Hostile Contact	新敌对接触	显示文本，沿用已核对译文
 DIM_EventType	Description	New Mineral Deposit	新矿藏	显示文本，沿用已核对译文
 DIM_EventType	Description	New Naval Officer	新海军军官	显示文本，沿用已核对译文
-DIM_EventType	Description	New Neutral Alien Ship		显示文本，待译
+DIM_EventType	Description	New Neutral Alien Ship	新中立外星舰船	显示文本，按已核对术语补译
 DIM_EventType	Description	New Neutral Contact	新中立接触	显示文本，沿用已核对译文
 DIM_EventType	Description	New Scientist	新科学家	显示文本，沿用已核对译文
 DIM_EventType	Description	New Shipping Line	新航运公司	显示文本，沿用已核对译文
@@ -246,4 +246,4 @@ DIM_EventType	Description	Weapon Reloading	武器装填中	显示文本，沿用
 DIM_EventType	Description	Wreck Components	残骸组件	显示文本，沿用已核对译文
 DIM_EventType	Description	Wreck Contact	残骸接触	显示文本，沿用已核对译文
 DIM_EventType	Description	Wreck Salvaged	残骸已打捞	显示文本，沿用已核对译文
-DIM_EventType	Description	Xenoarchaeology Research		显示文本，待译
+DIM_EventType	Description	Xenoarchaeology Research	异星考古研究	显示文本，按已核对术语补译

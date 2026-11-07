@@ -1,911 +1,911 @@
 table	field	english	chinese	reason
 FCT_Ranks	RankName	Admiral	上将	显示文本，沿用已核对译文
-FCT_Ranks	RankName	Baron		显示文本，待译
-FCT_Ranks	RankName	Brigadier		显示文本，待译
+FCT_Ranks	RankName	Baron	男爵	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Brigadier	陆军准将	显示文本，补译名称或军衔
 FCT_Ranks	RankName	Captain	上校	显示文本，沿用已核对译文
 FCT_Ranks	RankName	Colonel	陆军上校	显示文本，沿用已核对译文
 FCT_Ranks	RankName	Commander	中校	显示文本，沿用已核对译文
 FCT_Ranks	RankName	Commodore	准将	显示文本，沿用已核对译文
-FCT_Ranks	RankName	Duke		显示文本，待译
-FCT_Ranks	RankName	Dwar		显示文本，待译
-FCT_Ranks	RankName	Field Marshal		显示文本，待译
-FCT_Ranks	RankName	First Space Lord		显示文本，待译
+FCT_Ranks	RankName	Duke	公爵	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Dwar	德瓦	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Field Marshal	陆军元帅	显示文本，补译名称或军衔
+FCT_Ranks	RankName	First Space Lord	第一太空大臣	显示文本，补译名称或军衔
 FCT_Ranks	RankName	General	陆军上将	显示文本，沿用已核对译文
-FCT_Ranks	RankName	Grand Master		显示文本，待译
-FCT_Ranks	RankName	Great Hunter		显示文本，待译
-FCT_Ranks	RankName	Great Stalker		显示文本，待译
-FCT_Ranks	RankName	High Hunter		显示文本，待译
-FCT_Ranks	RankName	High Stalker		显示文本，待译
-FCT_Ranks	RankName	Hunter		同一英文在对照表里有多种译文，待人工选定
-FCT_Ranks	RankName	Jed		显示文本，待译
-FCT_Ranks	RankName	Jeddak		显示文本，待译
-FCT_Ranks	RankName	Junior Kadar		显示文本，待译
-FCT_Ranks	RankName	Kadar		显示文本，待译
-FCT_Ranks	RankName	Knight		显示文本，待译
-FCT_Ranks	RankName	Knight Commander		显示文本，待译
-FCT_Ranks	RankName	Knight Grand Commander		显示文本，待译
-FCT_Ranks	RankName	Leftenant Colonel		显示文本，待译
-FCT_Ranks	RankName	Leftenant General		显示文本，待译
+FCT_Ranks	RankName	Grand Master	大宗师	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Great Hunter	大猎手	显示文本，按已核对术语补译
+FCT_Ranks	RankName	Great Stalker	大潜猎者	显示文本，按已核对术语补译
+FCT_Ranks	RankName	High Hunter	高阶猎手	显示文本，按已核对术语补译
+FCT_Ranks	RankName	High Stalker	高阶潜猎者	显示文本，按已核对术语补译
+FCT_Ranks	RankName	Hunter	猎手	显示文本，按已核对术语补译
+FCT_Ranks	RankName	Jed	杰德	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Jeddak	杰达克	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Junior Kadar	初级卡达尔	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Kadar	卡达尔	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Knight	骑士	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Knight Commander	骑士指挥官	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Knight Grand Commander	骑士大指挥官	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Leftenant Colonel	陆军中校	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Leftenant General	陆军中将	显示文本，补译名称或军衔
 FCT_Ranks	RankName	Lieutenant Colonel	陆军中校	显示文本，沿用已核对译文
 FCT_Ranks	RankName	Lieutenant Commander	少校	显示文本，沿用已核对译文
-FCT_Ranks	RankName	Lieutenant-General		显示文本，待译
+FCT_Ranks	RankName	Lieutenant-General	陆军中将	显示文本，补译名称或军衔
 FCT_Ranks	RankName	Major	陆军少校	显示文本，沿用已核对译文
 FCT_Ranks	RankName	Major General	陆军少将	显示文本，沿用已核对译文
-FCT_Ranks	RankName	Major-General		显示文本，待译
-FCT_Ranks	RankName	Marshal		显示文本，待译
-FCT_Ranks	RankName	Odwar		显示文本，待译
-FCT_Ranks	RankName	Padwar		显示文本，待译
+FCT_Ranks	RankName	Major-General	陆军少将	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Marshal	元帅	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Odwar	奥德瓦	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Padwar	帕德瓦	显示文本，补译名称或军衔
 FCT_Ranks	RankName	Rear Admiral	少将	显示文本，沿用已核对译文
-FCT_Ranks	RankName	Squire		显示文本，待译
-FCT_Ranks	RankName	Stalker		显示文本，待译
-FCT_Ranks	RankName	Trailer		显示文本，待译
+FCT_Ranks	RankName	Squire	侍从	显示文本，补译名称或军衔
+FCT_Ranks	RankName	Stalker	潜猎者	显示文本，按已核对术语补译
+FCT_Ranks	RankName	Trailer	追踪者	显示文本，补译名称或军衔
 FCT_Ranks	RankName	Vice Admiral	中将	显示文本，沿用已核对译文
-FCT_Race	RankScientist	Scientist		显示文本，待译
-FCT_Race	RankAdministrator	Administrator		显示文本，待译
-DIM_RankThemeTypes	ThemeName	African Union		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Ancient Egypt		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Ancient Greece		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Andorian		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Andromeda		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Animal		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Arabic		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Argentina		显示文本，待译
-DIM_RankThemeTypes	ThemeName	ASEAN		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Australia		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Aztec		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Bajoran		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Barsoom		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Boer		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Brazil		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Canada		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Cardassian		显示文本，待译
-DIM_RankThemeTypes	ThemeName	China		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Clans of Shakar		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Danmark		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Demonic Realm		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Deutschland		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Deverry		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Egyptian		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Elemental		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Fantasy		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Ferengi		显示文本，待译
-DIM_RankThemeTypes	ThemeName	France		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Galactic Empire		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Gorn		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Hippy		显示文本，待译
-DIM_RankThemeTypes	ThemeName	House Davion		显示文本，待译
-DIM_RankThemeTypes	ThemeName	House Kurita		显示文本，待译
-DIM_RankThemeTypes	ThemeName	House Liao		显示文本，待译
-DIM_RankThemeTypes	ThemeName	House Marik		显示文本，待译
-DIM_RankThemeTypes	ThemeName	House Steiner		显示文本，待译
-DIM_RankThemeTypes	ThemeName	India		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Indonesia		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Iran		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Ireland (Gaelic)		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Israel		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Italia		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Khanate of Orion		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Klingon		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Knights Templar		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Magician (R. Feist)		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Manticore (RMN)		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Mexico		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Mongol		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Narn		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Nations of Earth		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Native American		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Netherlands		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Nihon (Japan)		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Norse		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Odd		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Orc		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Rebel Alliance		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Rigelian (Historical)		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Rigellian (Steve)		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Roman		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Romulan		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Russia		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Shotgun		显示文本，待译
-DIM_RankThemeTypes	ThemeName	South Africa		显示文本，待译
-DIM_RankThemeTypes	ThemeName	South America		显示文本，待译
-DIM_RankThemeTypes	ThemeName	South Korea		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Spanish		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Suomi (Finland)		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Sverige (Sweden)		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Terran Federation		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Tolkien		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Turkey		显示文本，待译
+FCT_Race	RankScientist	Scientist	科学家	显示文本，按已核对术语补译
+FCT_Race	RankAdministrator	Administrator	行政官	显示文本，按已核对术语补译
+DIM_RankThemeTypes	ThemeName	African Union	非洲联盟	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Ancient Egypt	古埃及	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Ancient Greece	古希腊	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Andorian	安多利人	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Andromeda	仙女座	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Animal	动物	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Arabic	阿拉伯	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Argentina	阿根廷	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	ASEAN	东盟	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Australia	澳大利亚	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Aztec	阿兹特克	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Bajoran	贝久人	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Barsoom	巴苏姆	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Boer	布尔人	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Brazil	巴西	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Canada	加拿大	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Cardassian	卡达西人	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	China	中国	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Clans of Shakar	沙卡尔氏族	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Danmark	丹麦	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Demonic Realm	恶魔之境	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Deutschland	德国	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Deverry	德韦里	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Egyptian	埃及	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Elemental	元素	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Fantasy	奇幻	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Ferengi	费伦吉人	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	France	法国	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Galactic Empire	银河帝国	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Gorn	戈恩人	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Hippy	嬉皮士	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	House Davion	达维恩家族	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	House Kurita	库里塔家族	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	House Liao	廖家族	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	House Marik	马里克家族	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	House Steiner	施泰纳家族	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	India	印度	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Indonesia	印度尼西亚	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Iran	伊朗	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Ireland (Gaelic)	爱尔兰（盖尔语）	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Israel	以色列	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Italia	意大利	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Khanate of Orion	猎户可汗国	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Klingon	克林贡人	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Knights Templar	圣殿骑士团	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Magician (R. Feist)	魔法师（费斯特）	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Manticore (RMN)	曼蒂科尔（皇家海军）	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Mexico	墨西哥	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Mongol	蒙古	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Narn	纳恩人	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Nations of Earth	地球诸国	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Native American	美洲原住民	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Netherlands	荷兰	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Nihon (Japan)	日本	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Norse	北欧	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Odd	古怪	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Orc	兽人	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Rebel Alliance	反抗军同盟	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Rigelian (Historical)	参宿七人（历史）	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Rigellian (Steve)	参宿七人（史蒂夫）	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Roman	罗马	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Romulan	罗慕伦人	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Russia	俄罗斯	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Shotgun	霰弹枪	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	South Africa	南非	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	South America	南美洲	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	South Korea	韩国	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Spanish	西班牙	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Suomi (Finland)	芬兰	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Sverige (Sweden)	瑞典	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Terran Federation	地球联邦	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Tolkien	托尔金	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Turkey	土耳其	显示文本，补译名称或军衔
 DIM_RankThemeTypes	ThemeName	United Kingdom	联合王国	显示文本，沿用对照表中唯一译文
 DIM_RankThemeTypes	ThemeName	United States	合众国	显示文本，沿用对照表中唯一译文
-DIM_RankThemeTypes	ThemeName	Vulcan		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Warhammer 40K Empire		显示文本，待译
-DIM_RankThemeTypes	ThemeName	Welsh		显示文本，待译
-DIM_RankThemes	RankName	Adept		显示文本，待译
-DIM_RankThemes	RankName	Admiraal		显示文本，待译
+DIM_RankThemeTypes	ThemeName	Vulcan	火神	显示文本，按已核对句式替换数字代号
+DIM_RankThemeTypes	ThemeName	Warhammer 40K Empire	战锤40K帝国	显示文本，补译名称或军衔
+DIM_RankThemeTypes	ThemeName	Welsh	威尔士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Adept	修习者	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Admiraal	海军元帅	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Admiral	上将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Admiral 		显示文本，待译
-DIM_RankThemes	RankName	Admiral flota		显示文本，待译
-DIM_RankThemes	RankName	Admiral of the Fleet		显示文本，待译
-DIM_RankThemes	RankName	Albay		显示文本，待译
+DIM_RankThemes	RankName	Admiral 	上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Admiral flota	海军元帅	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Admiral of the Fleet	海军元帅	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Albay	上校	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Almirante	上将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Almirante general		显示文本，待译
+DIM_RankThemes	RankName	Almirante general	海军上将	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Almirante-de-Esquadra	海军中将	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Aluf	陆军少将	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Aluf mishne	陆军上校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Amid		显示文本，待译
-DIM_RankThemes	RankName	Amiraali		显示文本，待译
-DIM_RankThemes	RankName	Amiral		显示文本，待译
-DIM_RankThemes	RankName	Ammiraglio di Armata		显示文本，待译
-DIM_RankThemes	RankName	Ammiraglio di Divisione		显示文本，待译
-DIM_RankThemes	RankName	Ammiraglio di Squadra		显示文本，待译
-DIM_RankThemes	RankName	Antinavarchos		显示文本，待译
-DIM_RankThemes	RankName	Antiploiarchos		显示文本，待译
-DIM_RankThemes	RankName	Aqid		显示文本，待译
-DIM_RankThemes	RankName	Arbanchi		显示文本，待译
-DIM_RankThemes	RankName	Archdemon		显示文本，待译
-DIM_RankThemes	RankName	Archdevil		显示文本，待译
-DIM_RankThemes	RankName	Archiploiarchos		显示文本，待译
-DIM_RankThemes	RankName	Archon		显示文本，待译
-DIM_RankThemes	RankName	Axbearer		显示文本，待译
-DIM_RankThemes	RankName	Baron		显示文本，待译
-DIM_RankThemes	RankName	Berserkir		显示文本，待译
-DIM_RankThemes	RankName	Binbasi		显示文本，待译
-DIM_RankThemes	RankName	Brave		显示文本，待译
-DIM_RankThemes	RankName	Brigadier		显示文本，待译
-DIM_RankThemes	RankName	Byddin Gofod Marsial		显示文本，待译
-DIM_RankThemes	RankName	Cadlywydd Gofod		显示文本，待译
-DIM_RankThemes	RankName	Caliph		显示文本，待译
-DIM_RankThemes	RankName	Capitaine de corvette		显示文本，待译
-DIM_RankThemes	RankName	Capitaine de frégate		显示文本，待译
-DIM_RankThemes	RankName	Capitaine de vaisseau		显示文本，待译
-DIM_RankThemes	RankName	Capitan de Corbeta		显示文本，待译
-DIM_RankThemes	RankName	Capitan de Fragata		显示文本，待译
-DIM_RankThemes	RankName	Capitan de Navio		显示文本，待译
-DIM_RankThemes	RankName	Capitano di Corvetta		显示文本，待译
-DIM_RankThemes	RankName	Capitano di Fregata		显示文本，待译
-DIM_RankThemes	RankName	Capitano di Vascello		显示文本，待译
-DIM_RankThemes	RankName	Capitán de Corbeta		显示文本，待译
-DIM_RankThemes	RankName	Capitán de Fragata		显示文本，待译
-DIM_RankThemes	RankName	Capitán de Navío		显示文本，待译
-DIM_RankThemes	RankName	Capitán general		显示文本，待译
+DIM_RankThemes	RankName	Amid	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Amiraali	上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Amiral	上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Ammiraglio di Armata	上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Ammiraglio di Divisione	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Ammiraglio di Squadra	海军中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Antinavarchos	海军中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Antiploiarchos	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Aqid	陆军上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Arbanchi	十户长	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Archdemon	大恶魔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Archdevil	大魔鬼	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Archiploiarchos	海军准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Archon	执政官	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Axbearer	持斧者	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Baron	男爵	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Berserkir	狂战士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Binbasi	海军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Brave	勇士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Brigadier	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Byddin Gofod Marsial	太空军元帅	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Cadlywydd Gofod	太空指挥官	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Caliph	哈里发	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Capitaine de corvette	海军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Capitaine de frégate	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Capitaine de vaisseau	上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Capitan de Corbeta	海军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Capitan de Fragata	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Capitan de Navio	上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Capitano di Corvetta	海军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Capitano di Fregata	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Capitano di Vascello	上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Capitán de Corbeta	海军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Capitán de Fragata	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Capitán de Navío	上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Capitán general	海军元帅	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Capitão-de-Corveta	少校	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Capitão-de-Fragata	中校	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Capitão-de-Mar-e-Guerra	上校	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Capitão-tenente	上尉	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Captaen		显示文本，待译
+DIM_RankThemes	RankName	Captaen	上校	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Captain	上校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Captain 		显示文本，待译
-DIM_RankThemes	RankName	Captain (JG)		显示文本，待译
-DIM_RankThemes	RankName	Captain of the List		显示文本，待译
+DIM_RankThemes	RankName	Captain 	上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Captain (JG)	初级上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Captain of the List	名册上校	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Captain-General	大元帅	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Capten Gofod		显示文本，待译
-DIM_RankThemes	RankName	Ceannasaí		显示文本，待译
-DIM_RankThemes	RankName	Ceannasóir		显示文本，待译
-DIM_RankThemes	RankName	Centurion		显示文本，待译
-DIM_RankThemes	RankName	Chancellor		显示文本，待译
+DIM_RankThemes	RankName	Capten Gofod	太空上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Ceannasaí	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Ceannasóir	海军准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Centurion	百夫长	显示文本，按已核对句式替换数字代号
+DIM_RankThemes	RankName	Chancellor	总理	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Cheetah	猎豹	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Chief of Chiefs		显示文本，待译
-DIM_RankThemes	RankName	Cho'Noth		显示文本，待译
-DIM_RankThemes	RankName	Cho'Rath		显示文本，待译
-DIM_RankThemes	RankName	Chu-i		显示文本，待译
-DIM_RankThemes	RankName	Chu-sa		显示文本，待译
-DIM_RankThemes	RankName	Civil Chief		显示文本，待译
-DIM_RankThemes	RankName	Cleric		显示文本，待译
+DIM_RankThemes	RankName	Chief of Chiefs	大酋长	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Cho'Noth	乔诺斯	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Cho'Rath	乔拉斯	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Chu-i	陆军中尉	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Chu-sa	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Civil Chief	民事酋长	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Cleric	牧师	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Colonel	陆军上校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Colonel 		显示文本，待译
+DIM_RankThemes	RankName	Colonel 	陆军上校	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Commander	中校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Commander 		显示文本，待译
-DIM_RankThemes	RankName	Commandeur 		显示文本，待译
+DIM_RankThemes	RankName	Commander 	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Commandeur 	海军准将	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Commodore	准将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Commodore 		显示文本，待译
-DIM_RankThemes	RankName	Comodor Gofod		显示文本，待译
-DIM_RankThemes	RankName	Comodoro de Marina		显示文本，待译
+DIM_RankThemes	RankName	Commodore 	海军准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Comodor Gofod	太空准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Comodoro de Marina	海军准将	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Contra-Almirante	海军准将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Contraalmirante		显示文本，待译
-DIM_RankThemes	RankName	Contralmirante		显示文本，待译
-DIM_RankThemes	RankName	Contrammiraglio		显示文本，待译
-DIM_RankThemes	RankName	Contre-amiral		显示文本，待译
-DIM_RankThemes	RankName	Count		显示文本，待译
+DIM_RankThemes	RankName	Contraalmirante	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Contralmirante	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Contrammiraglio	海军准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Contre-amiral	海军准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Count	伯爵	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Da Xiao	大校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Da'Jareth		显示文本，待译
+DIM_RankThemes	RankName	Da'Jareth	达贾雷斯	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Daejang	陆军上将	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Daeryeong	陆军上校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Dahar Master		显示文本，待译
-DIM_RankThemes	RankName	Daimon		显示文本，待译
-DIM_RankThemes	RankName	Daimon-Ress		显示文本，待译
-DIM_RankThemes	RankName	Dal		显示文本，待译
+DIM_RankThemes	RankName	Dahar Master	达哈尔大师	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Daimon	戴蒙	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Daimon-Ress	戴蒙-雷斯	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Dal	达尔	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Dalin	达林	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Dar'Garoth		显示文本，待译
-DIM_RankThemes	RankName	Dar'Sol		显示文本，待译
-DIM_RankThemes	RankName	Daryaban		显示文本，待译
-DIM_RankThemes	RankName	Daryadar		显示文本，待译
-DIM_RankThemes	RankName	Daryadar Dovom		显示文本，待译
-DIM_RankThemes	RankName	Daryasalar		显示文本，待译
-DIM_RankThemes	RankName	Demon		显示文本，待译
-DIM_RankThemes	RankName	Demon Lord		显示文本，待译
-DIM_RankThemes	RankName	Demon Prince		显示文本，待译
-DIM_RankThemes	RankName	Devil		显示文本，待译
-DIM_RankThemes	RankName	Dictator		显示文本，待译
-DIM_RankThemes	RankName	Dirprwy Marsial Gofod		显示文本，待译
-DIM_RankThemes	RankName	Drengr		显示文本，待译
-DIM_RankThemes	RankName	Duke		显示文本，待译
-DIM_RankThemes	RankName	Dwar		显示文本，待译
-DIM_RankThemes	RankName	Earl		显示文本，待译
-DIM_RankThemes	RankName	Earth Lord		显示文本，待译
-DIM_RankThemes	RankName	Elemental		显示文本，待译
-DIM_RankThemes	RankName	Elemental Lord		显示文本，待译
-DIM_RankThemes	RankName	Elemental Overlord		显示文本，待译
-DIM_RankThemes	RankName	Emperor		显示文本，待译
-DIM_RankThemes	RankName	Fariq		显示文本，待译
-DIM_RankThemes	RankName	Fariq’awal		显示文本，待译
-DIM_RankThemes	RankName	Field Marshal		显示文本，待译
-DIM_RankThemes	RankName	Fiend		显示文本，待译
-DIM_RankThemes	RankName	Fire Lord		显示文本，待译
+DIM_RankThemes	RankName	Dar'Garoth	达尔加罗斯	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Dar'Sol	达索尔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Daryaban	海军中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Daryadar	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Daryadar Dovom	海军准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Daryasalar	上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Demon	恶魔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Demon Lord	恶魔领主	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Demon Prince	恶魔王子	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Devil	魔鬼	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Dictator	独裁者	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Dirprwy Marsial Gofod	副太空元帅	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Drengr	勇武者	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Duke	公爵	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Dwar	德瓦	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Earl	伯爵	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Earth Lord	大地领主	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Elemental	元素灵	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Elemental Lord	元素领主	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Elemental Overlord	元素霸主	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Emperor	皇帝	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Fariq	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Fariq’awal	陆军上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Field Marshal	陆军元帅	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Fiend	邪魔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Fire Lord	火焰领主	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	First Fang	首牙	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	First Space Lord		显示文本，待译
+DIM_RankThemes	RankName	First Space Lord	第一太空大臣	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Fleet Admiral	舰队上将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Fleet Admiral of the Green		显示文本，待译
-DIM_RankThemes	RankName	Fleet Admiral of the Red		显示文本，待译
+DIM_RankThemes	RankName	Fleet Admiral of the Green	绿旗舰队上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Fleet Admiral of the Red	红旗舰队上将	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Fleet Commander	舰队指挥官	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	RankName	Flotilleadmiral		显示文本，待译
-DIM_RankThemes	RankName	Flottiljamiral		显示文本，待译
+DIM_RankThemes	RankName	Flotilleadmiral	海军准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Flottiljamiral	海军准将	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Flottillenadmiral	海军准将	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Force Commander	部队司令	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Fregattenkapitän	中校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Gangboss		显示文本，待译
-DIM_RankThemes	RankName	Gangleader		显示文本，待译
+DIM_RankThemes	RankName	Gangboss	帮派头目	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Gangleader	帮派首领	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	General	陆军上将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	General 		显示文本，待译
-DIM_RankThemes	RankName	Gensui-Kaigun-Taishō		显示文本，待译
+DIM_RankThemes	RankName	General 	陆军上将 	显示文本，按已核对术语补译
+DIM_RankThemes	RankName	Gensui-Kaigun-Taishō	海军元帅	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Glinn	格林	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Governor	总督	显示文本，沿用界面对照表中的唯一译文
-DIM_RankThemes	RankName	Grand Admiral		显示文本，待译
-DIM_RankThemes	RankName	Grand Ammiraglio		显示文本，待译
-DIM_RankThemes	RankName	Grand Master		显示文本，待译
-DIM_RankThemes	RankName	Grand Moff		显示文本，待译
-DIM_RankThemes	RankName	Grand Sheikh		显示文本，待译
-DIM_RankThemes	RankName	Grand Vizier		显示文本，待译
-DIM_RankThemes	RankName	Great Axbearer		显示文本，待译
+DIM_RankThemes	RankName	Grand Admiral	海军大元帅	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Grand Ammiraglio	海军大元帅	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Grand Master	大宗师	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Grand Moff	大星区总督	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Grand Sheikh	大谢赫	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Grand Vizier	大宰相	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Great Axbearer	大持斧者	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Great Claw	巨爪	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Great Fang	巨牙	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Great Hunter		显示文本，待译
-DIM_RankThemes	RankName	Great Khan		显示文本，待译
-DIM_RankThemes	RankName	Great Stalker		显示文本，待译
-DIM_RankThemes	RankName	Greater Swordsman		显示文本，待译
-DIM_RankThemes	RankName	Groupboss		显示文本，待译
-DIM_RankThemes	RankName	Gul		显示文本，待译
-DIM_RankThemes	RankName	Guru		显示文本，待译
-DIM_RankThemes	RankName	Hauptmann-General		显示文本，待译
-DIM_RankThemes	RankName	High Admiral		显示文本，待译
-DIM_RankThemes	RankName	High Hunter		显示文本，待译
-DIM_RankThemes	RankName	High Stalker		显示文本，待译
-DIM_RankThemes	RankName	High Swordsman		显示文本，待译
-DIM_RankThemes	RankName	Hueyteccatl		显示文本，待译
-DIM_RankThemes	RankName	Hueytlatoani		显示文本，待译
-DIM_RankThemes	RankName	Hunter		同一英文在对照表里有多种译文，待人工选定
-DIM_RankThemes	RankName	Huscarl		显示文本，待译
-DIM_RankThemes	RankName	Imperator		显示文本，待译
+DIM_RankThemes	RankName	Great Hunter	大猎手	显示文本，按已核对术语补译
+DIM_RankThemes	RankName	Great Khan	大汗	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Great Stalker	大潜猎者	显示文本，按已核对术语补译
+DIM_RankThemes	RankName	Greater Swordsman	大剑士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Groupboss	组头目	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Gul	古尔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Guru	古鲁	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Hauptmann-General	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	High Admiral	高阶上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	High Hunter	高阶猎手	显示文本，按已核对术语补译
+DIM_RankThemes	RankName	High Stalker	高阶潜猎者	显示文本，按已核对术语补译
+DIM_RankThemes	RankName	High Swordsman	高阶剑士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Hueyteccatl	韦伊特卡特尔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Hueytlatoani	大特拉托阿尼	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Hunter	猎手	显示文本，按已核对术语补译
+DIM_RankThemes	RankName	Huscarl	侍卫	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Imperator	皇帝	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Ja'Gul	亚古尔	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Jaghunchi		显示文本，待译
+DIM_RankThemes	RankName	Jaghunchi	百户长	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Jaguar	美洲虎	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Jarl		显示文本，待译
-DIM_RankThemes	RankName	Jed		显示文本，待译
-DIM_RankThemes	RankName	Jeddak		显示文本，待译
-DIM_RankThemes	RankName	Jomsviking		显示文本，待译
+DIM_RankThemes	RankName	Jarl	雅尔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Jed	杰德	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Jeddak	杰达克	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Jomsviking	约姆斯维京	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Jungjang	陆军中将	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Jungnyeong	陆军中校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Junior Captain		显示文本，待译
-DIM_RankThemes	RankName	Junior Kadar		显示文本，待译
+DIM_RankThemes	RankName	Junior Captain	下级上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Junior Kadar	初级卡达尔	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Junjang	陆军准将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Kadar		显示文本，待译
-DIM_RankThemes	RankName	Kaigun Chujo		显示文本，待译
-DIM_RankThemes	RankName	Kaigun Taisho		显示文本，待译
-DIM_RankThemes	RankName	Kaigun-Chōsa		显示文本，待译
-DIM_RankThemes	RankName	Kaigun-Chūsa		显示文本，待译
-DIM_RankThemes	RankName	Kaigun-Daisa		显示文本，待译
-DIM_RankThemes	RankName	Kaigun-Shōshō		显示文本，待译
-DIM_RankThemes	RankName	Kapitan pervogo ranga		显示文本，待译
-DIM_RankThemes	RankName	Kapitan tret'yego ranga		显示文本，待译
-DIM_RankThemes	RankName	Kapitan vtorogo ranga		显示文本，待译
-DIM_RankThemes	RankName	Kapitein ter Zee 		显示文本，待译
-DIM_RankThemes	RankName	Kapitein-luitenant ter Zee 		显示文本，待译
+DIM_RankThemes	RankName	Kadar	卡达尔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kaigun Chujo	海军中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kaigun Taisho	上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kaigun-Chōsa	海军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kaigun-Chūsa	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kaigun-Daisa	上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kaigun-Shōshō	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kapitan pervogo ranga	上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kapitan tret'yego ranga	海军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kapitan vtorogo ranga	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kapitein ter Zee 	上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kapitein-luitenant ter Zee 	中校	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Kapitän zur See	上校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Kaptajnlojnant		显示文本，待译
-DIM_RankThemes	RankName	Kaptein		显示文本，待译
-DIM_RankThemes	RankName	Kar'Veth		显示文本，待译
-DIM_RankThemes	RankName	Khan		显示文本，待译
-DIM_RankThemes	RankName	Knight		显示文本，待译
-DIM_RankThemes	RankName	Knight Captain		显示文本，待译
-DIM_RankThemes	RankName	Knight Commander		显示文本，待译
-DIM_RankThemes	RankName	Knight Grand Commander		显示文本，待译
-DIM_RankThemes	RankName	Knight-General		显示文本，待译
-DIM_RankThemes	RankName	Knight-Lieutenant		显示文本，待译
-DIM_RankThemes	RankName	Knight-Marshal		显示文本，待译
-DIM_RankThemes	RankName	Knight-Sergeant		显示文本，待译
-DIM_RankThemes	RankName	Kolonel Laut		显示文本，待译
-DIM_RankThemes	RankName	Komentaja		显示文本，待译
-DIM_RankThemes	RankName	Komentajakapteen		显示文本，待译
-DIM_RankThemes	RankName	Kommandant-General		显示文本，待译
-DIM_RankThemes	RankName	Kommandeur		显示文本，待译
-DIM_RankThemes	RankName	Kommandor		显示文本，待译
-DIM_RankThemes	RankName	Kommandorkaptajn		显示文本，待译
-DIM_RankThemes	RankName	Kommendör		显示文本，待译
-DIM_RankThemes	RankName	Kommendörkapten		显示文本，待译
-DIM_RankThemes	RankName	Kommodori		显示文本，待译
+DIM_RankThemes	RankName	Kaptajnlojnant	上尉	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kaptein	上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kar'Veth	卡维斯	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Khan	可汗	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Knight	骑士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Knight Captain	骑士上尉	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Knight Commander	骑士指挥官	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Knight Grand Commander	骑士大指挥官	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Knight-General	骑士上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Knight-Lieutenant	骑士中尉	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Knight-Marshal	骑士元帅	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Knight-Sergeant	骑士军士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kolonel Laut	海军上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Komentaja	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Komentajakapteen	海军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kommandant-General	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kommandeur	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kommandor	上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kommandorkaptajn	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kommendör	上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kommendörkapten	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kommodori	上校	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Konteradmiral	少将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Konteramiral		显示文本，待译
-DIM_RankThemes	RankName	Kontr-admiral		显示文本，待译
-DIM_RankThemes	RankName	Kontra-amiraali		显示文本，待译
-DIM_RankThemes	RankName	Kontreadmiral		显示文本，待译
-DIM_RankThemes	RankName	Koramiral		显示文本，待译
+DIM_RankThemes	RankName	Konteramiral	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kontr-admiral	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kontra-amiraali	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Kontreadmiral	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Koramiral	海军中将	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Korvettenkapitän	少校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Laksamana		显示文本，待译
-DIM_RankThemes	RankName	Laksamana Madya		显示文本，待译
-DIM_RankThemes	RankName	Laksamana Muda		显示文本，待译
-DIM_RankThemes	RankName	Laksamana Pertama		显示文本，待译
-DIM_RankThemes	RankName	Lay Magician		显示文本，待译
-DIM_RankThemes	RankName	Lay Priest		显示文本，待译
-DIM_RankThemes	RankName	Leas-Aimiréal		显示文本，待译
+DIM_RankThemes	RankName	Laksamana	上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Laksamana Madya	海军中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Laksamana Muda	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Laksamana Pertama	海军准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Lay Magician	俗家魔法师	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Lay Priest	俗家祭司	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Leas-Aimiréal	海军中将	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Least Claw	末爪	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Least Fang	末牙	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Leftenant Colonel		显示文本，待译
-DIM_RankThemes	RankName	Leftenant General		显示文本，待译
+DIM_RankThemes	RankName	Leftenant Colonel	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Leftenant General	陆军中将	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Legate	特使	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Legatus		显示文本，待译
-DIM_RankThemes	RankName	Leifteanant-Cheannasaí		显示文本，待译
+DIM_RankThemes	RankName	Legatus	军团长	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Leifteanant-Cheannasaí	海军少校	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Leopard	花豹	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Letek-Ress		显示文本，待译
-DIM_RankThemes	RankName	Letnan Kolonel Laut		显示文本，待译
-DIM_RankThemes	RankName	Leutnant-Colonel		显示文本，待译
-DIM_RankThemes	RankName	Leutnant-General		显示文本，待译
+DIM_RankThemes	RankName	Letek-Ress	莱泰克-雷斯	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Letnan Kolonel Laut	海军中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Leutnant-Colonel	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Leutnant-General	陆军准将	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Lieutenant	上尉	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Lieutenant Colonel	陆军中校	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Lieutenant Commander	少校	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Lieutenant General	陆军中将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Line Captain		显示文本，待译
+DIM_RankThemes	RankName	Line Captain	战列上校	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Lion	狮子	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Lippueamiraali		显示文本，待译
-DIM_RankThemes	RankName	Liwa		显示文本，待译
-DIM_RankThemes	RankName	Lord		显示文本，待译
-DIM_RankThemes	RankName	Lord Admiral		显示文本，待译
-DIM_RankThemes	RankName	Lord Militant Commander		显示文本，待译
-DIM_RankThemes	RankName	Lord-Captain		显示文本，待译
-DIM_RankThemes	RankName	Luitenant-Admiraal 		显示文本，待译
-DIM_RankThemes	RankName	Luitenant-Kommandeur		显示文本，待译
-DIM_RankThemes	RankName	Magician		显示文本，待译
+DIM_RankThemes	RankName	Lippueamiraali	海军准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Liwa	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Lord	领主	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Lord Admiral	勋爵海军元帅	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Lord Militant Commander	军务总司令	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Lord-Captain	勋爵上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Luitenant-Admiraal 	上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Luitenant-Kommandeur	海军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Magician	魔法师	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Major	陆军少校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Major 		显示文本，待译
+DIM_RankThemes	RankName	Major 	陆军少校	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Major General	陆军少将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Marshal		显示文本，待译
-DIM_RankThemes	RankName	Marsial Gofod		显示文本，待译
-DIM_RankThemes	RankName	Master		显示文本，待译
-DIM_RankThemes	RankName	Mayor Laut		显示文本，待译
-DIM_RankThemes	RankName	Medicine Man		显示文本，待译
-DIM_RankThemes	RankName	Mekboy		显示文本，待译
-DIM_RankThemes	RankName	Mercenary		显示文本，待译
-DIM_RankThemes	RankName	Merkismaor		显示文本，待译
-DIM_RankThemes	RankName	Minghunchi		显示文本，待译
-DIM_RankThemes	RankName	Minister		显示文本，待译
-DIM_RankThemes	RankName	Moff		显示文本，待译
-DIM_RankThemes	RankName	Mufti		显示文本，待译
-DIM_RankThemes	RankName	Muqaddam		显示文本，待译
-DIM_RankThemes	RankName	Mushir		显示文本，待译
-DIM_RankThemes	RankName	Nakhoda Dovvom		显示文本，待译
-DIM_RankThemes	RankName	Nakhoda Sevom		显示文本，待译
-DIM_RankThemes	RankName	Nakhoda Yekom		显示文本，待译
-DIM_RankThemes	RankName	Navarch		显示文本，待译
-DIM_RankThemes	RankName	Navarchos		显示文本，待译
-DIM_RankThemes	RankName	Nob		显示文本，待译
-DIM_RankThemes	RankName	OddBoy		显示文本，待译
-DIM_RankThemes	RankName	Odwar		显示文本，待译
-DIM_RankThemes	RankName	Ometeccatl		显示文本，待译
-DIM_RankThemes	RankName	Oracle		显示文本，待译
-DIM_RankThemes	RankName	Oramiral		显示文本，待译
-DIM_RankThemes	RankName	Orlok		显示文本，待译
-DIM_RankThemes	RankName	Orlovskaptajn		显示文本，待译
-DIM_RankThemes	RankName	Outlaw		显示文本，待译
-DIM_RankThemes	RankName	Overseer		显示文本，待译
-DIM_RankThemes	RankName	Padwar		显示文本，待译
+DIM_RankThemes	RankName	Marshal	元帅	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Marsial Gofod	太空元帅	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Master	大师	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Mayor Laut	海军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Medicine Man	巫医	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Mekboy	机修仔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Mercenary	雇佣兵	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Merkismaor	旗手	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Minghunchi	千户长	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Minister	部长	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Moff	星区总督	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Mufti	穆夫提	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Muqaddam	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Mushir	陆军元帅	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Nakhoda Dovvom	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Nakhoda Sevom	海军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Nakhoda Yekom	上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Navarch	舰队长	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Navarchos	上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Nob	老大	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	OddBoy	怪才	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Odwar	奥德瓦	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Ometeccatl	奥梅特卡特尔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Oracle	先知	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Oramiral	上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Orlok	奥洛克	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Orlovskaptajn	海军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Outlaw	亡命徒	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Overseer	监督者	显示文本，按已核对句式替换数字代号
+DIM_RankThemes	RankName	Padwar	帕德瓦	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Panther	黑豹	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Pen Marsial Gofod		显示文本，待译
-DIM_RankThemes	RankName	Pirate		显示文本，待译
-DIM_RankThemes	RankName	Ploiarchos		显示文本，待译
-DIM_RankThemes	RankName	Plotarchis		显示文本，待译
-DIM_RankThemes	RankName	Praefectus		显示文本，待译
-DIM_RankThemes	RankName	Praetor		显示文本，待译
-DIM_RankThemes	RankName	President		显示文本，待译
-DIM_RankThemes	RankName	Priest		显示文本，待译
-DIM_RankThemes	RankName	Prime Minister		显示文本，待译
-DIM_RankThemes	RankName	Prince		显示文本，待译
-DIM_RankThemes	RankName	Raidboss		显示文本，待译
-DIM_RankThemes	RankName	Raidleader		显示文本，待译
+DIM_RankThemes	RankName	Pen Marsial Gofod	首席太空元帅	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Pirate	海盗	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Ploiarchos	上校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Plotarchis	海军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Praefectus	长官	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Praetor	裁判官	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	President	总统	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Priest	祭司	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Prime Minister	首相	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Prince	王子	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Raidboss	突袭头目	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Raidleader	突袭首领	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Rav aluf	陆军上将	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Rav seren	陆军少校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Ra’id		显示文本，待译
+DIM_RankThemes	RankName	Ra’id	陆军少校	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Rear Admiral	少将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Rear Admiral (JG)		显示文本，待译
+DIM_RankThemes	RankName	Rear Admiral (JG)	海军准将	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Rear Admiral (Lower Half)	少将（下阶）	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Rear Admiral (Upper Half)	少将（上阶）	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Rear Admiral of the Green		显示文本，待译
-DIM_RankThemes	RankName	Rear Admiral of the Red		显示文本，待译
-DIM_RankThemes	RankName	Rear-Admiral		显示文本，待译
-DIM_RankThemes	RankName	Rear-Admiral 		显示文本，待译
-DIM_RankThemes	RankName	Rig		显示文本，待译
-DIM_RankThemes	RankName	Samurai		显示文本，待译
-DIM_RankThemes	RankName	Schout bij Nacht 		显示文本，待译
-DIM_RankThemes	RankName	Seachaimiréal		显示文本，待译
-DIM_RankThemes	RankName	Sectorboss		显示文本，待译
-DIM_RankThemes	RankName	Seeker		显示文本，待译
-DIM_RankThemes	RankName	Senior Captain		显示文本，待译
+DIM_RankThemes	RankName	Rear Admiral of the Green	绿旗海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Rear Admiral of the Red	红旗海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Rear-Admiral	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Rear-Admiral 	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Rig	里格	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Samurai	武士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Schout bij Nacht 	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Seachaimiréal	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Sectorboss	区头目	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Seeker	求道者	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Senior Captain	资深上校	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Seren	陆军上尉	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Sergeant 		显示文本，待译
+DIM_RankThemes	RankName	Sergeant 	中士	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Sgan aluf	陆军中校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Shaman		显示文本，待译
+DIM_RankThemes	RankName	Shaman	萨满	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Shang Jiang	上将	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Shang Xiao	上校	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Shao Jiang	少将	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Shao Xiao	少校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Sheikh		显示文本，待译
-DIM_RankThemes	RankName	Sho-Sa		显示文本，待译
-DIM_RankThemes	RankName	Sho-sho		显示文本，待译
-DIM_RankThemes	RankName	Skout-Admiraal		显示文本，待译
-DIM_RankThemes	RankName	Skout-Admiraal (JR)		显示文本，待译
-DIM_RankThemes	RankName	Sky Marshal		显示文本，待译
+DIM_RankThemes	RankName	Sheikh	谢赫	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Sho-Sa	陆军少校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Sho-sho	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Skout-Admiraal	海军少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Skout-Admiraal (JR)	海军准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Sky Marshal	天空元帅	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Small Claw	小爪	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Small Fang	小牙	显示文本，沿用同字段已核对译文
 DIM_RankThemes	RankName	Sojang	陆军少将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Soldier		显示文本，待译
+DIM_RankThemes	RankName	Soldier	士兵	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Son of the Khan	可汗之子	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Sorcerer		显示文本，待译
+DIM_RankThemes	RankName	Sorcerer	术士	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Soryeong	陆军少校	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Squire		显示文本，待译
-DIM_RankThemes	RankName	Stalker		显示文本，待译
-DIM_RankThemes	RankName	StormBoy		显示文本，待译
-DIM_RankThemes	RankName	Sub-Admiral		显示文本，待译
-DIM_RankThemes	RankName	Sub-Commander		显示文本，待译
-DIM_RankThemes	RankName	Sub-Taar		显示文本，待译
-DIM_RankThemes	RankName	Subcommander		显示文本，待译
-DIM_RankThemes	RankName	Sultan		显示文本，待译
-DIM_RankThemes	RankName	Swami		显示文本，待译
-DIM_RankThemes	RankName	Swordsman		显示文本，待译
-DIM_RankThemes	RankName	Swordsman of Many Stars		显示文本，待译
-DIM_RankThemes	RankName	Swordsman of Many Worlds		显示文本，待译
-DIM_RankThemes	RankName	Swordsman of Stars		显示文本，待译
-DIM_RankThemes	RankName	Swordsman of Worlds		显示文本，待译
-DIM_RankThemes	RankName	Taar		显示文本，待译
-DIM_RankThemes	RankName	Taar-Ress		显示文本，待译
-DIM_RankThemes	RankName	Tai-i		显示文本，待译
-DIM_RankThemes	RankName	Tai-sa		显示文本，待译
-DIM_RankThemes	RankName	Tai-sho		显示文本，待译
+DIM_RankThemes	RankName	Squire	侍从	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Stalker	潜猎者	显示文本，按已核对术语补译
+DIM_RankThemes	RankName	StormBoy	风暴仔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Sub-Admiral	副上将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Sub-Commander	副中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Sub-Taar	副塔尔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Subcommander	副指挥官	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Sultan	苏丹	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Swami	导师	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Swordsman	剑士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Swordsman of Many Stars	众星剑士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Swordsman of Many Worlds	众界剑士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Swordsman of Stars	星辰剑士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Swordsman of Worlds	世界剑士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Taar	塔尔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Taar-Ress	塔尔·雷斯	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Tai-i	海军大尉	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Tai-sa	海军大佐	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Tai-sho	海军大将	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Tat aluf	陆军准将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Teacher		显示文本，待译
-DIM_RankThemes	RankName	Teccatl		显示文本，待译
-DIM_RankThemes	RankName	Tecotequiua		显示文本，待译
-DIM_RankThemes	RankName	Tenente di Vascello		显示文本，待译
-DIM_RankThemes	RankName	Teniente de Navio		显示文本，待译
+DIM_RankThemes	RankName	Teacher	教师	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Teccatl	领主	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Tecotequiua	功勋武士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Tenente di Vascello	上尉	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Teniente de Navio	上尉	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Tiger	老虎	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Tlacteccatl		显示文本，待译
-DIM_RankThemes	RankName	Tlamacatl		显示文本，待译
-DIM_RankThemes	RankName	Tonteccatl		显示文本，待译
-DIM_RankThemes	RankName	Toteoteccatl		显示文本，待译
-DIM_RankThemes	RankName	Trailer		显示文本，待译
-DIM_RankThemes	RankName	Tribal Leader		显示文本，待译
-DIM_RankThemes	RankName	Trierarch		显示文本，待译
-DIM_RankThemes	RankName	Tugamiral		显示文本，待译
-DIM_RankThemes	RankName	Tumenchi		显示文本，待译
-DIM_RankThemes	RankName	Tümamiral		显示文本，待译
-DIM_RankThemes	RankName	Ulfhendar		显示文本，待译
-DIM_RankThemes	RankName	Vara-amiraali		显示文本，待译
+DIM_RankThemes	RankName	Tlacteccatl	特拉卡特卡特尔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Tlamacatl	特拉马卡特尔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Tonteccatl	通特卡特尔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Toteoteccatl	圣主	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Trailer	追踪者	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Tribal Leader	部落首领	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Trierarch	三列桨舰长	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Tugamiral	准将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Tumenchi	万户长	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Tümamiral	少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Ulfhendar	狼皮战士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Vara-amiraali	中将	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Vice Admiral	中将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Vice Admiral of the Green		显示文本，待译
-DIM_RankThemes	RankName	Vice Admiral of the Red		显示文本，待译
-DIM_RankThemes	RankName	Vice Chancellor		显示文本，待译
-DIM_RankThemes	RankName	Vice President		显示文本，待译
-DIM_RankThemes	RankName	Vice-Admiraal 		显示文本，待译
-DIM_RankThemes	RankName	Vice-Admiral		显示文本，待译
-DIM_RankThemes	RankName	Vice-Admiral 		显示文本，待译
+DIM_RankThemes	RankName	Vice Admiral of the Green	绿旗中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Vice Admiral of the Red	红旗中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Vice Chancellor	副大臣	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Vice President	副总统	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Vice-Admiraal 	中将 	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Vice-Admiral	中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Vice-Admiral 	中将 	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Vice-Almirante	少将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Vice-amiral		显示文本，待译
-DIM_RankThemes	RankName	Vice-Amiral d'escadre		显示文本，待译
-DIM_RankThemes	RankName	Viceadmiral		显示文本，待译
-DIM_RankThemes	RankName	Vicealmirante		显示文本，待译
-DIM_RankThemes	RankName	Viceamiral		显示文本，待译
-DIM_RankThemes	RankName	Vise-Admiraal		显示文本，待译
-DIM_RankThemes	RankName	Vitse-admiral		显示文本，待译
+DIM_RankThemes	RankName	Vice-amiral	少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Vice-Amiral d'escadre	中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Viceadmiral	中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Vicealmirante	中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Viceamiral	中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Vise-Admiraal	中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Vitse-admiral	中将	显示文本，补译名称或军衔
 DIM_RankThemes	RankName	Vizeadmiral	中将	显示文本，沿用同字段已核对译文
-DIM_RankThemes	RankName	Vizier		显示文本，待译
-DIM_RankThemes	RankName	War Chief		显示文本，待译
-DIM_RankThemes	RankName	WarBoss		显示文本，待译
-DIM_RankThemes	RankName	Warboss		显示文本，待译
-DIM_RankThemes	RankName	Warleader		显示文本，待译
-DIM_RankThemes	RankName	Warlord		显示文本，待译
-DIM_RankThemes	RankName	Warrior		显示文本，待译
-DIM_RankThemes	RankName	Warrior 		显示文本，待译
-DIM_RankThemes	RankName	Water Lord		显示文本，待译
-DIM_RankThemes	RankName	WildBoy		显示文本，待译
-DIM_RankThemes	RankName	Wildcat		显示文本，待译
-DIM_RankThemes	RankName	Wind Lord		显示文本，待译
-DIM_RankThemes	RankName	Yarbay		显示文本，待译
-DIM_RankThemes	RankName	Yponavarchos		显示文本，待译
-DIM_RankThemes	RankName	Zhong Jiang		显示文本，待译
-DIM_RankThemes	RankName	Zhong Xiao		显示文本，待译
-DIM_RankThemes	RankName	Zok-Ress		显示文本，待译
-DIM_RankThemes	RankName	Örlogskapten		显示文本，待译
-DIM_RankThemes	GFRankName	Adept		显示文本，待译
+DIM_RankThemes	RankName	Vizier	维齐尔	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	War Chief	战争酋长	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	WarBoss	战争头目	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Warboss	战争头目	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Warleader	战争领袖	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Warlord	军阀	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Warrior	战士	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Warrior 	战士 	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Water Lord	水之领主	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	WildBoy	野孩子	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Wildcat	野猫	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Wind Lord	风之领主	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Yarbay	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Yponavarchos	少将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Zhong Jiang	中将	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Zhong Xiao	中校	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Zok-Ress	佐克·雷斯	显示文本，补译名称或军衔
+DIM_RankThemes	RankName	Örlogskapten	海军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Adept	熟练者	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Admiral	上将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Albay		显示文本，待译
+DIM_RankThemes	GFRankName	Albay	陆军上校	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Aluf	陆军少将	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Aluf mishne	陆军上校	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Amid		显示文本，待译
-DIM_RankThemes	GFRankName	Antistratigos		显示文本，待译
-DIM_RankThemes	GFRankName	Antisyntagmatarchis		显示文本，待译
-DIM_RankThemes	GFRankName	Aqid		显示文本，待译
-DIM_RankThemes	GFRankName	Arbanchi		显示文本，待译
-DIM_RankThemes	GFRankName	Archdemon		显示文本，待译
-DIM_RankThemes	GFRankName	Archdevil		显示文本，待译
-DIM_RankThemes	GFRankName	Archon		显示文本，待译
-DIM_RankThemes	GFRankName	Axbearer		显示文本，待译
-DIM_RankThemes	GFRankName	Baron		显示文本，待译
-DIM_RankThemes	GFRankName	Berserkir		显示文本，待译
-DIM_RankThemes	GFRankName	Binbasi		显示文本，待译
-DIM_RankThemes	GFRankName	Brave		显示文本，待译
-DIM_RankThemes	GFRankName	Brigade-generaal		显示文本，待译
-DIM_RankThemes	GFRankName	Brigadegeneraal		显示文本，待译
+DIM_RankThemes	GFRankName	Amid	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Antistratigos	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Antisyntagmatarchis	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Aqid	陆军上校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Arbanchi	十户长	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Archdemon	大恶魔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Archdevil	大魔鬼	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Archon	执政官	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Axbearer	持斧者	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Baron	男爵	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Berserkir	狂战士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Binbasi	陆军少校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Brave	勇士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Brigade-generaal	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Brigadegeneraal	陆军准将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Brigadegeneral	陆军准将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Brigadgeneral		显示文本，待译
-DIM_RankThemes	GFRankName	Brigadier		显示文本，待译
+DIM_RankThemes	GFRankName	Brigadgeneral	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Brigadier	陆军准将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Brigadier General	陆军准将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Brigadir Jenderal		显示文本，待译
-DIM_RankThemes	GFRankName	Briogáidire-Ghinearál		显示文本，待译
-DIM_RankThemes	GFRankName	Byddin Gofod Marsial		显示文本，待译
-DIM_RankThemes	GFRankName	Cadlywydd Gofod		显示文本，待译
-DIM_RankThemes	GFRankName	Caliph		显示文本，待译
-DIM_RankThemes	GFRankName	Capitán General		显示文本，待译
+DIM_RankThemes	GFRankName	Brigadir Jenderal	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Briogáidire-Ghinearál	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Byddin Gofod Marsial	太空军元帅	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Cadlywydd Gofod	太空指挥官	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Caliph	哈里发	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Capitán General	大元帅	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Capitão	陆军上尉	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Captain	上校	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Captain 		显示文本，待译
+DIM_RankThemes	GFRankName	Captain 	陆军上尉 	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Captain-General	大元帅	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Capten Gofod		显示文本，待译
-DIM_RankThemes	GFRankName	Ceannfort		显示文本，待译
-DIM_RankThemes	GFRankName	Centurion		显示文本，待译
+DIM_RankThemes	GFRankName	Capten Gofod	太空上校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Ceannfort	陆军少校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Centurion	百夫长	显示文本，按已核对句式替换数字代号
 DIM_RankThemes	GFRankName	Cheetah	猎豹	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Chief of Chiefs		显示文本，待译
-DIM_RankThemes	GFRankName	Cho'Noth		显示文本，待译
-DIM_RankThemes	GFRankName	Cho'Rath		显示文本，待译
-DIM_RankThemes	GFRankName	Chu-i		显示文本，待译
-DIM_RankThemes	GFRankName	Chu-sa		显示文本，待译
-DIM_RankThemes	GFRankName	Civil Chief		显示文本，待译
-DIM_RankThemes	GFRankName	Cleric		显示文本，待译
-DIM_RankThemes	GFRankName	Coirnéal		显示文本，待译
+DIM_RankThemes	GFRankName	Chief of Chiefs	大酋长	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Cho'Noth	乔诺斯	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Cho'Rath	乔拉斯	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Chu-i	陆军中尉	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Chu-sa	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Civil Chief	民事酋长	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Cleric	牧师	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Coirnéal	陆军上校	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Colonel	陆军上校	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Colonel 		显示文本，待译
-DIM_RankThemes	GFRankName	Colonnello		显示文本，待译
-DIM_RankThemes	GFRankName	Comandante		显示文本，待译
-DIM_RankThemes	GFRankName	Commandant		显示文本，待译
+DIM_RankThemes	GFRankName	Colonel 	陆军上校 	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Colonnello	陆军上校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Comandante	陆军少校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Commandant	陆军少校	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Commander	中校	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Commodore	准将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Comodor Gofod		显示文本，待译
+DIM_RankThemes	GFRankName	Comodor Gofod	太空准将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Coronel	陆军上校	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Coronel Mayor		显示文本，待译
-DIM_RankThemes	GFRankName	Coronel Mayor\\t		显示文本，待译
-DIM_RankThemes	GFRankName	Count		显示文本，待译
+DIM_RankThemes	GFRankName	Coronel Mayor	陆军大校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Coronel Mayor\t	陆军大校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Count	伯爵	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Da Xiao	大校	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Da'Jareth		显示文本，待译
+DIM_RankThemes	GFRankName	Da'Jareth	达贾雷斯	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Daejang	陆军上将	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Daeryeong	陆军上校	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Dahar Master		显示文本，待译
-DIM_RankThemes	GFRankName	Daimon		显示文本，待译
-DIM_RankThemes	GFRankName	Daimon-Ress		显示文本，待译
-DIM_RankThemes	GFRankName	Dal		显示文本，待译
+DIM_RankThemes	GFRankName	Dahar Master	达哈尔大师	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Daimon	戴蒙	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Daimon-Ress	戴蒙·雷斯	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Dal	达尔	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Dalin	达林	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Dar'Garoth		显示文本，待译
-DIM_RankThemes	GFRankName	Dar'Sol		显示文本，待译
-DIM_RankThemes	GFRankName	Daryaban		显示文本，待译
-DIM_RankThemes	GFRankName	Daryadar		显示文本，待译
-DIM_RankThemes	GFRankName	Daryadar Dovom		显示文本，待译
-DIM_RankThemes	GFRankName	Daryasalar		显示文本，待译
-DIM_RankThemes	GFRankName	Demon		显示文本，待译
-DIM_RankThemes	GFRankName	Demon Lord		显示文本，待译
-DIM_RankThemes	GFRankName	Demon Prince		显示文本，待译
-DIM_RankThemes	GFRankName	Devil		显示文本，待译
-DIM_RankThemes	GFRankName	Dirprwy Marsial Gofod		显示文本，待译
-DIM_RankThemes	GFRankName	Djenderal		显示文本，待译
-DIM_RankThemes	GFRankName	Drengr		显示文本，待译
-DIM_RankThemes	GFRankName	Duke		显示文本，待译
-DIM_RankThemes	GFRankName	Dwar		显示文本，待译
-DIM_RankThemes	GFRankName	Earl		显示文本，待译
-DIM_RankThemes	GFRankName	Earth Lord		显示文本，待译
-DIM_RankThemes	GFRankName	Elemental		显示文本，待译
-DIM_RankThemes	GFRankName	Elemental Lord		显示文本，待译
-DIM_RankThemes	GFRankName	Elemental Overlord		显示文本，待译
-DIM_RankThemes	GFRankName	Emperor		显示文本，待译
-DIM_RankThemes	GFRankName	Eversti		显示文本，待译
-DIM_RankThemes	GFRankName	Everstiluutnantti		显示文本，待译
-DIM_RankThemes	GFRankName	Fariq		显示文本，待译
-DIM_RankThemes	GFRankName	Fariq’awal		显示文本，待译
-DIM_RankThemes	GFRankName	Field Marshal		显示文本，待译
-DIM_RankThemes	GFRankName	Fiend		显示文本，待译
-DIM_RankThemes	GFRankName	Fire Lord		显示文本，待译
+DIM_RankThemes	GFRankName	Dar'Garoth	达加罗斯	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Dar'Sol	达尔索尔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Daryaban	中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Daryadar	少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Daryadar Dovom	准将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Daryasalar	上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Demon	恶魔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Demon Lord	恶魔领主	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Demon Prince	恶魔王子	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Devil	魔鬼	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Dirprwy Marsial Gofod	副太空元帅	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Djenderal	陆军上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Drengr	勇士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Duke	公爵	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Dwar	德瓦	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Earl	伯爵	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Earth Lord	大地领主	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Elemental	元素灵	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Elemental Lord	元素领主	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Elemental Overlord	元素霸主	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Emperor	皇帝	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Eversti	陆军上校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Everstiluutnantti	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Fariq	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Fariq’awal	陆军上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Field Marshal	陆军元帅	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Fiend	邪魔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Fire Lord	火焰领主	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	First Fang	首牙	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Fleet Admiral	舰队上将	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Fleet Commander	舰队指挥官	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Force Commander	部队司令	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Gangboss		显示文本，待译
-DIM_RankThemes	GFRankName	Gangleader		显示文本，待译
-DIM_RankThemes	GFRankName	Generaal		显示文本，待译
-DIM_RankThemes	GFRankName	Generaal-Majoor		显示文本，待译
-DIM_RankThemes	GFRankName	Generaal-majoor		显示文本，待译
-DIM_RankThemes	GFRankName	General		同一英文在对照表里有多种译文，待人工选定
-DIM_RankThemes	GFRankName	General 		显示文本，待译
-DIM_RankThemes	GFRankName	General Brigadier		显示文本，待译
-DIM_RankThemes	GFRankName	General de Brigada		显示文本，待译
-DIM_RankThemes	GFRankName	General de División		显示文本，待译
-DIM_RankThemes	GFRankName	General de Ejército		显示文本，待译
+DIM_RankThemes	GFRankName	Gangboss	帮派头目	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Gangleader	帮派领袖	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Generaal	陆军上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Generaal-Majoor	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Generaal-majoor	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	General	陆军上将	显示文本，按已核对术语补译
+DIM_RankThemes	GFRankName	General 	陆军上将 	显示文本，按已核对术语补译
+DIM_RankThemes	GFRankName	General Brigadier	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	General de Brigada	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	General de División	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	General de Ejército	陆军上将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	General of the Army	陆军元帅	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	General of the Lancers		显示文本，待译
+DIM_RankThemes	GFRankName	General of the Lancers	枪骑兵上将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	General-de-Brigada	陆军少将	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	General-de-Divisão	陆军中将	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	General-de-Exército	陆军上将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Generale		显示文本，待译
-DIM_RankThemes	GFRankName	Generale di Brigata		显示文本，待译
-DIM_RankThemes	GFRankName	Generale di Corpo d'Armata		显示文本，待译
-DIM_RankThemes	GFRankName	Generale di Divisione		显示文本，待译
+DIM_RankThemes	GFRankName	Generale	陆军上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Generale di Brigata	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Generale di Corpo d'Armata	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Generale di Divisione	陆军少将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Generalleutnant	陆军中将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Generallöjtnant		显示文本，待译
-DIM_RankThemes	GFRankName	Generalløjtnant		显示文本，待译
+DIM_RankThemes	GFRankName	Generallöjtnant	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Generalløjtnant	陆军中将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Generalmajor	陆军少将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Generál ármii		显示文本，待译
-DIM_RankThemes	GFRankName	Generál-leytenánt		显示文本，待译
-DIM_RankThemes	GFRankName	Generál-mayór		显示文本，待译
-DIM_RankThemes	GFRankName	Generál-polkóvnik		显示文本，待译
-DIM_RankThemes	GFRankName	Gensui-Rikugun-Taishō		显示文本，待译
+DIM_RankThemes	GFRankName	Generál ármii	陆军大将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Generál-leytenánt	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Generál-mayór	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Generál-polkóvnik	陆军上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Gensui-Rikugun-Taishō	陆军元帅	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Glinn	格林	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Governor	总督	显示文本，沿用界面对照表中的唯一译文
-DIM_RankThemes	GFRankName	Grand Admiral		显示文本，待译
-DIM_RankThemes	GFRankName	Grand General		显示文本，待译
-DIM_RankThemes	GFRankName	Grand Master		显示文本，待译
-DIM_RankThemes	GFRankName	Grand Moff		显示文本，待译
-DIM_RankThemes	GFRankName	Grand Sheikh		显示文本，待译
-DIM_RankThemes	GFRankName	Grand Vizier		显示文本，待译
-DIM_RankThemes	GFRankName	Great Axbearer		显示文本，待译
+DIM_RankThemes	GFRankName	Grand Admiral	大上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Grand General	大将军	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Grand Master	宗师	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Grand Moff	大星区总督	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Grand Sheikh	大谢赫	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Grand Vizier	大维齐尔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Great Axbearer	大持斧者	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Great Claw	巨爪	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Great Fang	巨牙	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Great Hunter		显示文本，待译
-DIM_RankThemes	GFRankName	Great Khan		显示文本，待译
-DIM_RankThemes	GFRankName	Great Stalker		显示文本，待译
-DIM_RankThemes	GFRankName	Greater Swordsman		显示文本，待译
-DIM_RankThemes	GFRankName	Groupboss		显示文本，待译
-DIM_RankThemes	GFRankName	Gul		显示文本，待译
-DIM_RankThemes	GFRankName	Guru		显示文本，待译
-DIM_RankThemes	GFRankName	Général d'armée		显示文本，待译
-DIM_RankThemes	GFRankName	Général de brigade		显示文本，待译
-DIM_RankThemes	GFRankName	Général de corps d´armée		显示文本，待译
-DIM_RankThemes	GFRankName	Général de division		显示文本，待译
-DIM_RankThemes	GFRankName	Hauptmann-General		显示文本，待译
-DIM_RankThemes	GFRankName	High Colonel		显示文本，待译
-DIM_RankThemes	GFRankName	High General		显示文本，待译
-DIM_RankThemes	GFRankName	High Hunter		显示文本，待译
-DIM_RankThemes	GFRankName	High Stalker		显示文本，待译
-DIM_RankThemes	GFRankName	High Swordsman		显示文本，待译
-DIM_RankThemes	GFRankName	Hueyteccatl		显示文本，待译
-DIM_RankThemes	GFRankName	Hueytlatoani		显示文本，待译
-DIM_RankThemes	GFRankName	Hunter		同一英文在对照表里有多种译文，待人工选定
-DIM_RankThemes	GFRankName	Huscarl		显示文本，待译
+DIM_RankThemes	GFRankName	Great Hunter	大猎手	显示文本，按已核对术语补译
+DIM_RankThemes	GFRankName	Great Khan	大汗	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Great Stalker	大潜猎者	显示文本，按已核对术语补译
+DIM_RankThemes	GFRankName	Greater Swordsman	大剑士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Groupboss	小组头目	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Gul	古尔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Guru	上师	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Général d'armée	陆军上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Général de brigade	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Général de corps d´armée	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Général de division	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Hauptmann-General	上尉将军	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	High Colonel	高级上校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	High General	高级上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	High Hunter	高阶猎手	显示文本，按已核对术语补译
+DIM_RankThemes	GFRankName	High Stalker	高阶潜猎者	显示文本，按已核对术语补译
+DIM_RankThemes	GFRankName	High Swordsman	高阶剑士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Hueyteccatl	大领主	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Hueytlatoani	大特拉托阿尼	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Hunter	猎手	显示文本，按已核对术语补译
+DIM_RankThemes	GFRankName	Huscarl	侍卫	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Ja'Gul	亚古尔	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Jaghunchi		显示文本，待译
+DIM_RankThemes	GFRankName	Jaghunchi	百户长	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Jaguar	美洲虎	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Jarl		显示文本，待译
-DIM_RankThemes	GFRankName	Jed		显示文本，待译
-DIM_RankThemes	GFRankName	Jeddak		显示文本，待译
-DIM_RankThemes	GFRankName	Jomsviking		显示文本，待译
+DIM_RankThemes	GFRankName	Jarl	雅尔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Jed	杰德	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Jeddak	杰达克	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Jomsviking	约姆斯维京	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Jungjang	陆军中将	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Jungnyeong	陆军中校	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Junior Captain		显示文本，待译
-DIM_RankThemes	GFRankName	Junior Kadar		显示文本，待译
+DIM_RankThemes	GFRankName	Junior Captain	初级上校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Junior Kadar	初级卡达尔	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Junjang	陆军准将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Kadar		显示文本，待译
-DIM_RankThemes	GFRankName	Kar'Veth		显示文本，待译
-DIM_RankThemes	GFRankName	Kenraali		显示文本，待译
-DIM_RankThemes	GFRankName	Kenraaliluutnantti		显示文本，待译
-DIM_RankThemes	GFRankName	Kenraalimajuri		显示文本，待译
-DIM_RankThemes	GFRankName	Khan		显示文本，待译
-DIM_RankThemes	GFRankName	Knight		显示文本，待译
-DIM_RankThemes	GFRankName	Knight Captain		显示文本，待译
-DIM_RankThemes	GFRankName	Knight Commander		显示文本，待译
-DIM_RankThemes	GFRankName	Knight Grand Commander		显示文本，待译
-DIM_RankThemes	GFRankName	Knight-General		显示文本，待译
-DIM_RankThemes	GFRankName	Knight-Lieutenant		显示文本，待译
-DIM_RankThemes	GFRankName	Knight-Marshal		显示文本，待译
-DIM_RankThemes	GFRankName	Knight-Sergeant		显示文本，待译
-DIM_RankThemes	GFRankName	Kolonel		显示文本，待译
-DIM_RankThemes	GFRankName	Kommandant-General		显示文本，待译
-DIM_RankThemes	GFRankName	Korgeneral		显示文本，待译
-DIM_RankThemes	GFRankName	Lay Magician		显示文本，待译
-DIM_RankThemes	GFRankName	Lay Priest		显示文本，待译
+DIM_RankThemes	GFRankName	Kadar	卡达尔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Kar'Veth	卡维斯	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Kenraali	陆军上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Kenraaliluutnantti	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Kenraalimajuri	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Khan	可汗	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Knight	骑士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Knight Captain	骑士上尉	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Knight Commander	骑士指挥官	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Knight Grand Commander	骑士大指挥官	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Knight-General	骑士将军	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Knight-Lieutenant	骑士中尉	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Knight-Marshal	骑士元帅	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Knight-Sergeant	骑士军士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Kolonel	陆军上校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Kommandant-General	司令将军	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Korgeneral	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Lay Magician	俗家魔法师	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Lay Priest	俗家祭司	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Least Claw	末爪	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Least Fang	末牙	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Leftenant Colonel		显示文本，待译
-DIM_RankThemes	GFRankName	Leftenant General		显示文本，待译
+DIM_RankThemes	GFRankName	Leftenant Colonel	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Leftenant General	陆军中将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Legate	特使	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Legatus Augusti		显示文本，待译
-DIM_RankThemes	GFRankName	Legatus Legionis		显示文本，待译
-DIM_RankThemes	GFRankName	Leifteanant-Choirnéal		显示文本，待译
-DIM_RankThemes	GFRankName	Leifteanant-Ghinearál		显示文本，待译
+DIM_RankThemes	GFRankName	Legatus Augusti	奥古斯都副将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Legatus Legionis	军团长	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Leifteanant-Choirnéal	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Leifteanant-Ghinearál	陆军中将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Leopard	花豹	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Letek-Ress		显示文本，待译
-DIM_RankThemes	GFRankName	Letnan Jenderal		显示文本，待译
-DIM_RankThemes	GFRankName	Letnan Kolonel		显示文本，待译
-DIM_RankThemes	GFRankName	Leutnant-Colonel		显示文本，待译
-DIM_RankThemes	GFRankName	Leutnant-General		显示文本，待译
+DIM_RankThemes	GFRankName	Letek-Ress	莱泰克·雷斯	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Letnan Jenderal	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Letnan Kolonel	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Leutnant-Colonel	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Leutnant-General	陆军中将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Lieutenant	上尉	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Lieutenant Colonel	陆军中校	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Lieutenant General	陆军中将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Lieutenant-colonel		显示文本，待译
-DIM_RankThemes	GFRankName	Lieutenant-General		显示文本，待译
+DIM_RankThemes	GFRankName	Lieutenant-colonel	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Lieutenant-General	陆军中将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Lion	狮子	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Liwa		显示文本，待译
-DIM_RankThemes	GFRankName	Lord		显示文本，待译
-DIM_RankThemes	GFRankName	Lord Commander		显示文本，待译
-DIM_RankThemes	GFRankName	Lord Commander Militant		显示文本，待译
-DIM_RankThemes	GFRankName	Lord General		显示文本，待译
-DIM_RankThemes	GFRankName	Lord General Militant		显示文本，待译
-DIM_RankThemes	GFRankName	Luitenant-Generaal		显示文本，待译
-DIM_RankThemes	GFRankName	Luitenant-generaal		显示文本，待译
-DIM_RankThemes	GFRankName	Luitenant-kolonel		显示文本，待译
-DIM_RankThemes	GFRankName	Maggiore		显示文本，待译
-DIM_RankThemes	GFRankName	Magician		显示文本，待译
-DIM_RankThemes	GFRankName	Majoor		显示文本，待译
+DIM_RankThemes	GFRankName	Liwa	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Lord	领主	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Lord Commander	领主指挥官	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Lord Commander Militant	武装领主指挥官	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Lord General	领主将军	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Lord General Militant	武装领主将军	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Luitenant-Generaal	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Luitenant-generaal	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Luitenant-kolonel	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Maggiore	陆军少校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Magician	魔法师	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Majoor	陆军少校	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Major	陆军少校	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Major 		显示文本，待译
+DIM_RankThemes	GFRankName	Major 	陆军少校 	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Major General	陆军少将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Major-General		显示文本，待译
-DIM_RankThemes	GFRankName	Majuri		显示文本，待译
-DIM_RankThemes	GFRankName	Maor-Ghinearál		显示文本，待译
+DIM_RankThemes	GFRankName	Major-General	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Majuri	陆军少校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Maor-Ghinearál	陆军少将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Marechal	元帅	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Marshal		显示文本，待译
-DIM_RankThemes	GFRankName	Marshal of the Corps		显示文本，待译
-DIM_RankThemes	GFRankName	Marsial Gofod		显示文本，待译
-DIM_RankThemes	GFRankName	Master		显示文本，待译
-DIM_RankThemes	GFRankName	Mayor		显示文本，待译
-DIM_RankThemes	GFRankName	Mayor Jenderal		显示文本，待译
-DIM_RankThemes	GFRankName	Mayór		显示文本，待译
-DIM_RankThemes	GFRankName	Medicine Man		显示文本，待译
-DIM_RankThemes	GFRankName	Mekboy		显示文本，待译
-DIM_RankThemes	GFRankName	Mercenary		显示文本，待译
-DIM_RankThemes	GFRankName	Merkismaor		显示文本，待译
-DIM_RankThemes	GFRankName	Minghunchi		显示文本，待译
-DIM_RankThemes	GFRankName	Moff		显示文本，待译
-DIM_RankThemes	GFRankName	Mufti		显示文本，待译
-DIM_RankThemes	GFRankName	Muqaddam		显示文本，待译
-DIM_RankThemes	GFRankName	Mushir		显示文本，待译
-DIM_RankThemes	GFRankName	Nakhoda Dovvom		显示文本，待译
-DIM_RankThemes	GFRankName	Nakhoda Sevom		显示文本，待译
-DIM_RankThemes	GFRankName	Nakhoda Yekom		显示文本，待译
-DIM_RankThemes	GFRankName	Nob		显示文本，待译
+DIM_RankThemes	GFRankName	Marshal	元帅	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Marshal of the Corps	军团元帅	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Marsial Gofod	太空元帅	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Master	大师	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Mayor	陆军少校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Mayor Jenderal	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Mayór	陆军少校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Medicine Man	巫医	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Mekboy	机械仔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Mercenary	雇佣兵	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Merkismaor	旗手	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Minghunchi	千户长	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Moff	星区总督	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Mufti	穆夫提	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Muqaddam	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Mushir	陆军元帅	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Nakhoda Dovvom	中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Nakhoda Sevom	少校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Nakhoda Yekom	上校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Nob	老大	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Oberst	陆军上校	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Oberstleutnant	陆军中校	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Oberstløjtnant		显示文本，待译
-DIM_RankThemes	GFRankName	OddBoy		显示文本，待译
-DIM_RankThemes	GFRankName	Odwar		显示文本，待译
-DIM_RankThemes	GFRankName	Ometeccatl		显示文本，待译
-DIM_RankThemes	GFRankName	Oracle		显示文本，待译
-DIM_RankThemes	GFRankName	Orgeneral		显示文本，待译
-DIM_RankThemes	GFRankName	Orlok		显示文本，待译
-DIM_RankThemes	GFRankName	Outlaw		显示文本，待译
-DIM_RankThemes	GFRankName	Overseer		显示文本，待译
-DIM_RankThemes	GFRankName	Padwar		显示文本，待译
+DIM_RankThemes	GFRankName	Oberstløjtnant	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	OddBoy	怪男孩	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Odwar	奥德瓦	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Ometeccatl	双领主	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Oracle	先知	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Orgeneral	陆军上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Orlok	统帅	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Outlaw	亡命徒	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Overseer	监督者	显示文本，按已核对句式替换数字代号
+DIM_RankThemes	GFRankName	Padwar	帕德瓦	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Panther	黑豹	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Pen Marsial Gofod		显示文本，待译
-DIM_RankThemes	GFRankName	Pirate		显示文本，待译
-DIM_RankThemes	GFRankName	Podpolkóvnik		显示文本，待译
-DIM_RankThemes	GFRankName	Polkóvnik		显示文本，待译
-DIM_RankThemes	GFRankName	Praefectus Castrorum		显示文本，待译
-DIM_RankThemes	GFRankName	Praetor		显示文本，待译
-DIM_RankThemes	GFRankName	Priest		显示文本，待译
-DIM_RankThemes	GFRankName	Prikaatikenraali		显示文本，待译
-DIM_RankThemes	GFRankName	Primo Capitano		显示文本，待译
-DIM_RankThemes	GFRankName	Primus		显示文本，待译
-DIM_RankThemes	GFRankName	Prince		显示文本，待译
-DIM_RankThemes	GFRankName	Raidboss		显示文本，待译
-DIM_RankThemes	GFRankName	Raidleader		显示文本，待译
+DIM_RankThemes	GFRankName	Pen Marsial Gofod	首席太空元帅	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Pirate	海盗	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Podpolkóvnik	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Polkóvnik	陆军上校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Praefectus Castrorum	军营长官	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Praetor	执政官	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Priest	祭司	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Prikaatikenraali	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Primo Capitano	陆军资深上尉	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Primus	首席百夫长	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Prince	王子	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Raidboss	突袭头目	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Raidleader	突袭领袖	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Rav seren	陆军少校	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Rav-aluf	陆军上将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Ra’id		显示文本，待译
-DIM_RankThemes	GFRankName	Rig		显示文本，待译
-DIM_RankThemes	GFRankName	Rikugun-Chūjō		显示文本，待译
-DIM_RankThemes	GFRankName	Rikugun-Chūsa		显示文本，待译
-DIM_RankThemes	GFRankName	Rikugun-Shōsa		显示文本，待译
-DIM_RankThemes	GFRankName	Rikugun-Shōshō		显示文本，待译
-DIM_RankThemes	GFRankName	Rikugun-Taisa		显示文本，待译
-DIM_RankThemes	GFRankName	Rikugun-Taishō		显示文本，待译
-DIM_RankThemes	GFRankName	Samurai		显示文本，待译
-DIM_RankThemes	GFRankName	Sectorboss		显示文本，待译
-DIM_RankThemes	GFRankName	Seeker		显示文本，待译
-DIM_RankThemes	GFRankName	Senior Captain		显示文本，待译
+DIM_RankThemes	GFRankName	Ra’id	陆军少校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Rig	里格	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Rikugun-Chūjō	陆军中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Rikugun-Chūsa	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Rikugun-Shōsa	陆军少校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Rikugun-Shōshō	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Rikugun-Taisa	陆军上校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Rikugun-Taishō	陆军上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Samurai	武士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Sectorboss	区域头目	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Seeker	求道者	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Senior Captain	资深上校	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Seren	陆军上尉	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Sergeant 		显示文本，待译
+DIM_RankThemes	GFRankName	Sergeant 	军士 	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Sgan aluf	陆军中校	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Shaman		显示文本，待译
+DIM_RankThemes	GFRankName	Shaman	萨满	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Shang Jiang	上将	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Shang Xiao	上校	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Shao Jiang	少将	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Shao Xiao	少校	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Sheikh		显示文本，待译
-DIM_RankThemes	GFRankName	Sho-Sa		显示文本，待译
-DIM_RankThemes	GFRankName	Sho-sho		显示文本，待译
-DIM_RankThemes	GFRankName	Sky Marshal		显示文本，待译
+DIM_RankThemes	GFRankName	Sheikh	谢赫	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Sho-Sa	陆军少校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Sho-sho	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Sky Marshal	天空元帅	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Small Claw	小爪	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Small Fang	小牙	显示文本，沿用对照表中唯一译文
 DIM_RankThemes	GFRankName	Sojang	陆军少将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Soldier		显示文本，待译
+DIM_RankThemes	GFRankName	Soldier	士兵	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Son of the Khan	可汗之子	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Sorcerer		显示文本，待译
+DIM_RankThemes	GFRankName	Sorcerer	术士	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Soryeong	陆军少校	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Squire		显示文本，待译
-DIM_RankThemes	GFRankName	Stalker		显示文本，待译
-DIM_RankThemes	GFRankName	StormBoy		显示文本，待译
-DIM_RankThemes	GFRankName	Stratigos		显示文本，待译
-DIM_RankThemes	GFRankName	Sub-Admiral		显示文本，待译
-DIM_RankThemes	GFRankName	Sub-Commander		显示文本，待译
-DIM_RankThemes	GFRankName	Sub-Taar		显示文本，待译
-DIM_RankThemes	GFRankName	Subcommander		显示文本，待译
-DIM_RankThemes	GFRankName	Sultan		显示文本，待译
-DIM_RankThemes	GFRankName	Surface Marshal		显示文本，待译
-DIM_RankThemes	GFRankName	Swami		显示文本，待译
-DIM_RankThemes	GFRankName	Swordsman		显示文本，待译
-DIM_RankThemes	GFRankName	Swordsman of Many Stars		显示文本，待译
-DIM_RankThemes	GFRankName	Swordsman of Many Worlds		显示文本，待译
-DIM_RankThemes	GFRankName	Swordsman of Stars		显示文本，待译
-DIM_RankThemes	GFRankName	Swordsman of Worlds		显示文本，待译
-DIM_RankThemes	GFRankName	Syntagmatarchis		显示文本，待译
-DIM_RankThemes	GFRankName	Taar		显示文本，待译
-DIM_RankThemes	GFRankName	Taar-Ress		显示文本，待译
-DIM_RankThemes	GFRankName	Tagmatarchis		显示文本，待译
-DIM_RankThemes	GFRankName	Tai-i		显示文本，待译
-DIM_RankThemes	GFRankName	Tai-sa		显示文本，待译
-DIM_RankThemes	GFRankName	Tai-sho		显示文本，待译
+DIM_RankThemes	GFRankName	Squire	侍从	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Stalker	潜猎者	显示文本，按已核对术语补译
+DIM_RankThemes	GFRankName	StormBoy	暴风仔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Stratigos	陆军上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Sub-Admiral	副上将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Sub-Commander	副指挥官	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Sub-Taar	副塔尔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Subcommander	副指挥官	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Sultan	苏丹	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Surface Marshal	地面元帅	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Swami	导师	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Swordsman	剑士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Swordsman of Many Stars	众星剑士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Swordsman of Many Worlds	众界剑士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Swordsman of Stars	星辰剑士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Swordsman of Worlds	世界剑士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Syntagmatarchis	陆军上校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Taar	塔尔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Taar-Ress	塔尔·雷斯	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tagmatarchis	陆军少校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tai-i	陆军上尉	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tai-sa	陆军上校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tai-sho	陆军上将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Tat aluf	陆军准将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Taxiarchos		显示文本，待译
-DIM_RankThemes	GFRankName	Teacher		显示文本，待译
-DIM_RankThemes	GFRankName	Teccatl		显示文本，待译
-DIM_RankThemes	GFRankName	Tecotequiua		显示文本，待译
-DIM_RankThemes	GFRankName	Tenente Colonnello		显示文本，待译
-DIM_RankThemes	GFRankName	Tenente-coronel\\t		显示文本，待译
-DIM_RankThemes	GFRankName	Teniente Coronel		显示文本，待译
-DIM_RankThemes	GFRankName	Teniente coronel		显示文本，待译
-DIM_RankThemes	GFRankName	Teniente Coronel\\t		显示文本，待译
-DIM_RankThemes	GFRankName	Teniente General		显示文本，待译
+DIM_RankThemes	GFRankName	Taxiarchos	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Teacher	教师	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Teccatl	领主	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tecotequiua	功勋武士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tenente Colonnello	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tenente-coronel\t	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Teniente Coronel	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Teniente coronel	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Teniente Coronel\t	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Teniente General	陆军中将	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Tiger	老虎	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Tlacteccatl		显示文本，待译
-DIM_RankThemes	GFRankName	Tlamacatl		显示文本，待译
-DIM_RankThemes	GFRankName	Tonteccatl		显示文本，待译
-DIM_RankThemes	GFRankName	Toteoteccatl		显示文本，待译
-DIM_RankThemes	GFRankName	Trailer		显示文本，待译
-DIM_RankThemes	GFRankName	Tribal Leader		显示文本，待译
-DIM_RankThemes	GFRankName	Tribuni Angusticlavii		显示文本，待译
-DIM_RankThemes	GFRankName	Tribunus Laticlavius		显示文本，待译
-DIM_RankThemes	GFRankName	Tumenchi		显示文本，待译
-DIM_RankThemes	GFRankName	Tuğgeneral		显示文本，待译
-DIM_RankThemes	GFRankName	Tümgeneral		显示文本，待译
-DIM_RankThemes	GFRankName	Ulfhendar		显示文本，待译
+DIM_RankThemes	GFRankName	Tlacteccatl	特拉卡特卡特尔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tlamacatl	特拉马卡特尔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tonteccatl	通特卡特尔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Toteoteccatl	圣主	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Trailer	追踪者	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tribal Leader	部落首领	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tribuni Angusticlavii	窄纹保民官	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tribunus Laticlavius	宽纹保民官	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tumenchi	万户长	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tuğgeneral	陆军准将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Tümgeneral	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Ulfhendar	狼皮战士	显示文本，补译名称或军衔
 DIM_RankThemes	GFRankName	Vice Admiral	中将	显示文本，沿用对照表中唯一译文
-DIM_RankThemes	GFRankName	Vizier		显示文本，待译
-DIM_RankThemes	GFRankName	War Chief		显示文本，待译
-DIM_RankThemes	GFRankName	WarBoss		显示文本，待译
-DIM_RankThemes	GFRankName	Warboss		显示文本，待译
-DIM_RankThemes	GFRankName	Warleader		显示文本，待译
-DIM_RankThemes	GFRankName	Warlord		显示文本，待译
-DIM_RankThemes	GFRankName	Warmaster		显示文本，待译
-DIM_RankThemes	GFRankName	Warrior		显示文本，待译
-DIM_RankThemes	GFRankName	Warrior 		显示文本，待译
-DIM_RankThemes	GFRankName	Water Lord		显示文本，待译
-DIM_RankThemes	GFRankName	WildBoy		显示文本，待译
-DIM_RankThemes	GFRankName	Wildcat		显示文本，待译
-DIM_RankThemes	GFRankName	Wind Lord		显示文本，待译
-DIM_RankThemes	GFRankName	Yarbay		显示文本，待译
-DIM_RankThemes	GFRankName	Ypostratigos		显示文本，待译
-DIM_RankThemes	GFRankName	Zhong Jiang		显示文本，待译
-DIM_RankThemes	GFRankName	Zhong Xiao		显示文本，待译
-DIM_RankThemes	GFRankName	Zok-Ress		显示文本，待译
-DIM_RankThemes	GFRankName	Överste		显示文本，待译
-DIM_RankThemes	GFRankName	Överstelöjtnant		显示文本，待译
+DIM_RankThemes	GFRankName	Vizier	维齐尔	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	War Chief	战争酋长	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	WarBoss	战争头目	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Warboss	战争头目	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Warleader	战争领袖	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Warlord	军阀	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Warmaster	战帅	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Warrior	战士	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Warrior 	战士 	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Water Lord	水之领主	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	WildBoy	野孩子	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Wildcat	野猫	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Wind Lord	风之领主	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Yarbay	陆军中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Ypostratigos	陆军少将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Zhong Jiang	中将	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Zhong Xiao	中校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Zok-Ress	佐克·雷斯	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Överste	陆军上校	显示文本，补译名称或军衔
+DIM_RankThemes	GFRankName	Överstelöjtnant	陆军中校	显示文本，补译名称或军衔

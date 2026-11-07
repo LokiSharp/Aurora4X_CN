@@ -18,7 +18,7 @@ DIM_CommanderBonusType	Description	Ground Combat Training	地面战斗训练	显
 DIM_CommanderBonusType	Description	Ground Construction	地面建造	显示文本，沿用已核对译文
 DIM_CommanderBonusType	Description	Ground Support	地面支援	显示文本，沿用已核对译文
 DIM_CommanderBonusType	Description	Intelligence	情报	显示文本，沿用已核对译文
-DIM_CommanderBonusType	Description	Light Tactical		显示文本，待译
+DIM_CommanderBonusType	Description	Light Tactical	轻型战术	显示文本，按已核对术语补译
 DIM_CommanderBonusType	Description	Logistics	后勤	显示文本，沿用已核对译文
 DIM_CommanderBonusType	Description	Mining	采矿	显示文本，沿用已核对译文
 DIM_CommanderBonusType	Description	Political Reliability	政治可靠性	显示文本，沿用已核对译文

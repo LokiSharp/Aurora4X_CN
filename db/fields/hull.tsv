@@ -26,7 +26,7 @@ FCT_HullDescription	Description	Bombardment Cruiser	轰击巡洋舰	显示文本
 FCT_HullDescription	Description	Bomber	轰炸机	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Breaching Pod	破舱登舰舱	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Buoy Deployment Craft	浮标布放艇	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Buoy Deployment Sloop		显示文本，待译
+FCT_HullDescription	Description	Buoy Deployment Sloop	浮标布设单桅舰	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Buoy Deployment Vessel	浮标布放舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Cargo Ship	货运舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Cargo Shuttle	货运穿梭机	显示文本，沿用已核对译文
@@ -45,7 +45,7 @@ FCT_HullDescription	Description	Construction Ship	建造舰	显示文本，沿�
 FCT_HullDescription	Description	Corvette	轻护卫舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Courier	传令舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Cruiser	巡洋舰	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Cutter		显示文本，待译
+FCT_HullDescription	Description	Cutter	巡逻艇	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Deep Space Survey Ship	深空勘测舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Defence Monitor	防御监视舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Defence Satellite	防御卫星	显示文本，沿用已核对译文
@@ -57,7 +57,7 @@ FCT_HullDescription	Description	Diplomatic Station	外交空间站	显示文本�
 FCT_HullDescription	Description	Dive Bomber	俯冲轰炸机	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Dockyard	船坞	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Drakar	德拉卡长船	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Dreadcarrier		显示文本，待译
+FCT_HullDescription	Description	Dreadcarrier	无畏航母	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Dreadnought	无畏舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Drone Scout	无人侦察舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Dropship	空降艇	显示文本，沿用已核对译文
@@ -71,7 +71,7 @@ FCT_HullDescription	Description	Escort Cruiser	护航巡洋舰	显示文本，�
 FCT_HullDescription	Description	Escort Frigate	护航护卫舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Exodus	撤离舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Exploration Cruiser	探索巡洋舰	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Exploration Frigate		显示文本，待译
+FCT_HullDescription	Description	Exploration Frigate	探索护卫舰	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Exploration Ship	探索舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Explorer	探索者	显示文本，沿用已核对译文
 FCT_HullDescription	Description	FAC Leader	快攻艇领舰	显示文本，沿用已核对译文
@@ -96,7 +96,7 @@ FCT_HullDescription	Description	Fleet Base (Repair)	舰队基地（维修）	显
 FCT_HullDescription	Description	Fleet Scout	舰队侦察舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Fleet Support Vessel	舰队支援舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Fleet Tug	舰队拖船	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Fortress		显示文本，待译
+FCT_HullDescription	Description	Fortress	要塞	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Freighter	货船	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Frigate	护卫舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Frigate Leader	护卫领舰	显示文本，沿用已核对译文
@@ -106,13 +106,13 @@ FCT_HullDescription	Description	Fuel Harvester Station	燃料采集空间站	显
 FCT_HullDescription	Description	Galleon	大帆船	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Geological Survey Craft	地质勘测艇	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Geological Survey Shuttle	地质勘测穿梭机	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Geological Survey Sloop		显示文本，待译
+FCT_HullDescription	Description	Geological Survey Sloop	地质勘测单桅舰	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Geological Survey Vessel	地质勘测舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Geosurvey Ship	地质勘测船	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Grand Cruiser	大巡洋舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Gravitational Survey Craft	引力勘测艇	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Gravitational Survey Shuttle	引力勘测穿梭机	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Gravitational Survey Sloop		显示文本，待译
+FCT_HullDescription	Description	Gravitational Survey Sloop	引力勘测单桅舰	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Gravitational Survey Vessel	引力勘测舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Gravsurvey Ship	引力勘测船	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Ground Support Fighter	对地支援战斗机	显示文本，沿用已核对译文
@@ -123,14 +123,14 @@ FCT_HullDescription	Description	Heavy Carrier	重型航母	显示文本，沿用
 FCT_HullDescription	Description	Heavy Cruiser	重巡洋舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Heavy Fighter	重型战斗机	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Heavy Freighter	重型货船	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Heavy Interceptor		显示文本，待译
+FCT_HullDescription	Description	Heavy Interceptor	重型拦截机	显示文本，按已核对术语补译
 FCT_HullDescription	Description	High Speed Scout	高速侦察舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Hive Ship	蜂巢舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Hospital Ship	医疗舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Hunter	猎手舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Hyper-capable Freighter	超空间货船	显示文本，沿用已核对译文
 FCT_HullDescription	Description	ICBM Launch Base	洲际弹道导弹发射基地	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Imperial Starship		显示文本，待译
+FCT_HullDescription	Description	Imperial Starship	帝国星际舰	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Intelligence Corvette	情报轻护卫舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Intelligence Ship	情报舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Intelligence Station	情报空间站	显示文本，沿用已核对译文
@@ -170,16 +170,16 @@ FCT_HullDescription	Description	Light Jump Cruiser	轻型跃迁巡洋舰	显示�
 FCT_HullDescription	Description	Light Troop Transport	轻型运兵舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Long Range Gravsurvey Vessel	远程引力勘测舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Long Range Patrol	远程巡逻舰	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Long Range Scout		显示文本，待译
+FCT_HullDescription	Description	Long Range Scout	远程侦察舰	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Long Range Strike	远程打击舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Long Range Survey Ship	远程勘测舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Luxury Liner	豪华邮轮	显示文本，沿用已核对译文
 FCT_HullDescription	Description	MACO Shuttle	MACO 穿梭机	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Maintenance Base	维护基地	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Maintenance Pod	维护舱	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Maintenance Station		显示文本，待译
+FCT_HullDescription	Description	Maintenance Station	维护空间站	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Maintenance Vessel	维护舰	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Marine Transport		显示文本，待译
+FCT_HullDescription	Description	Marine Transport	海军陆战队运输舰	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Mass Conveyor	大宗运输舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Military Jump Tender	军用跃迁支援舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Military Replenishment Ship	军用燃料补给舰	显示文本，沿用已核对译文
@@ -207,7 +207,7 @@ FCT_HullDescription	Description	Orbital Miner	轨道采矿舰	显示文本，沿
 FCT_HullDescription	Description	Orbital Mining Platform	轨道采矿平台	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Orbital Mining Station	轨道采矿站	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Orbital Weapon Platform	轨道武器平台	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Ordnance Transport		显示文本，待译
+FCT_HullDescription	Description	Ordnance Transport	军械运输舰	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Passenger Cruiser	客运巡洋舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Patrol Craft	巡逻艇	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Patrol Cruiser	巡逻巡洋舰	显示文本，沿用已核对译文
@@ -223,7 +223,7 @@ FCT_HullDescription	Description	Point Defence Base	点防御基地	显示文本�
 FCT_HullDescription	Description	Police Cutter	警务快艇	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Protected Cruiser	防护巡洋舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Raider	袭击舰	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Railgun Cruiser		显示文本，待译
+FCT_HullDescription	Description	Railgun Cruiser	磁轨炮巡洋舰	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Recon Craft	侦察艇	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Recon Fighter	侦察战斗机	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Recon Frigate	侦察护卫舰	显示文本，沿用已核对译文
@@ -292,7 +292,7 @@ FCT_HullDescription	Description	Survey Frigate	勘测护卫舰	显示文本，�
 FCT_HullDescription	Description	Survey Hunter	勘测猎击舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Survey Ship	勘测舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Survey Shuttle	勘测穿梭机	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Survey Sloop		显示文本，待译
+FCT_HullDescription	Description	Survey Sloop	勘测单桅舰	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Survey Support	勘测支援舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Survey Support Base	勘测支援基地	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Survey Support Cruiser	勘测支援巡洋舰	显示文本，沿用已核对译文
@@ -304,13 +304,13 @@ FCT_HullDescription	Description	Terraforming Base	地形改造基地	显示文�
 FCT_HullDescription	Description	Terraforming Station	地形改造空间站	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Third Class Cruiser	三等巡洋舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	TIE Bomber	TIE 轰炸机	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Titan		显示文本，待译
+FCT_HullDescription	Description	Titan	泰坦	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Torpedo Boat	鱼雷艇	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Torpedo Boat Tender		显示文本，待译
+FCT_HullDescription	Description	Torpedo Boat Tender	鱼雷艇母舰	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Torpedo Bomber	鱼雷轰炸机	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Torpedo Cruiser	鱼雷巡洋舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Transport	运输舰	显示文本，沿用已核对译文
-FCT_HullDescription	Description	Transport Carrier		显示文本，待译
+FCT_HullDescription	Description	Transport Carrier	运输航母	显示文本，按已核对术语补译
 FCT_HullDescription	Description	Troop Shuttle	运兵穿梭机	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Troop Transport	运兵舰	显示文本，沿用已核对译文
 FCT_HullDescription	Description	Tug	拖船	显示文本，沿用已核对译文

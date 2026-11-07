@@ -71,7 +71,7 @@ DIM_OperationalGroup	Description	Stabilisation Ship	跃迁稳定舰	显示文本
 DIM_OperationalGroup	Description	Stabilisation Squadron	跃迁稳定中队	显示文本，沿用已核对译文
 DIM_OperationalGroup	Description	Stabilisation Squadron - Beam Escort	跃迁稳定中队 - 光束护航	显示文本，沿用已核对译文
 DIM_OperationalGroup	Description	Star Swarm Scout Squadron	星际蜂群侦察中队	显示文本，沿用已核对译文
-DIM_OperationalGroup	Description	StarSwarmCapturedShip		显示文本，待译
+DIM_OperationalGroup	Description	StarSwarmCapturedShip	星群捕获舰	显示文本，按已核对术语补译
 DIM_OperationalGroup	Description	Swarm Assault Squadron	蜂群突击中队	显示文本，沿用已核对译文
 DIM_OperationalGroup	Description	Swarm Attack Squadron	蜂群攻击中队	显示文本，沿用已核对译文
 DIM_OperationalGroup	Description	Swarm Boarding Fleet	蜂群登舰舰队	显示文本，沿用已核对译文
@@ -90,78 +90,78 @@ DIM_OperationalGroup	Description	Troop Transport Group - Beam Escort - Jump	运�
 DIM_OperationalGroup	Description	Troop Transport Group - Jump	运兵集群 - 跃迁	显示文本，沿用已核对译文
 DIM_OperationalGroup	Description	Troop Transport Group - Large Escort	运兵集群 - 大型护航	显示文本，沿用已核对译文
 DIM_OperationalGroup	Description	Very Large Hive Fleet	超大型蜂巢舰队	显示文本，沿用已核对译文
-DIM_OperationalGroupElement	Description	2x Beam Defence Base		显示文本，待译
+DIM_OperationalGroupElement	Description	2x Beam Defence Base	2x 光束防御基地	显示文本，按已核对术语补译
 DIM_OperationalGroupElement	Description	Ancient Maintenance Bases	远古维护基地	显示文本，沿用同字段已核对译文
-DIM_OperationalGroupElement	Description	Armed Geosurvey		显示文本，待译
-DIM_OperationalGroupElement	Description	Armed Gravsurvey		显示文本，待译
+DIM_OperationalGroupElement	Description	Armed Geosurvey	武装地质勘测	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Armed Gravsurvey	武装引力勘测	显示文本，按已核对术语补译
 DIM_OperationalGroupElement	Description	Armed Scout	武装侦察舰	显示文本，沿用同字段已核对译文
 DIM_OperationalGroupElement	Description	Assault Transport	突击运输舰	显示文本，沿用同字段已核对译文
-DIM_OperationalGroupElement	Description	Asteroid Miner		显示文本，待译
-DIM_OperationalGroupElement	Description	Beam BC		显示文本，待译
-DIM_OperationalGroupElement	Description	Beam BCJ		显示文本，待译
-DIM_OperationalGroupElement	Description	Beam CA		显示文本，待译
-DIM_OperationalGroupElement	Description	Beam CLE		显示文本，待译
-DIM_OperationalGroupElement	Description	Beam DD		显示文本，待译
-DIM_OperationalGroupElement	Description	Beam DD - Jump		显示文本，待译
-DIM_OperationalGroupElement	Description	Beam DE		显示文本，待译
+DIM_OperationalGroupElement	Description	Asteroid Miner	小行星采矿船	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Beam BC	光束战列巡洋舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Beam BCJ	光束跃迁战列巡洋舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Beam CA	光束巡洋舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Beam CLE	光束轻巡洋舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Beam DD	光束驱逐舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Beam DD - Jump	光束驱逐舰 - 跃迁	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Beam DE	光束护航驱逐舰	显示文本，按已核对术语补译
 DIM_OperationalGroupElement	Description	Beam Defence Base	光束防御基地	显示文本，沿用同字段已核对译文
-DIM_OperationalGroupElement	Description	Beam Jump CA		显示文本，待译
-DIM_OperationalGroupElement	Description	BioAcid FAC		显示文本，待译
-DIM_OperationalGroupElement	Description	Boarding FAC		显示文本，待译
-DIM_OperationalGroupElement	Description	Carrier - Energy		显示文本，待译
-DIM_OperationalGroupElement	Description	Carrier - Missile		显示文本，待译
-DIM_OperationalGroupElement	Description	Commercial Jump Tender		显示文本，待译
+DIM_OperationalGroupElement	Description	Beam Jump CA	光束跃迁巡洋舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	BioAcid FAC	生物酸快攻艇	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Boarding FAC	登舰快攻艇	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Carrier - Energy	航母 - 能量	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Carrier - Missile	航母 - 导弹	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Commercial Jump Tender	商用跃迁支援舰	显示文本，按已核对术语补译
 DIM_OperationalGroupElement	Description	Construction Ship	建造舰	显示文本，沿用同字段已核对译文
 DIM_OperationalGroupElement	Description	Diplomatic Ship	外交舰	显示文本，沿用同字段已核对译文
-DIM_OperationalGroupElement	Description	DN Fleet		显示文本，待译
-DIM_OperationalGroupElement	Description	DN JP Defence		显示文本，待译
-DIM_OperationalGroupElement	Description	DN Squadron		显示文本，待译
-DIM_OperationalGroupElement	Description	Eldar Escort		显示文本，待译
+DIM_OperationalGroupElement	Description	DN Fleet	无畏舰舰队	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	DN JP Defence	无畏舰跃迁点防御	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	DN Squadron	无畏舰中队	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Eldar Escort	灵族护航舰	显示文本，按已核对术语补译
 DIM_OperationalGroupElement	Description	Eldar Troop Transport	Eldar 运兵舰	显示文本，沿用同字段已核对译文
 DIM_OperationalGroupElement	Description	Escort	护航舰	显示文本，沿用同字段已核对译文
 DIM_OperationalGroupElement	Description	FAC Flotilla	快攻艇支队	显示文本，沿用同字段已核对译文
-DIM_OperationalGroupElement	Description	FAC Killer DD		显示文本，待译
-DIM_OperationalGroupElement	Description	Fighter Killer DD		显示文本，待译
-DIM_OperationalGroupElement	Description	Geosurvey		显示文本，待译
-DIM_OperationalGroupElement	Description	Gravsurvey		显示文本，待译
-DIM_OperationalGroupElement	Description	Harvest Station Group		显示文本，待译
-DIM_OperationalGroupElement	Description	Harvester		显示文本，待译
+DIM_OperationalGroupElement	Description	FAC Killer DD	快攻艇杀手驱逐舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Fighter Killer DD	战斗机杀手驱逐舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Geosurvey	地质勘测	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Gravsurvey	引力勘测	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Harvest Station Group	采集空间站群	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Harvester	采集船	显示文本，按已核对术语补译
 DIM_OperationalGroupElement	Description	Invader Scout	入侵者侦察舰	显示文本，沿用同字段已核对译文
-DIM_OperationalGroupElement	Description	Large Escort		显示文本，待译
-DIM_OperationalGroupElement	Description	Large Hive Ship		显示文本，待译
-DIM_OperationalGroupElement	Description	Large Orbital Habitat Group		显示文本，待译
-DIM_OperationalGroupElement	Description	Large Raider		显示文本，待译
-DIM_OperationalGroupElement	Description	Lone DN		显示文本，待译
-DIM_OperationalGroupElement	Description	Medium Hive Ship		显示文本，待译
-DIM_OperationalGroupElement	Description	Microwave FAC		显示文本，待译
+DIM_OperationalGroupElement	Description	Large Escort	大型护航舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Large Hive Ship	大型蜂巢舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Large Orbital Habitat Group	大型轨道居住站群	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Large Raider	大型袭击舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Lone DN	单艘无畏舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Medium Hive Ship	中型蜂巢舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Microwave FAC	微波快攻艇	显示文本，按已核对术语补译
 DIM_OperationalGroupElement	Description	Military Jump Tender	军用跃迁支援舰	显示文本，沿用同字段已核对译文
 DIM_OperationalGroupElement	Description	Military Tanker	军用加油舰	显示文本，沿用同字段已核对译文
-DIM_OperationalGroupElement	Description	Military tanker		显示文本，待译
-DIM_OperationalGroupElement	Description	Mining Station Group		显示文本，待译
+DIM_OperationalGroupElement	Description	Military tanker	军用燃料补给舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Mining Station Group	采矿空间站群	显示文本，按已核对术语补译
 DIM_OperationalGroupElement	Description	Missile Base	导弹基地	显示文本，沿用同字段已核对译文
-DIM_OperationalGroupElement	Description	Missile BC		显示文本，待译
-DIM_OperationalGroupElement	Description	Missile CLE		显示文本，待译
-DIM_OperationalGroupElement	Description	Missile DD		显示文本，待译
+DIM_OperationalGroupElement	Description	Missile BC	导弹战列巡洋舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Missile CLE	导弹轻巡洋舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Missile DD	导弹驱逐舰	显示文本，按已核对术语补译
 DIM_OperationalGroupElement	Description	Missile Defence Base	导弹防御基地	显示文本，沿用同字段已核对译文
-DIM_OperationalGroupElement	Description	Orbital Habitat Group		显示文本，待译
+DIM_OperationalGroupElement	Description	Orbital Habitat Group	轨道居住站群	显示文本，按已核对术语补译
 DIM_OperationalGroupElement	Description	Raider	袭击舰	显示文本，沿用同字段已核对译文
 DIM_OperationalGroupElement	Description	Salvager	打捞舰	显示文本，沿用同字段已核对译文
 DIM_OperationalGroupElement	Description	Scout	侦察舰	显示文本，沿用同字段已核对译文
 DIM_OperationalGroupElement	Description	Slave Transport	奴隶运输舰	显示文本，沿用同字段已核对译文
-DIM_OperationalGroupElement	Description	Small Hive Ship		显示文本，待译
-DIM_OperationalGroupElement	Description	Swarm BioAcid FAC		显示文本，待译
-DIM_OperationalGroupElement	Description	Swarm Cruiser		显示文本，待译
-DIM_OperationalGroupElement	Description	Swarm Extraction Ship		显示文本，待译
+DIM_OperationalGroupElement	Description	Small Hive Ship	小型蜂巢舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Swarm BioAcid FAC	蜂群生物酸快攻艇	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Swarm Cruiser	蜂群巡洋舰	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Swarm Extraction Ship	蜂群提取船	显示文本，按已核对术语补译
 DIM_OperationalGroupElement	Description	Swarm Geosurvey	蜂群地质勘测	显示文本，沿用同字段已核对译文
 DIM_OperationalGroupElement	Description	Swarm Gravsurvey	蜂群引力勘测	显示文本，沿用同字段已核对译文
-DIM_OperationalGroupElement	Description	Swarm Jump FAC		显示文本，待译
-DIM_OperationalGroupElement	Description	Swarm Microwave FAC		显示文本，待译
-DIM_OperationalGroupElement	Description	Swarm Salvage Ship		显示文本，待译
+DIM_OperationalGroupElement	Description	Swarm Jump FAC	蜂群跃迁快攻艇	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Swarm Microwave FAC	蜂群微波快攻艇	显示文本，按已核对术语补译
+DIM_OperationalGroupElement	Description	Swarm Salvage Ship	蜂群打捞船	显示文本，按已核对术语补译
 DIM_OperationalGroupElement	Description	Tanker	燃料补给舰	显示文本，沿用同字段已核对译文
-DIM_OperationalGroupElement	Description	Terraform Station Group		显示文本，待译
+DIM_OperationalGroupElement	Description	Terraform Station Group	地形改造空间站群	显示文本，按已核对术语补译
 DIM_OperationalGroupElement	Description	Terraformer	地形改造舰	显示文本，沿用同字段已核对译文
 DIM_OperationalGroupElement	Description	Troop Transport	运兵舰	显示文本，沿用同字段已核对译文
-DIM_OperationalGroupElement	Description	Very Large Hive Ship		显示文本，待译
+DIM_OperationalGroupElement	Description	Very Large Hive Ship	超大型蜂巢舰	显示文本，按已核对术语补译
 DIM_OperationalGroupProgression	Description	Ancient Habitat Group	远古居住站集群	显示文本，沿用已核对译文
 DIM_OperationalGroupProgression	Description	Ancient Harvester Group	远古采集集群	显示文本，沿用已核对译文
 DIM_OperationalGroupProgression	Description	Ancient Large Habitat Group	远古大型居住站集群	显示文本，沿用已核对译文

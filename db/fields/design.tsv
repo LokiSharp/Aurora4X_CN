@@ -1,87 +1,87 @@
 table	field	english	chinese	reason
-DIM_AutomatedClassDesign	DefaultClassName	Ark Royal		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Atlas		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Atlas V		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Bardiche		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Bardiche-J		显示文本，待译
+DIM_AutomatedClassDesign	DefaultClassName	Ark Royal	皇家方舟	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Atlas	阿特拉斯	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Atlas V	阿特拉斯 V	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Bardiche	长柄斧	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Bardiche-J	长柄斧-J	显示文本，按已核对术语补译
 DIM_AutomatedClassDesign	DefaultClassName	Beam Defence Base	光束防御基地	显示文本，沿用对照表中唯一译文
-DIM_AutomatedClassDesign	DefaultClassName	Botany Bay		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Brigand		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Buckland		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Carnifex		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Colossus		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Colossus-J		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Custer		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Darwin		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Deadly Reaper		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Deadly Reaper-J		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Eagle		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Elysium		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	FAC-Killer		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	FAC-Killer-J		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Faraday		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Fighter-Killer		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Fighter-Killer-J		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Gargoyle		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Gateway		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Genesis		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Genesis-L		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Genestealer		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Geronimo		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Grim Reaper		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Grim Reaper-J		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Guardian		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Guardian-J		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Hive Guard		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Hormagaunt		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Hyuga		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Iwo Jima		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Large Hive		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Lictor		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Longsword		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Longsword-J		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Machiavelli		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Marauder		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Mauretania		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Mayflower		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Medium Hive		显示文本，待译
+DIM_AutomatedClassDesign	DefaultClassName	Botany Bay	植物学湾	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Brigand	盗匪	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Buckland	巴克兰	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Carnifex	杀戮者	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Colossus	巨像	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Colossus-J	巨像-J	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Custer	卡斯特	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Darwin	达尔文	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Deadly Reaper	致命收割者	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Deadly Reaper-J	致命收割者-J	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Eagle	鹰	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Elysium	极乐	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	FAC-Killer	快攻艇杀手	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	FAC-Killer-J	快攻艇杀手-J	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Faraday	法拉第	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Fighter-Killer	战斗机杀手	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Fighter-Killer-J	战斗机杀手-J	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Gargoyle	石像鬼	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Gateway	门户	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Genesis	创世	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Genesis-L	创世-L	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Genestealer	基因窃取者	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Geronimo	杰罗尼莫	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Grim Reaper	死神	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Grim Reaper-J	死神-J	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Guardian	守卫	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Guardian-J	守卫-J	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Hive Guard	虫巢守卫	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Hormagaunt	激素虫	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Hyuga	日向	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Iwo Jima	硫磺岛	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Large Hive	大型蜂巢	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Lictor	利克特	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Longsword	长剑	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Longsword-J	长剑-J	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Machiavelli	马基雅维利	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Marauder	掠夺者	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Mauretania	毛里塔尼亚	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Mayflower	五月花	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Medium Hive	中型蜂巢	显示文本，按已核对术语补译
 DIM_AutomatedClassDesign	DefaultClassName	Missile Base	导弹基地	显示文本，沿用对照表中唯一译文
 DIM_AutomatedClassDesign	DefaultClassName	Missile Defence Base	导弹防御基地	显示文本，沿用对照表中唯一译文
-DIM_AutomatedClassDesign	DefaultClassName	Msl Guardian		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Msl Guardian-J		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Msl Sentinel		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Msl Sentinel-J		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Narwhal		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Narwhal-L		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Newton		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Nimitz		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	ONeill		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Overseer		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Pegasus		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Phalanx		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Phantom		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Phoenix		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Plunder		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Pyrovore		显示文本，待译
+DIM_AutomatedClassDesign	DefaultClassName	Msl Guardian	导弹守卫	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Msl Guardian-J	导弹守卫-J	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Msl Sentinel	导弹哨兵	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Msl Sentinel-J	导弹哨兵-J	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Narwhal	独角鲸	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Narwhal-L	独角鲸-L	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Newton	牛顿	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Nimitz	尼米兹	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	ONeill	奥尼尔	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Overseer	监督者	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Pegasus	飞马	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Phalanx	方阵	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Phantom	幽灵	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Phoenix	凤凰	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Plunder	掠夺	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Pyrovore	炎爆虫	显示文本，按已核对术语补译
 DIM_AutomatedClassDesign	DefaultClassName	Raider	袭击舰	显示文本，沿用对照表中唯一译文
-DIM_AutomatedClassDesign	DefaultClassName	Rappahannock		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Reaper		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Reaper-J		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Reaper-S		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Ripper		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Roanoke		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Scourge		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Sentinel		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Sentinel-J		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Small Hive		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Stakhanov		显示文本，待译
+DIM_AutomatedClassDesign	DefaultClassName	Rappahannock	拉帕汉诺克	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Reaper	收割者	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Reaper-J	收割者-J	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Reaper-S	收割者-S	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Ripper	撕裂者	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Roanoke	罗阿诺克	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Scourge	灾厄	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Sentinel	哨兵	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Sentinel-J	哨兵-J	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Small Hive	小型蜂巢	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Stakhanov	斯达汉诺夫	显示文本，按已核对术语补译
 DIM_AutomatedClassDesign	DefaultClassName	Tanker	燃料补给舰	显示文本，沿用对照表中唯一译文
-DIM_AutomatedClassDesign	DefaultClassName	Termaguant		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Tervigon		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Titan		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Titanic		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Tramp		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Very Large Hive		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Vulcan		显示文本，待译
-DIM_AutomatedClassDesign	DefaultClassName	Zoanthrope		显示文本，待译
-MissileSeries	SeriesName	Anti-Ship		显示文本，待译
+DIM_AutomatedClassDesign	DefaultClassName	Termaguant	白蚁兽	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Tervigon	巢母	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Titan	泰坦	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Titanic	泰坦尼克	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Tramp	不定期货船	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Very Large Hive	超大型蜂巢	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Vulcan	火神	显示文本，按已核对术语补译
+DIM_AutomatedClassDesign	DefaultClassName	Zoanthrope	灵能兽	显示文本，按已核对术语补译
+MissileSeries	SeriesName	Anti-Ship	反舰	显示文本，按已核对术语补译

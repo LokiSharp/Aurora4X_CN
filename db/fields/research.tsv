@@ -32,11 +32,11 @@ DIM_ResearchCategories	Name	Shield Generators	护盾发生器	显示文本，沿
 DIM_ResearchCategories	Name	Survey Sensors	勘测传感器	显示文本，沿用已核对译文
 DIM_ResearchCategories	Name	Thermal Sensors	热传感器	显示文本，沿用已核对译文
 DIM_ResearchCategories	Name	Transport & Industry	运输与工业	显示文本，沿用已核对译文
-DIM_ResearchCategories	NoteField	Fire Control Range = Sensor Strength x Size x SQRT(Resolution) x EM Sensitivity x 10,000 km		显示文本，待译
-DIM_ResearchCategories	NoteField	Fuel Modifier = Power Modifier ^2.5  (so 2x Power = 5.66x Fuel). Engines of 25 HS or greater with Power -50% or lower are classed as commercial		显示文本，待译
-DIM_ResearchCategories	NoteField	Missile Drives are solid-fuelled. Because of their one-use nature, they have double the racial maximum power modification		显示文本，待译
-DIM_ResearchCategories	NoteField	Sensor Range = Sensor Strength x Size x SQRT(Resolution) x EM Sensitivity x 10,000 km		显示文本，待译
-DIM_ResearchCategories	NoteField	The fire control has a % chance to hit equal to (maximum range - target distance) / maximum range		显示文本，待译
+DIM_ResearchCategories	NoteField	Fire Control Range = Sensor Strength x Size x SQRT(Resolution) x EM Sensitivity x 10,000 km	火控射程 = 传感器强度 x 体积 x SQRT(分辨率) x 电磁灵敏度 x 10,000 km	显示文本，按已核对术语补译
+DIM_ResearchCategories	NoteField	Fuel Modifier = Power Modifier ^2.5  (so 2x Power = 5.66x Fuel). Engines of 25 HS or greater with Power -50% or lower are classed as commercial	燃料修正 = 功率修正 ^2.5（因此 2 倍功率 = 5.66 倍燃料）。25 HS 或更大且功率 -50% 或更低的引擎归为商用	显示文本，按已核对术语补译
+DIM_ResearchCategories	NoteField	Missile Drives are solid-fuelled. Because of their one-use nature, they have double the racial maximum power modification	导弹引擎为固体燃料。因其一次性使用，种族最大功率修正加倍	显示文本，按已核对术语补译
+DIM_ResearchCategories	NoteField	Sensor Range = Sensor Strength x Size x SQRT(Resolution) x EM Sensitivity x 10,000 km	传感器射程 = 传感器强度 x 体积 x SQRT(分辨率) x 电磁灵敏度 x 10,000 km	显示文本，按已核对术语补译
+DIM_ResearchCategories	NoteField	The fire control has a % chance to hit equal to (maximum range - target distance) / maximum range	火控命中概率为 (最大射程 - 目标距离) / 最大射程	显示文本，按已核对术语补译
 DIM_ResearchCategories	RadioText	Target Tons Multiplier	目标吨位倍数	显示文本，沿用界面对照表中的唯一译文
 DIM_ResearchField	FieldName	Biology / Genetics	生物学 / 遗传学	显示文本，沿用已核对译文
 DIM_ResearchField	FieldName	Component Creation	组件创建	显示文本，沿用已核对译文

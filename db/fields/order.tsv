@@ -50,7 +50,7 @@ DIM_MoveAction	Description	Land on Specified Mothership as Squadron	作为中队
 DIM_MoveAction	Description	Launch Ready Ordnance	发射待发军械	显示文本，沿用已核对译文
 DIM_MoveAction	Description	Load All Minerals	装载全部矿物	显示文本，沿用已核对译文
 DIM_MoveAction	Description	Load All Minerals Until Full	装载全部矿物直至满载	显示文本，沿用已核对译文
-DIM_MoveAction	Description	Load All Ship Components		显示文本，待译
+DIM_MoveAction	Description	Load All Ship Components	装载全部舰船组件	显示文本，按已核对术语补译
 DIM_MoveAction	Description	Load Assigned Ground Templates	装载已分配的地面部队模板	显示文本，沿用已核对译文
 DIM_MoveAction	Description	Load Colonists	装载殖民者	显示文本，沿用已核对译文
 DIM_MoveAction	Description	Load from Ordnance Transfer Hub	从军械转运枢纽装载	显示文本，沿用已核对译文
@@ -122,7 +122,7 @@ DIM_StandingOrders	Description	IA: Clear Order List	IA: 清除命令列表	显�
 DIM_StandingOrders	Description	IA: Deactivate Shields	IA: 停用护盾	显示文本，沿用已核对译文
 DIM_StandingOrders	Description	IA: Maximum Speed	IA: 最大速度	显示文本，沿用已核对译文
 DIM_StandingOrders	Description	LD: AM from Population	LD: 从人口装载反导	显示文本，沿用已核对译文
-DIM_StandingOrders	Description	LD: Civilian Contract		显示文本，待译
+DIM_StandingOrders	Description	LD: Civilian Contract	LD: 民用合同	显示文本，按已核对术语补译
 DIM_StandingOrders	Description	LD: Colonists	LD: 殖民者	显示文本，沿用已核对译文
 DIM_StandingOrders	Description	LD: Colonists at Capital	LD: 首都殖民者	显示文本，沿用已核对译文
 DIM_StandingOrders	Description	LD: Passengers	LD: 乘客	显示文本，沿用已核对译文
