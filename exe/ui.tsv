@@ -1904,7 +1904,7 @@ Damaged	已受损	界面文本，沿用已核对译文
 Danger Rating and naval presence - affects civilian traffic	危险等级与海军存在 - 影响民用航运	界面文本，沿用已核对译文
 Danger settings cannot be changed for a civilian or computer-controlled fleet	民用或电脑控制的舰队无法更改危险度设置	界面文本，沿用已核对译文
 Dangerous Atmosphere	危险大气层	界面文本，沿用已核对译文
-Daphne	达芙妮	界面文本，补译
+Daphne		不翻译：专名，代码按原文比较
 Date	日期	界面文本，沿用已核对译文
 Date of Commission	服役日期	界面文本，沿用已核对译文
 Day Hours	白昼小时	界面文本，沿用已核对译文
@@ -2261,7 +2261,7 @@ Enter Theme Name	输入主题名称	界面文本，沿用已核对译文
 Enter Theme Weight	输入主题权重	界面文本，沿用已核对译文
 Enter Waypoint Name	输入航点名称	界面文本，沿用已核对译文
 Environment	环境	界面文本，沿用已核对译文
-Eris	阋神星	界面文本，补译
+Eris		不翻译：专名，代码按原文比较
 Error	错误	界面文本，沿用已核对译文
 error	错误	界面文本，沿用已核对译文
 Error: Alien Race not created in IdentifyAlienShip	错误: IdentifyAlienShip 中未创建外星种族	界面文本，沿用已核对译文
@@ -4361,7 +4361,7 @@ The atmosphere of 	以下天体的大气 	界面文本，补译
 The basic type of the alien ground unit 	外星地面单位的基本类型 	界面文本，沿用已核对译文
 The bombardment of 	对以下目标的轰击： 	界面文本，沿用已核对译文
 the Bridge	舰桥	界面文本，沿用已核对译文
-The chance of a new race appearing on a suitable system body in a system discovered by a non-player race. Suitable means no ruins, oxy atm > 0.07  and < 0.4, oxy pressure <= 30% total pressure, temp > -40C and < +60C, Grav > 0.4 and < 2.5, no dangerous gases, hydro extent at least 10%.	在非玩家种族发现的星系中，合适天体上出现新种族的概率。合适指：无遗迹，氧气大气 > 0.07 且 < 0.4，氧气分压 <= 总气压的30%，温度 > -40C 且 < +60C，重力 > 0.4 且 < 2.5，无危险气体，水圈覆盖率至少10%。	界面文本，沿用已核对译文
+The chance of a new race appearing on a suitable system body in a system discovered by a non-player race. Suitable means no ruins, oxy atm > 0.07  and < 0.4, oxy pressure <= 30% total pressure, temp > -40C and < +60C, Grav > 0.4 and < 2.5, no dangerous gases, hydro extent at least 10%.	在非玩家种族发现的星系中，合适天体上出现新种族的概率。合适指：无遗迹，氧气 atm > 0.07 且 < 0.4，氧气分压 <= 总气压的30%，温度 > -40C 且 < +60C，重力 > 0.4 且 < 2.5，无危险气体，水圈覆盖率至少10%。	界面文本，沿用已核对译文
 The chance of a new race appearing on a suitable system body in a system discovered by a player race. Suitable means no ruins, oxy atm > 0.07  and < 0.4, oxy pressure <= 30% total pressure, temp > -40C and < +60C, Grav > 0.4 and < 2.5, no dangerous gases, hydro extent at least 10%.	在玩家种族已发现的星系中，适宜天体上出现新种族的概率。适宜指：无遗迹，氧气atm > 0.07  且 < 0.4，氧气压力 <= 总气压的 30%，温度 > -40C 且 < +60C，重力 > 0.4 且 < 2.5，无危险气体，水圈覆盖率至少 10%。	界面文本，沿用已核对译文
 The chance of a newly discovered system linking to a 'Local System'. A Local System is defined as having a system number close to that of the system from which it was entered. This setting does not apply to Known Stars games	新发现的星系连接至'本地星系'的概率。本地星系指其星系编号与进入该星系时所处的星系编号相近。此设置不适用于 Known Stars 游戏	界面文本，沿用已核对译文
 The chance of an ancient ruin appearing on a suitable system body during system generation. Suitable means surface temperature between -73C and +87C with Gravity greater than 0.4G.	星系生成过程中，适宜天体上出现远古遗迹的概率。适宜指地表温度在 -73C 与 +87C 之间且重力大于 0.4G。	界面文本，沿用已核对译文
@@ -4417,7 +4417,7 @@ The starting year of the campaign. Campaign dates will begin on January 1st of t
 The Survey Speed affects the speed of geological and gravitational surveys. 100% is for normal settings. 90% = slower surveys. 110% = faster surveys. This applies to all races in the game, including NPRs.	勘测速度影响地质勘测与引力勘测的速度。100% 为普通设置。90% = 勘测更慢。110% = 勘测更快。适用于游戏中的所有种族，包括 NPR。	界面文本，沿用已核对译文
 The system of 	以下目标的星系： 	界面文本，沿用已核对译文
 The system primary of 	以下目标的星系主星： 	界面文本，沿用已核对译文
-The Terraforming Speed affects the atm production of terraforming installations and modules. 100% is for normal settings. 90% = less atm. 110% = more atm. This applies to all races in the game, including NPRs.	地形改造速度影响地形改造设施与模块的大气产出。100% 为普通设置。90% = 更少大气。110% = 更多大气。适用于游戏中的所有种族，包括 NPR。	界面文本，沿用已核对译文
+The Terraforming Speed affects the atm production of terraforming installations and modules. 100% is for normal settings. 90% = less atm. 110% = more atm. This applies to all races in the game, including NPRs.	地形改造速度影响地形改造设施与模块的大气产出。100% 为普通设置。90% = 更少 atm。110% = 更多 atm。适用于游戏中的所有种族，包括 NPR。	界面文本，沿用已核对译文
 The weapons of the alien ground unit 	外星地面单位的武器： 	界面文本，沿用已核对译文
 Theme	主题	界面文本，沿用已核对译文
 There are no open jump points available for connection	没有可连接的开放跃迁点	界面文本，补译

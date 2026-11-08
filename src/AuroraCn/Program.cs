@@ -47,7 +47,8 @@ namespace AuroraCn
         {
             int audit = StringAudit.Check(originalExe, exeOut);
             int cuts = CutAudit.Check(originalExe, exeOut);
-            return audit != 0 || cuts != 0 ? 1 : 0;
+            int pairs = PairAudit.Check(originalExe, exeOut);
+            return audit != 0 || cuts != 0 || pairs != 0 ? 1 : 0;
         }
 
         private static string FindGameDirectory()
