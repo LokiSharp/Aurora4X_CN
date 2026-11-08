@@ -9,6 +9,7 @@
     <RootNamespace>AuroraCn</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="System.Windows.Forms" />
     <PackageReference Include="dnlib" Version="4.4.0" />
     <PackageReference Include="Microsoft.Data.Sqlite" Version="5.0.17" />
   </ItemGroup>

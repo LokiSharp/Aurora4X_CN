@@ -1344,7 +1344,7 @@ Ancient Construct	远古构造体	界面文本，沿用已核对译文
 Ancient Construct discovered on 	在以下天体发现远古构造体 	界面文本，沿用已核对译文
 Ancient Defence Forces	远古防御部队	界面文本，沿用已核对译文
 Ancient Relics	远古遗物	界面文本，沿用已核对译文
-Ancients	远古者	界面文本，补译
+Ancients	远古者	不翻译：参考汉化保留原文，代码用它识别远古者
 Annual Financial Centre Value	金融中心年产值	界面文本，沿用已核对译文
 Annual Fuel Production 	燃料年产量 	界面文本，沿用已核对译文
 Annual Genetic Conversion Rate	年度基因转化率	界面文本，沿用已核对译文
@@ -2957,7 +2957,7 @@ Mineral Usage	矿物用量	界面文本，沿用已核对译文
 Minerals Desc	矿物说明	界面文本，沿用已核对译文
 Minerals discovered on 	发现矿物于 	界面文本，沿用已核对译文
 Minerals Present	现有矿物	界面文本，沿用已核对译文
-Minerva	密涅瓦	界面文本，补译
+Minerva	密涅瓦	不翻译：参考汉化保留原文，用作天体专名
 Minerva - Moon #	Minerva - 卫星 #	界面文本，沿用已核对译文
 Minerva - Trojan #	Minerva - 特洛伊 #	界面文本，沿用已核对译文
 minimal progress	极小进展	界面文本，沿用已核对译文

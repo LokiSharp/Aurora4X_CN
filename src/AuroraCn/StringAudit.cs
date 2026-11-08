@@ -50,6 +50,9 @@ namespace AuroraCn
                     }
                 }
             }
+            CheckProcessName(patched, failures);
+            CheckFileDialogs(patched, failures);
+            CheckNullK8(patched, failures);
             string report = Path.Combine(Path.GetDirectoryName(originalPath), "localization", "scratch", "string-audit.txt");
             Directory.CreateDirectory(Path.GetDirectoryName(report));
             File.WriteAllLines(report, failures.ToArray());
@@ -59,6 +62,123 @@ namespace AuroraCn
             for (int i = 0; i < shown; i++)
                 Console.WriteLine(failures[i]);
             return failures.Count == 0 ? 0 : 1;
+        }
+
+        private static void CheckNullK8(ModuleDefMD patched, List<string> failures)
+        {
+            bool guarded = false;
+            foreach (TypeDef type in patched.GetTypes())
+            {
+                if (type.Name != "a2")
+                    continue;
+                foreach (MethodDef method in type.Methods)
+                {
+                    if (!method.HasBody || method.Name != "a6")
+                        continue;
+                    if (!method.MethodSig.ToString().StartsWith("kh (kh,e1,", StringComparison.Ordinal))
+                        continue;
+                    var list = method.Body.Instructions;
+                    for (int i = 0; i < list.Count - 3; i++)
+                    {
+                        string text = list[i].Operand == null ? "" : list[i].Operand.ToString();
+                        if (text.IndexOf("a2::a6(kh,System.Double,System.Double)", StringComparison.Ordinal) < 0)
+                            continue;
+                        if (list[i + 3].OpCode.Code == Code.Brtrue || list[i + 3].OpCode.Code == Code.Brtrue_S)
+                            guarded = true;
+                    }
+                }
+            }
+            if (!guarded)
+                failures.Add("fail\tnull-k8\ta2::a6");
+            foreach (TypeDef type in patched.GetTypes())
+            {
+                foreach (MethodDef method in type.Methods)
+                {
+                    if (!method.HasBody || method.ReturnType == null || method.ReturnType.FullName != "k8")
+                        continue;
+                    var list = method.Body.Instructions;
+                    for (int i = 0; i < list.Count - 2; i++)
+                    {
+                        if (list[i].OpCode.Code != Code.Ldnull || !IsStore(list[i + 1]))
+                            continue;
+                        var code = list[i + 2].OpCode.Code;
+                        if (code == Code.Leave || code == Code.Leave_S)
+                            failures.Add("fail\tzero-k8\t" + type.Name + "::" + method.Name);
+                    }
+                }
+            }
+        }
+
+        private static bool IsStore(Instruction ins)
+        {
+            switch (ins.OpCode.Code)
+            {
+                case Code.Stloc_0:
+                case Code.Stloc_1:
+                case Code.Stloc_2:
+                case Code.Stloc_3:
+                case Code.Stloc:
+                case Code.Stloc_S:
+                    return true;
+                default:
+                    return false;
+            }
+        }
+
+        private static void CheckFileDialogs(ModuleDefMD patched, List<string> failures)
+        {
+            foreach (TypeDef type in patched.GetTypes())
+            {
+                foreach (MethodDef method in type.Methods)
+                {
+                    if (!method.HasBody)
+                        continue;
+                    var list = method.Body.Instructions;
+                    for (int i = 0; i < list.Count - 1; i++)
+                    {
+                        if (list[i].OpCode.Code != Code.Newobj)
+                            continue;
+                        var ctor = list[i].Operand as IMethod;
+                        if (ctor == null || ctor.DeclaringType == null)
+                            continue;
+                        string owner = ctor.DeclaringType.FullName;
+                        if (owner != "System.Windows.Forms.OpenFileDialog" && owner != "System.Windows.Forms.SaveFileDialog")
+                            continue;
+                        bool disabled = false;
+                        int end = Math.Min(list.Count, i + 8);
+                        for (int k = i + 1; k < end; k++)
+                        {
+                            string text = list[k].Operand == null ? "" : list[k].Operand.ToString();
+                            if (text.IndexOf("set_AutoUpgradeEnabled", StringComparison.Ordinal) >= 0)
+                                disabled = true;
+                        }
+                        if (!disabled)
+                            failures.Add("fail\tfile-dialog\t" + type.Name + "::" + method.Name);
+                    }
+                }
+            }
+        }
+
+        private static void CheckProcessName(ModuleDefMD patched, List<string> failures)
+        {
+            foreach (TypeDef type in patched.GetTypes())
+            {
+                foreach (MethodDef method in type.Methods)
+                {
+                    if (!method.HasBody)
+                        continue;
+                    var list = method.Body.Instructions;
+                    for (int i = 0; i < list.Count - 1; i++)
+                    {
+                        if (list[i].OpCode.Code != Code.Ldstr || (string)list[i].Operand != "Aurora.exe")
+                            continue;
+                        string next = list[i + 1].Operand == null ? "" : list[i + 1].Operand.ToString();
+                        if (next.IndexOf("EndsWith", StringComparison.Ordinal) < 0)
+                            continue;
+                        failures.Add("fail\texe-name\t" + type.Name + "::" + method.Name + "\tAurora.exe");
+                    }
+                }
+            }
         }
 
         private static bool AllowedRename(string en, string zh)

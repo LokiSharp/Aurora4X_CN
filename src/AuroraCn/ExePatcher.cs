@@ -52,10 +52,214 @@ namespace AuroraCn
             int suffixSites = PatchKnownSuffixes(mod);
             int sliceSites = PatchStringCuts(mod);
             int mineralSites = PatchMineralNames(mod, tables.Display);
+            int nameSites = PatchExecutableName(mod);
+            int dialogSites = PatchFileDialogs(mod);
+            int nullSites = PatchNullK8(mod);
+            int zeroSites = PatchZeroK8(mod);
             var options = new ModuleWriterOptions(mod);
             options.Logger = DummyLogger.ThrowModuleWriterExceptionOnErrorInstance;
             mod.Write(outputPath, options);
-            Console.WriteLine("exe replaced=" + replaced + " keptPathOrIcon=" + kept + " attributeSites=" + attributeSites + " enumSites=" + enumSites + " switchSites=" + switchSites + " wrapSites=" + wrapSites + " suffixSites=" + suffixSites + " sliceSites=" + sliceSites + " mineralSites=" + mineralSites);
+            Console.WriteLine("exe replaced=" + replaced + " keptPathOrIcon=" + kept + " attributeSites=" + attributeSites + " enumSites=" + enumSites + " switchSites=" + switchSites + " wrapSites=" + wrapSites + " suffixSites=" + suffixSites + " sliceSites=" + sliceSites + " mineralSites=" + mineralSites + " nameSites=" + nameSites + " dialogSites=" + dialogSites + " nullSites=" + nullSites + " zeroSites=" + zeroSites);
+        }
+
+        private static int PatchNullK8(ModuleDefMD mod)
+        {
+            int count = 0;
+            foreach (TypeDef type in mod.GetTypes())
+            {
+                if (type.Name != "a2")
+                    continue;
+                foreach (MethodDef method in type.Methods)
+                {
+                    if (!method.HasBody || method.Name != "a6")
+                        continue;
+                    if (!method.MethodSig.ToString().StartsWith("kh (kh,e1,", StringComparison.Ordinal))
+                        continue;
+                    var list = method.Body.Instructions;
+                    for (int i = 0; i < list.Count - 2; i++)
+                    {
+                        string text = list[i].Operand == null ? "" : list[i].Operand.ToString();
+                        if (text.IndexOf("a2::a6(kh,System.Double,System.Double)", StringComparison.Ordinal) < 0)
+                            continue;
+                        if (!IsStoreLocal(list[i + 1]))
+                            continue;
+                        Instruction load = LoadStoredLocal(list[i + 1]);
+                        Instruction resume = list[i + 2];
+                        Instruction exit = null;
+                        for (int j = i + 2; j < list.Count - 1; j++)
+                        {
+                            var code = list[j].OpCode.Code;
+                            if (code != Code.Ble && code != Code.Ble_S)
+                                continue;
+                            var target = list[j].Operand as Instruction;
+                            if (target == null || list.IndexOf(target) > i)
+                                continue;
+                            exit = list[j + 1];
+                            break;
+                        }
+                        if (load == null || exit == null)
+                            continue;
+                        list.Insert(i + 2, load);
+                        list.Insert(i + 3, Instruction.Create(OpCodes.Brtrue, resume));
+                        list.Insert(i + 4, Instruction.Create(OpCodes.Br, exit));
+                        method.Body.SimplifyBranches();
+                        method.Body.OptimizeBranches();
+                        count++;
+                        break;
+                    }
+                }
+            }
+            return count;
+        }
+
+        private static int PatchZeroK8(ModuleDefMD mod)
+        {
+            IMethod ctor = null;
+            foreach (TypeDef type in mod.GetTypes())
+            {
+                if (type.Name != "k8")
+                    continue;
+                foreach (MethodDef method in type.Methods)
+                {
+                    if (method.Name != ".ctor" || method.MethodSig.Params.Count != 2)
+                        continue;
+                    if (method.MethodSig.Params[0].FullName != "System.Double")
+                        continue;
+                    ctor = method;
+                }
+            }
+            if (ctor == null)
+                return 0;
+            int count = 0;
+            foreach (TypeDef type in mod.GetTypes())
+            {
+                foreach (MethodDef method in type.Methods)
+                {
+                    if (!method.HasBody || method.ReturnType == null || method.ReturnType.FullName != "k8")
+                        continue;
+                    var list = method.Body.Instructions;
+                    bool changed = false;
+                    for (int i = 0; i < list.Count - 2; i++)
+                    {
+                        if (list[i].OpCode.Code != Code.Ldnull || !IsStoreLocal(list[i + 1]))
+                            continue;
+                        var code = list[i + 2].OpCode.Code;
+                        if (code != Code.Leave && code != Code.Leave_S)
+                            continue;
+                        list[i].OpCode = OpCodes.Ldc_R8;
+                        list[i].Operand = 0.0;
+                        list.Insert(i + 1, Instruction.Create(OpCodes.Ldc_R8, 0.0));
+                        list.Insert(i + 2, Instruction.Create(OpCodes.Newobj, ctor));
+                        changed = true;
+                        count++;
+                        i += 2;
+                    }
+                    if (changed)
+                    {
+                        method.Body.SimplifyBranches();
+                        method.Body.OptimizeBranches();
+                    }
+                }
+            }
+            return count;
+        }
+
+        private static int PatchFileDialogs(ModuleDefMD mod)
+        {
+            IMethod setter = mod.Import(typeof(System.Windows.Forms.FileDialog).GetProperty("AutoUpgradeEnabled").GetSetMethod());
+            int count = 0;
+            foreach (TypeDef type in mod.GetTypes())
+            {
+                foreach (MethodDef method in type.Methods)
+                {
+                    if (!method.HasBody)
+                        continue;
+                    var list = method.Body.Instructions;
+                    for (int i = 0; i < list.Count - 1; i++)
+                    {
+                        if (list[i].OpCode.Code != Code.Newobj)
+                            continue;
+                        var ctor = list[i].Operand as IMethod;
+                        if (ctor == null || ctor.Name != ".ctor" || ctor.DeclaringType == null)
+                            continue;
+                        string owner = ctor.DeclaringType.FullName;
+                        if (owner != "System.Windows.Forms.OpenFileDialog" && owner != "System.Windows.Forms.SaveFileDialog")
+                            continue;
+                        if (!IsStoreLocal(list[i + 1]))
+                            continue;
+                        Instruction load = LoadStoredLocal(list[i + 1]);
+                        if (load == null)
+                            continue;
+                        list.Insert(i + 2, load);
+                        list.Insert(i + 3, Instruction.Create(OpCodes.Ldc_I4_0));
+                        list.Insert(i + 4, Instruction.Create(OpCodes.Callvirt, setter));
+                        count++;
+                        i += 4;
+                    }
+                }
+            }
+            return count;
+        }
+
+        private static bool IsStoreLocal(Instruction ins)
+        {
+            switch (ins.OpCode.Code)
+            {
+                case Code.Stloc_0:
+                case Code.Stloc_1:
+                case Code.Stloc_2:
+                case Code.Stloc_3:
+                case Code.Stloc:
+                case Code.Stloc_S:
+                    return true;
+                default:
+                    return false;
+            }
+        }
+
+        private static Instruction LoadStoredLocal(Instruction store)
+        {
+            switch (store.OpCode.Code)
+            {
+                case Code.Stloc_0:
+                    return Instruction.Create(OpCodes.Ldloc_0);
+                case Code.Stloc_1:
+                    return Instruction.Create(OpCodes.Ldloc_1);
+                case Code.Stloc_2:
+                    return Instruction.Create(OpCodes.Ldloc_2);
+                case Code.Stloc_3:
+                    return Instruction.Create(OpCodes.Ldloc_3);
+                case Code.Stloc:
+                case Code.Stloc_S:
+                    return Instruction.Create(OpCodes.Ldloc, (Local)store.Operand);
+                default:
+                    return null;
+            }
+        }
+
+        private static int PatchExecutableName(ModuleDefMD mod)
+        {
+            int count = 0;
+            foreach (TypeDef type in mod.GetTypes())
+            {
+                foreach (MethodDef method in type.Methods)
+                {
+                    if (!method.HasBody)
+                        continue;
+                    var list = method.Body.Instructions;
+                    for (int i = 0; i < list.Count - 1; i++)
+                    {
+                        if (list[i].OpCode.Code != Code.Ldstr || (string)list[i].Operand != "Aurora.exe")
+                            continue;
+                        string next = list[i + 1].Operand == null ? "" : list[i + 1].Operand.ToString();
+                        if (next.IndexOf("EndsWith", StringComparison.Ordinal) < 0)
+                            continue;
+                        list[i].Operand = "AuroraCN.exe";
+                        count++;
+                    }
+                }
+            }
+            return count;
         }
 
         private static int PatchStringSwitches(ModuleDefMD mod)
