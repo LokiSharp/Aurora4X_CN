@@ -7,7 +7,8 @@ namespace AuroraCn
     {
         private static int Main(string[] args)
         {
-            string gameDir = args.Length > 0 ? Path.GetFullPath(args[0]) : FindGameDirectory();
+            bool checkOnly = args.Length > 0 && args[0] == "--check";
+            string gameDir = !checkOnly && args.Length > 0 ? Path.GetFullPath(args[0]) : FindGameDirectory();
             if (gameDir == null || !File.Exists(Path.Combine(gameDir, "Aurora.exe")))
             {
                 Console.Error.WriteLine("Aurora.exe was not found. Pass the game directory as the first argument.");
@@ -19,17 +20,34 @@ namespace AuroraCn
                 Console.Error.WriteLine("localization directory was not found under " + gameDir);
                 return 2;
             }
-            var tables = TranslationTables.Load(locDir);
+            string originalExe = Path.Combine(gameDir, "Aurora.exe");
             string exeOut = Path.Combine(gameDir, "AuroraCN.exe");
-            string dbOut = Path.Combine(gameDir, "AuroraCN.db");
-            ExePatcher.Write(Path.Combine(gameDir, "Aurora.exe"), exeOut, tables);
+            if (args.Length > 0 && args[0] == "--check")
+            {
+                if (!File.Exists(exeOut))
+                {
+                    Console.Error.WriteLine("AuroraCN.exe was not found. Build it before --check.");
+                    return 2;
+                }
+                return Finish(originalExe, exeOut);
+            }
+            var tables = TranslationTables.Load(locDir);
+            ExePatcher.Write(originalExe, exeOut, tables);
             string config = Path.Combine(gameDir, "Aurora.exe.config");
             if (File.Exists(config))
                 File.Copy(config, Path.Combine(gameDir, "AuroraCN.exe.config"), true);
+            string dbOut = Path.Combine(gameDir, "AuroraCN.db");
             DatabasePatcher.Write(Path.Combine(gameDir, "AuroraDB.db"), dbOut, tables);
             Console.WriteLine("wrote " + exeOut);
             Console.WriteLine("wrote " + dbOut);
-            return 0;
+            return Finish(originalExe, exeOut);
+        }
+
+        private static int Finish(string originalExe, string exeOut)
+        {
+            int audit = StringAudit.Check(originalExe, exeOut);
+            int cuts = CutAudit.Check(originalExe, exeOut);
+            return audit != 0 || cuts != 0 ? 1 : 0;
         }
 
         private static string FindGameDirectory()
