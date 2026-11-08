@@ -53,6 +53,8 @@ namespace AuroraCn
             CheckProcessName(patched, failures);
             CheckFileDialogs(patched, failures);
             CheckNullK8(patched, failures);
+            CheckIconNames(original, patched, failures);
+            CheckEmptySelection(patched, failures);
             string report = Path.Combine(Path.GetDirectoryName(originalPath), "localization", "scratch", "string-audit.txt");
             Directory.CreateDirectory(Path.GetDirectoryName(report));
             File.WriteAllLines(report, failures.ToArray());
@@ -123,6 +125,83 @@ namespace AuroraCn
                 default:
                     return false;
             }
+        }
+
+        private static void CheckEmptySelection(ModuleDefMD patched, List<string> failures)
+        {
+            foreach (TypeDef type in patched.GetTypes())
+            {
+                foreach (MethodDef method in type.Methods)
+                {
+                    if (!method.HasBody)
+                        continue;
+                    var list = method.Body.Instructions;
+                    for (int i = 0; i < list.Count - 2; i++)
+                    {
+                        string first = list[i].Operand == null ? "" : list[i].Operand.ToString();
+                        string third = list[i + 2].Operand == null ? "" : list[i + 2].Operand.ToString();
+                        if (first.IndexOf("get_SelectedItems(", StringComparison.Ordinal) < 0)
+                            continue;
+                        if (list[i + 1].OpCode.Code != Code.Ldc_I4_0)
+                            continue;
+                        if (third.IndexOf("get_Item(", StringComparison.Ordinal) < 0)
+                            continue;
+                        failures.Add("fail\tempty-selection\t" + type.Name + "::" + method.Name);
+                    }
+                }
+            }
+        }
+
+        private static void CheckIconNames(ModuleDefMD original, ModuleDefMD patched, List<string> failures)
+        {
+            var patchedTypes = new Dictionary<string, TypeDef>();
+            foreach (TypeDef type in patched.GetTypes())
+                patchedTypes[type.FullName] = type;
+            foreach (TypeDef type in original.GetTypes())
+            {
+                TypeDef other;
+                if (!patchedTypes.TryGetValue(type.FullName, out other))
+                    continue;
+                int count = Math.Min(type.Methods.Count, other.Methods.Count);
+                for (int m = 0; m < count; m++)
+                {
+                    MethodDef left = type.Methods[m];
+                    MethodDef right = other.Methods[m];
+                    if (!left.HasBody || !right.HasBody || left.Body.Instructions.Count != right.Body.Instructions.Count)
+                        continue;
+                    var a = left.Body.Instructions;
+                    var b = right.Body.Instructions;
+                    for (int i = 0; i < a.Count; i++)
+                    {
+                        if (a[i].OpCode.Code != Code.Ldstr || b[i].OpCode.Code != Code.Ldstr)
+                            continue;
+                        string en = a[i].Operand as string;
+                        string zh = b[i].Operand as string;
+                        if (en == null || en == zh || !FeedsIcon(a, i))
+                            continue;
+                        failures.Add("fail\ticon\t" + type.Name + "::" + left.Name + "\t" + en + "\t=>\t" + zh);
+                    }
+                }
+            }
+        }
+
+        private static bool FeedsIcon(System.Collections.Generic.IList<Instruction> ins, int index)
+        {
+            int end = Math.Min(ins.Count, index + 16);
+            for (int i = index + 1; i < end; i++)
+            {
+                var method = ins[i].Operand as IMethod;
+                if (method == null)
+                    continue;
+                string full = method.FullName;
+                if (full.IndexOf("::set_Text(", StringComparison.Ordinal) >= 0
+                    || full.IndexOf("MessageBox::Show", StringComparison.Ordinal) >= 0)
+                    return false;
+                if (method.DeclaringType != null && method.DeclaringType.Name == "lg" && method.Name == "a"
+                    && full.IndexOf("(System.String,System.Drawing.Color)", StringComparison.Ordinal) >= 0)
+                    return true;
+            }
+            return false;
         }
 
         private static void CheckFileDialogs(ModuleDefMD patched, List<string> failures)

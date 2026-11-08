@@ -56,10 +56,113 @@ namespace AuroraCn
             int dialogSites = PatchFileDialogs(mod);
             int nullSites = PatchNullK8(mod);
             int zeroSites = PatchZeroK8(mod);
+            int emptySites = PatchEmptySelection(mod);
             var options = new ModuleWriterOptions(mod);
             options.Logger = DummyLogger.ThrowModuleWriterExceptionOnErrorInstance;
             mod.Write(outputPath, options);
-            Console.WriteLine("exe replaced=" + replaced + " keptPathOrIcon=" + kept + " attributeSites=" + attributeSites + " enumSites=" + enumSites + " switchSites=" + switchSites + " wrapSites=" + wrapSites + " suffixSites=" + suffixSites + " sliceSites=" + sliceSites + " mineralSites=" + mineralSites + " nameSites=" + nameSites + " dialogSites=" + dialogSites + " nullSites=" + nullSites + " zeroSites=" + zeroSites);
+            Console.WriteLine("exe replaced=" + replaced + " keptPathOrIcon=" + kept + " attributeSites=" + attributeSites + " enumSites=" + enumSites + " switchSites=" + switchSites + " wrapSites=" + wrapSites + " suffixSites=" + suffixSites + " sliceSites=" + sliceSites + " mineralSites=" + mineralSites + " nameSites=" + nameSites + " dialogSites=" + dialogSites + " nullSites=" + nullSites + " zeroSites=" + zeroSites + " emptySites=" + emptySites);
+        }
+
+        private static int PatchEmptySelection(ModuleDefMD mod)
+        {
+            int count = 0;
+            var touched = new HashSet<MethodDef>();
+            foreach (TypeDef type in mod.GetTypes())
+            {
+                foreach (MethodDef method in type.Methods)
+                {
+                    if (!method.HasBody)
+                        continue;
+                    var list = method.Body.Instructions;
+                    if (!CanReturnEmpty(method))
+                        continue;
+                    Instruction exit = null;
+                    for (int i = 0; i < list.Count - 2; i++)
+                    {
+                        if (!IsCall(list[i], "get_SelectedItems("))
+                            continue;
+                        if (!IsZero(list[i + 1]) || !IsCall(list[i + 2], "get_Item("))
+                            continue;
+                        var getItem = list[i + 2].Operand as IMethod;
+                        if (getItem == null)
+                            continue;
+                        if (exit == null)
+                            exit = AppendEmptyReturn(method);
+                        Instruction resume = list[i + 1];
+                        var getCount = new MemberRefUser(mod, "get_Count", MethodSig.CreateInstance(mod.CorLibTypes.Int32), getItem.DeclaringType);
+                        bool inTry = InsideTry(method, list[i]);
+                        list.Insert(i + 1, Instruction.Create(OpCodes.Dup));
+                        list.Insert(i + 2, Instruction.Create(OpCodes.Callvirt, getCount));
+                        list.Insert(i + 3, Instruction.Create(OpCodes.Brtrue, resume));
+                        list.Insert(i + 4, Instruction.Create(OpCodes.Pop));
+                        list.Insert(i + 5, Instruction.Create(inTry ? OpCodes.Leave : OpCodes.Br, exit));
+                        touched.Add(method);
+                        count++;
+                        i += 5;
+                    }
+                }
+            }
+            foreach (MethodDef method in touched)
+            {
+                method.Body.SimplifyBranches();
+                method.Body.OptimizeBranches();
+            }
+            return count;
+        }
+
+        private static bool CanReturnEmpty(MethodDef method)
+        {
+            var type = method.ReturnType;
+            if (type == null)
+                return false;
+            if (type.ElementType == ElementType.Void || type.ElementType == ElementType.Boolean)
+                return true;
+            return type.ElementType == ElementType.I4 || type.ElementType == ElementType.U4;
+        }
+
+        private static Instruction AppendEmptyReturn(MethodDef method)
+        {
+            var list = method.Body.Instructions;
+            if (method.ReturnType.ElementType == ElementType.Void)
+            {
+                var ret = Instruction.Create(OpCodes.Ret);
+                list.Add(ret);
+                return ret;
+            }
+            var zero = Instruction.Create(OpCodes.Ldc_I4_0);
+            list.Add(zero);
+            list.Add(Instruction.Create(OpCodes.Ret));
+            return zero;
+        }
+
+        private static bool IsCall(Instruction ins, string name)
+        {
+            if (ins.OpCode.Code != Code.Call && ins.OpCode.Code != Code.Callvirt)
+                return false;
+            string text = ins.Operand == null ? "" : ins.Operand.ToString();
+            return text.IndexOf(name, StringComparison.Ordinal) >= 0;
+        }
+
+        private static bool IsZero(Instruction ins)
+        {
+            if (ins.OpCode.Code == Code.Ldc_I4_0)
+                return true;
+            return ins.OpCode.Code == Code.Ldc_I4 && ins.Operand is int && (int)ins.Operand == 0;
+        }
+
+        private static bool InsideTry(MethodDef method, Instruction ins)
+        {
+            foreach (var handler in method.Body.ExceptionHandlers)
+            {
+                if (handler.TryStart == null || handler.TryEnd == null)
+                    continue;
+                int start = method.Body.Instructions.IndexOf(handler.TryStart);
+                int end = method.Body.Instructions.IndexOf(handler.TryEnd);
+                int at = method.Body.Instructions.IndexOf(ins);
+                if (start >= 0 && at >= start && at < end)
+                    return true;
+            }
+            return false;
         }
 
         private static int PatchNullK8(ModuleDefMD mod)
@@ -1257,26 +1360,38 @@ namespace AuroraCn
 
         private static bool UsedAsPathOrIcon(IList<Instruction> ins, int index)
         {
-            int end = Math.Min(ins.Count, index + 7);
+            if (IconOrPathCall(ins, index, 7, false))
+                return true;
+            return IconOrPathCall(ins, index, 16, true);
+        }
+
+        private static bool IconOrPathCall(IList<Instruction> ins, int index, int window, bool iconOnly)
+        {
+            int end = Math.Min(ins.Count, index + window);
             for (int i = index + 1; i < end; i++)
             {
                 var method = ins[i].Operand as IMethod;
                 if (method == null)
                     continue;
                 string full = method.FullName;
-                if (full.IndexOf("System.IO.Path::Combine", StringComparison.Ordinal) >= 0)
+                if (iconOnly && (full.IndexOf("::set_Text(", StringComparison.Ordinal) >= 0
+                    || full.IndexOf("MessageBox::Show", StringComparison.Ordinal) >= 0
+                    || full.IndexOf("op_Equality", StringComparison.Ordinal) >= 0))
+                    return false;
+                if (!iconOnly && full.IndexOf("System.IO.Path::Combine", StringComparison.Ordinal) >= 0)
                     return true;
-                if (full.IndexOf("Control::set_Name", StringComparison.Ordinal) >= 0)
+                if (!iconOnly && full.IndexOf("Control::set_Name", StringComparison.Ordinal) >= 0)
                     return true;
-                if (method.DeclaringType != null && method.DeclaringType.Name == "lg")
-                {
-                    if (method.Name == "d" && full.IndexOf("System.String", StringComparison.Ordinal) >= 0)
-                        return true;
-                    if (method.Name == "e" && full.IndexOf("(System.String)", StringComparison.Ordinal) >= 0)
-                        return true;
-                    if (method.Name == "a" && full.IndexOf("System.Drawing.Color", StringComparison.Ordinal) >= 0)
-                        return true;
-                }
+                if (method.DeclaringType == null || method.DeclaringType.Name != "lg")
+                    continue;
+                if (!iconOnly && method.Name == "d" && full.IndexOf("System.String", StringComparison.Ordinal) >= 0)
+                    return true;
+                if (!iconOnly && method.Name == "e" && full.IndexOf("(System.String)", StringComparison.Ordinal) >= 0)
+                    return true;
+                if (!iconOnly && method.Name == "a" && full.IndexOf("System.Drawing.Color", StringComparison.Ordinal) >= 0)
+                    return true;
+                if (iconOnly && method.Name == "a" && full.IndexOf("(System.String,System.Drawing.Color)", StringComparison.Ordinal) >= 0)
+                    return true;
             }
             return false;
         }
