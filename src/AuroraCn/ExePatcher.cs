@@ -187,10 +187,20 @@ namespace AuroraCn
                 return true;
             foreach (var item in cases)
             {
-                if (!accepted.Contains(item.Key.Length))
+                if (!accepted.Contains(item.Key.Length) || HasNonAscii(item.Key))
                     return false;
             }
             return true;
+        }
+
+        private static bool HasNonAscii(string text)
+        {
+            foreach (char c in text)
+            {
+                if (c > 127)
+                    return true;
+            }
+            return false;
         }
 
         private static int LocalIndex(Instruction ins)
