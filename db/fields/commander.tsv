@@ -38,28 +38,28 @@ DIM_MedalCondition	Description	Capture Hostile Ship in Boarding Combat	在登舰
 DIM_MedalCondition	Description	Capture Three Hostile Ships in Boarding Combat	在登舰战斗中俘获三艘敌方舰船	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Completed Five Research Projects	完成五个研究项目	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Completed Research Project	完成研究项目	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 1,000,000 tons of Commercial Shipping	摧毁 1,000,000 吨商用船只	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 10,000 tons of Hostile Ground Forces	摧毁 10,000 吨敌方地面部队	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 10,000 tons of Military Shipping	摧毁 10,000 吨军用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 1,000,000 tons of Commercial Shipping	摧毁 1,000,000 tons商用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 10,000 tons of Hostile Ground Forces	摧毁 10,000 tons敌方地面部队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 10,000 tons of Military Shipping	摧毁 10,000 tons军用船只	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Destroy 100 Hostile Missiles	摧毁 100 枚敌方导弹	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 100,000 tons of Commercial Shipping	摧毁 100,000 吨商用船只	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 100,000 tons of Hostile Ground Forces	摧毁 100,000 吨敌方地面部队	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 100,000 tons of Military Shipping	摧毁 100,000 吨军用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 100,000 tons of Commercial Shipping	摧毁 100,000 tons商用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 100,000 tons of Hostile Ground Forces	摧毁 100,000 tons敌方地面部队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 100,000 tons of Military Shipping	摧毁 100,000 tons军用船只	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Destroy 1000 Hostile Missiles	摧毁 1000 枚敌方导弹	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 1000 tons of Hostile Ground Forces	摧毁 1000 吨敌方地面部队	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 2,500,000 tons of Commercial Shipping	摧毁 2,500,000 吨商用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 1000 tons of Hostile Ground Forces	摧毁 1000 tons敌方地面部队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 2,500,000 tons of Commercial Shipping	摧毁 2,500,000 tons商用船只	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Destroy 25 Hostile Missiles	摧毁 25 枚敌方导弹	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 25,000 tons of Hostile Ground Forces	摧毁 25,000 吨敌方地面部队	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 25,000 tons of Military Shipping	摧毁 25,000 吨军用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 25,000 tons of Hostile Ground Forces	摧毁 25,000 tons敌方地面部队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 25,000 tons of Military Shipping	摧毁 25,000 tons军用船只	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Destroy 250 Hostile Missiles	摧毁 250 枚敌方导弹	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 250,000 tons of Commercial Shipping	摧毁 250,000 吨商用船只	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 250,000 tons of Military Shipping	摧毁 250,000 吨军用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 250,000 tons of Commercial Shipping	摧毁 250,000 tons商用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 250,000 tons of Military Shipping	摧毁 250,000 tons军用船只	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Destroy 2500 Hostile Missiles	摧毁 2500 枚敌方导弹	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 2500 tons of Hostile Ground Forces	摧毁 2500 吨敌方地面部队	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 50,000 tons of Military Shipping	摧毁 50,000 吨军用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 2500 tons of Hostile Ground Forces	摧毁 2500 tons敌方地面部队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 50,000 tons of Military Shipping	摧毁 50,000 tons军用船只	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Destroy 500 Hostile Missiles	摧毁 500 枚敌方导弹	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 500,000 tons of Commercial Shipping	摧毁 500,000 吨商用船只	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Destroy 5000 tons of Hostile Ground Forces	摧毁 5000 吨敌方地面部队	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 500,000 tons of Commercial Shipping	摧毁 500,000 tons商用船只	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Destroy 5000 tons of Hostile Ground Forces	摧毁 5000 tons敌方地面部队	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Destroy Hostile Ground Unit	摧毁敌方地面单位	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Destroy Hostile Ship	摧毁敌方舰船	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Discover 10 Jump Points	发现 10 个跃迁点	显示文本，沿用已核对译文
@@ -89,9 +89,9 @@ DIM_MedalCondition	Description	Recover 10 Abandoned Installations	回收 10 座�
 DIM_MedalCondition	Description	Recover 100 Abandoned Installations	回收 100 座废弃设施	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Recover 25 Abandoned Installations	回收 25 座废弃设施	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Recover 250 Abandoned Installations	回收 250 座废弃设施	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Salvage 100,000 tons (Commercial / 10)	打捞 100,000 吨 (Commercial / 10)	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Salvage 25,000 tons (Commercial / 10)	打捞 25,000 吨 (Commercial / 10)	显示文本，沿用已核对译文
-DIM_MedalCondition	Description	Salvage 250,000 tons (Commercial / 10)	打捞 250,000 吨 (Commercial / 10)	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Salvage 100,000 tons (Commercial / 10)	打捞 100,000 tons (Commercial / 10)	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Salvage 25,000 tons (Commercial / 10)	打捞 25,000 tons (Commercial / 10)	显示文本，沿用已核对译文
+DIM_MedalCondition	Description	Salvage 250,000 tons (Commercial / 10)	打捞 250,000 tons (Commercial / 10)	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Stabilise 1 Jump Point or Lagrange Point	稳定 1 个跃迁点或拉格朗日点	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Stabilise 10 Jump Points or Lagrange Points	稳定 10 个跃迁点或拉格朗日点	显示文本，沿用已核对译文
 DIM_MedalCondition	Description	Stabilise 25 Jump Points or Lagrange Points	稳定 25 个跃迁点或拉格朗日点	显示文本，沿用已核对译文

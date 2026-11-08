@@ -54,7 +54,7 @@ english	chinese	reason
      Range 	     射程 	界面文本，沿用已核对译文
      Rate of Fire 	     射速 	界面文本，沿用已核对译文
      Recharge 	     充能 	界面文本，补译
-     Recharge Time 	     充能时间 	界面文本，沿用已核对译文
+     Recharge Time 		不翻译：目录名或按原文长度截取的版式
      Resupply Cost 	     补给成本 	界面文本，沿用已核对译文
      Shots 	     射弹数 	界面文本，沿用已核对译文
      Turret Size 	     炮塔体积 	界面文本，沿用已核对译文
@@ -65,7 +65,7 @@ english	chinese	reason
     Chance to Hit: 	    命中率: 	界面文本，沿用已核对译文
     Civilian deaths 	    平民死亡 	界面文本，沿用已核对译文
     Components Hit 	    组件命中 	界面文本，沿用已核对译文
-    Crew 	    船员 	界面文本，沿用已核对译文
+    Crew 		不翻译：目录名或按原文长度截取的版式
     Crew 0	    船员 0	界面文本，沿用已核对译文
     Current Armour 	    当前装甲 	界面文本，沿用已核对译文
     Current Shields 	    当前护盾 	界面文本，沿用已核对译文
@@ -161,26 +161,26 @@ english	chinese	reason
   (SF)	  (打击)	界面文本，补译
   (SP)	  (支援)	界面文本，补译
   (Time Required: 	  (所需时间: 	界面文本，沿用已核对译文
-  0.00 - 0.01 atm:	  0.00 - 0.01 大气压:	界面文本，补译
-  0.01 - 0.02 atm:	  0.01 - 0.02 大气压:	界面文本，补译
-  0.02 - 0.03 atm:	  0.02 - 0.03 大气压:	界面文本，补译
-  0.03 - 0.04 atm:	  0.03 - 0.04 大气压:	界面文本，补译
-  0.04 - 0.05 atm:	  0.04 - 0.05 大气压:	界面文本，补译
-  10 - 15 atm:	  10 - 15 大气压:	界面文本，补译
-  15 - 20 atm:	  15 - 20 大气压:	界面文本，补译
-  20 - 30 atm:	  20 - 30 大气压:	界面文本，补译
-  297K - 350K (24C to 77C):	  297K - 350K (24°C 至 77°C):	界面文本，补译
-  30 - 50 atm:	  30 - 50 大气压:	界面文本，补译
-  313K - 400K (75 to 125C):	  313K - 400K (75°C 至 125°C):	界面文本，补译
-  333K - 500K (125C to 225C):	  333K - 500K (125°C 至 225°C):	界面文本，补译
-  363K - 600K (225C to 325C):	  363K - 600K (225°C 至 325°C):	界面文本，补译
-  50+ atm:	  50+ 大气压:	界面文本，补译
-  600K+ (325C+):	  600K+ (325°C+):	界面文本，补译
+  0.00 - 0.01 atm:		不翻译：科学单位
+  0.01 - 0.02 atm:		不翻译：科学单位
+  0.02 - 0.03 atm:		不翻译：科学单位
+  0.03 - 0.04 atm:		不翻译：科学单位
+  0.04 - 0.05 atm:		不翻译：科学单位
+  10 - 15 atm:		不翻译：科学单位
+  15 - 20 atm:		不翻译：科学单位
+  20 - 30 atm:		不翻译：科学单位
+  297K - 350K (24C to 77C):	  297K - 350K (24C 至 77C):	界面文本，补译
+  30 - 50 atm:		不翻译：科学单位
+  313K - 400K (75 to 125C):	  313K - 400K (75C 至 125C):	界面文本，补译
+  333K - 500K (125C to 225C):	  333K - 500K (125C 至 225C):	界面文本，补译
+  363K - 600K (225C to 325C):	  363K - 600K (225C 至 325C):	界面文本，补译
+  50+ atm:		不翻译：科学单位
+  600K+ (325C+):		不翻译：科学单位
   [JB]	  [跃迁浮标]	界面文本，补译
   [JC]	  [跃迁闭合]	界面文本，补译
   [JM]	  [跃迁军用]	界面文本，补译
   Acc 	  精度 	界面文本，沿用已核对译文
-  atm	  大气压	界面文本，补译
+  atm		不翻译：科学单位
   Components Recovered:	  回收组件：	界面文本，沿用已核对译文
   Damage 	  伤害 	界面文本，沿用已核对译文
   Heading 	  航向 	界面文本，沿用已核对译文
@@ -194,7 +194,7 @@ english	chinese	reason
   TempBand 2 (150-400K):	  温度带 2 (150-400K):	界面文本，补译
   Thermal 	  热信号 	界面文本，沿用已核对译文
   Time Required: 	  所需时间： 	界面文本，沿用已核对译文
-  tons	  吨	界面文本，沿用已核对译文
+  tons		不翻译：科学单位
   Unexplored	  未探索	界面文本，沿用已核对译文
  (DL)	 (数据链)	界面文本，补译
  (DLT)	 (数据链终端)	界面文本，补译
@@ -315,7 +315,7 @@ english	chinese	reason
  assigned as Commanding Officer of 	 被任命为以下对象的主官: 	界面文本，沿用已核对译文
  assigned as governor of 	 被任命为以下对象的总督: 	界面文本，沿用已核对译文
  at bearing 	 方位角 	界面文本，沿用已核对译文
- atm	 大气压	界面文本，补译
+ atm		不翻译：科学单位
  atm    Oxygen Range  	 atm    氧气范围  	界面文本，沿用已核对译文
  atm per annum	 atm 每年	界面文本，沿用已核对译文
  atm to 	 atm 至 	界面文本，沿用已核对译文
@@ -344,7 +344,7 @@ english	chinese	reason
  Box Launcher	 箱式发射器	界面文本，沿用已核对译文
  BP       TCS 	 BP       目标截面 	界面文本，补译
  BP     SIG 	 BP     信号 	界面文本，补译
- BP  (	 BP  (	界面文本，补译
+ BP  (		不翻译：科学单位
  breathers at this pressure is 	 呼吸者在此气压下为 	界面文本，补译
  breathers is 	 呼吸者为 	界面文本，补译
  build points per annum	 每年建造点	界面文本，补译
@@ -407,7 +407,7 @@ english	chinese	reason
  class from the 	 级，来自以下来源 	界面文本，沿用已核对译文
  class has been acquired from the 	 级已从以下来源获得 	界面文本，沿用已核对译文
  class has been updated: 	 级已更新: 	界面文本，沿用已核对译文
- cm C	 cm C	界面文本，补译
+ cm C		不翻译：科学单位
  Colonists	 殖民者	界面文本，沿用已核对译文
  Colony Cost	 殖民成本	界面文本，沿用已核对译文
  colony on 	 殖民地，位于 	界面文本，沿用已核对译文
@@ -439,7 +439,7 @@ english	chinese	reason
  demoted to 	 降级为 	界面文本，沿用已核对译文
  Density	 密度	界面文本，沿用已核对译文
  detected in 	 探测于 	界面文本，沿用已核对译文
- Deviation (atm)	 偏差 (大气压)	界面文本，补译
+ Deviation (atm)	 偏差 (atm)	界面文本，补译
  Diameter	 直径	界面文本，沿用已核对译文
  did not launch 	 未发射 	界面文本，沿用已核对译文
  died due to expiry of his lifepod	 因其逃生舱失效而死亡	界面文本，沿用已核对译文
@@ -639,9 +639,9 @@ english	chinese	reason
  HS     Explosion Chance 	 HS     爆炸几率 	界面文本，沿用已核对译文
  HS    Fire Control: 	 HS    火控: 	界面文本，沿用已核对译文
  HS    Sensor: 	 HS    传感器： 	界面文本，沿用已核对译文
- HS  (	 HS  (	界面文本，补译
- HS (	 HS (	界面文本，补译
- HS)	 HS)	界面文本，补译
+ HS  (		不翻译：科学单位
+ HS (		不翻译：科学单位
+ HS)		不翻译：科学单位
  HS.  Fuel Consumption 	 HS.  燃料消耗 	界面文本，沿用已核对译文
  Hydro	 水圈	界面文本，沿用已核对译文
  ia allied with 	 已与下列势力结盟 	界面文本，沿用已核对译文
@@ -678,12 +678,12 @@ english	chinese	reason
  is preparing for offensive fire but her weapons are not yet ready.	 正在准备进攻射击，但其武器尚未就绪。	界面文本，沿用已核对译文
  is required	 为必需	界面文本，沿用已核对译文
  is ship-based and cannot be modified	 为舰载型，无法修改	界面文本，沿用已核对译文
- is too high to be breathable. The maximum is 10 atm for Sulphur Dioxide and 0.5 atm for other breathable gases.	 过高，无法呼吸。二氧化硫最高为 10 大气压，其他可呼吸气体最高为 0.5 大气压。	界面文本，补译
+ is too high to be breathable. The maximum is 10 atm for Sulphur Dioxide and 0.5 atm for other breathable gases.	 过高，无法呼吸。二氧化硫最高为 10 atm，其他可呼吸气体最高为 0.5 atm。	界面文本，补译
  is too high to be breathable. The maximum is 30%.	 过高，无法呼吸。最高为 30%。	界面文本，补译
  is too junior for this assignment	 资历过低无法担任此职	界面文本，沿用已核对译文
  is too junior to effectively command 	 资历过低无法有效指挥 	界面文本，沿用已核对译文
  is too low for this assignment	 级别过低无法担任此职	界面文本，沿用已核对译文
- is too low to be breathable. The minimum is 0.05 atm.	 过低，无法呼吸。最低为 0.05 大气压。	界面文本，补译
+ is too low to be breathable. The minimum is 0.05 atm.	 过低，无法呼吸。最低为 0.05 atm。	界面文本，补译
  is unable to carry out its standing order (	 无法执行其常备命令(	界面文本，沿用已核对译文
  is unable to carry out its standing orders: 	 无法执行其常备命令： 	界面文本，沿用已核对译文
  is unable to gain access to 	 无法访问 	界面文本，沿用已核对译文
@@ -706,24 +706,24 @@ english	chinese	reason
  km    Tracking Speed 	 km    跟踪速度 	界面文本，沿用已核对译文
  km   Estimated Chance to Hit 	 km   预估命中率 	界面文本，沿用已核对译文
  km   TS 	 km   跟踪速度 	界面文本，补译
- km/s	 千米/秒	界面文本，补译
- km/s    	 千米/秒    	界面文本，补译
+ km/s		不翻译：科学单位
+ km/s    		不翻译：科学单位
  km/s      Damage 	 km/s      伤害 	界面文本，沿用已核对译文
- km/s      ECCM-	 千米/秒      电子反对抗-	界面文本，补译
+ km/s      ECCM-	 km/s      电子反对抗-	界面文本，补译
  km/s     Accuracy Modifier 	 km/s     精度修正 	界面文本，沿用已核对译文
- km/s     AM 	 千米/秒     反物质 	界面文本，补译
- km/s     ECCM-	 千米/秒     电子反对抗-	界面文本，补译
+ km/s     AM 	 km/s     反物质 	界面文本，补译
+ km/s     ECCM-	 km/s     电子反对抗-	界面文本，补译
  km/s     Fuel: 	 km/s     燃料: 	界面文本，沿用已核对译文
  km/s     Power 	 km/s     功率 	界面文本，沿用已核对译文
- km/s     PW 	 千米/秒     功率 	界面文本，补译
+ km/s     PW 	 km/s     功率 	界面文本，补译
  km/s     ROF 	 km/s     射速 	界面文本，沿用已核对译文
- km/s    ECCM-	 千米/秒    电子反对抗-	界面文本，补译
+ km/s    ECCM-	 km/s    电子反对抗-	界面文本，补译
  km/s    Range 	 km/s    射程 	界面文本，沿用已核对译文
  km/s    Size: 	 km/s    体积: 	界面文本，沿用已核对译文
  km/s   25% Chance: 	 km/s   25% 概率: 	界面文本，沿用已核对译文
  km/s   50% Chance: 	 km/s   50% 概率: 	界面文本，沿用已核对译文
- km/s   ECCM-	 千米/秒   电子反对抗-	界面文本，补译
- km/s   Range 	 千米/秒   射程 	界面文本，补译
+ km/s   ECCM-	 km/s   电子反对抗-	界面文本，补译
+ km/s   Range 	 km/s   射程 	界面文本，补译
  lagrange point in 	 拉格朗日点位于 	界面文本，沿用已核对译文
  life pods	 逃生舱	界面文本，沿用已核对译文
  life pods #	 逃生舱 #	界面文本，沿用已核对译文
@@ -774,7 +774,7 @@ english	chinese	reason
  months	 个月	界面文本，沿用已核对译文
  months    	 个月    	界面文本，沿用已核对译文
  morale	 士气	界面文本，沿用已核对译文
- MSP  (	 MSP  (	界面文本，补译
+ MSP  (		不翻译：科学单位
  MSP per hour	 每小时 MSP	界面文本，沿用已核对译文
  MSP.   Fuel Consumption 	 MSP.   燃料消耗 	界面文本，沿用已核对译文
  MSP. This is below the warning level of 	 MSP。低于警告水平 	界面文本，沿用已核对译文
@@ -784,11 +784,11 @@ english	chinese	reason
  of this type remain within the formation	 个该型单位仍在编队内	界面文本，沿用已核对译文
  officers were reassigned due to the rank requirements of the new design	 名军官因新设计的军衔要求而被重新分配	界面文本，沿用已核对译文
  on the basis they have not detected sufficient evidence of a permament presence that would warrant such a claim. They warn that repeated claims without justification will damage relations.	 是基于他们未探测到足以支持该主张的永久存在的充分证据。他们警告称，无正当理由的反复主张将损害双方关系。	界面文本，沿用已核对译文
- order by distance	 按距离排序	界面文本，补译
+ order by distance		不翻译：拼进 SQL 语句
  ORDER BY MoveOrder		不翻译：程序标识、路径、字体、格式或拼接碎片
  Parasites	 寄生舰	界面文本，沿用已核对译文
- per sec)	 每秒)	界面文本，补译
- per second)	 每秒)	界面文本，沿用已核对译文
+ per sec)		不翻译：科学单位
+ per second)		不翻译：科学单位
  percent of its maximum fuel (	 % 的最大燃料(	界面文本，沿用已核对译文
  percent of its specified minimum fuel (	 % 的规定最低燃料(	界面文本，沿用已核对译文
  percent of the embarked ground forces has been destroyed	 % 的搭载地面部队已被摧毁	界面文本，沿用已核对译文
@@ -805,7 +805,7 @@ english	chinese	reason
  Population (m)	 人口 (m)	界面文本，沿用已核对译文
  power)	 功率)	界面文本，沿用已核对译文
  Pressure	 压力	界面文本，沿用已核对译文
- Pressure (atm)	 气压 (大气压)	界面文本，补译
+ Pressure (atm)	 气压 (atm)	界面文本，补译
  Prime	 主星	界面文本，沿用已核对译文
  prisoners are struggling to stay alive.	 名战俘正挣扎求生。	界面文本，沿用已核对译文
  prisoners of the 	 名战俘来自 	界面文本，沿用已核对译文
@@ -857,7 +857,7 @@ english	chinese	reason
  Sector	 星区	界面文本，沿用已核对译文
  Series	 系列	界面文本，沿用已核对译文
  Shield Capacity	 护盾容量	界面文本，沿用已核对译文
- Shields	 护盾	界面文本，沿用已核对译文
+ Shields		不翻译：目录名或按原文长度截取的版式
  Ship Decoy	 舰船诱饵	界面文本，沿用已核对译文
  Ships in Overhaul	 艘舰船大修中	界面文本，沿用已核对译文
  Shipyard	 造船厂	界面文本，沿用已核对译文
@@ -917,44 +917,44 @@ english	chinese	reason
  to stabliise a jump point	 稳定跃迁点	界面文本，沿用已核对译文
  to the atmosphere of 	 至以下天体的大气层 	界面文本，沿用已核对译文
  to transfer fuel	 转移燃料	界面文本，沿用已核对译文
- ton object (or larger) 	 吨物体 (或更大) 	界面文本，沿用已核对译文
- ton object (or larger): 	 吨物体 (或更大)： 	界面文本，沿用已核对译文
- tons	 吨	界面文本，沿用已核对译文
- tons   	 吨   	界面文本，沿用已核对译文
- tons     	 吨     	界面文本，沿用已核对译文
- tons      	 吨      	界面文本，补译
- tons       	 吨       	界面文本，沿用已核对译文
- tons    Distance 	 吨    距离 	界面文本，沿用已核对译文
- tons    ECM-	 吨    ECM-	界面文本，沿用已核对译文
- tons    Jump Radius 	 吨    跃迁半径 	界面文本，沿用已核对译文
- tons   Crew 	 吨   船员 	界面文本，沿用已核对译文
- tons   ID 	 吨   ID 	界面文本，沿用已核对译文
- tons  (	 吨  (	界面文本，沿用已核对译文
- tons of 	 吨的 	界面文本，沿用已核对译文
- tons of minerals	 吨矿物	界面文本，沿用已核对译文
- tons per day	 吨/天	界面文本，沿用已核对译文
- tons per mineral per annum	 吨/矿物/年	界面文本，沿用已核对译文
- tons to 	 吨至 	界面文本，沿用已核对译文
- Tons)	 吨)	界面文本，沿用已核对译文
- tons)	 吨)	界面文本，沿用已核对译文
- tons)   	 吨)   	界面文本，沿用已核对译文
- tons)      Cost 	 吨)      成本 	界面文本，沿用已核对译文
- tons)      Efficiency 	 吨)      效率 	界面文本，沿用已核对译文
- tons)      HTK 	 吨)      HTK 	界面文本，沿用已核对译文
- tons)      Max Squadron Size 	 吨)      最大中队规模 	界面文本，沿用已核对译文
- Tons)     Decoy Signature: 	 吨)     诱饵信号特征： 	界面文本，沿用已核对译文
- tons)     HTK 	 吨)     HTK 	界面文本，沿用已核对译文
- tons)     Laser HTK 	 吨)     激光 HTK 	界面文本，沿用已核对译文
- Tons)     Laser Warhead	 吨)     激光战斗部	界面文本，沿用已核对译文
- Tons)     Laser Warhead: 	 吨)     激光战斗部： 	界面文本，沿用已核对译文
- Tons)     Warhead: 	 吨)     战斗部: 	界面文本，沿用已核对译文
- tons)    Carronade HTK 	 吨)    等离子炮 HTK 	界面文本，沿用已核对译文
- tons)    HTK 	 吨)    HTK 	界面文本，沿用已核对译文
- tons)    Meson Cannon HTK 	 吨)    介子炮 HTK 	界面文本，沿用已核对译文
- tons)    Railgun HTK 	 吨)    磁轨炮 HTK 	界面文本，沿用已核对译文
- tons) in 	 吨) 在 	界面文本，沿用已核对译文
- tons) while in command of 	 吨)在指挥以下单位期间 	界面文本，沿用已核对译文
- tons): 	 吨): 	界面文本，沿用已核对译文
+ ton object (or larger) 	 ton物体 (或更大) 	界面文本，沿用已核对译文
+ ton object (or larger): 	 ton物体 (或更大)： 	界面文本，沿用已核对译文
+ tons		不翻译：科学单位
+ tons   		不翻译：科学单位
+ tons     		不翻译：科学单位
+ tons      		不翻译：科学单位
+ tons       		不翻译：科学单位
+ tons    Distance 	 tons    距离 	界面文本，沿用已核对译文
+ tons    ECM-		不翻译：科学单位
+ tons    Jump Radius 	 tons    跃迁半径 	界面文本，沿用已核对译文
+ tons   Crew 	 tons   船员 	界面文本，沿用已核对译文
+ tons   ID 		不翻译：科学单位
+ tons  (		不翻译：科学单位
+ tons of 	 tons的 	界面文本，沿用已核对译文
+ tons of minerals	 tons矿物	界面文本，沿用已核对译文
+ tons per day	 tons/天	界面文本，沿用已核对译文
+ tons per mineral per annum	 tons/矿物/年	界面文本，沿用已核对译文
+ tons to 	 tons至 	界面文本，沿用已核对译文
+ Tons)		不翻译：科学单位
+ tons)		不翻译：科学单位
+ tons)   		不翻译：科学单位
+ tons)      Cost 	 tons)      成本 	界面文本，沿用已核对译文
+ tons)      Efficiency 	 tons)      效率 	界面文本，沿用已核对译文
+ tons)      HTK 		不翻译：科学单位
+ tons)      Max Squadron Size 	 tons)      最大中队规模 	界面文本，沿用已核对译文
+ Tons)     Decoy Signature: 	 Tons)     诱饵信号特征： 	界面文本，沿用已核对译文
+ tons)     HTK 		不翻译：科学单位
+ tons)     Laser HTK 	 tons)     激光 HTK 	界面文本，沿用已核对译文
+ Tons)     Laser Warhead	 Tons)     激光战斗部	界面文本，沿用已核对译文
+ Tons)     Laser Warhead: 	 Tons)     激光战斗部： 	界面文本，沿用已核对译文
+ Tons)     Warhead: 	 Tons)     战斗部: 	界面文本，沿用已核对译文
+ tons)    Carronade HTK 	 tons)    等离子炮 HTK 	界面文本，沿用已核对译文
+ tons)    HTK 		不翻译：科学单位
+ tons)    Meson Cannon HTK 	 tons)    介子炮 HTK 	界面文本，沿用已核对译文
+ tons)    Railgun HTK 	 tons)    磁轨炮 HTK 	界面文本，沿用已核对译文
+ tons) in 	 tons) 在 	界面文本，沿用已核对译文
+ tons) while in command of 	 tons)在指挥以下单位期间 	界面文本，沿用已核对译文
+ tons): 		不翻译：科学单位
  trained on 	 训练于 	界面文本，沿用已核对译文
  Turret	 炮塔	界面文本，沿用已核对译文
  Type	 类型	界面文本，沿用已核对译文
@@ -1134,14 +1134,14 @@ english	chinese	reason
 1.00 LG	1.00 低重力	界面文本，补译
 1.000 LG	1.000 低重力	界面文本，补译
 100% Chance to Hit: 	100% 命中率： 	界面文本，沿用已核对译文
-1000 km	1000 千米	界面文本，补译
-1000 km/s	1000 千米/秒	界面文本，补译
-1000 tons of capacity added to 	1000 吨容量已加至 	界面文本，沿用已核对译文
-10000 tons of capacity added to 	10000 吨容量已加至 	界面文本，沿用已核对译文
+1000 km		不翻译：科学单位
+1000 km/s		不翻译：科学单位
+1000 tons of capacity added to 	1000 tons容量已加至 	界面文本，沿用已核对译文
+10000 tons of capacity added to 	10000 tons容量已加至 	界面文本，沿用已核对译文
 2 Minutes	2 分钟	界面文本，沿用已核对译文
 20 Minutes	20 分钟	界面文本，沿用已核对译文
 2000 Days	2000 天	界面文本，沿用已核对译文
-2000 tons of capacity added to 	2000 吨容量已加至 	界面文本，沿用已核对译文
+2000 tons of capacity added to 	2000 tons容量已加至 	界面文本，沿用已核对译文
 21st September 2544	2544年9月21日	界面文本，沿用已核对译文
 3 Hours	3 小时	界面文本，沿用已核对译文
 30 Days	30 天	界面文本，沿用已核对译文
@@ -1150,8 +1150,8 @@ english	chinese	reason
 5 Days	5 天	界面文本，沿用已核对译文
 5 Minutes	5 分钟	界面文本，沿用已核对译文
 5 Seconds	5 秒	界面文本，沿用已核对译文
-500 tons of capacity added to 	500 吨容量已加至 	界面文本，沿用已核对译文
-5000 tons of capacity added to 	5000 吨容量已加至 	界面文本，沿用已核对译文
+500 tons of capacity added to 	500 tons容量已加至 	界面文本，沿用已核对译文
+5000 tons of capacity added to 	5000 tons容量已加至 	界面文本，沿用已核对译文
 8 Hours	8 小时	界面文本，沿用已核对译文
 :    Shots 	:    发射 	界面文本，沿用已核对译文
 :  Shots 	:  发射 	界面文本，沿用已核对译文
@@ -1160,7 +1160,7 @@ english	chinese	reason
 : Intra-system Jump to 	：星系内跃迁至 	界面文本，沿用已核对译文
 : MD 	: 导弹 	界面文本，补译
 : Orbit 	: 轨道 	界面文本，沿用已核对译文
-=== PRESSURE DISTRIBUTION (both bands) ===\nToo low (<0.05 atm):\n	=== 气压分布（两个温度带）===\n过低 (<0.05 大气压):\n	界面文本，补译
+=== PRESSURE DISTRIBUTION (both bands) ===\nToo low (<0.05 atm):\n	=== 气压分布（两个温度带）===\n过低 (<0.05 atm):\n	界面文本，补译
 === TEMPBAND 1 (Hot Worlds) ===\n	=== 温度带 1（炎热世界）===\n	界面文本，补译
 === TEMPERATURE FAILURE DISTRIBUTION (both bands) ===\n	=== 温度不合格分布（两个温度带）===\n	界面文本，补译
 ?  Any associated ship components, ground unit designs and missile designs will also be deleted.	？  相关的舰船组件、地面单位设计和导弹设计也将被删除。	界面文本，沿用已核对译文
@@ -1226,7 +1226,7 @@ Active Resolution	主动分辨率	界面文本，沿用已核对译文
 Active Search Sensor AS	主动搜索传感器 AS	界面文本，沿用已核对译文
 Active Sensor	主动传感器	界面文本，沿用已核对译文
 Active Sensor S	主动传感器 S	界面文本，沿用已核对译文
-Active Sensor Signature (tons)	主动传感器信号 (吨)	界面文本，沿用已核对译文
+Active Sensor Signature (tons)	主动传感器信号 (tons)	界面文本，沿用已核对译文
 Active Sensor Size	主动传感器体积	界面文本，沿用已核对译文
 Active Sensor Strength 	主动传感器强度 	界面文本，沿用已核对译文
 Active Sensor Strength per MSP	每 MSP 主动传感器强度	界面文本，沿用已核对译文
@@ -1237,11 +1237,11 @@ Active Terminal Guidance	主动末制导	界面文本，沿用已核对译文
 Active Tonnage	活动吨位	界面文本，沿用已核对译文
 Active: 	启用: 	界面文本，沿用已核对译文
 Actual	实际	界面文本，补译
-Add 10,000 ton Capacity	增加 10,000 吨容量	界面文本，补译
-Add 1000 ton Capacity	增加 1000 吨容量	界面文本，补译
-Add 2000 ton Capacity	增加 2000 吨容量	界面文本，补译
-Add 500 ton Capacity	增加 500 吨容量	界面文本，补译
-Add 5000 ton Capacity	增加 5000 吨容量	界面文本，补译
+Add 10,000 ton Capacity	增加 10,000 ton容量	界面文本，补译
+Add 1000 ton Capacity	增加 1000 ton容量	界面文本，补译
+Add 2000 ton Capacity	增加 2000 ton容量	界面文本，补译
+Add 500 ton Capacity	增加 500 ton容量	界面文本，补译
+Add 5000 ton Capacity	增加 5000 ton容量	界面文本，补译
 Add a ninth major planet to the Sol system. This may be a gas giant, superjovian or terrestrial world and it may have moons.	为 Sol 星系添加第九颗主行星。它可以是气态巨行星、巨型气态行星或类地行星，并且可能拥有卫星。	界面文本，沿用已核对译文
 Add Aestusium for one year	添加一年用量的热素	界面文本，补译
 Add Body	添加天体	界面文本，沿用已核对译文
@@ -1252,11 +1252,11 @@ Add Frigusium for one year	添加一年用量的寒素	界面文本，补译
 Add Gas to Atmosphere	向大气层添加气体	界面文本，沿用已核对译文
 Add Installation	添加设施	界面文本，沿用已核对译文
 Add Jump Point	添加跃迁点	界面文本，沿用已核对译文
-Add Lagrange	添加拉格朗日点	界面文本，沿用已核对译文
+Add Lagrange	添加拉点	界面文本，缩短以适合按钮宽度
 Add Moons	添加卫星	界面文本，沿用已核对译文
 Add Move	添加移动	界面文本，沿用已核对译文
 Add Name Theme	添加命名主题	界面文本，沿用已核对译文
-Add NPR OG	添加 NPR 作战集群	界面文本，沿用已核对译文
+Add NPR OG	添加集群	界面文本，缩短以适合按钮宽度
 Add Parasite Ordnance	添加寄生舰军械	界面文本，沿用已核对译文
 Add Planet	添加行星	界面文本，沿用已核对译文
 Add Planet X	添加行星 X	界面文本，沿用已核对译文
@@ -1304,7 +1304,7 @@ Alien Race Treaties	外星种族条约	界面文本，沿用已核对译文
 All	全部	界面文本，补译
 All Asteroids	全部小行星	界面文本，沿用已核对译文
 All Bodies	全部天体	界面文本，沿用已核对译文
-All Class Text	全部舰级文本	界面文本，沿用已核对译文
+All Class Text	舰级文本	界面文本，缩短以适合按钮宽度
 All Comets	全部彗星	界面文本，沿用已核对译文
 All damaged components of this type are scheduled for repair	此类型的所有受损组件已安排维修	界面文本，沿用已核对译文
 All Fleet Locations	全部舰队位置	界面文本，沿用已核对译文
@@ -1314,9 +1314,9 @@ All jump points are stable, which means that jump ships are unnecessary and all 
 All Moons	全部卫星	界面文本，沿用已核对译文
 All new systems discovered will be parallel universe versions of the Sol system	所有新发现的星系都将是 Sol 星系的平行宇宙版本	界面文本，沿用已核对译文
 All non-NPR AI races created	已创建的全部非玩家种族以外的人工智能种族	界面文本，补译
-All Pop as Text	全部人口文本	界面文本，沿用已核对译文
+All Pop as Text	全部人口	界面文本，缩短以适合按钮宽度
 All Races	全部种族	界面文本，沿用已核对译文
-All Ships Text	全部舰船文本	界面文本，沿用已核对译文
+All Ships Text	舰船文本	界面文本，缩短以适合按钮宽度
 All System Bodies with a colony cost between 2.00 and 2.99	殖民成本在 2.00 至 2.99 之间的全部天体	界面文本，沿用已核对译文
 All System Bodies with a colony cost between 3.00 and 5.00	殖民成本在 3.00 至 5.00 之间的全部天体	界面文本，沿用已核对译文
 All System View	全星系视图	界面文本，补译
@@ -1455,7 +1455,7 @@ Asteroid with Minerals Only	仅含矿物的小行星	界面文本，沿用已核
 Asteroids	小行星	界面文本，沿用已核对译文
 At least one research facility must be selected	必须至少选择一项研究设施	界面文本，沿用已核对译文
 ATG: 	攻击: 	界面文本，补译
-atm	大气压	界面文本，补译
+atm		不翻译：科学单位
 Atmosphere	大气层	界面文本，沿用已核对译文
 Atmosphere Retention	大气保持	界面文本，沿用已核对译文
 Atmospheric Dust   (Temp -	大气尘埃   (温度 -	界面文本，沿用已核对译文
@@ -1471,16 +1471,16 @@ Aur		不翻译：程序标识、路径、字体、格式或拼接碎片
 Aurora	极光	界面文本，补译
 Auto	自动	界面文本，补译
 Auto Assign	自动分配	界面文本，补译
-Auto Assign FC	自动分配火控	界面文本，沿用已核对译文
-Auto Class Name	自动舰级名称	界面文本，沿用已核对译文
-Auto Fleet FC	自动分配舰队火控	界面文本，沿用已核对译文
+Auto Assign FC	分配火控	界面文本，缩短以适合按钮宽度
+Auto Class Name	自动命名	界面文本，缩短以适合按钮宽度
+Auto Fleet FC	舰队火控	界面文本，缩短以适合按钮宽度
 Auto Queue	自动排队	界面文本，沿用已核对译文
 Auto Refit	自动改装	界面文本，补译
 Auto Refit 	自动改装 	界面文本，沿用已核对译文
 Auto Rename	自动重命名	界面文本，沿用已核对译文
-Auto Rename All	全部自动重命名	界面文本，沿用已核对译文
-Auto Target BFC	BFC 自动锁定目标	界面文本，沿用已核对译文
-Auto Target MFC	MFC 自动锁定目标	界面文本，沿用已核对译文
+Auto Rename All	全部重命名	界面文本，缩短以适合按钮宽度
+Auto Target BFC	BFC锁定	界面文本，缩短以适合按钮宽度
+Auto Target MFC	MFC锁定	界面文本，缩短以适合按钮宽度
 Auto-Assign Tech Points	自动分配科技点	界面文本，沿用已核对译文
 Auto-Design Ground Forces	自动设计地面部队	界面文本，沿用已核对译文
 Auto-Design Ship Classes	自动设计舰级	界面文本，沿用已核对译文
@@ -1511,7 +1511,7 @@ Award	授予	界面文本，沿用已核对译文
 Award Medal	授予勋章	界面文本，沿用已核对译文
 Awarded	已授予	界面文本，沿用已核对译文
 Awarded the 	被授予 	界面文本，沿用已核对译文
-b km	十亿千米	界面文本，补译
+b km		不翻译：科学单位
 Back Colour	背景色	界面文本，沿用已核对译文
 Background	背景	界面文本，补译
 Background Colour	背景颜色	界面文本，补译
@@ -1591,7 +1591,7 @@ C    Temperature Range:  	C    温度范围:  	界面文本，沿用已核对译
 C to 	C 至 	界面文本，沿用已核对译文
 C# Aurora	C# 极光	界面文本，补译
 Calibri		不翻译：程序标识、路径、字体、格式或拼接碎片
-Callisto	木卫四	界面文本，补译
+Callisto		不翻译：天体专名，生成星系时按原文比较
 Cancel	取消	界面文本，沿用已核对译文
 Cancel Project	取消项目	界面文本，沿用已核对译文
 Cannot continue installation conversion at 	无法在以下地点继续设施转换 	界面文本，沿用已核对译文
@@ -1681,10 +1681,10 @@ Class Theme	舰级主题	界面文本，沿用已核对译文
 Classes can only be unlocked in Spacemaster Mode	舰级只能在太空管理员模式下解锁	界面文本，沿用已核对译文
 Classification	分类	界面文本，补译
 Classified Active Sensors	机密主动传感器	界面文本，沿用已核对译文
-Clear All Targets	清除所有目标	界面文本，沿用已核对译文
+Clear All Targets	清除目标	界面文本，缩短以适合按钮宽度
 Clear Anchor Fleet	清除锚定舰队	界面文本，沿用已核对译文
 Clear Data	清除数据	界面文本，沿用已核对译文
-Clear Fleet Tgts	清除舰队目标	界面文本，沿用已核对译文
+Clear Fleet Tgts	清除舰队	界面文本，缩短以适合按钮宽度
 Clear Hierarchy	清除层级	界面文本，沿用已核对译文
 Clear Minerals	清除矿物	界面文本，沿用已核对译文
 Clear Queue	清除队列	界面文本，沿用已核对译文
@@ -1702,7 +1702,7 @@ Cloaking Device Size: 	隐蔽装置体积： 	界面文本，沿用已核对译�
 Cloaking Device: Class cross-section reduced to 	隐蔽装置：舰级横截面降至 	界面文本，沿用已核对译文
 Cloaking Device: HS	隐蔽装置：HS	界面文本，沿用已核对译文
 Close	关闭	界面文本，补译
-cm C	厘米 充能	界面文本，补译
+cm C		不翻译：科学单位
 CMC Potential	民用采矿潜力	界面文本，补译
 Cmdr Theme FN	指挥官主题 FN	界面文本，沿用已核对译文
 Cmdr Theme MF	指挥官主题 MF	界面文本，沿用已核对译文
@@ -1743,7 +1743,7 @@ Commander: 	指挥官: 	界面文本，沿用已核对译文
 Commanders	指挥官	界面文本，沿用已核对译文
 Commanding Officer	指挥军官	界面文本，沿用已核对译文
 Commercial 	商用 	界面文本，沿用已核对译文
-Commercial designs require at least one HS (50 tons) of Engineering	商用设计至少需要 1 HS (50 吨) 的工程组件	界面文本，沿用已核对译文
+Commercial designs require at least one HS (50 tons) of Engineering	商用设计至少需要 1 HS (50 tons) 的工程组件	界面文本，沿用已核对译文
 Commercial Engine	商用引擎	界面文本，沿用已核对译文
 Commercial Hulls	商用船体	界面文本，沿用已核对译文
 Commercial Shipyard Capacity	商用造船厂产能	界面文本，沿用已核对译文
@@ -1819,17 +1819,45 @@ Copy System	复制星系	界面文本，补译
 Copy Temp	复制模板	界面文本，沿用已核对译文
 Copy to Class	复制到舰级	界面文本，沿用已核对译文
 Copy to Fleet	复制到舰队	界面文本，沿用已核对译文
-Copy Type All	复制类型 全部	界面文本，补译
-Copy Type Pop	复制类型 人口	界面文本，补译
-Copy Type Sys	复制类型 星系	界面文本，补译
-Corbomite  	钴碳石  	界面文本，沿用已核对译文
+Copy Type All	复制全部	界面文本，缩短以适合按钮宽度
+Copy Type Pop	复制人口	界面文本，缩短以适合按钮宽度
+Copy Type Sys	复制星系	界面文本，缩短以适合按钮宽度
+Corbomite  		不翻译：目录名或按原文长度截取的版式
 Correct Names	修正名称	界面文本，沿用已核对译文
 Corundium  	刚玉  	界面文本，沿用已核对译文
-Cost 	成本 	界面文本，沿用已核对译文
+Cost 		不翻译：目录名或按原文长度截取的版式
 Cost %	成本%	界面文本，沿用已核对译文
 Cost (BP)	成本(BP)	界面文本，沿用已核对译文
 Cost Per Missile: 	每枚导弹成本： 	界面文本，沿用已核对译文
 Count	数量	界面文本，补译
+Create	创建	界面文本，补译
+Create a new administrative command below a selected existing administrative command	在所选行政司令部之下新建下级行政司令部	界面文本，补译
+Create a squadron below the selected ship	在所选舰船之下新建中队	界面文本，补译
+Create a sub-fleet below an existing fleet	在现有舰队之下新建子舰队	界面文本，补译
+Create Admin	创建司令	界面文本，缩短以适合按钮宽度
+Create Class	创建舰级	界面文本，补译
+Create Colony	创建殖民地	界面文本，补译
+Create Component Project	创建组件项目	界面文本，补译
+Create Deep Space Population	创建深空人口	界面文本，补译
+Create Fleet	创建舰队	界面文本，补译
+Create Fleet WP	创建航点	界面文本，缩短以适合按钮宽度
+Create Game	创建游戏	界面文本，补译
+Create Habitable	创建宜居	界面文本，缩短以适合按钮宽度
+Create New Race	创建新种族	界面文本，补译
+Create NPR	创建NPR	界面文本，缩短以适合按钮宽度
+Create Org	创建编制	界面文本，补译
+Create Project	创建项目	界面文本，补译
+Create project using selected tech, scientist and number of research facilities	用所选科技、科学家和研究设施数量创建项目	界面文本，补译
+Create queued project using selected tech and selected current project (the new tech will be researched by the same scientist and number of labs as the current project)	用所选科技和当前项目创建排队项目（新技术将由同一名科学家、同样数量的实验室研究）	界面文本，补译
+Create Race	创建种族	界面文本，补译
+Create Ruin	创建遗迹	界面文本，补译
+Create Series	创建系列	界面文本，补译
+Create Squadron	创建中队	界面文本，补译
+Create Sub Fleet	创建子舰队	界面文本，补译
+Create Swarm	创建蜂群	界面文本，补译
+Create System	创建星系	界面文本，补译
+Create Task	创建任务	界面文本，补译
+Create Template	创建模板	界面文本，补译
 Created on 	创建于 	界面文本，沿用已核对译文
 Created to receive foreign ship	为接收外来舰船而创建	界面文本，沿用已核对译文
 Crew %	船员%	界面文本，沿用已核对译文
@@ -1901,6 +1929,42 @@ Default Interrupts	默认中断	界面文本，补译
 Default Orders	默认命令	界面文本，沿用已核对译文
 Default View	默认视图	界面文本，沿用已核对译文
 Del Jump Point	删除跃迁点	界面文本，沿用已核对译文
+Delete	删除	界面文本，补译
+Delete Activity	删除活动	界面文本，补译
+Delete All	全部删除	界面文本，补译
+Delete all colonies that have no population, no ground forces, no installations, no stockpiles, no abandoned installations and no ground survey potential and is not the destination of any fleet	删除所有没有人口、地面部队、设施、库存、废弃设施和地面勘测潜力，且不是任何舰队目的地的殖民地	界面文本，补译
+Delete Asteroids	删除小行星	界面文本，补译
+Delete Body	删除天体	界面文本，补译
+Delete Class	删除舰级	界面文本，补译
+Delete Condition	删除条件	界面文本，补译
+Delete Demand	删除需求	界面文本，补译
+Delete Element	删除单元	界面文本，补译
+Delete Empty	删除空项	界面文本，补译
+Delete Formation	删除编队	界面文本，补译
+Delete Game	删除	界面文本，缩短以适合按钮宽度
+Delete Hierarchy	删除层级	界面文本，补译
+Delete Install	删除设施	界面文本，补译
+Delete Label	删除标签	界面文本，补译
+Delete Lagrange	删除拉点	界面文本，缩短以适合按钮宽度
+Delete Medal	删除勋章	界面文本，补译
+Delete Node	删除节点	界面文本，补译
+Delete Order	删除命令	界面文本，补译
+Delete Pop	删除人口	界面文本，补译
+Delete Race	删除种族	界面文本，补译
+Delete Rank	删除军衔	界面文本，补译
+Delete Salvo	删除齐射	界面文本，补译
+Delete Series	删除系列	界面文本，补译
+Delete Shipyard	删除船厂	界面文本，补译
+Delete Star	删除恒星	界面文本，补译
+Delete Supply	删除补给	界面文本，补译
+Delete System	删除星系	界面文本，补译
+Delete Task	删除任务	界面文本，补译
+Delete Tech	删除科技	界面文本，补译
+Delete Template	删除模板	界面文本，补译
+Delete the currently selected item (Admin Command, Fleet, Sub-Fleet or Ship) on the treeview	删除树中当前选中的项目（行政司令部、舰队、子舰队或舰船）	界面文本，补译
+Delete the selected race-specific tech from the current race	从当前种族删除所选的种族专属科技	界面文本，补译
+Delete Theme	删除主题	界面文本，补译
+Delete Waypoint	删除航点	界面文本，补译
 Deletion Not Possible	无法删除	界面文本，沿用已核对译文
 Demote	降职	界面文本，沿用已核对译文
 Demoted to 	已降职为 	界面文本，沿用已核对译文
@@ -1929,6 +1993,8 @@ Destination of 	目的地 	界面文本，沿用已核对译文
 Destination of Colonists	殖民者目的地	界面文本，沿用已核对译文
 Destination of mass driver packet cannot be found	找不到质量投射器包的目的地	界面文本，沿用已核对译文
 Destroyed 	已摧毁 	界面文本，沿用已核对译文
+Detach	脱离	界面文本，补译
+Detach Escorts	脱离护航舰	界面文本，补译
 Detailed Fuel Report	燃料详细报告	界面文本，沿用已核对译文
 Detailed intelligence information has been obtained (200 IP) on the 	已获得关于以下目标的详细情报（200 情报点） 	界面文本，沿用已核对译文
 Detect Sig Strength 1000:  	探测信号强度 1000:  	界面文本，沿用已核对译文
@@ -1939,7 +2005,7 @@ Determination (1 - 100)	坚韧性 (1 - 100)	界面文本，沿用已核对译文
 Developed a medical problem affecting long term health	患上影响长期健康的疾病	界面文本，沿用已核对译文
 Developed a serious medical problem affecting long term health	患上影响长期健康的严重疾病	界面文本，沿用已核对译文
 Developed a significant medical problem affecting long term health	患上影响长期健康的重大疾病	界面文本，沿用已核对译文
-Development Cost 	研发成本 	界面文本，沿用已核对译文
+Development Cost 		不翻译：目录名或按原文长度截取的版式
 Development Cost  	研发成本  	界面文本，沿用已核对译文
 Development Cost for Project: 	项目开发成本: 	界面文本，沿用已核对译文
 Diameter (km)	直径 (km)	界面文本，沿用已核对译文
@@ -2023,7 +2089,7 @@ Dynamic LP	动态拉格朗日点	界面文本，补译
 E-DAC %	电子损伤控制 %	界面文本，补译
 Each ship will target a different enemy ship that is within range of its beam weapons (or double range with Range x2 selected). With fewer enemy ships than friendly, some ships will duplicate targets	每艘舰船将瞄准一艘在其光束武器射程内（或选中射程x2时为其两倍射程）的不同敌舰。若敌舰数量少于友舰，部分舰船将重复瞄准同一目标	界面文本，沿用已核对译文
 Each ship will target a different enemy ship that is within range of its missiles (or double range with Range x2 selected). With fewer enemy ships than friendly, some ships will duplicate targets	每艘舰船将瞄准一艘在其导弹射程内（或选中射程x2时为其两倍射程）的不同敌舰。若敌舰数量少于友舰，部分舰船将重复瞄准同一目标	界面文本，沿用已核对译文
-Earth	地球	界面文本，补译
+Earth		不翻译：天体专名，生成星系时按原文比较
 Earth Death Spiral 0.01 AU	Earth 死亡螺旋 0.01 AU	界面文本，沿用已核对译文
 Earth Death Spiral 0.02 AU	Earth 死亡螺旋 0.02 AU	界面文本，沿用已核对译文
 Earth Death Spiral 0.03 AU	Earth 死亡螺旋 0.03 AU	界面文本，沿用已核对译文
@@ -2095,7 +2161,7 @@ Engine Type	引擎类型	界面文本，沿用已核对译文
 Engineering Projects	工程项目	界面文本，补译
 Engines	引擎	界面文本，沿用已核对译文
 Enhanced Invaders	强化入侵者	界面文本，沿用已核对译文
-Enhanced Invaders function in exactly the same way as basic invaders, except that new rifts may be larger, in some cases much larger, than the standard 10m kilometres	增强型入侵者的运作方式与基础入侵者完全相同，只是新的裂隙可能更大，某些情况下远大于标准的1000万公里	界面文本，沿用已核对译文
+Enhanced Invaders function in exactly the same way as basic invaders, except that new rifts may be larger, in some cases much larger, than the standard 10m kilometres	增强型入侵者的运作方式与基础入侵者完全相同，只是新的裂隙可能更大，某些情况下远大于标准的1000万kilometres	界面文本，沿用已核对译文
 Enhanced Precursors	强化先驱者	界面文本，沿用已核对译文
 Enhanced Precursors have existed for millenia in ancient tombs. They will not be visible until they awaken, sending forces on to the surface and launching ships from deep beneath the surface. Not all their forces may emerge at once	增强型先驱者已在远古墓穴中存在数千年。在它们苏醒之前不会显现，届时会向地表派出部队，并从地下深处发射舰船。它们的部队未必会一次性全部出现	界面文本，沿用已核对译文
 Enhanced Radiation	强化辐射	界面文本，沿用已核对译文
@@ -2207,7 +2273,7 @@ Established	已建立	界面文本，沿用已核对译文
 Estimated Hostile Force (Error Range: 	估计敌对兵力 (误差范围: 	界面文本，沿用已核对译文
 Estimated Hostile Force:   	估计敌方兵力:   	界面文本，补译
 Estimated Travel Time	估计航行时间	界面文本，沿用已核对译文
-Europa	木卫二	界面文本，补译
+Europa		不翻译：天体专名，生成星系时按原文比较
 Event	事件	界面文本，沿用已核对译文
 Event Days	事件天数	界面文本，沿用已核对译文
 Event Log	事件日志	界面文本，沿用已核对译文
@@ -2262,7 +2328,7 @@ Fighter Production:  	战斗机生产:  	界面文本，沿用已核对译文
 Fighters	战斗机	界面文本，沿用已核对译文
 Financial Centres	金融中心	界面文本，沿用已核对译文
 Fire at Will	自由开火	界面文本，沿用已核对译文
-Fire at Will FC	自由开火火控	界面文本，沿用已核对译文
+Fire at Will FC	自由开火	界面文本，缩短以适合按钮宽度
 Fire Control 	火控 	界面文本，沿用已核对译文
 Fire Control 4x Size 4x Range	火控 4x 体积 4x 射程	界面文本，沿用已核对译文
 Fire Control 4x Size 4x Tracking Speed	火控 4x 体积 4x 跟踪速度	界面文本，沿用已核对译文
@@ -2281,7 +2347,7 @@ Flag Officer 	将官 	界面文本，沿用已核对译文
 Flag systems that have been idenitified as alien-controlled	标记已确认被外星控制的星系	界面文本，沿用已核对译文
 Flag systems with at least one non-civilian ship present	标记至少有一艘非民用舰船的星系	界面文本，沿用已核对译文
 Flag systems with at least one warship present	标记至少有一艘战舰的星系	界面文本，沿用已核对译文
-Flags	旗帜	界面文本，补译
+Flags		不翻译：目录名或按原文长度截取的版式
 Fleet / Admin	舰队/行政	界面文本，沿用已核对译文
 Fleet cannot receive further orders if already ordered to transit an unexplored jump point	舰队若已接令穿越未勘测跃迁点，便无法再接收新命令	界面文本，沿用已核对译文
 Fleet Capacity	舰队容量	界面文本，沿用已核对译文
@@ -2290,7 +2356,7 @@ Fleet Commander 	舰队指挥官 	界面文本，沿用已核对译文
 Fleet Commander:  	舰队指挥官:  	界面文本，沿用已核对译文
 Fleet Cost 	舰队成本 	界面文本，沿用已核对译文
 Fleet Data	舰队数据	界面文本，沿用已核对译文
-Fleet Fire at Will	舰队自由开火	界面文本，沿用已核对译文
+Fleet Fire at Will	舰队开火	界面文本，缩短以适合按钮宽度
 Fleet Fuel Capacity (not FH)	舰队燃料容量 (不含 FH)	界面文本，沿用已核对译文
 Fleet Heading	舰队航向	界面文本，沿用已核对译文
 Fleet MSP Capacity	舰队 MSP 容量	界面文本，沿用已核对译文
@@ -2350,9 +2416,9 @@ Fuel storage for harvester 	采集船燃料储存 	界面文本，沿用已核�
 Fuel Warning 	燃料警告 	界面文本，沿用已核对译文
 Fuel:  	燃料:  	界面文本，沿用已核对译文
 Full communication established with the 	已建立完整通信 	界面文本，沿用已核对译文
-Full Geo Survey	完整地质勘测	界面文本，沿用已核对译文
+Full Geo Survey	地质勘测	界面文本，缩短以适合按钮宽度
 Full geological survey information for the 	完整地质勘测信息 	界面文本，沿用已核对译文
-Full Grav Survey	完整引力勘测	界面文本，沿用已核对译文
+Full Grav Survey	引力勘测	界面文本，缩短以适合按钮宽度
 Full gravitational survey information for the 	完整引力勘测信息 	界面文本，沿用已核对译文
 Full Height	全高	界面文本，补译
 Full Map Screenshot	完整星图截图	界面文本，沿用已核对译文
@@ -2368,7 +2434,7 @@ Game Information	游戏信息	界面文本，沿用已核对译文
 Game Name	游戏名称	界面文本，沿用已核对译文
 Game Saved at 	游戏保存于 	界面文本，补译
 Game Window	游戏窗口	界面文本，沿用已核对译文
-Ganymede	木卫三	界面文本，补译
+Ganymede		不翻译：天体专名，生成星系时按原文比较
 Gas	气体	界面文本，沿用已核对译文
 Gas Giant Effects	气态巨行星效应	界面文本，沿用已核对译文
 Gas giants and Superjovians with a mass of 50 or more will have an effect on nearby planets. This can cause more eccentrics orbits, capturing as a moon, ejection from the system or replacement by asteroid belt.	质量达到 50 及以上的气态巨行星与巨型气态行星会影响附近行星，可能造成轨道偏心率增大、被捕获为卫星、被逐出星系或被小行星带取代。	界面文本，沿用已核对译文
@@ -2432,7 +2498,7 @@ Ground Survey Locations	地面勘测点	界面文本，沿用已核对译文
 Ground Survey Potential	地面勘测潜力	界面文本，沿用已核对译文
 Ground Theme	地面主题	界面文本，沿用已核对译文
 Ground Tons	地面吨位	界面文本，沿用已核对译文
-Ground Transport Size (tons)	地面运输体积 (吨)	界面文本，沿用已核对译文
+Ground Transport Size (tons)	地面运输体积 (tons)	界面文本，沿用已核对译文
 Ground Unit Class Created. Research the new class on the Research tab of the economics window	地面单位级别已创建。可在经济窗口的研究页签中研究该新级别	界面文本，沿用已核对译文
 Ground Unit Class has been created and automatically researched	地面单位级别已创建并自动完成研究	界面文本，沿用已核对译文
 Ground Unit Classes	地面单位级别	界面文本，沿用已核对译文
@@ -2444,7 +2510,7 @@ Ground Units	地面单位	界面文本，沿用已核对译文
 Group Contacts	编组接触	界面文本，沿用已核对译文
 Group Wrecks by Class	残骸按舰级分组	界面文本，沿用已核对译文
 GU / Stockpiles	地面单位/库存	界面文本，沿用已核对译文
-GU Design	地面单位设计	界面文本，沿用已核对译文
+GU Design	地面设计	界面文本，缩短以适合按钮宽度
 GU Training	地面单位训练	界面文本，沿用已核对译文
 Guard vs Nearest Hostile Contact	警戒最近敌对接触	界面文本，沿用已核对译文
 Guard vs Nearest Hostile Warship	警戒最近敌对战舰	界面文本，沿用已核对译文
@@ -2515,11 +2581,11 @@ Hypergiant	特超巨星	界面文本，沿用已核对译文
 Icon Display	图标显示	界面文本，沿用已核对译文
 Icon_UK		不翻译：程序标识、路径、字体、格式或拼接碎片
 Icon_US		不翻译：程序标识、路径、字体、格式或拼接碎片
-Icons	图标	界面文本，补译
+Icons		不翻译：目录名或按原文长度截取的版式
 ics		不翻译：程序标识、路径、字体、格式或拼接碎片
 Ideal 	理想 	界面文本，补译
 Ideal & Habitable Range Worlds	理想与宜居范围行星	界面文本，沿用已核对译文
-Ideal Breatheable Gas Pressure (atm)	理想可呼吸气体气压 (大气压)	界面文本，补译
+Ideal Breatheable Gas Pressure (atm)	理想可呼吸气体气压 (atm)	界面文本，补译
 Ideal Gravity (G)	理想重力(G)	界面文本，沿用已核对译文
 Ideal Gravity: 	理想重力: 	界面文本，沿用已核对译文
 Ideal Oxygen Level: 	理想氧含量： 	界面文本，沿用已核对译文
@@ -2621,15 +2687,15 @@ Jump Point Stabilisation: 	跃迁点稳定化： 	界面文本，沿用已核对
 Jump Point Survey Status	跃迁点勘测状态	界面文本，沿用已核对译文
 Jump Points	跃迁点	界面文本，沿用已核对译文
 Jump Radius	跃迁半径	界面文本，沿用已核对译文
-Jupiter	木星	界面文本，补译
-k  km	千 千米	界面文本，补译
+Jupiter		不翻译：天体专名，生成星系时按原文比较
+k  km		不翻译：科学单位
 K Commercial Jump Drive	K 型商用跃迁引擎	界面文本，沿用已核对译文
-k km	千千米	界面文本，补译
-k km    	千千米    	界面文本，补译
-k km     Sqn Size 	千千米     中队规模 	界面文本，补译
+k km		不翻译：科学单位
+k km    		不翻译：科学单位
+k km     Sqn Size 	k km     中队规模 	界面文本，补译
 k km     Squadron Size 	k km     中队规模 	界面文本，沿用已核对译文
-k km    RES 	千千米    分辨率 	界面文本，补译
-k km)	千千米)	界面文本，补译
+k km    RES 	k km    分辨率 	界面文本，补译
+k km)		不翻译：科学单位
 Keep Tactical in Background	战术窗口保持后台	界面文本，沿用已核对译文
 Killed due to the destruction of 	因下列目标被摧毁而阵亡 	界面文本，沿用已核对译文
 Killed due to the destruction of their ground unit	因其地面单位被摧毁而阵亡	界面文本，沿用已核对译文
@@ -2638,7 +2704,7 @@ Killed during the destruction of 	在下列目标被摧毁时阵亡 	界面文�
 Killed in an accident	因事故身亡	界面文本，沿用已核对译文
 km      Chance to Hit at Max Range 	km      最大射程命中率 	界面文本，沿用已核对译文
 km      Max Range vs Missile 	km      对导弹最大射程 	界面文本，沿用已核对译文
-km     TS 	千米     跟踪速度 	界面文本，补译
+km     TS 	km     跟踪速度 	界面文本，补译
 Knowledge of a previously unknown system named 	得知一个此前未知的星系，名为 	界面文本，沿用已核对译文
 Known Ancient Constructs	已知远古构造体	界面文本，沿用已核对译文
 Known Class	已知舰级	界面文本，沿用已核对译文
@@ -2716,22 +2782,22 @@ Low Colony Cost Worlds - Normal Gravity Only	低殖民成本行星 - 仅正常�
 Lower Shields	降下护盾	界面文本，沿用已核对译文
 LS: 	生命支持: 	界面文本，补译
 Lurker Mode	潜伏者模式	界面文本，补译
-m    MFR 	米    聚变反应堆 	界面文本，补译
-m   INST 	米   设施 	界面文本，补译
-m  km	百万千米	界面文本，补译
+m    MFR 	m    聚变反应堆 	界面文本，补译
+m   INST 	m   设施 	界面文本，补译
+m  km	m km	界面文本，补译
 m and 	m 和 	界面文本，沿用已核对译文
 m and the destruction of 	m 以及摧毁下列目标 	界面文本，沿用已核对译文
-m km	百万千米	界面文本，补译
-m km    	百万千米    	界面文本，补译
-m km    RES 	百万千米    分辨率 	界面文本，补译
-m km    WH 	百万千米    战斗部 	界面文本，补译
-m km   WH 	百万千米   战斗部 	界面文本，补译
-m km  RES 	百万千米  分辨率 	界面文本，补译
+m km		不翻译：科学单位
+m km    		不翻译：科学单位
+m km    RES 	m km    分辨率 	界面文本，补译
+m km    WH 	m km    战斗部 	界面文本，补译
+m km   WH 	m km   战斗部 	界面文本，补译
+m km  RES 	m km  分辨率 	界面文本，补译
 m km from 	m km 距 	界面文本，沿用已核对译文
 m km vs 100	m km 对 100	界面文本，沿用已核对译文
 m km vs 1000	m km 对 1000	界面文本，沿用已核对译文
 m km vs 10000	m km 对 10000	界面文本，沿用已核对译文
-m km)	百万千米)	界面文本，补译
+m km)		不翻译：科学单位
 m litres	m 升	界面文本，沿用已核对译文
 M-CAP Maintenance Capacity	维护容量	界面文本，补译
 M-CIO Maint Capacity inc. Orbital	含轨道在内的维护容量	界面文本，补译
@@ -2780,13 +2846,13 @@ Manufacturing Sector Breakdown	制造行业明细	界面文本，沿用已核对
 Map Labels	星图标签	界面文本，沿用已核对译文
 Map3DSystemIconColour		不翻译：程序标识、路径、字体、格式或拼接碎片
 MapDisplay/FontFamily: '		不翻译：程序标识、路径、字体、格式或拼接碎片
-Mars	火星	界面文本，补译
+Mars		不翻译：天体专名，生成星系时按原文比较
 Mass Driver	质量投射器	界面文本，沿用已核对译文
 Mass Driver Capacity	质量投射器容量	界面文本，沿用已核对译文
 Mass Driver Destination	质量投射器目的地	界面文本，沿用已核对译文
 Mass Driver Packets	质量投射器投射包	界面文本，沿用已核对译文
 Matching Scientists Only	仅匹配科学家	界面文本，沿用已核对译文
-Materials Required	所需材料	界面文本，沿用已核对译文
+Materials Required		不翻译：目录名或按原文长度截取的版式
 Materials Required: 	所需材料: 	界面文本，沿用已核对译文
 Max	最大	界面文本，沿用已核对译文
 Max %	最大 %	界面文本，沿用已核对译文
@@ -2810,8 +2876,8 @@ Max Strength	最大强度	界面文本，沿用已核对译文
 Max Temp vs Species	最高温度对比物种	界面文本，沿用已核对译文
 Maximum 	最大 	界面文本，补译
 Maximum Armour Penetration	最大装甲穿透	界面文本，沿用已核对译文
-Maximum Atm	最大大气压	界面文本，沿用已核对译文
-Maximum Atmospheric Pressure (atm)	最大大气压 (atm)	界面文本，沿用已核对译文
+Maximum Atm	最大atm	界面文本，沿用已核对译文
+Maximum Atmospheric Pressure (atm)	最大atm (atm)	界面文本，沿用已核对译文
 Maximum Belt Width (m km) (0 = Random)	最大小行星带宽 (m km) (0 = 随机)	界面文本，沿用已核对译文
 Maximum Colony Cost	最大殖民成本	界面文本，沿用已核对译文
 Maximum Decoy Size 	最大诱饵体积 	界面文本，沿用已核对译文
@@ -2844,11 +2910,11 @@ Medal Conditions	勋章条件	界面文本，沿用已核对译文
 Medal Design	勋章设计	界面文本，沿用已核对译文
 Medal Management	勋章管理	界面文本，沿用已核对译文
 Medal Name	勋章名称	界面文本，沿用已核对译文
-Medals	勋章	界面文本，沿用已核对译文
+Medals		不翻译：目录名或按原文长度截取的版式
 Medium Colony Cost Worlds - Include Low Gravity	中等殖民成本星球 - 包含低重力	界面文本，沿用已核对译文
 Medium Colony Cost Worlds - Normal Gravity Only	中等殖民成本星球 - 仅正常重力	界面文本，沿用已核对译文
 Mercassium  	汞石  	界面文本，沿用已核对译文
-Mercury	水星	界面文本，补译
+Mercury		不翻译：天体专名，生成星系时按原文比较
 Meson Cannon Size 	介子炮体积 	界面文本，沿用已核对译文
 Methane	甲烷	界面文本，沿用数据库对照表中的唯一译文
 Militancy (1 - 100)	好战性 (1 - 100)	界面文本，沿用已核对译文
@@ -2865,11 +2931,11 @@ Military Restricted JP	军用限制跃迁点	界面文本，沿用已核对译�
 Military Restricted Sys	军用限制星系	界面文本，沿用已核对译文
 Military Restricted System	军用限制星系	界面文本，沿用已核对译文
 Military Tonnage	军用吨位	界面文本，沿用已核对译文
-Military Tons	军用吨数	界面文本，沿用已核对译文
+Military Tons	军用Tons数	界面文本，沿用已核对译文
 Militia	民兵	界面文本，补译
 Min	最小	界面文本，沿用已核对译文
-Min AMM Range	最小反导射程	界面文本，沿用已核对译文
-Min As Text	最小值显示为文本	界面文本，沿用已核对译文
+Min AMM Range	反导射程	界面文本，缩短以适合按钮宽度
+Min As Text	最小值	界面文本，缩短以适合按钮宽度
 Min Deton. Range	最小起爆距离	界面文本，沿用已核对译文
 Min Fuel 	最小燃料 	界面文本，沿用已核对译文
 Min Jump Points	最小跃迁点数	界面文本，沿用已核对译文
@@ -2952,7 +3018,7 @@ Modification Not Possible	无法修改	界面文本，沿用已核对译文
 Modified Efficiency 	修正效率 	界面文本，沿用已核对译文
 Modify	修改	界面文本，沿用已核对译文
 Modify Body	修改天体	界面文本，沿用已核对译文
-Modify for Use	修改以供使用	界面文本，沿用已核对译文
+Modify for Use	修改使用	界面文本，缩短以适合按钮宽度
 Modify Star	修改恒星	界面文本，沿用已核对译文
 Month	月	界面文本，补译
 Moon 	卫星 	界面文本，沿用已核对译文
@@ -3464,7 +3530,7 @@ Please select one or more ships from the ship list to detach	请从舰船列表�
 Please select the existing project which the queued project will eventually replace	请选择排队项目最终将替代的现有项目	界面文本，沿用已核对译文
 Please select the target of the order	请选择命令的目标	界面文本，沿用已核对译文
 Plotted LP	已标绘拉格朗日点	界面文本，补译
-Pluto	冥王星	界面文本，补译
+Pluto		不翻译：天体专名，生成星系时按原文比较
 png		不翻译：程序标识、路径、字体、格式或拼接碎片
 POI #	兴趣点 #	界面文本，补译
 Point Defence	点防御	界面文本，沿用已核对译文
@@ -3480,7 +3546,7 @@ Political Status	政治地位	界面文本，沿用已核对译文
 Political Status Production Modifier	政治地位产出修正	界面文本，沿用已核对译文
 Political Status Wealth Modifier	政治地位财富修正	界面文本，沿用已核对译文
 Poor	差	界面文本，沿用已核对译文
-Pop as Text	人口文本显示	界面文本，沿用已核对译文
+Pop as Text	人口文本	界面文本，缩短以适合按钮宽度
 Pop: 	人口: 	界面文本，沿用已核对译文
 Populated Systems	已殖民星系	界面文本，沿用已核对译文
 Population (m)	人口 (m)	界面文本，沿用已核对译文
@@ -3587,11 +3653,11 @@ Race-designed Particle Lance	种族设计粒子矛	界面文本，沿用已核�
 Race-designed Plasma Carronade	种族设计等离子炮	界面文本，沿用已核对译文
 Race-designed Power Plant	种族设计动力装置	界面文本，沿用已核对译文
 Race-designed Railgun	种族设计磁轨炮	界面文本，沿用已核对译文
-Race-designed Shield Generator	种族设计护盾发生器	界面文本，沿用已核对译文
+Race-designed Shield Generator		不翻译：目录名或按原文长度截取的版式
 Race-designed Species	种族设计物种	界面文本，沿用已核对译文
 Race-designed Thermal Sensor	种族设计热传感器	界面文本，沿用已核对译文
 Race-designed Turret	种族设计炮塔	界面文本，沿用已核对译文
-Races	种族	界面文本，补译
+Races		不翻译：目录名或按原文长度截取的版式
 Racial AR	种族 AR	界面文本，沿用已核对译文
 Racial Armour Strength	种族装甲强度	界面文本，沿用已核对译文
 Racial Bonus	种族加成	界面文本，沿用已核对译文
@@ -3629,11 +3695,11 @@ Range m	射程 m	界面文本，沿用已核对译文
 Range Modifier	射程修正	界面文本，沿用已核对译文
 Range vs 100	对 100 射程	界面文本，沿用已核对译文
 Range vs 1000	对 1000 射程	界面文本，沿用已核对译文
-Range vs 1000 ton object 	对1000吨目标射程 	界面文本，沿用已核对译文
-Range vs 1000 ton object: 	对1000吨目标射程: 	界面文本，沿用已核对译文
+Range vs 1000 ton object 	对1000ton目标射程 	界面文本，沿用已核对译文
+Range vs 1000 ton object: 	对1000ton目标射程: 	界面文本，沿用已核对译文
 Range vs 10000	对 10000 射程	界面文本，沿用已核对译文
-Range vs 250 ton object 	对250吨目标射程 	界面文本，沿用已核对译文
-Range vs 250 ton object: 	对250吨目标射程: 	界面文本，沿用已核对译文
+Range vs 250 ton object 	对250ton目标射程 	界面文本，沿用已核对译文
+Range vs 250 ton object: 	对250ton目标射程: 	界面文本，沿用已核对译文
 Range vs Size 12 Missile: 	对体积12导弹射程: 	界面文本，沿用已核对译文
 Range vs Size 6 Missile (or smaller): 	对体积6导弹(或更小)射程: 	界面文本，沿用已核对译文
 Range vs Size 8 Missile: 	对体积8导弹射程: 	界面文本，沿用已核对译文
@@ -3651,10 +3717,10 @@ Real-world star systems will be used in Aurora, along with the commonly used nam
 Realistic Commander Promotions	真实指挥官晋升	界面文本，沿用已核对译文
 Reassign All Admin Commands	重新分配所有行政司令部	界面文本，沿用已核对译文
 Reassign All Colony Govenors	重新分配所有殖民地总督	界面文本，沿用已核对译文
-Reassign Naval	重新分配海军	界面文本，沿用已核对译文
+Reassign Naval	重分配	界面文本，缩短以适合按钮宽度
 Recall Escorts	召回护航舰	界面文本，沿用已核对译文
 Recent SP	近期SP	界面文本，沿用已核对译文
-Recharge Rate 	充能速率 	界面文本，沿用已核对译文
+Recharge Rate 		不翻译：目录名或按原文长度截取的版式
 Recharge Time	充能时间	界面文本，沿用已核对译文
 Recovery of 	回收 	界面文本，补译
 Recreational Facilities	娱乐设施	界面文本，沿用已核对译文
@@ -3664,7 +3730,7 @@ Redo Minerals	重算矿物	界面文本，沿用已核对译文
 Refinery Information Here	精炼厂信息在此	界面文本，沿用已核对译文
 Refit	改装	界面文本，补译
 Refit 	改装 	界面文本，沿用已核对译文
-Refit Details	改装详情	界面文本，沿用已核对译文
+Refit Details	改装	界面文本，缩短以适合按钮宽度
 Refit From	改装自	界面文本，沿用已核对译文
 Refit From (Listed Class to Current Class)	改装自（所列舰级到当前舰级）	界面文本，补译
 Refit Overhead Cost	改装额外成本	界面文本，沿用已核对译文
@@ -3702,21 +3768,21 @@ Remove Unused Hull Types	移除未使用的舰体类型	界面文本，补译
 Rename	重命名	界面文本，沿用已核对译文
 Rename All	全部重命名	界面文本，沿用已核对译文
 Rename Body	重命名天体	界面文本，沿用已核对译文
-Rename Body All	重命名全部天体	界面文本，沿用已核对译文
+Rename Body All	重命名天体	界面文本，缩短以适合按钮宽度
 Rename Class	重命名舰级	界面文本，沿用已核对译文
 Rename Comp	重命名组件	界面文本，沿用已核对译文
-Rename Game	重命名游戏	界面文本，沿用已核对译文
+Rename Game	重命名	界面文本，缩短以适合按钮宽度
 Rename Missile	重命名导弹	界面文本，沿用已核对译文
 Rename Pop	重命名人口	界面文本，沿用已核对译文
 Rename Race	重命名种族	界面文本，沿用已核对译文
-Rename Sensor	重命名传感器	界面文本，沿用已核对译文
+Rename Sensor	重命名	界面文本，缩短以适合按钮宽度
 Rename Series	重命名系列	界面文本，沿用已核对译文
 Rename Ship	重命名舰船	界面文本，沿用已核对译文
-Rename SY	重命名造船厂	界面文本，沿用已核对译文
-Rename Sys All	重命名全部星系	界面文本，沿用已核对译文
+Rename SY	重命名厂	界面文本，缩短以适合按钮宽度
+Rename Sys All	重命名星系	界面文本，缩短以适合按钮宽度
 Rename System	重命名星系	界面文本，沿用已核对译文
 Rename Task	重命名任务	界面文本，沿用已核对译文
-Rename Temp	重命名临时项	界面文本，沿用已核对译文
+Rename Temp	重命名	界面文本，缩短以适合按钮宽度
 Rename the currently selected item (Admin Command, Fleet, Sub-Fleet or Ship) on the treeview	重命名树状图中当前选中的项目（行政司令部、舰队、子舰队或舰船）	界面文本，沿用已核对译文
 Rename the formation being constructed by the selected task	重命名所选任务正在建造的编队	界面文本，沿用已核对译文
 Rename the selected formation template	重命名所选编队模板	界面文本，沿用已核对译文
@@ -3735,6 +3801,8 @@ Repair completed at 	维修完成于 	界面文本，沿用已核对译文
 Repair Yard Capacity	维修船坞容量	界面文本，沿用已核对译文
 Repair Yard Capacity: 	维修船坞容量: 	界面文本，沿用已核对译文
 Repeat Orders	重复命令	界面文本，沿用已核对译文
+Replace CO	替换指挥官	界面文本，补译
+Replace Lower	替换较低	界面文本，缩短以适合按钮宽度
 Replacement Template	替换模板	界面文本，沿用已核对译文
 Replacement Template can only be set for formations	只能为编队设置替换模板	界面文本，沿用已核对译文
 Required	必需	界面文本，沿用已核对译文
@@ -3808,7 +3876,7 @@ Salvo ID 	齐射ID 	界面文本，沿用已核对译文
 Salvo Target	齐射目标	界面文本，沿用已核对译文
 Sample text — Aurora Display Settings	示例文本 — 极光显示设置	界面文本，补译
 Save	保存	界面文本，补译
-Save As New	另存为新存档	界面文本，沿用已核对译文
+Save As New	另存为	界面文本，缩短以适合按钮宽度
 Save Current	保存当前	界面文本，沿用已核对译文
 Save Current Game	保存当前游戏	界面文本，沿用已核对译文
 Save current system positions	保存当前星系位置	界面文本，沿用已核对译文
@@ -3832,6 +3900,22 @@ Scrap Ordnance	拆解军械	界面文本，沿用已核对译文
 Screenshot - No UI	截图 - 无界面	界面文本，沿用已核对译文
 Search	搜索	界面文本，沿用已核对译文
 Search Flag	搜索标记	界面文本，沿用已核对译文
+Select	选择	界面文本，补译
+Select a currently unassigned governor for this colony	为该殖民地选择一名尚未分配的总督	界面文本，补译
+Select Default Races	选择默认种族	界面文本，补译
+Select Fleet	选择舰队	界面文本，补译
+Select Hull Num	选择编号	界面文本，缩短以适合按钮宽度
+Select Image	选择图像	界面文本，补译
+Select Increment Length	选择增量	界面文本，缩短以适合按钮宽度
+Select Known System to Generate	选择要生成的已知星系	界面文本，补译
+Select Map	选择地图	界面文本，补译
+Select Name	选择名称	界面文本，补译
+Select on Map	在地图上选择	界面文本，补译
+Select Option	选择选项	界面文本，补译
+Select Race	选择种族	界面文本，补译
+Select Random Name from Class Theme	从舰级主题选择随机名称	界面文本，补译
+Select Ship	选择舰船	界面文本，补译
+Select Sub-Pulse Length (Auto)	选择子脉冲	界面文本，缩短以适合按钮宽度
 Second Stage	第二级	界面文本，沿用已核对译文
 Second Stage Amount	第二级数量	界面文本，补译
 Second Stage Missile	第二级导弹	界面文本，沿用已核对译文
@@ -3854,6 +3938,16 @@ Sector Management	星区管理	界面文本，沿用已核对译文
 Sectors	星区	界面文本，沿用已核对译文
 Security Status	安全状态	界面文本，沿用已核对译文
 Segoe UI		不翻译：程序标识、路径、字体、格式或拼接碎片
+Select System	选择星系	界面文本，补译
+Select System to View Tactical Map	选择要查看战术地图的星系	界面文本，补译
+Select the Event Colours CSV File. Please ensure you have the correct format	选择事件颜色 CSV 文件。请确认格式正确	界面文本，补译
+Select the Female Names file	选择女性名字文件	界面文本，补译
+Select the First Names file	选择名字文件	界面文本，补译
+Select the Male Names file	选择男性名字文件	界面文本，补译
+Select the Medal CSV File. Please ensure you have the correct format	选择勋章 CSV 文件。请确认格式正确	界面文本，补译
+Select the Surnames file	选择姓氏文件	界面文本，补译
+Select Theme	选择主题	界面文本，补译
+Select Weight of Theme	选择主题权重	界面文本，补译
 Selected Class Observed Attributes	所选舰级观测属性	界面文本，沿用已核对译文
 Selected Orbit	选定轨道	界面文本，沿用已核对译文
 Send Message	发送消息	界面文本，沿用已核对译文
@@ -3881,13 +3975,13 @@ Set background colour for the selected event type	设置所选事件类型的背
 Set Bearing Offset	设置方位角偏移	界面文本，沿用已核对译文
 Set Capacity	设置容量	界面文本，沿用已核对译文
 Set Capital	设置首都	界面文本，沿用已核对译文
-Set Class Hull	设置舰级船体	界面文本，沿用已核对译文
+Set Class Hull	设置船体	界面文本，缩短以适合按钮宽度
 Set Distance to Anchor	设置到锚点的距离	界面文本，沿用已核对译文
 Set Field Position ALSO all Subordinate Formations	同时设置所有下属编队的战位	界面文本，沿用已核对译文
 Set Field Position for all Subordinate Nodes	设置所有下属节点的战位	界面文本，沿用已核对译文
 Set Field Position ONLY for Subordinate Formations	仅设置下属编队的战位	界面文本，沿用已核对译文
 Set Field Position ONLY for Subordinate Nodes	仅设置下属节点的战位	界面文本，沿用已核对译文
-Set Fleet WP	设置舰队航点	界面文本，沿用已核对译文
+Set Fleet WP	设置航点	界面文本，缩短以适合按钮宽度
 Set FWP	设置 FWP	界面文本，沿用已核对译文
 Set or Unset the height of this window to the height of the screen	将此窗口高度设为屏幕高度或取消设置	界面文本，沿用已核对译文
 Set Slipways	设置船台	界面文本，沿用已核对译文
@@ -3901,7 +3995,7 @@ Share Gravitational Data	共享引力数据	界面文本，沿用已核对译文
 Share Research Data	共享研究数据	界面文本，沿用已核对译文
 Shared	共享	界面文本，沿用已核对译文
 Shield Generator Size: 	护盾发生器体积: 	界面文本，沿用已核对译文
-Shield Strength 	护盾强度 	界面文本，沿用已核对译文
+Shield Strength 		不翻译：目录名或按原文长度截取的版式
 Ship Class	舰级	界面文本，沿用已核对译文
 Ship Classes - Commercial	舰级 - 商用	界面文本，补译
 Ship Classes - Light Naval	舰级 - 轻型海军	界面文本，补译
@@ -3987,12 +4081,12 @@ Single Turret	单装炮塔	界面文本，沿用已核对译文
 Single Warning	单次警告	界面文本，沿用已核对译文
 Single Weapon Only	仅限单武器	界面文本，沿用已核对译文
 Six Months	六个月	界面文本，沿用已核对译文
-Size 	体积 	界面文本，沿用已核对译文
+Size 		不翻译：目录名或按原文长度截取的版式
 Size %	体积 %	界面文本，沿用已核对译文
 Size (MSP)	体积 (MSP)	界面文本，沿用已核对译文
-Size (tons)	体积 (吨)	界面文本，沿用已核对译文
+Size (tons)	体积 (tons)	界面文本，沿用已核对译文
 Size Difference Cost 	体积差异成本 	界面文本，沿用已核对译文
-Size in Tons	体积(吨)	界面文本，沿用已核对译文
+Size in Tons	体积(Tons)	界面文本，沿用已核对译文
 Slipway added to 	已添加船台至 	界面文本，沿用已核对译文
 Slots	槽位	界面文本，沿用已核对译文
 SM Add Species	SM添加物种	界面文本，沿用已核对译文
@@ -4003,7 +4097,7 @@ SM Hull	SM 船体	界面文本，沿用已核对译文
 SM Image	SM 图像	界面文本，沿用已核对译文
 SM Mode	SM 模式	界面文本，沿用已核对译文
 SM Mode required to move non-empty fleets	移动非空舰队需要SM模式	界面文本，沿用已核对译文
-SM Part Refuel	SM部分补给燃料	界面文本，沿用已核对译文
+SM Part Refuel	SM补给	界面文本，缩短以适合按钮宽度
 SM Race Title	SM种族标题	界面文本，沿用已核对译文
 SM Refuel	SM 补给燃料	界面文本，沿用已核对译文
 SM Repair All	SM全部维修	界面文本，沿用已核对译文
@@ -4021,8 +4115,8 @@ SM: Replace All	SM：全部替换	界面文本，沿用已核对译文
 SM: Set Atm	SM：设置大气	界面文本，沿用已核对译文
 SM: Set Hydro	SM：设置水圈	界面文本，沿用已核对译文
 SMActive		不翻译：程序标识、路径、字体、格式或拼接碎片
-Small Craft Refuelling System can only be used on ships of 1000 tons or less	小型飞行器加油系统只能用于1000吨及以下的舰船	界面文本，沿用已核对译文
-Sol	太阳	界面文本，补译
+Small Craft Refuelling System can only be used on ships of 1000 tons or less	小型飞行器加油系统只能用于1000tons及以下的舰船	界面文本，沿用已核对译文
+Sol		不翻译：天体专名，生成星系时按原文比较
 Sol Cooling 1% Year	Sol冷却 每年1%	界面文本，沿用已核对译文
 Sol Cooling 2% Year	Sol冷却 每年2%	界面文本，沿用已核对译文
 Sol Cooling 3% Year	Sol冷却 每年3%	界面文本，沿用已核对译文
@@ -4064,8 +4158,8 @@ SO₂ concentration under 30%:	二氧化硫浓度低于 30%:	界面文本，补�
 SO₂ not frozen:	二氧化硫未冻结:	界面文本，补译
 SO₂ perihelion temp too high:	二氧化硫近日点温度过高:	界面文本，补译
 SO₂ pressure in range:	二氧化硫气压在范围内:	界面文本，补译
-SO₂ pressure too high (>10 atm):	二氧化硫气压过高 (>10 大气压):	界面文本，补译
-SO₂ pressure too low (<0.05 atm):	二氧化硫气压过低 (<0.05 大气压):	界面文本，补译
+SO₂ pressure too high (>10 atm):	二氧化硫气压过高 (>10 atm):	界面文本，补译
+SO₂ pressure too low (<0.05 atm):	二氧化硫气压过低 (<0.05 atm):	界面文本，补译
 SP + Production	SP + 产出	界面文本，沿用已核对译文
 Space Station	空间站	界面文本，沿用数据库对照表中的唯一译文
 Space Station Tonnage	空间站吨位	界面文本，沿用已核对译文
@@ -4172,7 +4266,7 @@ Swarm Warrior	蜂群战士	界面文本，沿用已核对译文
 SY Mods	船厂改装	界面文本，沿用已核对译文
 SY Tasks	船厂任务	界面文本，沿用已核对译文
 Sync Fire Off	同步开火 关	界面文本，沿用已核对译文
-Sync Fire On	同步射击开启	界面文本，补译
+Sync Fire On	同步射击	界面文本，缩短以适合按钮宽度
 System	星系	界面文本，沿用已核对译文
 System #	星系 #	界面文本，沿用已核对译文
 System Bodies	星系天体	界面文本，补译
@@ -4222,7 +4316,7 @@ Technology View	科技视图	界面文本，沿用已核对译文
 Techsystem Data	科技体系数据	界面文本，沿用已核对译文
 Tectonics	地质构造	界面文本，沿用已核对译文
 Temp	温度	界面文本，沿用已核对译文
-Temp As Text	温度显示为文本	界面文本，沿用已核对译文
+Temp As Text	温度文本	界面文本，缩短以适合按钮宽度
 Temp Waypoint	临时航点	界面文本，沿用已核对译文
 Temperature Dampening	温度阻尼	界面文本，补译
 Temperature Factor	温度系数	界面文本，沿用已核对译文
@@ -4268,7 +4362,7 @@ The basic type of the alien ground unit 	外星地面单位的基本类型 	界�
 The bombardment of 	对以下目标的轰击： 	界面文本，沿用已核对译文
 the Bridge	舰桥	界面文本，沿用已核对译文
 The chance of a new race appearing on a suitable system body in a system discovered by a non-player race. Suitable means no ruins, oxy atm > 0.07  and < 0.4, oxy pressure <= 30% total pressure, temp > -40C and < +60C, Grav > 0.4 and < 2.5, no dangerous gases, hydro extent at least 10%.	在非玩家种族发现的星系中，合适天体上出现新种族的概率。合适指：无遗迹，氧气大气 > 0.07 且 < 0.4，氧气分压 <= 总气压的30%，温度 > -40C 且 < +60C，重力 > 0.4 且 < 2.5，无危险气体，水圈覆盖率至少10%。	界面文本，沿用已核对译文
-The chance of a new race appearing on a suitable system body in a system discovered by a player race. Suitable means no ruins, oxy atm > 0.07  and < 0.4, oxy pressure <= 30% total pressure, temp > -40C and < +60C, Grav > 0.4 and < 2.5, no dangerous gases, hydro extent at least 10%.	在玩家种族已发现的星系中，适宜天体上出现新种族的概率。适宜指：无遗迹，氧气大气压 > 0.07  且 < 0.4，氧气压力 <= 总气压的 30%，温度 > -40C 且 < +60C，重力 > 0.4 且 < 2.5，无危险气体，水圈覆盖率至少 10%。	界面文本，沿用已核对译文
+The chance of a new race appearing on a suitable system body in a system discovered by a player race. Suitable means no ruins, oxy atm > 0.07  and < 0.4, oxy pressure <= 30% total pressure, temp > -40C and < +60C, Grav > 0.4 and < 2.5, no dangerous gases, hydro extent at least 10%.	在玩家种族已发现的星系中，适宜天体上出现新种族的概率。适宜指：无遗迹，氧气atm > 0.07  且 < 0.4，氧气压力 <= 总气压的 30%，温度 > -40C 且 < +60C，重力 > 0.4 且 < 2.5，无危险气体，水圈覆盖率至少 10%。	界面文本，沿用已核对译文
 The chance of a newly discovered system linking to a 'Local System'. A Local System is defined as having a system number close to that of the system from which it was entered. This setting does not apply to Known Stars games	新发现的星系连接至'本地星系'的概率。本地星系指其星系编号与进入该星系时所处的星系编号相近。此设置不适用于 Known Stars 游戏	界面文本，沿用已核对译文
 The chance of an ancient ruin appearing on a suitable system body during system generation. Suitable means surface temperature between -73C and +87C with Gravity greater than 0.4G.	星系生成过程中，适宜天体上出现远古遗迹的概率。适宜指地表温度在 -73C 与 +87C 之间且重力大于 0.4G。	界面文本，沿用已核对译文
 The class cannot be deleted as a Shipyard is tooled to build this class. Details of the class need to be retained to calculate shipyard retooling costs	无法删除该舰级，因为有造船厂已转产用于建造该舰级。需保留该舰级详情以计算造船厂转产成本	界面文本，沿用已核对译文
@@ -4383,12 +4477,12 @@ Three Months	三个月	界面文本，沿用已核对译文
 Tidal Lock	潮汐锁定	界面文本，沿用已核对译文
 Tide-locked	潮汐锁定	界面文本，补译
 Time Until Supernova Impact	距超新星冲击时间	界面文本，沿用已核对译文
-Titan	土卫六	界面文本，补译
+Titan		不翻译：天体专名，生成星系时按原文比较
 Toggle Anchor Destination	切换锚定目的地	界面文本，沿用已核对译文
 Toggle Hostile Contact	切换敌对接触	界面文本，沿用已核对译文
 Toggle Hostile Warship	切换敌对战舰	界面文本，沿用已核对译文
 Toggle Interrupt	切换中断	界面文本，补译
-Too high (>10 atm):\n	过高 (>10 大气压):\n	界面文本，补译
+Too high (>10 atm):\n	过高 (>10 atm):\n	界面文本，补译
 Too many facilities selected. There are only 	选择的设施过多。仅有 	界面文本，沿用已核对译文
 ToolbarButtonStyle/BorderSize: '		不翻译：程序标识、路径、字体、格式或拼接碎片
 ToolbarButtonStyle/FlatStyle: '		不翻译：程序标识、路径、字体、格式或拼接碎片
@@ -4404,7 +4498,7 @@ Total Decon	除污总计	界面文本，沿用已核对译文
 Total Engine Cost	引擎成本合计	界面文本，沿用已核对译文
 Total Expenditure	支出总计	界面文本，沿用已核对译文
 Total FFD	FFD 总计	界面文本，沿用已核对译文
-Total Force Text	部队合计文本	界面文本，沿用已核对译文
+Total Force Text	部队合计	界面文本，缩短以适合按钮宽度
 Total Formations: 	编队总数: 	界面文本，沿用已核对译文
 Total Geo	地质总计	界面文本，沿用已核对译文
 Total Ground Force Cost	地面部队成本合计	界面文本，沿用已核对译文
@@ -4468,14 +4562,14 @@ Transfer Missile	移交导弹	界面文本，沿用已核对译文
 Transfer Population	移交人口	界面文本，沿用已核对译文
 Transit POI #	过境 POI #	界面文本，沿用已核对译文
 Translation (-25 to 25)	语言翻译 (-25 至 25)	界面文本，沿用已核对译文
-Transport Size (tons) 	运输量（吨） 	界面文本，沿用已核对译文
+Transport Size (tons) 	运输量（tons） 	界面文本，沿用已核对译文
 Transport Size: 	运输体积: 	界面文本，沿用已核对译文
 Transported Items	运输物品	界面文本，沿用已核对译文
 Trigger Supernova	触发超新星	界面文本，沿用已核对译文
 Triple	三联	界面文本，沿用已核对译文
 Triple 	三联 	界面文本，沿用已核对译文
 Tritanium  	三钛  	界面文本，沿用已核对译文
-Triton	海卫一	界面文本，补译
+Triton		不翻译：天体专名，生成星系时按原文比较
 Troop Capacity 	部队容量 	界面文本，沿用已核对译文
 Truce Countdown	停战倒计时	界面文本，沿用已核对译文
 Turret	炮塔	界面文本，补译
@@ -4527,8 +4621,14 @@ Unrest is rising on 	以下地点动乱加剧： 	界面文本，沿用已核对
 Unsurveyed Gravsurvey Locations	未勘测的引力勘测点	界面文本，沿用已核对译文
 Unused	未使用	界面文本，补译
 Unused 	未使用 	界面文本，沿用已核对译文
+Up	上移	界面文本，补译
 Up Queue	队列上移	界面文本，沿用已核对译文
 UpArrow		不翻译：程序标识、路径、字体、格式或拼接碎片
+Update Admin	更新司令	界面文本，缩短以适合按钮宽度
+Update Armour	更新装甲	界面文本，补译
+Update Body	更新天体	界面文本，补译
+Update CDE	更新难度	界面文本，缩短以适合按钮宽度
+Update Text	更新文本	界面文本，补译
 Updated 	已更新 	界面文本，沿用已核对译文
 Urgent POI	紧急 POI	界面文本，沿用已核对译文
 Urgent POI #	紧急 POI #	界面文本，沿用已核对译文
@@ -4551,7 +4651,7 @@ Use Theme in Known Stars	在 Known Stars 中使用主题	界面文本，沿用�
 Used to populate all the fields using a previously designed missile	用于以先前设计的导弹填充所有字段	界面文本，沿用已核对译文
 Value must be between 1 and 3999	数值必须在 1 到 3999 之间	界面文本，沿用已核对译文
 Vendarite  	钒石  	界面文本，沿用已核对译文
-Venus	金星	界面文本，补译
+Venus		不翻译：天体专名，生成星系时按原文比较
 Venusian	金星型	界面文本，沿用已核对译文
 Verdana		不翻译：程序标识、路径、字体、格式或拼接碎片
 Version Number	版本号	界面文本，沿用已核对译文

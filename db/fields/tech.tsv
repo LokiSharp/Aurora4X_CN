@@ -1075,15 +1075,15 @@ FCT_TechSystem	Name	Maintenance Production Rate 60 MSP	维护补给生产速率 
 FCT_TechSystem	Name	Maintenance Production Rate 72 MSP	维护补给生产速率 72 MSP	显示文本，沿用已核对译文
 FCT_TechSystem	Name	Maintenance Production Rate 85 MSP	维护补给生产速率 85 MSP	显示文本，沿用已核对译文
 FCT_TechSystem	Name	Maintenance Storage	维护储存	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Maintenance Support per Facility: 1000 Tons	每座设施维护保障：1000 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Maintenance Support per Facility: 1250 Tons	每座设施维护保障：1250 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Maintenance Support per Facility: 1600 Tons	每座设施维护保障：1600 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Maintenance Support per Facility: 2000 Tons	每座设施维护保障：2000 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Maintenance Support per Facility: 2500 Tons	每座设施维护保障：2500 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Maintenance Support per Facility: 3200 Tons	每座设施维护保障：3200 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Maintenance Support per Facility: 4000 Tons	每座设施维护保障：4000 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Maintenance Support per Facility: 5000 Tons	每座设施维护保障：5000 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Maintenance Support per Facility: 6250 Tons	每座设施维护保障：6250 吨	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Maintenance Support per Facility: 1000 Tons	每座设施维护保障：1000 Tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Maintenance Support per Facility: 1250 Tons	每座设施维护保障：1250 Tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Maintenance Support per Facility: 1600 Tons	每座设施维护保障：1600 Tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Maintenance Support per Facility: 2000 Tons	每座设施维护保障：2000 Tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Maintenance Support per Facility: 2500 Tons	每座设施维护保障：2500 Tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Maintenance Support per Facility: 3200 Tons	每座设施维护保障：3200 Tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Maintenance Support per Facility: 4000 Tons	每座设施维护保障：4000 Tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Maintenance Support per Facility: 5000 Tons	每座设施维护保障：5000 Tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Maintenance Support per Facility: 6250 Tons	每座设施维护保障：6250 Tons	显示文本，沿用已核对译文
 FCT_TechSystem	Name	Max Jump Squadron Size - 10 (Cost x 2.25)	最大跃迁编队规模 - 10 (成本 x 2.25)	显示文本，沿用已核对译文
 FCT_TechSystem	Name	Max Jump Squadron Size - 11 (Cost x 2.5)	最大跃迁编队规模 - 11 (成本 x 2.5)	显示文本，沿用已核对译文
 FCT_TechSystem	Name	Max Jump Squadron Size - 12 (Cost x 3)	最大跃迁编队规模 - 12 (成本 x 3)	显示文本，沿用已核对译文
@@ -1195,17 +1195,17 @@ FCT_TechSystem	Name	Minimum Engine Power Modifier x0.25	最小引擎功率修正
 FCT_TechSystem	Name	Minimum Engine Power Modifier x0.3	最小引擎功率修正 x0.3	显示文本，沿用已核对译文
 FCT_TechSystem	Name	Minimum Engine Power Modifier x0.4	最小引擎功率修正 x0.4	显示文本，沿用已核对译文
 FCT_TechSystem	Name	Minimum Engine Power Modifier x0.5	最小引擎功率修正 x0.5	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Mining Production 12 tons	采矿产出 12 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Mining Production 14 tons	采矿产出 14 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Mining Production 16 tons	采矿产出 16 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Mining Production 20 tons	采矿产出 20 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Mining Production 25 tons	采矿产出 25 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Mining Production 30 tons	采矿产出 30 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Mining Production 36 tons	采矿产出 36 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Mining Production 42 tons	采矿产出 42 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Mining Production 50 tons	采矿产出 50 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Mining Production 60 tons	采矿产出 60 吨	显示文本，沿用已核对译文
-FCT_TechSystem	Name	Mining Production 70 tons	采矿产出 70 吨	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Mining Production 12 tons	采矿产出 12 tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Mining Production 14 tons	采矿产出 14 tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Mining Production 16 tons	采矿产出 16 tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Mining Production 20 tons	采矿产出 20 tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Mining Production 25 tons	采矿产出 25 tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Mining Production 30 tons	采矿产出 30 tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Mining Production 36 tons	采矿产出 36 tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Mining Production 42 tons	采矿产出 42 tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Mining Production 50 tons	采矿产出 50 tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Mining Production 60 tons	采矿产出 60 tons	显示文本，沿用已核对译文
+FCT_TechSystem	Name	Mining Production 70 tons	采矿产出 70 tons	显示文本，沿用已核对译文
 FCT_TechSystem	Name	Missile ECM-0	导弹电子对抗 ECM-0	显示文本，沿用已核对译文
 FCT_TechSystem	Name	Missile ECM-1	导弹电子对抗 ECM-1	显示文本，沿用已核对译文
 FCT_TechSystem	Name	Missile ECM-10	导弹电子对抗 ECM-10	显示文本，沿用已核对译文
@@ -1719,8 +1719,8 @@ FCT_TechSystem	TechDescription	Active Jammers reduce the range of hostile active
 FCT_TechSystem	TechDescription	Active sensor strength per hull space of the component. Provides the strength of the output pulse for active sensors, which are used to detect alien ships based on their size. The active pulse can be detected by GPD sensors	该组件每单位船体空间提供的主动传感器强度。决定主动传感器输出脉冲的强度，主动传感器用于根据体积探测外星舰船。主动脉冲可被 GPD 传感器探测到	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Allow detection of Aether Gates	允许探测以太门	显示文本，按已核对术语补译
 FCT_TechSystem	TechDescription	Allow prevention of Aether Gates being formed	允许阻止以太门形成	显示文本，按已核对术语补译
-FCT_TechSystem	TechDescription	Allows a fighter or ship of up to 250 tons to dock within the mothership	允许最多 250 吨的战斗机或舰船停靠于母舰内	显示文本，沿用已核对译文
-FCT_TechSystem	TechDescription	Allows a fighter or ship of up to 50 tons to dock within the mothership	允许最多 50 吨的战斗机或舰船停靠于母舰内	显示文本，沿用已核对译文
+FCT_TechSystem	TechDescription	Allows a fighter or ship of up to 250 tons to dock within the mothership	允许最多 250 tons的战斗机或舰船停靠于母舰内	显示文本，沿用已核对译文
+FCT_TechSystem	TechDescription	Allows a fighter or ship of up to 50 tons to dock within the mothership	允许最多 50 tons的战斗机或舰船停靠于母舰内	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Allows a ship to carry additional maintenance supplies	允许舰船携带额外的维护补给	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Allows a ship to survey for jump points by visiting survey locations. Provides 1 survey point per hour	允许舰船通过访问勘测点来勘测跃迁点。每小时提供 1 个勘测点	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Allows a ship to survey for jump points by visiting survey locations. Provides 2 survey points per hour	允许舰船通过访问勘测点来勘测跃迁点。每小时提供 2 个勘测点	显示文本，沿用已核对译文
@@ -1738,15 +1738,15 @@ FCT_TechSystem	TechDescription	Allows creation of ground unit classes based on t
 FCT_TechSystem	TechDescription	Allows creation of ground unit classes based on the Super-Heavy Vehicle type	允许创建基于超重型载具类型的地面单位级别	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Allows creation of ground unit classes based on the Ultra-Heavy Vehicle type	允许创建基于极重型载具类型的地面单位级别	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Allows creation of ground unit classes based on the Vehicle type	允许创建基于载具类型的地面单位级别	显示文本，沿用已核对译文
-FCT_TechSystem	TechDescription	Allows fighter or ships of up to 1000 tons to dock within the mothership	允许 1000 吨及以下的战斗机或舰船停靠于母舰内部	显示文本，沿用已核对译文
+FCT_TechSystem	TechDescription	Allows fighter or ships of up to 1000 tons to dock within the mothership	允许 1000 tons及以下的战斗机或舰船停靠于母舰内部	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Allows missile launchers on ships	允许舰船安装导弹发射器	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Allows PDC-based missile launchers	允许安装基于 PDC 的导弹发射器	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Allows processing and analysis of signals intelligence	允许处理和分析信号情报	显示文本，沿用已核对译文
-FCT_TechSystem	TechDescription	Allows ship to transport 125,000 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP	允许舰船运输 125,000 货物点。1 吨矿物 = 2.5 CP，基础设施 = 2500 CP，工厂或矿场 = 25,000 CP	显示文本，沿用已核对译文
-FCT_TechSystem	TechDescription	Allows ship to transport 25,000 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP	允许舰船运输 25,000 货物点。1 吨矿物 = 2.5 CP，基础设施 = 2500 CP，工厂或矿场 = 25,000 CP	显示文本，沿用已核对译文
-FCT_TechSystem	TechDescription	Allows ship to transport 50 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP	允许舰船运输 50 货物点。1 吨矿物 = 2.5 CP，基础设施 = 2500 CP，工厂或矿场 = 25,000 CP	显示文本，沿用已核对译文
-FCT_TechSystem	TechDescription	Allows ship to transport 500 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP	允许舰船运输 500 货物点。1 吨矿物 = 2.5 CP，基础设施 = 2500 CP，工厂或矿场 = 25,000 CP	显示文本，沿用已核对译文
-FCT_TechSystem	TechDescription	Allows ship to transport 5000 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP	允许舰船运输 5000 货物点。1 吨矿物 = 2.5 CP，基础设施 = 2500 CP，工厂或矿场 = 25,000 CP	显示文本，沿用已核对译文
+FCT_TechSystem	TechDescription	Allows ship to transport 125,000 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP	允许舰船运输 125,000 货物点。1 ton矿物 = 2.5 CP，基础设施 = 2500 CP，工厂或矿场 = 25,000 CP	显示文本，沿用已核对译文
+FCT_TechSystem	TechDescription	Allows ship to transport 25,000 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP	允许舰船运输 25,000 货物点。1 ton矿物 = 2.5 CP，基础设施 = 2500 CP，工厂或矿场 = 25,000 CP	显示文本，沿用已核对译文
+FCT_TechSystem	TechDescription	Allows ship to transport 50 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP	允许舰船运输 50 货物点。1 ton矿物 = 2.5 CP，基础设施 = 2500 CP，工厂或矿场 = 25,000 CP	显示文本，沿用已核对译文
+FCT_TechSystem	TechDescription	Allows ship to transport 500 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP	允许舰船运输 500 货物点。1 ton矿物 = 2.5 CP，基础设施 = 2500 CP，工厂或矿场 = 25,000 CP	显示文本，沿用已核对译文
+FCT_TechSystem	TechDescription	Allows ship to transport 5000 cargo points. 1 ton of minerals = 2.5 CP, Infrastructure = 2500 CP, Factory or Mine = 25,000 CP	允许舰船运输 5000 货物点。1 ton矿物 = 2.5 CP，基础设施 = 2500 CP，工厂或矿场 = 25,000 CP	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Allows the construction of Sector Commands	允许建造星区司令部	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 10cm Focal Size (or calibre).	允许创建聚焦尺寸（或口径）为 10cm 的高级激光。	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Allows the creation of advanced lasers with a 12cm Focal Size (or calibre).	允许创建聚焦尺寸（或口径）为 12cm 的高级激光。	显示文本，沿用已核对译文
@@ -2043,7 +2043,7 @@ FCT_TechSystem	TechDescription	The damage caused by particle beams throughout th
 FCT_TechSystem	TechDescription	The electronic warfare strength of missile decoys	导弹诱饵的电子战强度	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	The level of shield technology. Higher level shields provide more protection for the same size shield generator. Shields regenerate over time	护盾科技的等级。更高等级的护盾可在相同体积的护盾发生器下提供更多保护。护盾会随时间再生	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	The maximum calibre of Plasma Carronades	等离子炮的最大口径	显示文本，沿用已核对译文
-FCT_TechSystem	TechDescription	The maximum distance in thousands of kilometres at which a ship equipped with a jump engine with this technology will emerge from a jump point	装备采用该技术的跃迁引擎的舰船从跃迁点出现时的最大距离，以千公里计	显示文本，沿用已核对译文
+FCT_TechSystem	TechDescription	The maximum distance in thousands of kilometres at which a ship equipped with a jump engine with this technology will emerge from a jump point	装备采用该技术的跃迁引擎的舰船从跃迁点出现时的最大距离，以千kilometres计	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	The maximum range of particle beams	粒子束的最大射程	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	The maximum size of missile a launcher with this technology can fire	采用该技术的发射器可发射的导弹最大体积	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	The maximum target speed that a beam fire control ship component can engage without a penalty to accuracy. Components may be increased in size to increase their speed rating	光束火控舰船组件在不受精度惩罚的情况下可交战的最大目标速度。组件可增大体积以提高其速度评级	显示文本，沿用已核对译文
@@ -2072,7 +2072,7 @@ FCT_TechSystem	TechDescription	Used by ships and bases to load and unload cargo.
 FCT_TechSystem	TechDescription	Used by ships and bases to load and unload cargo. Reduces Load Time by 2 per Bay	用于舰船和基地装卸货物。每个舱使装载时间减少 2	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Used by ships and bases to load and unload cargo. Reduces Load Time by 3 per Bay	用于舰船和基地装卸货物。每个舱使装载时间减少 3	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Used by ships and bases to load and unload cargo. Reduces Load Time by 5 per Bay	用于舰船和基地装卸货物。每个舱使装载时间减少 5	显示文本，沿用已核对译文
-FCT_TechSystem	TechDescription	Used by ships of 1000 tons or less to refuel other ship of 1000 tons or less	用于 1000 吨及以下的舰船为其他 1000 吨及以下的舰船补给燃料	显示文本，沿用已核对译文
+FCT_TechSystem	TechDescription	Used by ships of 1000 tons or less to refuel other ship of 1000 tons or less	用于 1000 tons及以下的舰船为其他 1000 tons及以下的舰船补给燃料	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Used to refuel another ship	用于为另一艘舰船补给燃料	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Used to transfer ordnance to another ship	用于向另一艘舰船转运军械	显示文本，沿用已核对译文
 FCT_TechSystem	TechDescription	Very Light TN armour suitable for vehicles 	适用于载具的超轻型超牛顿装甲 	显示文本，沿用已核对译文
