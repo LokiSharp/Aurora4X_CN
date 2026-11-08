@@ -45,6 +45,9 @@ namespace AuroraCn
                     }
                 }
             }
+            int attributeSites = PatchAttributeStrings(mod, tables);
+            int enumSites = PatchEnumNames(mod, tables);
+            int switchSites = PatchStringSwitches(mod);
             int wrapSites = PatchUnbreakableLines(mod);
             int suffixSites = PatchKnownSuffixes(mod);
             int sliceSites = PatchStringCuts(mod);
@@ -52,7 +55,441 @@ namespace AuroraCn
             var options = new ModuleWriterOptions(mod);
             options.Logger = DummyLogger.ThrowModuleWriterExceptionOnErrorInstance;
             mod.Write(outputPath, options);
-            Console.WriteLine("exe replaced=" + replaced + " keptPathOrIcon=" + kept + " wrapSites=" + wrapSites + " suffixSites=" + suffixSites + " sliceSites=" + sliceSites + " mineralSites=" + mineralSites);
+            Console.WriteLine("exe replaced=" + replaced + " keptPathOrIcon=" + kept + " attributeSites=" + attributeSites + " enumSites=" + enumSites + " switchSites=" + switchSites + " wrapSites=" + wrapSites + " suffixSites=" + suffixSites + " sliceSites=" + sliceSites + " mineralSites=" + mineralSites);
+        }
+
+        private static int PatchStringSwitches(ModuleDefMD mod)
+        {
+            int count = 0;
+            foreach (TypeDef type in mod.GetTypes())
+            {
+                foreach (MethodDef method in type.Methods)
+                {
+                    if (!method.HasBody)
+                        continue;
+                    while (RewriteOneStringSwitch(method))
+                        count++;
+                }
+            }
+            return count;
+        }
+
+        private static bool RewriteOneStringSwitch(MethodDef method)
+        {
+            var list = method.Body.Instructions;
+            for (int lengthCall = 1; lengthCall < list.Count; lengthCall++)
+            {
+                string rendered = list[lengthCall].Operand == null ? "" : list[lengthCall].Operand.ToString();
+                if (rendered.IndexOf("String::get_Length", StringComparison.Ordinal) < 0)
+                    continue;
+                if (!HasLengthBranch(list, lengthCall) || !HasAsciiCharTest(list, lengthCall))
+                    continue;
+                if (RewriteAt(method, lengthCall))
+                    return true;
+            }
+            return false;
+        }
+
+        private static bool RewriteAt(MethodDef method, int lengthCall)
+        {
+            var list = method.Body.Instructions;
+            Instruction sample = list[lengthCall - 1];
+            if (!IsCopyableLoad(sample))
+                return false;
+            if (lengthCall < 3 || !IsBrfalse(list[lengthCall - 2]) || !SameLoad(list[lengthCall - 3], sample))
+                return false;
+            Instruction fail = list[lengthCall - 2].Operand as Instruction;
+            int start = lengthCall - 2;
+            if (fail == null)
+                return false;
+            var cases = new List<KeyValuePair<string, Instruction>>();
+            int end = list.Count;
+            for (int i = start; i < list.Count - 2 && i < end; i++)
+            {
+                if (list[i].OpCode.Code != Code.Ldstr || !(list[i].Operand is string))
+                    continue;
+                if (list[i + 1].Operand == null || list[i + 1].Operand.ToString().IndexOf("op_Equality", StringComparison.Ordinal) < 0)
+                    continue;
+                if (list[i + 2].OpCode.Code != Code.Brtrue && list[i + 2].OpCode.Code != Code.Brtrue_S)
+                    continue;
+                var target = list[i + 2].Operand as Instruction;
+                if (target == null)
+                    continue;
+                int targetAt = list.IndexOf(target);
+                if (targetAt <= i)
+                    continue;
+                if (targetAt < end)
+                    end = targetAt;
+                if (i < end)
+                    cases.Add(new KeyValuePair<string, Instruction>((string)list[i].Operand, target));
+            }
+            if (cases.Count == 0 || end <= start)
+                return false;
+            if (LengthsStillMatch(list, lengthCall, end, cases))
+                return false;
+            object equality = null;
+            for (int i = start; i < end; i++)
+            {
+                if (list[i].Operand != null && list[i].Operand.ToString().IndexOf("op_Equality", StringComparison.Ordinal) >= 0)
+                    equality = list[i].Operand;
+            }
+            if (!(equality is IMethod))
+                return false;
+            var rewritten = new List<Instruction>();
+            rewritten.Add(Instruction.Create(OpCodes.Brfalse, fail));
+            foreach (var item in cases)
+            {
+                rewritten.Add(CopyLoad(sample));
+                rewritten.Add(Instruction.Create(OpCodes.Ldstr, item.Key));
+                rewritten.Add(Instruction.Create(OpCodes.Call, (IMethod)equality));
+                rewritten.Add(Instruction.Create(OpCodes.Brtrue, item.Value));
+            }
+            rewritten.Add(Instruction.Create(OpCodes.Br, fail));
+            for (int i = end - 1; i >= start; i--)
+                list.RemoveAt(i);
+            for (int i = 0; i < rewritten.Count; i++)
+                list.Insert(start + i, rewritten[i]);
+            method.Body.SimplifyBranches();
+            method.Body.OptimizeBranches();
+            Console.WriteLine("switch " + method.DeclaringType.Name + "::" + method.Name);
+            return true;
+        }
+
+        private static bool LengthsStillMatch(IList<Instruction> list, int lengthCall, int end, List<KeyValuePair<string, Instruction>> cases)
+        {
+            if (lengthCall + 1 >= list.Count)
+                return true;
+            int lengthLocal = LocalIndex(list[lengthCall + 1]);
+            if (lengthLocal < 0)
+                return true;
+            var accepted = new HashSet<int>();
+            int limit = Math.Min(end, lengthCall + 45);
+            for (int i = lengthCall + 1; i < limit - 2; i++)
+            {
+                if (LocalIndex(list[i]) != lengthLocal)
+                    continue;
+                int constant = LoadConstant(list[i + 1]);
+                if (constant == int.MinValue)
+                    continue;
+                var code = list[i + 2].OpCode.Code;
+                if (code == Code.Beq || code == Code.Beq_S)
+                    accepted.Add(constant);
+                if (code == Code.Sub && i + 3 < list.Count && list[i + 3].OpCode.Code == Code.Switch)
+                {
+                    var targets = list[i + 3].Operand as Instruction[];
+                    if (targets == null)
+                        continue;
+                    for (int n = 0; n < targets.Length; n++)
+                        accepted.Add(constant + n);
+                }
+            }
+            if (accepted.Count == 0)
+                return true;
+            foreach (var item in cases)
+            {
+                if (!accepted.Contains(item.Key.Length))
+                    return false;
+            }
+            return true;
+        }
+
+        private static int LocalIndex(Instruction ins)
+        {
+            switch (ins.OpCode.Code)
+            {
+                case Code.Ldloc_0:
+                case Code.Stloc_0:
+                    return 0;
+                case Code.Ldloc_1:
+                case Code.Stloc_1:
+                    return 1;
+                case Code.Ldloc_2:
+                case Code.Stloc_2:
+                    return 2;
+                case Code.Ldloc_3:
+                case Code.Stloc_3:
+                    return 3;
+                case Code.Ldloc:
+                case Code.Ldloc_S:
+                case Code.Stloc:
+                case Code.Stloc_S:
+                    return ((Local)ins.Operand).Index;
+                default:
+                    return -1;
+            }
+        }
+
+        private static bool HasLengthBranch(IList<Instruction> list, int index)
+        {
+            int end = Math.Min(list.Count, index + 10);
+            for (int i = index; i < end; i++)
+            {
+                var code = list[i].OpCode.Code;
+                if (code == Code.Beq || code == Code.Beq_S || code == Code.Switch)
+                    return true;
+            }
+            return false;
+        }
+
+        private static bool HasAsciiCharTest(IList<Instruction> list, int index)
+        {
+            int end = Math.Min(list.Count, index + 80);
+            for (int i = index; i < end; i++)
+            {
+                string rendered = list[i].Operand == null ? "" : list[i].Operand.ToString();
+                if (rendered.IndexOf("String::get_Chars", StringComparison.Ordinal) < 0)
+                    continue;
+                for (int k = i + 1; k < Math.Min(list.Count, i + 6); k++)
+                {
+                    int value = LoadConstant(list[k]);
+                    if (value >= 32 && value < 128)
+                        return true;
+                }
+            }
+            return false;
+        }
+
+        private static int LoadConstant(Instruction ins)
+        {
+            switch (ins.OpCode.Code)
+            {
+                case Code.Ldc_I4_0: return 0;
+                case Code.Ldc_I4_1: return 1;
+                case Code.Ldc_I4_2: return 2;
+                case Code.Ldc_I4_3: return 3;
+                case Code.Ldc_I4_4: return 4;
+                case Code.Ldc_I4_5: return 5;
+                case Code.Ldc_I4_6: return 6;
+                case Code.Ldc_I4_7: return 7;
+                case Code.Ldc_I4_8: return 8;
+                case Code.Ldc_I4_S:
+                case Code.Ldc_I4:
+                    return Convert.ToInt32(ins.Operand);
+                default:
+                    return int.MinValue;
+            }
+        }
+
+        private static bool IsBrfalse(Instruction ins)
+        {
+            return ins.OpCode.Code == Code.Brfalse || ins.OpCode.Code == Code.Brfalse_S;
+        }
+
+        private static bool IsCopyableLoad(Instruction ins)
+        {
+            switch (ins.OpCode.Code)
+            {
+                case Code.Ldarg_0:
+                case Code.Ldarg_1:
+                case Code.Ldarg_2:
+                case Code.Ldarg_3:
+                case Code.Ldarg:
+                case Code.Ldarg_S:
+                case Code.Ldloc_0:
+                case Code.Ldloc_1:
+                case Code.Ldloc_2:
+                case Code.Ldloc_3:
+                case Code.Ldloc:
+                case Code.Ldloc_S:
+                    return true;
+                default:
+                    return false;
+            }
+        }
+
+        private static bool SameLoad(Instruction left, Instruction right)
+        {
+            if (left.OpCode.Code != right.OpCode.Code)
+                return false;
+            if (left.Operand == null || right.Operand == null)
+                return left.Operand == null && right.Operand == null;
+            return left.Operand.Equals(right.Operand);
+        }
+
+        private static Instruction CopyLoad(Instruction sample)
+        {
+            if (sample.Operand == null)
+                return Instruction.Create(sample.OpCode);
+            if (sample.Operand is Local local)
+                return Instruction.Create(sample.OpCode, local);
+            return Instruction.Create(sample.OpCode, (Parameter)sample.Operand);
+        }
+
+        private static int PatchEnumNames(ModuleDefMD mod, TranslationTables tables)
+        {
+            MethodDef translator = AddEnumTranslator(mod, tables);
+            int count = 0;
+            foreach (TypeDef type in mod.GetTypes())
+            {
+                if (type.Name != "lg")
+                    continue;
+                foreach (MethodDef method in type.Methods)
+                {
+                    if (!method.HasBody || method.Name != "a" || method.MethodSig == null || method.MethodSig.Params.Count != 1)
+                        continue;
+                    if (method.MethodSig.RetType.FullName != "System.String" || method.MethodSig.Params[0].FullName != "System.Enum")
+                        continue;
+                    var list = method.Body.Instructions;
+                    for (int i = 0; i < list.Count; i++)
+                    {
+                        if (list[i].OpCode.Code != Code.Ret)
+                            continue;
+                        list.Insert(i, Instruction.Create(OpCodes.Call, translator));
+                        count++;
+                        i++;
+                    }
+                }
+            }
+            return count;
+        }
+
+        private static MethodDef AddEnumTranslator(ModuleDefMD mod, TranslationTables tables)
+        {
+            var type = TextUtil(mod);
+            var dictSig = mod.Import(typeof(Dictionary<string, string>)).ToTypeSig();
+            var field = new FieldDefUser("enumMap", new FieldSig(dictSig), FieldAttributes.Private | FieldAttributes.Static);
+            type.Fields.Add(field);
+            var ctor = mod.Import(typeof(Dictionary<string, string>).GetConstructor(Type.EmptyTypes));
+            var add = mod.Import(typeof(Dictionary<string, string>).GetMethod("Add", new[] { typeof(string), typeof(string) }));
+            var tryGet = mod.Import(typeof(Dictionary<string, string>).GetMethod("TryGetValue"));
+            var cctor = new MethodDefUser(".cctor", MethodSig.CreateStatic(mod.CorLibTypes.Void), MethodAttributes.Private | MethodAttributes.Static | MethodAttributes.SpecialName | MethodAttributes.RTSpecialName | MethodAttributes.HideBySig);
+            cctor.Body = new CilBody();
+            var init = cctor.Body.Instructions;
+            init.Add(Instruction.Create(OpCodes.Newobj, ctor));
+            init.Add(Instruction.Create(OpCodes.Stsfld, field));
+            var seen = new HashSet<string>();
+            AddEnumPairs(init, field, add, tables.Display, seen);
+            AddEnumPairs(init, field, add, tables.Ui, seen);
+            init.Add(Instruction.Create(OpCodes.Ret));
+            type.Methods.Add(cctor);
+            var method = new MethodDefUser("EnumName", MethodSig.CreateStatic(mod.CorLibTypes.String, mod.CorLibTypes.String), MethodAttributes.Public | MethodAttributes.Static | MethodAttributes.HideBySig);
+            method.Body = new CilBody { InitLocals = true };
+            var local = new Local(mod.CorLibTypes.String);
+            method.Body.Variables.Add(local);
+            var keep = Instruction.Create(OpCodes.Ldarg_0);
+            var il = method.Body.Instructions;
+            var present = Instruction.Create(OpCodes.Ldsfld, field);
+            il.Add(Instruction.Create(OpCodes.Ldarg_0));
+            il.Add(Instruction.Create(OpCodes.Brtrue, present));
+            il.Add(Instruction.Create(OpCodes.Ldnull));
+            il.Add(Instruction.Create(OpCodes.Ret));
+            il.Add(present);
+            il.Add(Instruction.Create(OpCodes.Ldarg_0));
+            il.Add(Instruction.Create(OpCodes.Ldloca, local));
+            il.Add(Instruction.Create(OpCodes.Callvirt, tryGet));
+            il.Add(Instruction.Create(OpCodes.Brfalse, keep));
+            il.Add(Instruction.Create(OpCodes.Ldloc, local));
+            il.Add(Instruction.Create(OpCodes.Ret));
+            il.Add(keep);
+            il.Add(Instruction.Create(OpCodes.Ret));
+            type.Methods.Add(method);
+            return method;
+        }
+
+        private static void AddEnumPairs(IList<Instruction> il, FieldDef field, IMethod add, Dictionary<string, string> pairs, HashSet<string> seen)
+        {
+            foreach (var pair in pairs)
+            {
+                if (pair.Key.Length == 0 || seen.Contains(pair.Key) || IsFolderName(pair.Key))
+                    continue;
+                seen.Add(pair.Key);
+                il.Add(Instruction.Create(OpCodes.Ldsfld, field));
+                il.Add(Instruction.Create(OpCodes.Ldstr, pair.Key));
+                il.Add(Instruction.Create(OpCodes.Ldstr, pair.Value));
+                il.Add(Instruction.Create(OpCodes.Callvirt, add));
+            }
+        }
+
+        private static int PatchAttributeStrings(ModuleDefMD mod, TranslationTables tables)
+        {
+            int count = 0;
+            foreach (TypeDef type in mod.GetTypes())
+            {
+                count += PatchAttributes(type.CustomAttributes, tables);
+                foreach (FieldDef field in type.Fields)
+                {
+                    count += PatchAttributes(field.CustomAttributes, tables);
+                    count += PatchConstant(field.Constant, tables);
+                }
+                foreach (MethodDef method in type.Methods)
+                {
+                    count += PatchAttributes(method.CustomAttributes, tables);
+                    foreach (ParamDef param in method.ParamDefs)
+                    {
+                        count += PatchAttributes(param.CustomAttributes, tables);
+                        count += PatchConstant(param.Constant, tables);
+                    }
+                }
+                foreach (PropertyDef property in type.Properties)
+                    count += PatchAttributes(property.CustomAttributes, tables);
+                foreach (EventDef evt in type.Events)
+                    count += PatchAttributes(evt.CustomAttributes, tables);
+            }
+            return count;
+        }
+
+        private static int PatchAttributes(CustomAttributeCollection attributes, TranslationTables tables)
+        {
+            if (attributes == null)
+                return 0;
+            int count = 0;
+            foreach (CustomAttribute attribute in attributes)
+            {
+                for (int i = 0; i < attribute.ConstructorArguments.Count; i++)
+                {
+                    CAArgument argument = attribute.ConstructorArguments[i];
+                    if (!TryTranslate(argument, tables, out CAArgument updated))
+                        continue;
+                    attribute.ConstructorArguments[i] = updated;
+                    count++;
+                }
+                for (int i = 0; i < attribute.NamedArguments.Count; i++)
+                {
+                    CANamedArgument named = attribute.NamedArguments[i];
+                    if (!TryTranslate(named.Argument, tables, out CAArgument updated))
+                        continue;
+                    named.Argument = updated;
+                    attribute.NamedArguments[i] = named;
+                    count++;
+                }
+            }
+            return count;
+        }
+
+        private static int PatchConstant(Constant constant, TranslationTables tables)
+        {
+            if (constant == null || constant.Value == null)
+                return 0;
+            string text = constant.Value as string;
+            if (text == null && constant.Value is UTF8String)
+                text = ((UTF8String)constant.Value).String;
+            if (text == null || IsFolderName(text))
+                return 0;
+            if (!TryMap(text, tables, out string chinese))
+                return 0;
+            constant.Value = chinese;
+            return 1;
+        }
+
+        private static bool TryTranslate(CAArgument argument, TranslationTables tables, out CAArgument updated)
+        {
+            updated = argument;
+            string text = argument.Value as string;
+            if (text == null && argument.Value is UTF8String)
+                text = ((UTF8String)argument.Value).String;
+            if (text == null || argument.Type == null || argument.Type.FullName != "System.String" || IsFolderName(text))
+                return false;
+            if (!TryMap(text, tables, out string chinese))
+                return false;
+            updated = new CAArgument(argument.Type, new UTF8String(chinese));
+            return true;
+        }
+
+        private static bool TryMap(string text, TranslationTables tables, out string chinese)
+        {
+            if (tables.Display.TryGetValue(text, out chinese))
+                return true;
+            return tables.Ui.TryGetValue(text, out chinese);
         }
 
         private static int PatchUnbreakableLines(ModuleDefMD mod)

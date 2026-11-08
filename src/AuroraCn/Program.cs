@@ -7,8 +7,19 @@ namespace AuroraCn
     {
         private static int Main(string[] args)
         {
-            bool checkOnly = args.Length > 0 && args[0] == "--check";
-            string gameDir = !checkOnly && args.Length > 0 ? Path.GetFullPath(args[0]) : FindGameDirectory();
+            bool checkOnly = false;
+            bool exeOnly = false;
+            string gameArg = null;
+            foreach (string arg in args)
+            {
+                if (arg == "--check")
+                    checkOnly = true;
+                else if (arg == "--exe-only")
+                    exeOnly = true;
+                else if (gameArg == null)
+                    gameArg = arg;
+            }
+            string gameDir = gameArg != null ? Path.GetFullPath(gameArg) : FindGameDirectory();
             if (gameDir == null || !File.Exists(Path.Combine(gameDir, "Aurora.exe")))
             {
                 Console.Error.WriteLine("Aurora.exe was not found. Pass the game directory as the first argument.");
@@ -22,7 +33,7 @@ namespace AuroraCn
             }
             string originalExe = Path.Combine(gameDir, "Aurora.exe");
             string exeOut = Path.Combine(gameDir, "AuroraCN.exe");
-            if (args.Length > 0 && args[0] == "--check")
+            if (checkOnly)
             {
                 if (!File.Exists(exeOut))
                 {
@@ -32,14 +43,20 @@ namespace AuroraCn
                 return Finish(originalExe, exeOut);
             }
             var tables = TranslationTables.Load(locDir);
-            ExePatcher.Write(originalExe, exeOut, tables);
+            string exeTemp = exeOut + ".tmp";
+            ExePatcher.Write(originalExe, exeTemp, tables);
+            File.Copy(exeTemp, exeOut, true);
+            File.Delete(exeTemp);
             string config = Path.Combine(gameDir, "Aurora.exe.config");
             if (File.Exists(config))
                 File.Copy(config, Path.Combine(gameDir, "AuroraCN.exe.config"), true);
-            string dbOut = Path.Combine(gameDir, "AuroraCN.db");
-            DatabasePatcher.Write(Path.Combine(gameDir, "AuroraDB.db"), dbOut, tables);
             Console.WriteLine("wrote " + exeOut);
-            Console.WriteLine("wrote " + dbOut);
+            if (!exeOnly)
+            {
+                string dbOut = Path.Combine(gameDir, "AuroraCN.db");
+                DatabasePatcher.Write(Path.Combine(gameDir, "AuroraDB.db"), dbOut, tables);
+                Console.WriteLine("wrote " + dbOut);
+            }
             return Finish(originalExe, exeOut);
         }
 
